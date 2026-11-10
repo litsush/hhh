@@ -1,0 +1,9 @@
+// Cloudflare Workers settings: serve the finished website folder as static files.
+// "name" must match the Worker's name in the Cloudflare dashboard.
+{
+  "name": "hhh",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./project/hankins-screw-aisle/web"
+  }
+}
