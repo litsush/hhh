@@ -13,7 +13,7 @@ button.chip{cursor:pointer;font:inherit;font-size:14px;color:var(--ink)}
 #info{position:fixed;z-index:2;left:12px;bottom:12px;max-width:min(420px,calc(100% - 24px));background:rgba(243,241,234,.96);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:none}
 #info h2{margin:0 0 2px;font-size:17px}#info p{margin:0 0 8px;color:var(--mute);font-size:13px}
 #info a{display:inline-block;background:#14389a;color:#fff;text-decoration:none;padding:7px 12px;border-radius:6px;font-size:14px}
-#load{position:fixed;inset:0;display:grid;place-items:center;color:#ddd;font-size:15px;pointer-events:none}
+#load{position:fixed;right:12px;bottom:12px;z-index:2;background:rgba(243,241,234,.94);border:1px solid var(--line);border-radius:8px;padding:7px 11px;font-size:14px;pointer-events:none}
 /* drawer pop-up floats over the dimmed 3D view */
 section.open{background:rgba(16,18,24,.6)}section.open .inner{background:var(--paper);margin:20px auto;border-radius:12px}
 @media (max-width:600px){section.open .inner{margin:0;border-radius:0;min-height:100%}}
@@ -22,7 +22,7 @@ section.open{background:rgba(16,18,24,.6)}section.open .inner{background:var(--p
 <script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.169.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.169.0/examples/jsm/","@mkkellogg/gaussian-splats-3d":"https://cdn.jsdelivr.net/npm/@mkkellogg/gaussian-splats-3d@0.4.7/build/gaussian-splats-3d.module.js"}}</script>
 </head><body>
 <canvas id="c"></canvas>
-<div id="load">Loading the 3D scan (about 23 MB)…</div>
+<div id="load">Loading the 3D scan…</div>
 <div class="bar"><span class="chip"><a href="index.html">← Flat wall view</a></span>
 <button class="chip" id="tog">Hide drawer photos</button><button class="chip" id="home">Reset view</button>
 <span class="chip">Drag to look around, scroll or pinch to zoom, tap a drawer.</span></div>
@@ -47,10 +47,10 @@ const controls=new OrbitControls(camera,canvas);controls.enableDamping=true;cont
 function home(){const hf=2*Math.atan(Math.tan(camera.fov*Math.PI/360)*camera.aspect);camera.position.copy(center).addScaledVector(n,span*1.08/Math.tan(hf/2));controls.target.copy(center);controls.update()}
 const viewer=new GS.DropInViewer({sharedMemoryForWorkers:false,gpuAcceleratedSort:false});
 scene.add(viewer);
-viewer.addSplatScene('aisle.splat',{format:GS.SceneFormat.Splat,showLoadingUI:false,progressiveLoad:false})
+viewer.addSplatScene('aisle.splat',{format:GS.SceneFormat.Splat,showLoadingUI:false,progressiveLoad:true,onProgress:(p)=>{const e=document.getElementById('load');if(e&&p>=0)e.textContent='Loading the 3D scan… '+Math.round(p)+'%'}})
   .then(()=>{document.getElementById('load').remove()}).catch(e=>{document.getElementById('load').textContent='Could not load the scan: '+e});
 // drawer photos as quads
-const group=new THREE.Group();scene.add(group);const loader=new THREE.TextureLoader();const off=n.clone().multiplyScalar(0.006);
+const group=new THREE.Group();scene.add(group);const loader=new THREE.TextureLoader();const off=n.clone().multiplyScalar(0.01);const aniso=renderer.capabilities.getMaxAnisotropy();
 for(const s of L.slots){
   const [tl,tr,br,bl]=s.q.map(a=>V(a).add(off));
   const parts=s.d.length?s.d:[null];
@@ -58,9 +58,9 @@ for(const s of L.slots){
     const p=[lerp(tl,tr,f0),lerp(tl,tr,f1),lerp(bl,br,f1),lerp(bl,br,f0)];
     const g=new THREE.BufferGeometry();g.setAttribute('position',new THREE.Float32BufferAttribute(p.flatMap(v=>[v.x,v.y,v.z]),3));
     g.setAttribute('uv',new THREE.Float32BufferAttribute([f0,1,f1,1,f1,0,f0,0],2));g.setIndex([0,2,1,0,3,2]);
-    const m=new THREE.MeshBasicMaterial({side:THREE.DoubleSide,transparent:true,opacity:s.f?1:0.0});
-    if(s.f){const t=loader.load(s.f);t.colorSpace=THREE.SRGBColorSpace;m.map=t}
-    const mesh=new THREE.Mesh(g,m);mesh.userData={d,s};group.add(mesh)})}
+    const m=new THREE.MeshBasicMaterial({side:THREE.DoubleSide,transparent:false,depthWrite:true,visible:!!s.f});
+    if(s.f){const t=loader.load(s.f);t.colorSpace=THREE.SRGBColorSpace;t.anisotropy=aniso;m.map=t}
+    const mesh=new THREE.Mesh(g,m);mesh.renderOrder=-1;mesh.userData={d,s};group.add(mesh)})}
 document.getElementById('tog').onclick=e=>{group.visible=!group.visible;e.target.textContent=group.visible?'Hide drawer photos':'Show drawer photos'};
 document.getElementById('home').onclick=home;
 const ray=new THREE.Raycaster(),ptr=new THREE.Vector2();let down;
