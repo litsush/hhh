@@ -1,0 +1,389 @@
+{
+  "id": "c29bins",
+  "kind": "bins",
+  "column": 29,
+  "row": 6,
+  "half": null,
+  "title": "Bins under column 29",
+  "description": "Hollow-wall (molly) anchors on the left and toggle bolts on the right, smallest sizes at the top.",
+  "front_image": null,
+  "tray_image": "images/bins/c29.jpg",
+  "tray_image_px": [
+    500,
+    1500
+  ],
+  "photo": "IMG_7572.jpg",
+  "compartments": [
+    {
+      "item_index": 0,
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 0.504,
+      "y1": 0.1067
+    },
+    {
+      "item_index": 1,
+      "x0": 0.504,
+      "y0": 0.0,
+      "x1": 0.744,
+      "y1": 0.1067
+    },
+    {
+      "item_index": 2,
+      "x0": 0.744,
+      "y0": 0.0,
+      "x1": 1.0,
+      "y1": 0.1067
+    },
+    {
+      "item_index": 3,
+      "x0": 0.0,
+      "y0": 0.1067,
+      "x1": 0.504,
+      "y1": 0.22
+    },
+    {
+      "item_index": 4,
+      "x0": 0.504,
+      "y0": 0.1067,
+      "x1": 1.0,
+      "y1": 0.22
+    },
+    {
+      "item_index": 5,
+      "x0": 0.0,
+      "y0": 0.22,
+      "x1": 0.508,
+      "y1": 0.3333
+    },
+    {
+      "item_index": 6,
+      "x0": 0.508,
+      "y0": 0.22,
+      "x1": 1.0,
+      "y1": 0.3333
+    },
+    {
+      "item_index": 7,
+      "x0": 0.0,
+      "y0": 0.3567,
+      "x1": 0.512,
+      "y1": 0.47
+    },
+    {
+      "item_index": 8,
+      "x0": 0.512,
+      "y0": 0.3567,
+      "x1": 1.0,
+      "y1": 0.47
+    },
+    {
+      "item_index": 9,
+      "x0": 0.0,
+      "y0": 0.47,
+      "x1": 0.516,
+      "y1": 0.58
+    },
+    {
+      "item_index": 10,
+      "x0": 0.516,
+      "y0": 0.47,
+      "x1": 1.0,
+      "y1": 0.58
+    },
+    {
+      "item_index": 11,
+      "x0": 0.0,
+      "y0": 0.58,
+      "x1": 0.52,
+      "y1": 0.6833
+    },
+    {
+      "item_index": 12,
+      "x0": 0.52,
+      "y0": 0.58,
+      "x1": 1.0,
+      "y1": 0.6833
+    },
+    {
+      "item_index": 13,
+      "x0": 0.0,
+      "y0": 0.6967,
+      "x1": 0.524,
+      "y1": 0.8033
+    },
+    {
+      "item_index": 14,
+      "x0": 0.524,
+      "y0": 0.6967,
+      "x1": 1.0,
+      "y1": 0.8033
+    },
+    {
+      "item_index": 15,
+      "x0": 0.0,
+      "y0": 0.8033,
+      "x1": 0.528,
+      "y1": 0.908
+    },
+    {
+      "item_index": 16,
+      "x0": 0.528,
+      "y0": 0.8033,
+      "x1": 1.0,
+      "y1": 0.908
+    },
+    {
+      "item_index": 17,
+      "x0": 0.0,
+      "y0": 0.908,
+      "x1": 0.532,
+      "y1": 1.0
+    },
+    {
+      "item_index": 18,
+      "x0": 0.532,
+      "y0": 0.908,
+      "x1": 1.0,
+      "y1": 1.0
+    }
+  ],
+  "items": [
+    {
+      "sku": "04255",
+      "slot_letter": null,
+      "name": "1/8 X-Short hollow wall anchor, drill 5/16",
+      "label_short": "1/8 X-Short",
+      "price_cents": 65,
+      "box_price_cents": 3799,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04255"
+    },
+    {
+      "sku": "04085",
+      "slot_letter": null,
+      "name": "1/8 x 2 toggle bolt, drill 3/8",
+      "label_short": "1/8 x 2",
+      "price_cents": 66,
+      "box_price_cents": 1999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04085",
+      "note": "shares one bin with 04086 (two labels on one bin front)"
+    },
+    {
+      "sku": "04086",
+      "slot_letter": null,
+      "name": "1/8 x 3 toggle bolt, drill 3/8",
+      "label_short": "1/8 x 3",
+      "price_cents": 69,
+      "box_price_cents": 2099,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04086",
+      "note": "shares one bin with 04085 (two labels on one bin front)"
+    },
+    {
+      "sku": "04256",
+      "slot_letter": null,
+      "name": "1/8 Short hollow wall anchor, drill 5/16",
+      "label_short": "1/8 Short",
+      "price_cents": 69,
+      "box_price_cents": 3899,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04256"
+    },
+    {
+      "sku": "04087",
+      "slot_letter": null,
+      "name": "1/8 x 4 toggle bolt, drill 3/8",
+      "label_short": "1/8 x 4",
+      "price_cents": 79,
+      "box_price_cents": 2399,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04087"
+    },
+    {
+      "sku": "04257",
+      "slot_letter": null,
+      "name": "1/8 Long hollow wall anchor, drill 5/16",
+      "label_short": "1/8 Long",
+      "price_cents": 75,
+      "box_price_cents": 4199,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04257"
+    },
+    {
+      "sku": "04088",
+      "slot_letter": null,
+      "name": "3/16 x 2 toggle bolt, drill 1/2",
+      "label_short": "3/16 x 2",
+      "price_cents": 79,
+      "box_price_cents": 2399,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04088"
+    },
+    {
+      "sku": "04258",
+      "slot_letter": null,
+      "name": "1/8 X-Long hollow wall anchor, drill 5/16",
+      "label_short": "1/8 X-Long",
+      "price_cents": 95,
+      "box_price_cents": 5299,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04258"
+    },
+    {
+      "sku": "04089",
+      "slot_letter": null,
+      "name": "3/16 x 3 toggle bolt, drill 1/2",
+      "label_short": "3/16 x 3",
+      "price_cents": 95,
+      "box_price_cents": 2699,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04089"
+    },
+    {
+      "sku": "04259",
+      "slot_letter": null,
+      "name": "3/16 Short hollow wall anchor, drill 3/8",
+      "label_short": "3/16 Short",
+      "price_cents": 119,
+      "box_price_cents": 3799,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04259"
+    },
+    {
+      "sku": "04090",
+      "slot_letter": null,
+      "name": "3/16 x 4 toggle bolt, drill 1/2",
+      "label_short": "3/16 x 4",
+      "price_cents": 95,
+      "box_price_cents": 2899,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04090"
+    },
+    {
+      "sku": "04260",
+      "slot_letter": null,
+      "name": "3/16 Long hollow wall anchor, drill 3/8",
+      "label_short": "3/16 Long",
+      "price_cents": 139,
+      "box_price_cents": 4499,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04260"
+    },
+    {
+      "sku": "04091",
+      "slot_letter": null,
+      "name": "3/16 x 5 toggle bolt, drill 1/2",
+      "label_short": "3/16 x 5",
+      "price_cents": 105,
+      "box_price_cents": 3199,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04091"
+    },
+    {
+      "sku": "04261",
+      "slot_letter": null,
+      "name": "3/16 X-Long hollow wall anchor, drill 3/8",
+      "label_short": "3/16 X-Long",
+      "price_cents": 169,
+      "box_price_cents": 5699,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04261",
+      "note": "each-price cents blurry on the low, angled label; best reading (1.69)"
+    },
+    {
+      "sku": "04092",
+      "slot_letter": null,
+      "name": "3/16 x 6 toggle bolt, drill 1/2",
+      "label_short": "3/16 x 6",
+      "price_cents": 109,
+      "box_price_cents": 3399,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04092",
+      "note": "each-price cents blurry on the low, angled label; best reading (1.09)"
+    },
+    {
+      "sku": "04262",
+      "slot_letter": null,
+      "name": "1/4 Short hollow wall anchor, drill 1/2",
+      "label_short": "1/4 Short",
+      "price_cents": 155,
+      "box_price_cents": 5099,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04262",
+      "note": "each-price cents blurry on the low, angled label; best reading (1.55, could be 1.53)"
+    },
+    {
+      "sku": "04093",
+      "slot_letter": null,
+      "name": "1/4-20 x 3 toggle bolt, drill 5/8",
+      "label_short": "1/4-20 x 3",
+      "price_cents": 103,
+      "box_price_cents": 2999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04093",
+      "note": "each-price cents blurry on the low, angled label; best reading (1.03, could be 1.05)"
+    },
+    {
+      "sku": "04263",
+      "slot_letter": null,
+      "name": "1/4 Long hollow wall anchor, drill 1/2",
+      "label_short": "1/4 Long",
+      "price_cents": 169,
+      "box_price_cents": 5799,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04263",
+      "note": "each-price cents blurry on the low, angled label; best reading (1.69)"
+    },
+    {
+      "sku": "04264",
+      "slot_letter": null,
+      "name": "1/4 X-Long hollow wall anchor, drill 7/16",
+      "label_short": "1/4 X-Long",
+      "price_cents": 209,
+      "box_price_cents": 7499,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 04264",
+      "note": "each-price cents blurry on the low, angled label; best reading (2.09)"
+    }
+  ]
+}

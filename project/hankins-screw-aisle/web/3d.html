@@ -24,8 +24,8 @@ section.open{background:rgba(16,18,24,.6)}section.open .inner{background:var(--p
 <canvas id="c"></canvas>
 <div id="load">Loading the 3D scan…</div>
 <div class="bar"><span class="chip"><a href="index.html">← Flat wall view</a></span>
-<button class="chip" id="tog">Hide drawer photos</button><button class="chip" id="home">Reset view</button>
-<span class="chip">Drag to look around, scroll or pinch to zoom, tap a drawer.</span></div>
+<button class="chip" id="tog">Hide photos</button><button class="chip" id="home">Reset view</button>
+<span class="chip">Drag to look around, scroll or pinch to zoom, tap a drawer or bin shelf.</span></div>
 <div id="info"><h2 id="it"></h2><p id="is"></p></div>
 <script src="drawer.js"></script>
 <script type="module">
@@ -61,7 +61,15 @@ for(const s of L.slots){
     const m=new THREE.MeshBasicMaterial({side:THREE.DoubleSide,transparent:false,depthWrite:true,visible:!!s.f});
     if(s.f){const t=loader.load(s.f);t.colorSpace=THREE.SRGBColorSpace;t.anisotropy=aniso;m.map=t}
     const mesh=new THREE.Mesh(g,m);mesh.renderOrder=-1;mesh.userData={d,s};group.add(mesh)})}
-document.getElementById('tog').onclick=e=>{group.visible=!group.visible;e.target.textContent=group.visible?'Hide drawer photos':'Show drawer photos'};
+// red bin shelving under the drawers: one photo per unit
+for(const b of (L.bins||[])){if(!b.f)continue;
+  const p=b.q.map(a=>V(a).add(off));const g=new THREE.BufferGeometry();
+  g.setAttribute('position',new THREE.Float32BufferAttribute(p.flatMap(v=>[v.x,v.y,v.z]),3));
+  g.setAttribute('uv',new THREE.Float32BufferAttribute([0,1,1,1,1,0,0,0],2));g.setIndex([0,2,1,0,3,2]);
+  const t=loader.load(b.f);t.colorSpace=THREE.SRGBColorSpace;t.anisotropy=aniso;
+  const mesh=new THREE.Mesh(g,new THREE.MeshBasicMaterial({map:t,side:THREE.DoubleSide}));mesh.renderOrder=-1;
+  mesh.userData={d:b.d[0],s:{c:b.c,r:'bins'}};group.add(mesh)}
+document.getElementById('tog').onclick=e=>{group.visible=!group.visible;e.target.textContent=group.visible?'Hide photos':'Show photos'};
 document.getElementById('home').onclick=home;
 const ray=new THREE.Raycaster(),ptr=new THREE.Vector2();let down;
 canvas.addEventListener('pointerdown',e=>down=[e.clientX,e.clientY]);
@@ -71,7 +79,7 @@ canvas.addEventListener('pointerup',e=>{if(!down||Math.hypot(e.clientX-down[0],e
   if(!h)return;
   const {d,s}=h.object.userData;
   if(d&&byId[d.id]){paused=true;DrawerView.open(byId[d.id],canvas,()=>{paused=false});return}
-  box.style.display='block';document.getElementById('it').textContent='Column '+s.c+', row '+s.r;
+  box.style.display='block';document.getElementById('it').textContent='Column '+s.c+(s.r==='bins'?', bins':', row '+s.r);
   document.getElementById('is').textContent='Inside not photographed yet.'});
 function size(){renderer.setSize(innerWidth,innerHeight,false);camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix()}
 addEventListener('resize',size);size();home();

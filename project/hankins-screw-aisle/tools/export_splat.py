@@ -7,15 +7,21 @@ MAX = int(sys.argv[1]) if len(sys.argv) > 1 else 520000
 p, a = splat.load('scan/aisle_left_merged.ply')
 F = json.load(open('scan/frames.json'))['King']; R = np.array(F['R']); c = np.array(F['c'])
 L = json.load(open('scan/wall_layout.json'))
-q = np.array([pt for s in L['slots'] for pt in s['corners_world']]); wq = (q - c) @ R.T
+q = np.array([pt for s in L['slots'] for pt in s['corners_world']] + [pt for b in L.get('bin_slots', []) for pt in b['corners_world']]); wq = (q - c) @ R.T
+wd = (np.array([pt for s in L['slots'] for pt in s['corners_world']]) - c) @ R.T
 w = (a[:, :3] - c) @ R.T
 lo = wq.min(0) - [0.4, 1.2, 0.35]; hi = wq.max(0) + [0.4, 1.2, 1.2]
 keep = np.all((w > lo) & (w < hi), 1)
 # drop splats floating just in front of the drawer fronts: the drawer photos (drawn at +0.01) replace them
-blo = wq.min(0); bhi = wq.max(0)
+blo = wd.min(0); bhi = wd.max(0)
 infront = (w[:, 0] > blo[0]) & (w[:, 0] < bhi[0]) & (w[:, 1] > blo[1] - 0.01) & (w[:, 1] < bhi[1] + 0.01) & (w[:, 2] > bhi[2] + 0.004) & (w[:, 2] < bhi[2] + 0.12)
 print('removed in front of drawers:', int((keep & infront).sum()))
 keep &= ~infront
+if L.get('bin_slots'):  # same for the red bin shelving (photos drawn at the bin-lip depth)
+    bq = (np.array([pt for b in L['bin_slots'] for pt in b['corners_world']]) - c) @ R.T
+    blo2, bhi2 = bq.min(0), bq.max(0)
+    inb = (w[:, 0] > blo2[0]) & (w[:, 0] < bhi2[0]) & (w[:, 1] > blo2[1]) & (w[:, 1] < bhi2[1]) & (w[:, 2] > bhi2[2] + 0.004) & (w[:, 2] < bhi2[2] + 0.15)
+    print('removed in front of bins:', int((keep & inb).sum())); keep &= ~inb
 al = splat.alpha(p, a); keep &= al > 0.05
 a = a[keep]; al = al[keep]
 si = p.index('scale_0'); sc = np.exp(a[:, si:si + 3])

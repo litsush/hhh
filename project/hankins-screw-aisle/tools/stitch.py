@@ -24,7 +24,12 @@ POSTS = [-48, 50, 152, 250, 347, 446, 548, 645, 745, 845, 943, 1044, 1145, 1243,
          1739, 1842, 1938, 2039, 2138, 2236, 2337, 2436, 2528, 2631, 2734, 2835, 2936]
 TOP = ((0, 283), (3000, 279))      # (ortho x, ortho y) top edge of row 1, linearly interpolated
 BOTTOM = ((0, 384), (3000, 370))   # bottom edge of row 5
-CUT_PX = 2190                      # use King left of this ortho x, King2 right of it
+CUT_PX = 2190
+# Red bin shelving under the drawers: one unit per column (cols 31-32 continue past the drawer wall,
+# under the red open cubbies). Read by eye from scan/mosaic.jpg like POSTS.
+BIN_POSTS = POSTS + [3036, 3138]
+BIN_TOP, BIN_BOTTOM = 392, 692     # ortho y of the unit tops (under the diamond-plate shelf) and bottoms
+BIN_DEPTH = 0.07                   # bin label lips stick out ~0.07 scan units in front of the drawer faces                      # use King left of this ortho x, King2 right of it
 
 
 def lerp(p, x):
@@ -127,8 +132,14 @@ def layout(R1, c1, z):
             out.append(dict(column=col, row=row, drawer_ids=[d['id'] for d in ds],
                             front_image=ds[0]['front_image'] if ds else None,
                             corners_world=[c[0] for c in q], corners_ortho_px=[c[1] for c in q]))
+    bins = []
+    for col in range(1, len(BIN_POSTS)):
+        xl, xr = BIN_POSTS[col - 1], BIN_POSTS[col]
+        pts = [(xl, BIN_TOP), (xr, BIN_TOP), (xr, BIN_BOTTOM), (xl, BIN_BOTTOM)]
+        cw = [(R1.T @ np.r_[px_to_wall(x, y), z + BIN_DEPTH] + c1).round(4).tolist() for x, y in pts]
+        bins.append(dict(column=col, bin_id=f'c{col:02d}bins', corners_world=cw, corners_ortho_px=pts))
     n = R1[2]
-    json.dump(dict(note='Drawer-front quads in the merged splat coordinates (same as King.ply). Corner order: '
+    json.dump(dict(bin_slots=bins, note='Drawer-front quads in the merged splat coordinates (same as King.ply). Corner order: '
                         'top-left, top-right, bottom-right, bottom-left as seen facing the wall. '
                         'Scale is the scan\'s own units (not metres).',
                    wall_normal_world=n.round(5).tolist(), wall_up_world=R1[1].round(5).tolist(),

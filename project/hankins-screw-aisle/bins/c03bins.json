@@ -1,0 +1,593 @@
+{
+  "id": "c03bins",
+  "kind": "bins",
+  "column": 3,
+  "row": 6,
+  "half": null,
+  "title": "Bins under column 03",
+  "description": "Phillips flat head machine screws in 8-32, 10-24, 10-32 and 1/4-20.",
+  "front_image": null,
+  "tray_image": "images/bins/c03.jpg",
+  "tray_image_px": [
+    500,
+    1500
+  ],
+  "photo": "IMG_7559.jpg",
+  "compartments": [
+    {
+      "item_index": 0,
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 0.2275,
+      "y1": 0.0922
+    },
+    {
+      "item_index": 1,
+      "x0": 0.2275,
+      "y0": 0.0,
+      "x1": 0.4549,
+      "y1": 0.0922
+    },
+    {
+      "item_index": 2,
+      "x0": 0.4762,
+      "y0": 0.0,
+      "x1": 0.9245,
+      "y1": 0.0922
+    },
+    {
+      "item_index": 3,
+      "x0": 0.0,
+      "y0": 0.0922,
+      "x1": 0.2309,
+      "y1": 0.2102
+    },
+    {
+      "item_index": 4,
+      "x0": 0.2309,
+      "y0": 0.0922,
+      "x1": 0.4618,
+      "y1": 0.2102
+    },
+    {
+      "item_index": 5,
+      "x0": 0.4939,
+      "y0": 0.0922,
+      "x1": 0.9427,
+      "y1": 0.2073
+    },
+    {
+      "item_index": 6,
+      "x0": 0.0131,
+      "y0": 0.2102,
+      "x1": 0.2396,
+      "y1": 0.3208
+    },
+    {
+      "item_index": 7,
+      "x0": 0.2396,
+      "y0": 0.2102,
+      "x1": 0.4661,
+      "y1": 0.3208
+    },
+    {
+      "item_index": 8,
+      "x0": 0.5092,
+      "y0": 0.2073,
+      "x1": 0.9467,
+      "y1": 0.3174
+    },
+    {
+      "item_index": 9,
+      "x0": 0.0296,
+      "y0": 0.3208,
+      "x1": 0.2524,
+      "y1": 0.4664
+    },
+    {
+      "item_index": 10,
+      "x0": 0.2524,
+      "y0": 0.3208,
+      "x1": 0.4752,
+      "y1": 0.4664
+    },
+    {
+      "item_index": 11,
+      "x0": 0.5121,
+      "y0": 0.3174,
+      "x1": 0.7268,
+      "y1": 0.4629
+    },
+    {
+      "item_index": 12,
+      "x0": 0.7268,
+      "y0": 0.3174,
+      "x1": 0.9416,
+      "y1": 0.4629
+    },
+    {
+      "item_index": 13,
+      "x0": 0.0406,
+      "y0": 0.4664,
+      "x1": 0.4786,
+      "y1": 0.5781
+    },
+    {
+      "item_index": 14,
+      "x0": 0.5084,
+      "y0": 0.4629,
+      "x1": 0.7231,
+      "y1": 0.5705
+    },
+    {
+      "item_index": 15,
+      "x0": 0.7231,
+      "y0": 0.4629,
+      "x1": 0.9378,
+      "y1": 0.5705
+    },
+    {
+      "item_index": 16,
+      "x0": 0.0516,
+      "y0": 0.5781,
+      "x1": 0.2686,
+      "y1": 0.6758
+    },
+    {
+      "item_index": 17,
+      "x0": 0.2686,
+      "y0": 0.5781,
+      "x1": 0.4855,
+      "y1": 0.6758
+    },
+    {
+      "item_index": 18,
+      "x0": 0.5166,
+      "y0": 0.5705,
+      "x1": 0.7253,
+      "y1": 0.6717
+    },
+    {
+      "item_index": 19,
+      "x0": 0.7253,
+      "y0": 0.5705,
+      "x1": 0.9341,
+      "y1": 0.6717
+    },
+    {
+      "item_index": 20,
+      "x0": 0.0725,
+      "y0": 0.6758,
+      "x1": 0.2904,
+      "y1": 0.8122
+    },
+    {
+      "item_index": 21,
+      "x0": 0.2904,
+      "y0": 0.6758,
+      "x1": 0.5083,
+      "y1": 0.8122
+    },
+    {
+      "item_index": 22,
+      "x0": 0.5309,
+      "y0": 0.6717,
+      "x1": 0.9589,
+      "y1": 0.8077
+    },
+    {
+      "item_index": 23,
+      "x0": 0.0824,
+      "y0": 0.8122,
+      "x1": 0.2971,
+      "y1": 0.9091
+    },
+    {
+      "item_index": 24,
+      "x0": 0.2971,
+      "y0": 0.8122,
+      "x1": 0.5117,
+      "y1": 0.9091
+    },
+    {
+      "item_index": 25,
+      "x0": 0.5244,
+      "y0": 0.8077,
+      "x1": 0.946,
+      "y1": 0.9047
+    },
+    {
+      "item_index": 26,
+      "x0": 0.0919,
+      "y0": 0.9091,
+      "x1": 0.5143,
+      "y1": 1.0
+    },
+    {
+      "item_index": 27,
+      "x0": 0.5397,
+      "y0": 0.9047,
+      "x1": 0.7468,
+      "y1": 1.0
+    },
+    {
+      "item_index": 28,
+      "x0": 0.7468,
+      "y0": 0.9047,
+      "x1": 0.9539,
+      "y1": 1.0
+    }
+  ],
+  "items": [
+    {
+      "sku": "07271",
+      "slot_letter": null,
+      "name": "8-32 x 3/8 Phillips flat head machine screw",
+      "label_short": "8-32 x 3/8",
+      "price_cents": 22,
+      "box_price_cents": 739,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07271",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07272",
+      "slot_letter": null,
+      "name": "8-32 x 1/2 Phillips flat head machine screw",
+      "label_short": "8-32 x 1/2",
+      "price_cents": 23,
+      "box_price_cents": 759,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07272",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07290",
+      "slot_letter": null,
+      "name": "10-24 x 3 Phillips flat head machine screw",
+      "label_short": "10-24 x 3",
+      "price_cents": 42,
+      "box_price_cents": 2299,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07290"
+    },
+    {
+      "sku": "07274",
+      "slot_letter": null,
+      "name": "8-32 x 3/4 Phillips flat head machine screw",
+      "label_short": "8-32 x 3/4",
+      "price_cents": 24,
+      "box_price_cents": 859,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07274",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07275",
+      "slot_letter": null,
+      "name": "8-32 x 1 Phillips flat head machine screw",
+      "label_short": "8-32 x 1",
+      "price_cents": 25,
+      "box_price_cents": 899,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07275",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07291",
+      "slot_letter": null,
+      "name": "10-24 x 3-1/2 Phillips flat head machine screw",
+      "label_short": "10-24 x 3-1/2",
+      "price_cents": 49,
+      "box_price_cents": 2699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07291"
+    },
+    {
+      "sku": "07276",
+      "slot_letter": null,
+      "name": "8-32 x 1-1/4 Phillips flat head machine screw",
+      "label_short": "8-32 x 1-1/4",
+      "price_cents": 26,
+      "box_price_cents": 959,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07276",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07277",
+      "slot_letter": null,
+      "name": "8-32 x 1-1/2 Phillips flat head machine screw",
+      "label_short": "8-32 x 1-1/2",
+      "price_cents": 27,
+      "box_price_cents": 1099,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07277",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07292",
+      "slot_letter": null,
+      "name": "10-24 x 4 Phillips flat head machine screw",
+      "label_short": "10-24 x 4",
+      "price_cents": 55,
+      "box_price_cents": 2999,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07292"
+    },
+    {
+      "sku": "07278",
+      "slot_letter": null,
+      "name": "8-32 x 2 Phillips flat head machine screw",
+      "label_short": "8-32 x 2",
+      "price_cents": 28,
+      "box_price_cents": 1199,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07278",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07279",
+      "slot_letter": null,
+      "name": "8-32 x 2-1/2 Phillips flat head machine screw",
+      "label_short": "8-32 x 2-1/2",
+      "price_cents": 33,
+      "box_price_cents": 1549,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07279",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07294",
+      "slot_letter": null,
+      "name": "10-32 x 1/2 Phillips flat head machine screw",
+      "label_short": "10-32 x 1/2",
+      "price_cents": 24,
+      "box_price_cents": 819,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07294",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07296",
+      "slot_letter": null,
+      "name": "10-32 x 3/4 Phillips flat head machine screw",
+      "label_short": "10-32 x 3/4",
+      "price_cents": 25,
+      "box_price_cents": 899,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07296",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07280",
+      "slot_letter": null,
+      "name": "8-32 x 3 Phillips flat head machine screw",
+      "label_short": "8-32 x 3",
+      "price_cents": 37,
+      "box_price_cents": 1799,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07280"
+    },
+    {
+      "sku": "07297",
+      "slot_letter": null,
+      "name": "10-32 x 1 Phillips flat head machine screw",
+      "label_short": "10-32 x 1",
+      "price_cents": 26,
+      "box_price_cents": 999,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07297",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07298",
+      "slot_letter": null,
+      "name": "10-32 x 1-1/4 Phillips flat head machine screw",
+      "label_short": "10-32 x 1-1/4",
+      "price_cents": 28,
+      "box_price_cents": 1159,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07298",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07282",
+      "slot_letter": null,
+      "name": "10-24 x 1/2 Phillips flat head machine screw",
+      "label_short": "10-24 x 1/2",
+      "price_cents": 23,
+      "box_price_cents": 799,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07282",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07284",
+      "slot_letter": null,
+      "name": "10-24 x 3/4 Phillips flat head machine screw",
+      "label_short": "10-24 x 3/4",
+      "price_cents": 25,
+      "box_price_cents": 899,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07284",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07299",
+      "slot_letter": null,
+      "name": "10-32 x 1-1/2 Phillips flat head machine screw",
+      "label_short": "10-32 x 1-1/2",
+      "price_cents": 29,
+      "box_price_cents": 1259,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07299",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07300",
+      "slot_letter": null,
+      "name": "10-32 x 2 Phillips flat head machine screw",
+      "label_short": "10-32 x 2",
+      "price_cents": 32,
+      "box_price_cents": 1499,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07300",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07285",
+      "slot_letter": null,
+      "name": "10-24 x 1 Phillips flat head machine screw",
+      "label_short": "10-24 x 1",
+      "price_cents": 26,
+      "box_price_cents": 979,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07285",
+      "note": "Box price cents are blurry; read as 9.79. Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07286",
+      "slot_letter": null,
+      "name": "10-24 x 1-1/4 Phillips flat head machine screw",
+      "label_short": "10-24 x 1-1/4",
+      "price_cents": 27,
+      "box_price_cents": 1099,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07286",
+      "note": "Number under the barcode is blurry; read as 07286 (between 07285 and 07287). Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07301",
+      "slot_letter": null,
+      "name": "10-32 x 2-1/2 Phillips flat head machine screw",
+      "label_short": "10-32 x 2-1/2",
+      "price_cents": 40,
+      "box_price_cents": 1999,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07301"
+    },
+    {
+      "sku": "07287",
+      "slot_letter": null,
+      "name": "10-24 x 1-1/2 Phillips flat head machine screw",
+      "label_short": "10-24 x 1-1/2",
+      "price_cents": 28,
+      "box_price_cents": 1159,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07287",
+      "note": "Box price cents are blurry; read as 11.59. Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07288",
+      "slot_letter": null,
+      "name": "10-24 x 2 Phillips flat head machine screw",
+      "label_short": "10-24 x 2",
+      "price_cents": 32,
+      "box_price_cents": 1499,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07288",
+      "note": "Number under the barcode is blurry; read as 07288 (between 07287 and 07289). Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07302",
+      "slot_letter": null,
+      "name": "10-32 x 3 Phillips flat head machine screw",
+      "label_short": "10-32 x 3",
+      "price_cents": 43,
+      "box_price_cents": 2299,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07302"
+    },
+    {
+      "sku": "07289",
+      "slot_letter": null,
+      "name": "10-24 x 2-1/2 Phillips flat head machine screw",
+      "label_short": "10-24 x 2-1/2",
+      "price_cents": 36,
+      "box_price_cents": 1699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07289"
+    },
+    {
+      "sku": "07304",
+      "slot_letter": null,
+      "name": "1/4-20 x 1/2 Phillips flat head machine screw",
+      "label_short": "1/4-20 x 1/2",
+      "price_cents": 28,
+      "box_price_cents": 1159,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07304",
+      "note": "Box price cents are unreadable (11.?? ); 11.59 is a guess. Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07306",
+      "slot_letter": null,
+      "name": "1/4-20 x 3/4 Phillips flat head machine screw",
+      "label_short": "1/4-20 x 3/4",
+      "price_cents": 31,
+      "box_price_cents": 1359,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07306",
+      "note": "Box price cents are blurry; read as 13.59. Bin is split in two; this is the right half, sharing one label strip."
+    }
+  ]
+}

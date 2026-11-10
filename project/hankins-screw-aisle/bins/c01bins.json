@@ -1,0 +1,593 @@
+{
+  "id": "c01bins",
+  "kind": "bins",
+  "column": 1,
+  "row": 6,
+  "half": null,
+  "title": "Bins under column 01",
+  "description": "Phillips pan head machine screws in 6-32, 8-32 and 10-24, sold each or by the box of 100.",
+  "front_image": null,
+  "tray_image": "images/bins/c01.jpg",
+  "tray_image_px": [
+    500,
+    1500
+  ],
+  "photo": "IMG_7558.jpg",
+  "compartments": [
+    {
+      "item_index": 0,
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 0.2205,
+      "y1": 0.0938
+    },
+    {
+      "item_index": 1,
+      "x0": 0.2205,
+      "y0": 0.0,
+      "x1": 0.441,
+      "y1": 0.0938
+    },
+    {
+      "item_index": 2,
+      "x0": 0.4773,
+      "y0": 0.0,
+      "x1": 0.9395,
+      "y1": 0.0949
+    },
+    {
+      "item_index": 3,
+      "x0": 0.0,
+      "y0": 0.0938,
+      "x1": 0.2243,
+      "y1": 0.2115
+    },
+    {
+      "item_index": 4,
+      "x0": 0.2243,
+      "y0": 0.0938,
+      "x1": 0.4485,
+      "y1": 0.2115
+    },
+    {
+      "item_index": 5,
+      "x0": 0.4874,
+      "y0": 0.0949,
+      "x1": 0.7215,
+      "y1": 0.2115
+    },
+    {
+      "item_index": 6,
+      "x0": 0.7215,
+      "y0": 0.0949,
+      "x1": 0.9555,
+      "y1": 0.2115
+    },
+    {
+      "item_index": 7,
+      "x0": 0.0,
+      "y0": 0.2115,
+      "x1": 0.2299,
+      "y1": 0.3217
+    },
+    {
+      "item_index": 8,
+      "x0": 0.2299,
+      "y0": 0.2115,
+      "x1": 0.4598,
+      "y1": 0.3217
+    },
+    {
+      "item_index": 9,
+      "x0": 0.5015,
+      "y0": 0.2115,
+      "x1": 0.7243,
+      "y1": 0.3217
+    },
+    {
+      "item_index": 10,
+      "x0": 0.7243,
+      "y0": 0.2115,
+      "x1": 0.947,
+      "y1": 0.3217
+    },
+    {
+      "item_index": 11,
+      "x0": 0.0041,
+      "y0": 0.3217,
+      "x1": 0.2327,
+      "y1": 0.4631
+    },
+    {
+      "item_index": 12,
+      "x0": 0.2327,
+      "y0": 0.3217,
+      "x1": 0.4612,
+      "y1": 0.4631
+    },
+    {
+      "item_index": 13,
+      "x0": 0.5052,
+      "y0": 0.3217,
+      "x1": 0.732,
+      "y1": 0.4601
+    },
+    {
+      "item_index": 14,
+      "x0": 0.732,
+      "y0": 0.3217,
+      "x1": 0.9589,
+      "y1": 0.4601
+    },
+    {
+      "item_index": 15,
+      "x0": 0.0333,
+      "y0": 0.4631,
+      "x1": 0.4822,
+      "y1": 0.5671
+    },
+    {
+      "item_index": 16,
+      "x0": 0.5153,
+      "y0": 0.4601,
+      "x1": 0.9517,
+      "y1": 0.5604
+    },
+    {
+      "item_index": 17,
+      "x0": 0.0294,
+      "y0": 0.5671,
+      "x1": 0.2553,
+      "y1": 0.6798
+    },
+    {
+      "item_index": 18,
+      "x0": 0.2553,
+      "y0": 0.5671,
+      "x1": 0.4813,
+      "y1": 0.6798
+    },
+    {
+      "item_index": 19,
+      "x0": 0.5331,
+      "y0": 0.5604,
+      "x1": 0.9575,
+      "y1": 0.6603
+    },
+    {
+      "item_index": 20,
+      "x0": 0.0736,
+      "y0": 0.6798,
+      "x1": 0.3029,
+      "y1": 0.7938
+    },
+    {
+      "item_index": 21,
+      "x0": 0.3029,
+      "y0": 0.6798,
+      "x1": 0.5323,
+      "y1": 0.7938
+    },
+    {
+      "item_index": 22,
+      "x0": 0.5448,
+      "y0": 0.6603,
+      "x1": 0.9467,
+      "y1": 0.7899
+    },
+    {
+      "item_index": 23,
+      "x0": 0.082,
+      "y0": 0.7938,
+      "x1": 0.2986,
+      "y1": 0.8905
+    },
+    {
+      "item_index": 24,
+      "x0": 0.2986,
+      "y0": 0.7938,
+      "x1": 0.5152,
+      "y1": 0.8905
+    },
+    {
+      "item_index": 25,
+      "x0": 0.5489,
+      "y0": 0.7899,
+      "x1": 0.9593,
+      "y1": 0.8863
+    },
+    {
+      "item_index": 26,
+      "x0": 0.0942,
+      "y0": 0.8905,
+      "x1": 0.2979,
+      "y1": 0.984
+    },
+    {
+      "item_index": 27,
+      "x0": 0.2979,
+      "y0": 0.8905,
+      "x1": 0.5016,
+      "y1": 0.984
+    },
+    {
+      "item_index": 28,
+      "x0": 0.5492,
+      "y0": 0.8863,
+      "x1": 0.9612,
+      "y1": 0.984
+    }
+  ],
+  "items": [
+    {
+      "sku": "07315",
+      "slot_letter": null,
+      "name": "6-32 x 3/8 Phillips pan head machine screw",
+      "label_short": "6-32 x 3/8",
+      "price_cents": 21,
+      "box_price_cents": 639,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07315",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07316",
+      "slot_letter": null,
+      "name": "6-32 x 1/2 Phillips pan head machine screw",
+      "label_short": "6-32 x 1/2",
+      "price_cents": 22,
+      "box_price_cents": 679,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07316",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07334",
+      "slot_letter": null,
+      "name": "8-32 x 3 Phillips pan head machine screw",
+      "label_short": "8-32 x 3",
+      "price_cents": 39,
+      "box_price_cents": 1999,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07334"
+    },
+    {
+      "sku": "07318",
+      "slot_letter": null,
+      "name": "6-32 x 3/4 Phillips pan head machine screw",
+      "label_short": "6-32 x 3/4",
+      "price_cents": 22,
+      "box_price_cents": 739,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07318",
+      "note": "First digit of the number under the barcode is torn off; read as 07318 from the sequence (07316, 07319 next to it). Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07319",
+      "slot_letter": null,
+      "name": "6-32 x 1 Phillips pan head machine screw",
+      "label_short": "6-32 x 1",
+      "price_cents": 23,
+      "box_price_cents": 799,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07319",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07335",
+      "slot_letter": null,
+      "name": "10-24 x 3/8 Phillips pan head machine screw",
+      "label_short": "10-24 x 3/8",
+      "price_cents": 23,
+      "box_price_cents": 739,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07335",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07336",
+      "slot_letter": null,
+      "name": "10-24 x 1/2 Phillips pan head machine screw",
+      "label_short": "10-24 x 1/2",
+      "price_cents": 23,
+      "box_price_cents": 799,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07336",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07320",
+      "slot_letter": null,
+      "name": "6-32 x 1-1/4 Phillips pan head machine screw",
+      "label_short": "6-32 x 1-1/4",
+      "price_cents": 24,
+      "box_price_cents": 839,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07320",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07321",
+      "slot_letter": null,
+      "name": "6-32 x 1-1/2 Phillips pan head machine screw",
+      "label_short": "6-32 x 1-1/2",
+      "price_cents": 25,
+      "box_price_cents": 919,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07321",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07338",
+      "slot_letter": null,
+      "name": "10-24 x 3/4 Phillips pan head machine screw",
+      "label_short": "10-24 x 3/4",
+      "price_cents": 25,
+      "box_price_cents": 899,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07338",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07339",
+      "slot_letter": null,
+      "name": "10-24 x 1 Phillips pan head machine screw",
+      "label_short": "10-24 x 1",
+      "price_cents": 26,
+      "box_price_cents": 959,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07339",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07322",
+      "slot_letter": null,
+      "name": "6-32 x 2 Phillips pan head machine screw",
+      "label_short": "6-32 x 2",
+      "price_cents": 27,
+      "box_price_cents": 1099,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07322",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07323",
+      "slot_letter": null,
+      "name": "6-32 x 2-1/2 Phillips pan head machine screw",
+      "label_short": "6-32 x 2-1/2",
+      "price_cents": 29,
+      "box_price_cents": 1259,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07323",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07340",
+      "slot_letter": null,
+      "name": "10-24 x 1-1/4 Phillips pan head machine screw",
+      "label_short": "10-24 x 1-1/4",
+      "price_cents": 27,
+      "box_price_cents": 1059,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07340",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07341",
+      "slot_letter": null,
+      "name": "10-24 x 1-1/2 Phillips pan head machine screw",
+      "label_short": "10-24 x 1-1/2",
+      "price_cents": 29,
+      "box_price_cents": 1199,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07341",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07324",
+      "slot_letter": null,
+      "name": "6-32 x 3 Phillips pan head machine screw",
+      "label_short": "6-32 x 3",
+      "price_cents": 36,
+      "box_price_cents": 1699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07324"
+    },
+    {
+      "sku": "07342",
+      "slot_letter": null,
+      "name": "10-24 x 2 Phillips pan head machine screw",
+      "label_short": "10-24 x 2",
+      "price_cents": 32,
+      "box_price_cents": 1499,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07342"
+    },
+    {
+      "sku": "07325",
+      "slot_letter": null,
+      "name": "8-32 x 3/8 Phillips pan head machine screw",
+      "label_short": "8-32 x 3/8",
+      "price_cents": 22,
+      "box_price_cents": 739,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07325",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07326",
+      "slot_letter": null,
+      "name": "8-32 x 1/2 Phillips pan head machine screw",
+      "label_short": "8-32 x 1/2",
+      "price_cents": 23,
+      "box_price_cents": 799,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07326",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07343",
+      "slot_letter": null,
+      "name": "10-24 x 2-1/2 Phillips pan head machine screw",
+      "label_short": "10-24 x 2-1/2",
+      "price_cents": 35,
+      "box_price_cents": 1699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07343"
+    },
+    {
+      "sku": "07328",
+      "slot_letter": null,
+      "name": "8-32 x 3/4 Phillips pan head machine screw",
+      "label_short": "8-32 x 3/4",
+      "price_cents": 23,
+      "box_price_cents": 799,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07328",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07329",
+      "slot_letter": null,
+      "name": "8-32 x 1 Phillips pan head machine screw",
+      "label_short": "8-32 x 1",
+      "price_cents": 25,
+      "box_price_cents": 899,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07329",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07344",
+      "slot_letter": null,
+      "name": "10-24 x 3 Phillips pan head machine screw",
+      "label_short": "10-24 x 3",
+      "price_cents": 41,
+      "box_price_cents": 2199,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07344"
+    },
+    {
+      "sku": "07330",
+      "slot_letter": null,
+      "name": "8-32 x 1-1/4 Phillips pan head machine screw",
+      "label_short": "8-32 x 1-1/4",
+      "price_cents": 25,
+      "box_price_cents": 959,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07330",
+      "note": "Box price cents are blurry; read as 9.59. Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07331",
+      "slot_letter": null,
+      "name": "8-32 x 1-1/2 Phillips pan head machine screw",
+      "label_short": "8-32 x 1-1/2",
+      "price_cents": 27,
+      "box_price_cents": 1099,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07331",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07345",
+      "slot_letter": null,
+      "name": "10-24 x 3-1/2 Phillips pan head machine screw",
+      "label_short": "10-24 x 3-1/2",
+      "price_cents": 46,
+      "box_price_cents": 2599,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07345"
+    },
+    {
+      "sku": "07332",
+      "slot_letter": null,
+      "name": "8-32 x 2 Phillips pan head machine screw",
+      "label_short": "8-32 x 2",
+      "price_cents": 29,
+      "box_price_cents": 1259,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07332",
+      "note": "Box price cents are blurry; read as 12.59. Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "07333",
+      "slot_letter": null,
+      "name": "8-32 x 2-1/2 Phillips pan head machine screw",
+      "label_short": "8-32 x 2-1/2",
+      "price_cents": 33,
+      "box_price_cents": 1549,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07333",
+      "note": "Box price cents are blurry; read as 15.49. Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "07346",
+      "slot_letter": null,
+      "name": "10-24 x 4 Phillips pan head machine screw",
+      "label_short": "10-24 x 4",
+      "price_cents": 50,
+      "box_price_cents": 2699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 07346"
+    }
+  ]
+}

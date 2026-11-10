@@ -1,0 +1,370 @@
+{
+  "id": "c32bins",
+  "kind": "bins",
+  "column": 32,
+  "row": 6,
+  "half": null,
+  "title": "Bins under column 32",
+  "description": "SaberDrive deck screws (tan coated on the left, stainless on the right) and stainless trim screws.",
+  "front_image": null,
+  "tray_image": "images/bins/c32.jpg",
+  "tray_image_px": [
+    500,
+    1500
+  ],
+  "photo": "IMG_7573.jpg",
+  "compartments": [
+    {
+      "item_index": 0,
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 0.516,
+      "y1": 0.0933
+    },
+    {
+      "item_index": 1,
+      "x0": 0.516,
+      "y0": 0.0,
+      "x1": 1.0,
+      "y1": 0.0933
+    },
+    {
+      "item_index": 2,
+      "x0": 0.0,
+      "y0": 0.0933,
+      "x1": 0.516,
+      "y1": 0.1933
+    },
+    {
+      "item_index": 3,
+      "x0": 0.516,
+      "y0": 0.0933,
+      "x1": 1.0,
+      "y1": 0.1933
+    },
+    {
+      "item_index": 4,
+      "x0": 0.0,
+      "y0": 0.1933,
+      "x1": 0.516,
+      "y1": 0.3
+    },
+    {
+      "item_index": 5,
+      "x0": 0.516,
+      "y0": 0.1933,
+      "x1": 1.0,
+      "y1": 0.3
+    },
+    {
+      "item_index": 6,
+      "x0": 0.0,
+      "y0": 0.31,
+      "x1": 0.516,
+      "y1": 0.4167
+    },
+    {
+      "item_index": 7,
+      "x0": 0.516,
+      "y0": 0.31,
+      "x1": 1.0,
+      "y1": 0.4167
+    },
+    {
+      "item_index": 8,
+      "x0": 0.0,
+      "y0": 0.4167,
+      "x1": 0.516,
+      "y1": 0.53
+    },
+    {
+      "item_index": 9,
+      "x0": 0.516,
+      "y0": 0.4167,
+      "x1": 1.0,
+      "y1": 0.53
+    },
+    {
+      "item_index": 10,
+      "x0": 0.0,
+      "y0": 0.53,
+      "x1": 0.516,
+      "y1": 0.632
+    },
+    {
+      "item_index": 11,
+      "x0": 0.516,
+      "y0": 0.53,
+      "x1": 1.0,
+      "y1": 0.632
+    },
+    {
+      "item_index": 12,
+      "x0": 0.0,
+      "y0": 0.632,
+      "x1": 0.516,
+      "y1": 0.7633
+    },
+    {
+      "item_index": 13,
+      "x0": 0.516,
+      "y0": 0.632,
+      "x1": 1.0,
+      "y1": 0.7633
+    },
+    {
+      "item_index": 14,
+      "x0": 0.0,
+      "y0": 0.7633,
+      "x1": 0.516,
+      "y1": 0.8833
+    },
+    {
+      "item_index": 15,
+      "x0": 0.516,
+      "y0": 0.7633,
+      "x1": 1.0,
+      "y1": 0.8833
+    },
+    {
+      "item_index": 16,
+      "x0": 0.0,
+      "y0": 0.8833,
+      "x1": 0.516,
+      "y1": 1.0
+    },
+    {
+      "item_index": 17,
+      "x0": 0.516,
+      "y0": 0.8833,
+      "x1": 1.0,
+      "y1": 1.0
+    }
+  ],
+  "items": [
+    {
+      "sku": "56041",
+      "slot_letter": null,
+      "name": "#9 x 2 star drive deck screw, tan XL2500 (SaberDrive Platinum)",
+      "label_short": "9 x 2",
+      "price_cents": 20,
+      "box_price_cents": 1459,
+      "box_qty": 110,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 56041",
+      "note": "each price is on a blue tape patch over the label; read through the tape"
+    },
+    {
+      "sku": "09607",
+      "slot_letter": null,
+      "name": "#9 x 2 star drive deck screw, stainless steel (SaberDrive)",
+      "label_short": "9 x 2",
+      "price_cents": 35,
+      "box_price_cents": 2899,
+      "box_qty": 123,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 09607"
+    },
+    {
+      "sku": "56042",
+      "slot_letter": null,
+      "name": "#9 x 2-1/2 star drive deck screw, tan XL2500 (SaberDrive Platinum)",
+      "label_short": "9 x 2-1/2",
+      "price_cents": 24,
+      "box_price_cents": 1459,
+      "box_qty": 91,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 56042",
+      "note": "each price is on a blue tape patch over the label; read through the tape"
+    },
+    {
+      "sku": "09608",
+      "slot_letter": null,
+      "name": "#9 x 2-1/2 star drive deck screw, stainless steel (SaberDrive)",
+      "label_short": "9 x 2-1/2",
+      "price_cents": 47,
+      "box_price_cents": 2899,
+      "box_qty": 92,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 09608"
+    },
+    {
+      "sku": "56043",
+      "slot_letter": null,
+      "name": "#10 x 3 star drive deck screw, tan XL2500 (SaberDrive Platinum)",
+      "label_short": "10 x 3",
+      "price_cents": 36,
+      "box_price_cents": 1459,
+      "box_qty": 61,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 56043",
+      "note": "each price is on a blue tape patch over the label; read through the tape"
+    },
+    {
+      "sku": "09609",
+      "slot_letter": null,
+      "name": "#10 x 3 star drive deck screw, stainless steel (SaberDrive)",
+      "label_short": "10 x 3",
+      "price_cents": 68,
+      "box_price_cents": 2899,
+      "box_qty": 64,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 09609"
+    },
+    {
+      "sku": "56044",
+      "slot_letter": null,
+      "name": "#10 x 3-1/2 star drive deck screw, tan XL2500 (SaberDrive Platinum)",
+      "label_short": "10 x 3-1/2",
+      "price_cents": 40,
+      "box_price_cents": 1459,
+      "box_qty": 54,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 56044",
+      "note": "each price is on a blue tape patch over the label; read through the tape"
+    },
+    {
+      "sku": "09610",
+      "slot_letter": null,
+      "name": "#10 x 3-1/2 star drive deck screw, stainless steel (SaberDrive)",
+      "label_short": "10 x 3-1/2",
+      "price_cents": 78,
+      "box_price_cents": 2899,
+      "box_qty": 56,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 09610"
+    },
+    {
+      "sku": "56045",
+      "slot_letter": null,
+      "name": "#10 x 4 star drive deck screw, tan XL2500 (SaberDrive Platinum)",
+      "label_short": "10 x 4",
+      "price_cents": 45,
+      "box_price_cents": 1459,
+      "box_qty": 48,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 56045",
+      "note": "each price is on a blue tape patch over the label; read through the tape"
+    },
+    {
+      "sku": "52617",
+      "slot_letter": null,
+      "name": "#10 x 4 star drive deck screw, stainless steel (SaberDrive)",
+      "label_short": "10 x 4",
+      "price_cents": 89,
+      "box_price_cents": 2899,
+      "box_qty": 49,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 52617"
+    },
+    {
+      "sku": "56046",
+      "slot_letter": null,
+      "name": "#12 x 3-1/2 star drive deck screw, tan XL2500 (SaberDrive Platinum)",
+      "label_short": "12 x 3-1/2",
+      "price_cents": 53,
+      "box_price_cents": 1459,
+      "box_qty": 41,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 56046"
+    },
+    {
+      "sku": "52514",
+      "slot_letter": null,
+      "name": "#8 x 1-5/8 star drive trim screw, stainless steel (SaberDrive)",
+      "label_short": "8 x 1-5/8",
+      "price_cents": 20,
+      "box_price_cents": 2999,
+      "box_qty": 222,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 52514"
+    },
+    {
+      "sku": "56047",
+      "slot_letter": null,
+      "name": "#12 x 4 star drive deck screw, tan XL2500 (SaberDrive Platinum)",
+      "label_short": "12 x 4",
+      "price_cents": 60,
+      "box_price_cents": 1459,
+      "box_qty": 36,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 56047"
+    },
+    {
+      "sku": "52515",
+      "slot_letter": null,
+      "name": "#8 x 2 star drive trim screw, stainless steel (SaberDrive)",
+      "label_short": "8 x 2",
+      "price_cents": 25,
+      "box_price_cents": 2999,
+      "box_qty": 182,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 52515"
+    },
+    {
+      "sku": "51178",
+      "slot_letter": null,
+      "name": "#12 x 5 star drive deck screw, tan XL1500 (SaberDrive)",
+      "label_short": "12 x 5",
+      "price_cents": 70,
+      "box_price_cents": 1359,
+      "box_qty": 29,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 51178",
+      "note": "sku digits blurry; read as 51178 (next to 51179)"
+    },
+    {
+      "sku": "52516",
+      "slot_letter": null,
+      "name": "#9 x 2-1/2 star drive trim screw, stainless steel (SaberDrive)",
+      "label_short": "9 x 2-1/2",
+      "price_cents": 41,
+      "box_price_cents": 2999,
+      "box_qty": 111,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 52516",
+      "note": "box count blurry; read as Box/111"
+    },
+    {
+      "sku": "51179",
+      "slot_letter": null,
+      "name": "#12 x 6 star drive deck screw, tan XL1500 (SaberDrive)",
+      "label_short": "12 x 6",
+      "price_cents": 84,
+      "box_price_cents": 1399,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 51179"
+    },
+    {
+      "sku": "52517",
+      "slot_letter": null,
+      "name": "#9 x 3 star drive trim screw, stainless steel (SaberDrive)",
+      "label_short": "9 x 3",
+      "price_cents": 48,
+      "box_price_cents": 2999,
+      "box_qty": 94,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 52517",
+      "note": "box count blurry; read as Box/94"
+    }
+  ]
+}

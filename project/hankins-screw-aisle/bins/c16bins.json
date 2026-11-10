@@ -1,0 +1,441 @@
+{
+  "id": "c16bins",
+  "kind": "bins",
+  "column": 16,
+  "row": 6,
+  "half": null,
+  "title": "Bins under column 16",
+  "description": "Zinc carriage bolts in 3/16-24 and 1/4-20 up to 3 inches long, plus long 1/2-13 grade 8 hex cap screws.",
+  "front_image": null,
+  "tray_image": "images/bins/c16.jpg",
+  "tray_image_px": [
+    500,
+    1500
+  ],
+  "photo": "IMG_7565.jpg",
+  "compartments": [
+    {
+      "item_index": 0,
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 0.25,
+      "y1": 0.1
+    },
+    {
+      "item_index": 1,
+      "x0": 0.25,
+      "y0": 0.0,
+      "x1": 0.5,
+      "y1": 0.1
+    },
+    {
+      "item_index": 2,
+      "x0": 0.5,
+      "y0": 0.0,
+      "x1": 1.0,
+      "y1": 0.1
+    },
+    {
+      "item_index": 3,
+      "x0": 0.0,
+      "y0": 0.1033,
+      "x1": 0.25,
+      "y1": 0.2147
+    },
+    {
+      "item_index": 4,
+      "x0": 0.25,
+      "y0": 0.1033,
+      "x1": 0.5,
+      "y1": 0.2147
+    },
+    {
+      "item_index": 5,
+      "x0": 0.5,
+      "y0": 0.1033,
+      "x1": 1.0,
+      "y1": 0.2147
+    },
+    {
+      "item_index": 6,
+      "x0": 0.0,
+      "y0": 0.2147,
+      "x1": 0.5,
+      "y1": 0.328
+    },
+    {
+      "item_index": 7,
+      "x0": 0.5,
+      "y0": 0.2147,
+      "x1": 0.75,
+      "y1": 0.328
+    },
+    {
+      "item_index": 8,
+      "x0": 0.75,
+      "y0": 0.2147,
+      "x1": 1.0,
+      "y1": 0.328
+    },
+    {
+      "item_index": 9,
+      "x0": 0.0,
+      "y0": 0.3567,
+      "x1": 0.5,
+      "y1": 0.4707
+    },
+    {
+      "item_index": 10,
+      "x0": 0.5,
+      "y0": 0.3567,
+      "x1": 0.75,
+      "y1": 0.4707
+    },
+    {
+      "item_index": 11,
+      "x0": 0.75,
+      "y0": 0.3567,
+      "x1": 1.0,
+      "y1": 0.4707
+    },
+    {
+      "item_index": 12,
+      "x0": 0.0,
+      "y0": 0.4707,
+      "x1": 0.5,
+      "y1": 0.5747
+    },
+    {
+      "item_index": 13,
+      "x0": 0.5,
+      "y0": 0.4707,
+      "x1": 1.0,
+      "y1": 0.5747
+    },
+    {
+      "item_index": 14,
+      "x0": 0.0,
+      "y0": 0.5747,
+      "x1": 0.5,
+      "y1": 0.68
+    },
+    {
+      "item_index": 15,
+      "x0": 0.5,
+      "y0": 0.5747,
+      "x1": 1.0,
+      "y1": 0.68
+    },
+    {
+      "item_index": 16,
+      "x0": 0.0,
+      "y0": 0.6867,
+      "x1": 0.5,
+      "y1": 0.8073
+    },
+    {
+      "item_index": 17,
+      "x0": 0.5,
+      "y0": 0.6867,
+      "x1": 1.0,
+      "y1": 0.8233
+    },
+    {
+      "item_index": 18,
+      "x0": 0.0,
+      "y0": 0.8073,
+      "x1": 0.5,
+      "y1": 0.912
+    },
+    {
+      "item_index": 19,
+      "x0": 0.5,
+      "y0": 0.8233,
+      "x1": 1.0,
+      "y1": 0.9133
+    },
+    {
+      "item_index": 20,
+      "x0": 0.0,
+      "y0": 0.912,
+      "x1": 0.5,
+      "y1": 1.0
+    },
+    {
+      "item_index": 21,
+      "x0": 0.5,
+      "y0": 0.912,
+      "x1": 1.0,
+      "y1": 1.0
+    }
+  ],
+  "items": [
+    {
+      "sku": "01040",
+      "slot_letter": null,
+      "name": "3/16-24 x 3/4 carriage bolt",
+      "label_short": "3/16-24 x 3/4",
+      "price_cents": 29,
+      "box_price_cents": 1259,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01040"
+    },
+    {
+      "sku": "01041",
+      "slot_letter": null,
+      "name": "3/16-24 x 1 carriage bolt",
+      "label_short": "3/16-24 x 1",
+      "price_cents": 31,
+      "box_price_cents": 1459,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01041"
+    },
+    {
+      "sku": "01046",
+      "slot_letter": null,
+      "name": "3/16-24 x 3 carriage bolt",
+      "label_short": "3/16-24 x 3",
+      "price_cents": 52,
+      "box_price_cents": 2999,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01046"
+    },
+    {
+      "sku": "01042",
+      "slot_letter": null,
+      "name": "3/16-24 x 1-1/4 carriage bolt",
+      "label_short": "3/16-24 x 1-1/4",
+      "price_cents": 33,
+      "box_price_cents": 1549,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01042"
+    },
+    {
+      "sku": "01043",
+      "slot_letter": null,
+      "name": "3/16-24 x 1-1/2 carriage bolt",
+      "label_short": "3/16-24 x 1-1/2",
+      "price_cents": 35,
+      "box_price_cents": 1649,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01043"
+    },
+    {
+      "sku": "01047",
+      "slot_letter": null,
+      "name": "3/16-24 x 3-1/2 carriage bolt",
+      "label_short": "3/16-24 x 3-1/2",
+      "price_cents": 75,
+      "box_price_cents": 4199,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01047"
+    },
+    {
+      "sku": "01044",
+      "slot_letter": null,
+      "name": "3/16-24 x 2 carriage bolt",
+      "label_short": "3/16-24 x 2",
+      "price_cents": 41,
+      "box_price_cents": 2099,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01044"
+    },
+    {
+      "sku": "01049",
+      "slot_letter": null,
+      "name": "1/4-20 x 1/2 carriage bolt",
+      "label_short": "1/4-20 x 1/2",
+      "price_cents": 30,
+      "box_price_cents": 1299,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01049"
+    },
+    {
+      "sku": "01050",
+      "slot_letter": null,
+      "name": "1/4-20 x 3/4 carriage bolt",
+      "label_short": "1/4-20 x 3/4",
+      "price_cents": 31,
+      "box_price_cents": 1459,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01050",
+      "note": "Item number partly scribbled over; read as 01050."
+    },
+    {
+      "sku": "01045",
+      "slot_letter": null,
+      "name": "3/16-24 x 2-1/2 carriage bolt",
+      "label_short": "3/16-24 x 2-1/2",
+      "price_cents": 43,
+      "box_price_cents": 2399,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01045"
+    },
+    {
+      "sku": "01051",
+      "slot_letter": null,
+      "name": "1/4-20 x 1 carriage bolt",
+      "label_short": "1/4-20 x 1",
+      "price_cents": 32,
+      "box_price_cents": 1499,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01051"
+    },
+    {
+      "sku": "01052",
+      "slot_letter": null,
+      "name": "1/4-20 x 1-1/4 carriage bolt",
+      "label_short": "1/4-20 x 1-1/4",
+      "price_cents": 34,
+      "box_price_cents": 1599,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01052"
+    },
+    {
+      "sku": "00730",
+      "slot_letter": null,
+      "name": "1/2-13 x 3-1/2 hex cap screw, grade 8, 3/4 wrench",
+      "label_short": "1/2-13 x 3-1/2",
+      "price_cents": 269,
+      "box_price_cents": 1999,
+      "box_qty": 10,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 00730"
+    },
+    {
+      "sku": "01053",
+      "slot_letter": null,
+      "name": "1/4-20 x 1-1/2 carriage bolt",
+      "label_short": "1/4-20 x 1-1/2",
+      "price_cents": 37,
+      "box_price_cents": 1849,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01053"
+    },
+    {
+      "sku": "00731",
+      "slot_letter": null,
+      "name": "1/2-13 x 4 hex cap screw, grade 8, 3/4 wrench",
+      "label_short": "1/2-13 x 4",
+      "price_cents": 289,
+      "box_price_cents": 2199,
+      "box_qty": 10,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 00731"
+    },
+    {
+      "sku": "01054",
+      "slot_letter": null,
+      "name": "1/4-20 x 1-3/4 carriage bolt",
+      "label_short": "1/4-20 x 1-3/4",
+      "price_cents": 39,
+      "box_price_cents": 1999,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01054"
+    },
+    {
+      "sku": "00732",
+      "slot_letter": null,
+      "name": "1/2-13 x 4-1/2 hex cap screw, grade 8, 3/4 wrench",
+      "label_short": "1/2-13 x 4-1/2",
+      "price_cents": 339,
+      "box_price_cents": 2599,
+      "box_qty": 10,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 00732"
+    },
+    {
+      "sku": "01055",
+      "slot_letter": null,
+      "name": "1/4-20 x 2 carriage bolt",
+      "label_short": "1/4-20 x 2",
+      "price_cents": 41,
+      "box_price_cents": 2199,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01055"
+    },
+    {
+      "sku": "00733",
+      "slot_letter": null,
+      "name": "1/2-13 x 5 hex cap screw, grade 8, 3/4 wrench",
+      "label_short": "1/2-13 x 5",
+      "price_cents": 379,
+      "box_price_cents": 2899,
+      "box_qty": 10,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 00733",
+      "note": "Each-price cents are small and blurry; read as 3.79."
+    },
+    {
+      "sku": "01057",
+      "slot_letter": null,
+      "name": "1/4-20 x 2-1/2 carriage bolt",
+      "label_short": "1/4-20 x 2-1/2",
+      "price_cents": 46,
+      "box_price_cents": 2599,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01057"
+    },
+    {
+      "sku": "00735",
+      "slot_letter": null,
+      "name": "1/2-13 x 6 hex cap screw, grade 8, 3/4 wrench",
+      "label_short": "1/2-13 x 6",
+      "price_cents": 479,
+      "box_price_cents": 3799,
+      "box_qty": 10,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 00735",
+      "note": "Each-price cents are small and blurry; read as 4.79."
+    },
+    {
+      "sku": "01059",
+      "slot_letter": null,
+      "name": "1/4-20 x 3 carriage bolt",
+      "label_short": "1/4-20 x 3",
+      "price_cents": 53,
+      "box_price_cents": 2999,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01059"
+    }
+  ]
+}

@@ -127,7 +127,10 @@ def check(path):
     for k in REQ_D:
         if k not in d: errs.append(f"missing drawer field {k}")
     if errs: return errs
-    exp = f'c{d["column"]:02d}r{d["row"]}' + {None: "", "L": "-left", "R": "-right"}[d["half"]]
+    if d.get("kind") == "bins":
+        exp = f'c{d["column"]:02d}bins'
+    else:
+        exp = f'c{d["column"]:02d}r{d["row"]}' + {None: "", "L": "-left", "R": "-right"}[d["half"]]
     if d["id"] != exp: errs.append(f'id {d["id"]} should be {exp}')
     if os.path.basename(path) != d["id"] + ".json": errs.append("file name must be <id>.json")
     for k in ("front_image", "tray_image"):
@@ -149,6 +152,9 @@ def check(path):
         if it.get("upc_source") not in ("read_from_label", "calculated_from_sku", None):
             errs.append(f"item {j} bad upc_source")
         if not isinstance(it.get("price_cents"), (int, type(None))): errs.append(f"item {j} price_cents must be int or null")
+        if d.get("kind") == "bins":
+            for k in ("box_price_cents", "box_qty"):
+                if not isinstance(it.get(k), (int, type(None))): errs.append(f"item {j} {k} must be int or null")
         L = it.get("location")
         if L in seen: errs.append(f"location {L!r} used twice (items {seen[L]} and {j})")
         seen[L] = j

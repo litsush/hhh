@@ -1,0 +1,363 @@
+{
+  "id": "c18bins",
+  "kind": "bins",
+  "column": 18,
+  "row": 6,
+  "half": null,
+  "title": "Bins under column 18",
+  "description": "Zinc carriage bolts: 5/16-18 x 5 to 8 and 3/8-16 x 1 to 7.",
+  "front_image": null,
+  "tray_image": "images/bins/c18.jpg",
+  "tray_image_px": [
+    500,
+    1500
+  ],
+  "photo": "IMG_7566.jpg",
+  "compartments": [
+    {
+      "item_index": 0,
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 0.5,
+      "y1": 0.1053
+    },
+    {
+      "item_index": 1,
+      "x0": 0.5,
+      "y0": 0.0,
+      "x1": 1.0,
+      "y1": 0.1053
+    },
+    {
+      "item_index": 2,
+      "x0": 0.0,
+      "y0": 0.1053,
+      "x1": 0.5,
+      "y1": 0.2167
+    },
+    {
+      "item_index": 3,
+      "x0": 0.5,
+      "y0": 0.1053,
+      "x1": 1.0,
+      "y1": 0.2167
+    },
+    {
+      "item_index": 4,
+      "x0": 0.0,
+      "y0": 0.2167,
+      "x1": 0.5,
+      "y1": 0.3627
+    },
+    {
+      "item_index": 5,
+      "x0": 0.5,
+      "y0": 0.2167,
+      "x1": 1.0,
+      "y1": 0.3627
+    },
+    {
+      "item_index": 6,
+      "x0": 0.0,
+      "y0": 0.3627,
+      "x1": 0.5,
+      "y1": 0.4747
+    },
+    {
+      "item_index": 7,
+      "x0": 0.5,
+      "y0": 0.3627,
+      "x1": 1.0,
+      "y1": 0.4747
+    },
+    {
+      "item_index": 8,
+      "x0": 0.0,
+      "y0": 0.4747,
+      "x1": 0.5,
+      "y1": 0.5933
+    },
+    {
+      "item_index": 9,
+      "x0": 0.5,
+      "y0": 0.4747,
+      "x1": 1.0,
+      "y1": 0.5933
+    },
+    {
+      "item_index": 10,
+      "x0": 0.0,
+      "y0": 0.5933,
+      "x1": 0.5,
+      "y1": 0.7047
+    },
+    {
+      "item_index": 11,
+      "x0": 0.5,
+      "y0": 0.5933,
+      "x1": 1.0,
+      "y1": 0.7047
+    },
+    {
+      "item_index": 12,
+      "x0": 0.0,
+      "y0": 0.7047,
+      "x1": 0.5,
+      "y1": 0.8167
+    },
+    {
+      "item_index": 13,
+      "x0": 0.5,
+      "y0": 0.7047,
+      "x1": 1.0,
+      "y1": 0.8167
+    },
+    {
+      "item_index": 14,
+      "x0": 0.0,
+      "y0": 0.8167,
+      "x1": 0.5,
+      "y1": 0.9187
+    },
+    {
+      "item_index": 15,
+      "x0": 0.5,
+      "y0": 0.8167,
+      "x1": 1.0,
+      "y1": 0.9187
+    },
+    {
+      "item_index": 16,
+      "x0": 0.0,
+      "y0": 0.9187,
+      "x1": 0.5,
+      "y1": 1.0
+    },
+    {
+      "item_index": 17,
+      "x0": 0.5,
+      "y0": 0.9187,
+      "x1": 1.0,
+      "y1": 1.0
+    }
+  ],
+  "items": [
+    {
+      "sku": "01085",
+      "slot_letter": null,
+      "name": "5/16-18 x 5 carriage bolt",
+      "label_short": "5/16-18 x 5",
+      "price_cents": 115,
+      "box_price_cents": 3499,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01085"
+    },
+    {
+      "sku": "01099",
+      "slot_letter": null,
+      "name": "3/8-16 x 2-1/2 carriage bolt",
+      "label_short": "3/8-16 x 2-1/2",
+      "price_cents": 105,
+      "box_price_cents": 2999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01099"
+    },
+    {
+      "sku": "01086",
+      "slot_letter": null,
+      "name": "5/16-18 x 5-1/2 carriage bolt",
+      "label_short": "5/16-18 x 5-1/2",
+      "price_cents": 119,
+      "box_price_cents": 3699,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01086"
+    },
+    {
+      "sku": "01101",
+      "slot_letter": null,
+      "name": "3/8-16 x 3 carriage bolt",
+      "label_short": "3/8-16 x 3",
+      "price_cents": 115,
+      "box_price_cents": 3299,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01101"
+    },
+    {
+      "sku": "01087",
+      "slot_letter": null,
+      "name": "5/16-18 x 6 carriage bolt",
+      "label_short": "5/16-18 x 6",
+      "price_cents": 129,
+      "box_price_cents": 3999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01087"
+    },
+    {
+      "sku": "01103",
+      "slot_letter": null,
+      "name": "3/8-16 x 3-1/2 carriage bolt",
+      "label_short": "3/8-16 x 3-1/2",
+      "price_cents": 119,
+      "box_price_cents": 3699,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01103"
+    },
+    {
+      "sku": "01089",
+      "slot_letter": null,
+      "name": "5/16-18 x 7 carriage bolt",
+      "label_short": "5/16-18 x 7",
+      "price_cents": 175,
+      "box_price_cents": 5599,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01089"
+    },
+    {
+      "sku": "01104",
+      "slot_letter": null,
+      "name": "3/8-16 x 4 carriage bolt",
+      "label_short": "3/8-16 x 4",
+      "price_cents": 129,
+      "box_price_cents": 3999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01104"
+    },
+    {
+      "sku": "01091",
+      "slot_letter": null,
+      "name": "5/16-18 x 8 carriage bolt",
+      "label_short": "5/16-18 x 8",
+      "price_cents": 199,
+      "box_price_cents": 6699,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01091"
+    },
+    {
+      "sku": "01105",
+      "slot_letter": null,
+      "name": "3/8-16 x 4-1/2 carriage bolt",
+      "label_short": "3/8-16 x 4-1/2",
+      "price_cents": 135,
+      "box_price_cents": 4399,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01105"
+    },
+    {
+      "sku": "01093",
+      "slot_letter": null,
+      "name": "3/8-16 x 1 carriage bolt",
+      "label_short": "3/8-16 x 1",
+      "price_cents": 56,
+      "box_price_cents": 3099,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01093"
+    },
+    {
+      "sku": "01106",
+      "slot_letter": null,
+      "name": "3/8-16 x 5 carriage bolt",
+      "label_short": "3/8-16 x 5",
+      "price_cents": 155,
+      "box_price_cents": 4999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01106"
+    },
+    {
+      "sku": "01094",
+      "slot_letter": null,
+      "name": "3/8-16 x 1-1/4 carriage bolt",
+      "label_short": "3/8-16 x 1-1/4",
+      "price_cents": 63,
+      "box_price_cents": 3499,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01094"
+    },
+    {
+      "sku": "01107",
+      "slot_letter": null,
+      "name": "3/8-16 x 5-1/2 carriage bolt",
+      "label_short": "3/8-16 x 5-1/2",
+      "price_cents": 165,
+      "box_price_cents": 5199,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01107"
+    },
+    {
+      "sku": "01095",
+      "slot_letter": null,
+      "name": "3/8-16 x 1-1/2 carriage bolt",
+      "label_short": "3/8-16 x 1-1/2",
+      "price_cents": 69,
+      "box_price_cents": 3899,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01095"
+    },
+    {
+      "sku": "01108",
+      "slot_letter": null,
+      "name": "3/8-16 x 6 carriage bolt",
+      "label_short": "3/8-16 x 6",
+      "price_cents": 175,
+      "box_price_cents": 5599,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01108"
+    },
+    {
+      "sku": "01097",
+      "slot_letter": null,
+      "name": "3/8-16 x 2 carriage bolt",
+      "label_short": "3/8-16 x 2",
+      "price_cents": 85,
+      "box_price_cents": 4599,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01097"
+    },
+    {
+      "sku": "01110",
+      "slot_letter": null,
+      "name": "3/8-16 x 7 carriage bolt",
+      "label_short": "3/8-16 x 7",
+      "price_cents": 209,
+      "box_price_cents": 6999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01110",
+      "note": "cents of the EACH price are blurry in the photo; best reading"
+    }
+  ]
+}

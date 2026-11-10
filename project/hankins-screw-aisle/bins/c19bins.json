@@ -1,0 +1,366 @@
+{
+  "id": "c19bins",
+  "kind": "bins",
+  "column": 19,
+  "row": 6,
+  "half": null,
+  "title": "Bins under column 19",
+  "description": "Zinc carriage bolts: 3/8-16 x 8 to 12, 7/16-14 x 1-1/2 to 4 and 1/2-13 x 1 to 4.",
+  "front_image": null,
+  "tray_image": "images/bins/c19.jpg",
+  "tray_image_px": [
+    500,
+    1500
+  ],
+  "photo": "IMG_7567.jpg",
+  "compartments": [
+    {
+      "item_index": 0,
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 0.5,
+      "y1": 0.102
+    },
+    {
+      "item_index": 1,
+      "x0": 0.5,
+      "y0": 0.0,
+      "x1": 1.0,
+      "y1": 0.102
+    },
+    {
+      "item_index": 2,
+      "x0": 0.0,
+      "y0": 0.102,
+      "x1": 0.5,
+      "y1": 0.21
+    },
+    {
+      "item_index": 3,
+      "x0": 0.5,
+      "y0": 0.102,
+      "x1": 1.0,
+      "y1": 0.21
+    },
+    {
+      "item_index": 4,
+      "x0": 0.0,
+      "y0": 0.21,
+      "x1": 0.5,
+      "y1": 0.346
+    },
+    {
+      "item_index": 5,
+      "x0": 0.5,
+      "y0": 0.21,
+      "x1": 1.0,
+      "y1": 0.346
+    },
+    {
+      "item_index": 6,
+      "x0": 0.0,
+      "y0": 0.346,
+      "x1": 0.5,
+      "y1": 0.4473
+    },
+    {
+      "item_index": 7,
+      "x0": 0.5,
+      "y0": 0.346,
+      "x1": 1.0,
+      "y1": 0.4473
+    },
+    {
+      "item_index": 8,
+      "x0": 0.0,
+      "y0": 0.4473,
+      "x1": 0.5,
+      "y1": 0.5527
+    },
+    {
+      "item_index": 9,
+      "x0": 0.5,
+      "y0": 0.4473,
+      "x1": 1.0,
+      "y1": 0.5527
+    },
+    {
+      "item_index": 10,
+      "x0": 0.0,
+      "y0": 0.5527,
+      "x1": 0.5,
+      "y1": 0.678
+    },
+    {
+      "item_index": 11,
+      "x0": 0.5,
+      "y0": 0.5527,
+      "x1": 1.0,
+      "y1": 0.678
+    },
+    {
+      "item_index": 12,
+      "x0": 0.0,
+      "y0": 0.678,
+      "x1": 0.5,
+      "y1": 0.7967
+    },
+    {
+      "item_index": 13,
+      "x0": 0.5,
+      "y0": 0.678,
+      "x1": 1.0,
+      "y1": 0.7967
+    },
+    {
+      "item_index": 14,
+      "x0": 0.0,
+      "y0": 0.7967,
+      "x1": 0.5,
+      "y1": 0.8987
+    },
+    {
+      "item_index": 15,
+      "x0": 0.5,
+      "y0": 0.7967,
+      "x1": 1.0,
+      "y1": 0.8987
+    },
+    {
+      "item_index": 16,
+      "x0": 0.0,
+      "y0": 0.8987,
+      "x1": 0.5,
+      "y1": 1.0
+    },
+    {
+      "item_index": 17,
+      "x0": 0.5,
+      "y0": 0.8987,
+      "x1": 1.0,
+      "y1": 1.0
+    }
+  ],
+  "items": [
+    {
+      "sku": "01112",
+      "slot_letter": null,
+      "name": "3/8-16 x 8 carriage bolt",
+      "label_short": "3/8-16 x 8",
+      "price_cents": 219,
+      "box_price_cents": 7899,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01112"
+    },
+    {
+      "sku": "01127",
+      "slot_letter": null,
+      "name": "7/16-14 x 3-1/2 carriage bolt",
+      "label_short": "7/16-14 x 3-1/2",
+      "price_cents": 175,
+      "box_price_cents": 2899,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01127"
+    },
+    {
+      "sku": "01114",
+      "slot_letter": null,
+      "name": "3/8-16 x 9 carriage bolt",
+      "label_short": "3/8-16 x 9",
+      "price_cents": 269,
+      "box_price_cents": 9399,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01114"
+    },
+    {
+      "sku": "01128",
+      "slot_letter": null,
+      "name": "7/16-14 x 4 carriage bolt",
+      "label_short": "7/16-14 x 4",
+      "price_cents": 185,
+      "box_price_cents": 3099,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01128"
+    },
+    {
+      "sku": "01116",
+      "slot_letter": null,
+      "name": "3/8-16 x 10 carriage bolt",
+      "label_short": "3/8-16 x 10",
+      "price_cents": 289,
+      "box_price_cents": 5199,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01116"
+    },
+    {
+      "sku": "01135",
+      "slot_letter": null,
+      "name": "1/2-13 x 1 carriage bolt",
+      "label_short": "1/2-13 x 1",
+      "price_cents": 109,
+      "box_price_cents": 3199,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01135"
+    },
+    {
+      "sku": "01117",
+      "slot_letter": null,
+      "name": "3/8-16 x 11 carriage bolt",
+      "label_short": "3/8-16 x 11",
+      "price_cents": 319,
+      "box_price_cents": 5699,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01117"
+    },
+    {
+      "sku": "01137",
+      "slot_letter": null,
+      "name": "1/2-13 x 1-1/2 carriage bolt",
+      "label_short": "1/2-13 x 1-1/2",
+      "price_cents": 129,
+      "box_price_cents": 3899,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01137"
+    },
+    {
+      "sku": "01118",
+      "slot_letter": null,
+      "name": "3/8-16 x 12 carriage bolt",
+      "label_short": "3/8-16 x 12",
+      "price_cents": 339,
+      "box_price_cents": 6099,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01118"
+    },
+    {
+      "sku": "01139",
+      "slot_letter": null,
+      "name": "1/2-13 x 2 carriage bolt",
+      "label_short": "1/2-13 x 2",
+      "price_cents": 155,
+      "box_price_cents": 4499,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01139"
+    },
+    {
+      "sku": "01121",
+      "slot_letter": null,
+      "name": "7/16-14 x 1-1/2 carriage bolt",
+      "label_short": "7/16-14 x 1-1/2",
+      "price_cents": 109,
+      "box_price_cents": 3199,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01121"
+    },
+    {
+      "sku": "51926",
+      "slot_letter": null,
+      "name": "1/2-13 x 2-1/2 carriage bolt",
+      "label_short": "1/2-13 x 2-1/2",
+      "price_cents": 165,
+      "box_price_cents": 2699,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 51926"
+    },
+    {
+      "sku": "01123",
+      "slot_letter": null,
+      "name": "7/16-14 x 2 carriage bolt",
+      "label_short": "7/16-14 x 2",
+      "price_cents": 115,
+      "box_price_cents": 3699,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01123"
+    },
+    {
+      "sku": "51927",
+      "slot_letter": null,
+      "name": "1/2-13 x 3 carriage bolt",
+      "label_short": "1/2-13 x 3",
+      "price_cents": 175,
+      "box_price_cents": 2999,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 51927"
+    },
+    {
+      "sku": "01125",
+      "slot_letter": null,
+      "name": "7/16-14 x 2-1/2 carriage bolt",
+      "label_short": "7/16-14 x 2-1/2",
+      "price_cents": 135,
+      "box_price_cents": 4199,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01125",
+      "note": "cents of the EACH price are blurry in the photo; best reading"
+    },
+    {
+      "sku": "01144",
+      "slot_letter": null,
+      "name": "1/2-13 x 3-1/2 carriage bolt",
+      "label_short": "1/2-13 x 3-1/2",
+      "price_cents": 189,
+      "box_price_cents": 3299,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01144",
+      "note": "cents of the EACH price are blurry in the photo; best reading"
+    },
+    {
+      "sku": "01126",
+      "slot_letter": null,
+      "name": "7/16-14 x 3 carriage bolt",
+      "label_short": "7/16-14 x 3",
+      "price_cents": 155,
+      "box_price_cents": 4999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01126",
+      "note": "cents of the EACH price are blurry in the photo; best reading"
+    },
+    {
+      "sku": "01145",
+      "slot_letter": null,
+      "name": "1/2-13 x 4 carriage bolt",
+      "label_short": "1/2-13 x 4",
+      "price_cents": 209,
+      "box_price_cents": 3599,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01145",
+      "note": "cents of the EACH price are blurry in the photo; best reading"
+    }
+  ]
+}

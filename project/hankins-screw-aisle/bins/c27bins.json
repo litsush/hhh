@@ -1,0 +1,365 @@
+{
+ "id": "c27bins",
+ "kind": "bins",
+ "column": 27,
+ "row": 6,
+ "half": null,
+ "title": "Bins under column 27",
+ "description": "Blue 1/4 concrete screws (hex and flat head), hollow drive anchors and LDT Tapcon anchors.",
+ "front_image": null,
+ "tray_image": "images/bins/c27.jpg",
+ "tray_image_px": [
+  500,
+  1500
+ ],
+ "photo": "IMG_7571.jpg",
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.016,
+   "y0": 0.0053,
+   "x1": 0.5,
+   "y1": 0.1
+  },
+  {
+   "item_index": 1,
+   "x0": 0.5,
+   "y0": 0.0053,
+   "x1": 0.98,
+   "y1": 0.1
+  },
+  {
+   "item_index": 2,
+   "x0": 0.016,
+   "y0": 0.1,
+   "x1": 0.5,
+   "y1": 0.208
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5,
+   "y0": 0.1,
+   "x1": 0.98,
+   "y1": 0.208
+  },
+  {
+   "item_index": 4,
+   "x0": 0.016,
+   "y0": 0.21,
+   "x1": 0.5,
+   "y1": 0.3233
+  },
+  {
+   "item_index": 5,
+   "x0": 0.5,
+   "y0": 0.21,
+   "x1": 0.98,
+   "y1": 0.3233
+  },
+  {
+   "item_index": 6,
+   "x0": 0.016,
+   "y0": 0.3567,
+   "x1": 0.5,
+   "y1": 0.46
+  },
+  {
+   "item_index": 7,
+   "x0": 0.5,
+   "y0": 0.3567,
+   "x1": 0.98,
+   "y1": 0.46
+  },
+  {
+   "item_index": 8,
+   "x0": 0.016,
+   "y0": 0.46,
+   "x1": 0.5,
+   "y1": 0.5673
+  },
+  {
+   "item_index": 9,
+   "x0": 0.5,
+   "y0": 0.46,
+   "x1": 0.98,
+   "y1": 0.5673
+  },
+  {
+   "item_index": 10,
+   "x0": 0.016,
+   "y0": 0.5673,
+   "x1": 0.5,
+   "y1": 0.672
+  },
+  {
+   "item_index": 11,
+   "x0": 0.5,
+   "y0": 0.5673,
+   "x1": 0.98,
+   "y1": 0.672
+  },
+  {
+   "item_index": 12,
+   "x0": 0.016,
+   "y0": 0.69,
+   "x1": 0.5,
+   "y1": 0.8
+  },
+  {
+   "item_index": 13,
+   "x0": 0.5,
+   "y0": 0.69,
+   "x1": 0.98,
+   "y1": 0.8
+  },
+  {
+   "item_index": 14,
+   "x0": 0.016,
+   "y0": 0.8,
+   "x1": 0.5,
+   "y1": 0.9
+  },
+  {
+   "item_index": 15,
+   "x0": 0.5,
+   "y0": 0.8,
+   "x1": 0.98,
+   "y1": 0.9
+  },
+  {
+   "item_index": 16,
+   "x0": 0.016,
+   "y0": 0.9,
+   "x1": 0.5,
+   "y1": 0.9967
+  },
+  {
+   "item_index": 17,
+   "x0": 0.5,
+   "y0": 0.9,
+   "x1": 0.98,
+   "y1": 0.9967
+  }
+ ],
+ "items": [
+  {
+   "sku": "51212",
+   "slot_letter": null,
+   "name": "1/4 x 1-1/4 concrete screw, star hex head, 3/16 drill, T25 bit",
+   "label_short": "1/4 x 1-1/4",
+   "price_cents": 63,
+   "box_price_cents": 3799,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51212"
+  },
+  {
+   "sku": "51227",
+   "slot_letter": null,
+   "name": "1/4 x 1-1/4 concrete screw, star flat head, 3/16 drill, T30 bit",
+   "label_short": "1/4 x 1-1/4",
+   "price_cents": 63,
+   "box_price_cents": 3799,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51227"
+  },
+  {
+   "sku": "51213",
+   "slot_letter": null,
+   "name": "1/4 x 1-3/4 concrete screw, star hex head, 3/16 drill, T25 bit",
+   "label_short": "1/4 x 1-3/4",
+   "price_cents": 69,
+   "box_price_cents": 4299,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51213"
+  },
+  {
+   "sku": "51228",
+   "slot_letter": null,
+   "name": "1/4 x 1-3/4 concrete screw, star flat head, 3/16 drill, T30 bit",
+   "label_short": "1/4 x 1-3/4",
+   "price_cents": 69,
+   "box_price_cents": 4299,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51228"
+  },
+  {
+   "sku": "51214",
+   "slot_letter": null,
+   "name": "1/4 x 2-1/4 concrete screw, star hex head, 3/16 drill, T25 bit",
+   "label_short": "1/4 x 2-1/4",
+   "price_cents": 79,
+   "box_price_cents": 4799,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51214"
+  },
+  {
+   "sku": "51229",
+   "slot_letter": null,
+   "name": "1/4 x 2-1/4 concrete screw, star flat head, 3/16 drill, T30 bit",
+   "label_short": "1/4 x 2-1/4",
+   "price_cents": 79,
+   "box_price_cents": 4799,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51229"
+  },
+  {
+   "sku": "51215",
+   "slot_letter": null,
+   "name": "1/4 x 2-3/4 concrete screw, star hex head, 3/16 drill, T25 bit",
+   "label_short": "1/4 x 2-3/4",
+   "price_cents": 89,
+   "box_price_cents": 5299,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51215"
+  },
+  {
+   "sku": "51230",
+   "slot_letter": null,
+   "name": "1/4 x 2-3/4 concrete screw, star flat head, 3/16 drill, T30 bit",
+   "label_short": "1/4 x 2-3/4",
+   "price_cents": 89,
+   "box_price_cents": 5299,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51230"
+  },
+  {
+   "sku": "51216",
+   "slot_letter": null,
+   "name": "1/4 x 3-1/4 concrete screw, star hex head, 3/16 drill, T25 bit",
+   "label_short": "1/4 x 3-1/4",
+   "price_cents": 109,
+   "box_price_cents": 6499,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51216"
+  },
+  {
+   "sku": "51231",
+   "slot_letter": null,
+   "name": "1/4 x 3-1/4 concrete screw, star flat head, 3/16 drill, T30 bit",
+   "label_short": "1/4 x 3-1/4",
+   "price_cents": 109,
+   "box_price_cents": 6499,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51231"
+  },
+  {
+   "sku": "51217",
+   "slot_letter": null,
+   "name": "1/4 x 4 concrete screw, star hex head, 3/16 drill, T25 bit",
+   "label_short": "1/4 x 4",
+   "price_cents": 125,
+   "box_price_cents": 7899,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51217"
+  },
+  {
+   "sku": "51232",
+   "slot_letter": null,
+   "name": "1/4 x 4 concrete screw, star flat head, 3/16 drill, T30 bit",
+   "label_short": "1/4 x 4",
+   "price_cents": 125,
+   "box_price_cents": 7899,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51232"
+  },
+  {
+   "sku": "04270",
+   "slot_letter": null,
+   "name": "1/8 X-Short hollow drive anchor",
+   "label_short": "1/8 X-Short",
+   "price_cents": 85,
+   "box_price_cents": 5099,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 04270",
+   "note": "box price cents blurry; best reading 50.99"
+  },
+  {
+   "sku": "04271",
+   "slot_letter": null,
+   "name": "1/8 Short hollow drive anchor",
+   "label_short": "1/8 Short",
+   "price_cents": 85,
+   "box_price_cents": 4999,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 04271"
+  },
+  {
+   "sku": "08869",
+   "slot_letter": null,
+   "name": "1/2 x 5 LDT Tapcon large-diameter concrete anchor, 7/16 drill",
+   "label_short": "1/2 x 5",
+   "price_cents": 509,
+   "box_price_cents": 8499,
+   "box_qty": 25,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 08869",
+   "note": "each-price cents blurry on the photo; best reading (5.09)"
+  },
+  {
+   "sku": "07470",
+   "slot_letter": null,
+   "name": "1/8 Medium hollow drive anchor",
+   "label_short": "1/8 Medium",
+   "price_cents": 99,
+   "box_price_cents": 5599,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 07470"
+  },
+  {
+   "sku": "09394",
+   "slot_letter": null,
+   "name": "5/8 x 4 LDT Tapcon large-diameter concrete anchor, 1/2 drill",
+   "label_short": "5/8 x 4",
+   "price_cents": 1039,
+   "box_price_cents": 6999,
+   "box_qty": 10,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 09394",
+   "note": "each-price cents blurry on the photo; best reading (10.39, could be 10.99)"
+  },
+  {
+   "sku": "04272",
+   "slot_letter": null,
+   "name": "1/8 Long hollow drive anchor",
+   "label_short": "1/8 Long",
+   "price_cents": 99,
+   "box_price_cents": 5899,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 04272"
+  }
+ ]
+}

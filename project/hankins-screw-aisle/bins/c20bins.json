@@ -1,0 +1,364 @@
+{
+  "id": "c20bins",
+  "kind": "bins",
+  "column": 20,
+  "row": 6,
+  "half": null,
+  "title": "Bins under column 20",
+  "description": "Zinc carriage bolts 1/2-13 x 4-1/2 to 12 and 5/8-11 x 2-1/2 to 7, plus 1/4-inch lag screws 1 to 1-1/2 long.",
+  "front_image": null,
+  "tray_image": "images/bins/c20.jpg",
+  "tray_image_px": [
+    500,
+    1500
+  ],
+  "photo": "IMG_7567.jpg",
+  "compartments": [
+    {
+      "item_index": 0,
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 0.5,
+      "y1": 0.102
+    },
+    {
+      "item_index": 1,
+      "x0": 0.5,
+      "y0": 0.0,
+      "x1": 1.0,
+      "y1": 0.102
+    },
+    {
+      "item_index": 2,
+      "x0": 0.0,
+      "y0": 0.102,
+      "x1": 0.5,
+      "y1": 0.2133
+    },
+    {
+      "item_index": 3,
+      "x0": 0.5,
+      "y0": 0.102,
+      "x1": 1.0,
+      "y1": 0.2133
+    },
+    {
+      "item_index": 4,
+      "x0": 0.0,
+      "y0": 0.2133,
+      "x1": 0.5,
+      "y1": 0.3593
+    },
+    {
+      "item_index": 5,
+      "x0": 0.5,
+      "y0": 0.2133,
+      "x1": 1.0,
+      "y1": 0.3593
+    },
+    {
+      "item_index": 6,
+      "x0": 0.0,
+      "y0": 0.3593,
+      "x1": 0.5,
+      "y1": 0.4647
+    },
+    {
+      "item_index": 7,
+      "x0": 0.5,
+      "y0": 0.3593,
+      "x1": 1.0,
+      "y1": 0.4647
+    },
+    {
+      "item_index": 8,
+      "x0": 0.0,
+      "y0": 0.4647,
+      "x1": 0.5,
+      "y1": 0.5693
+    },
+    {
+      "item_index": 9,
+      "x0": 0.5,
+      "y0": 0.4647,
+      "x1": 1.0,
+      "y1": 0.5693
+    },
+    {
+      "item_index": 10,
+      "x0": 0.0,
+      "y0": 0.5693,
+      "x1": 0.5,
+      "y1": 0.6913
+    },
+    {
+      "item_index": 11,
+      "x0": 0.5,
+      "y0": 0.5693,
+      "x1": 1.0,
+      "y1": 0.6913
+    },
+    {
+      "item_index": 12,
+      "x0": 0.0,
+      "y0": 0.6913,
+      "x1": 0.5,
+      "y1": 0.8133
+    },
+    {
+      "item_index": 13,
+      "x0": 0.5,
+      "y0": 0.6913,
+      "x1": 1.0,
+      "y1": 0.8133
+    },
+    {
+      "item_index": 14,
+      "x0": 0.0,
+      "y0": 0.8133,
+      "x1": 0.5,
+      "y1": 0.9187
+    },
+    {
+      "item_index": 15,
+      "x0": 0.5,
+      "y0": 0.8133,
+      "x1": 1.0,
+      "y1": 0.9187
+    },
+    {
+      "item_index": 16,
+      "x0": 0.0,
+      "y0": 0.9187,
+      "x1": 0.5,
+      "y1": 1.0
+    },
+    {
+      "item_index": 17,
+      "x0": 0.5,
+      "y0": 0.9187,
+      "x1": 1.0,
+      "y1": 1.0
+    }
+  ],
+  "items": [
+    {
+      "sku": "01146",
+      "slot_letter": null,
+      "name": "1/2-13 x 4-1/2 carriage bolt",
+      "label_short": "1/2-13 x 4-1/2",
+      "price_cents": 219,
+      "box_price_cents": 3999,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01146"
+    },
+    {
+      "sku": "01285",
+      "slot_letter": null,
+      "name": "1/4 x 1 lag screw, 7/16 wrench",
+      "label_short": "1/4 x 1",
+      "price_cents": 35,
+      "box_price_cents": 1699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01285"
+    },
+    {
+      "sku": "01147",
+      "slot_letter": null,
+      "name": "1/2-13 x 5 carriage bolt",
+      "label_short": "1/2-13 x 5",
+      "price_cents": 239,
+      "box_price_cents": 4299,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01147"
+    },
+    {
+      "sku": "01286",
+      "slot_letter": null,
+      "name": "1/4 x 1-1/4 lag screw, 7/16 wrench",
+      "label_short": "1/4 x 1-1/4",
+      "price_cents": 37,
+      "box_price_cents": 1899,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01286"
+    },
+    {
+      "sku": "01149",
+      "slot_letter": null,
+      "name": "1/2-13 x 6 carriage bolt",
+      "label_short": "1/2-13 x 6",
+      "price_cents": 289,
+      "box_price_cents": 5099,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01149"
+    },
+    {
+      "sku": "01287",
+      "slot_letter": null,
+      "name": "1/4 x 1-1/2 lag screw, 7/16 wrench",
+      "label_short": "1/4 x 1-1/2",
+      "price_cents": 39,
+      "box_price_cents": 2099,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01287"
+    },
+    {
+      "sku": "01151",
+      "slot_letter": null,
+      "name": "1/2-13 x 7 carriage bolt",
+      "label_short": "1/2-13 x 7",
+      "price_cents": 349,
+      "box_price_cents": 6299,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01151"
+    },
+    {
+      "sku": "01165",
+      "slot_letter": null,
+      "name": "5/8-11 x 3 carriage bolt",
+      "label_short": "5/8-11 x 3",
+      "price_cents": 289,
+      "box_price_cents": 5199,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01165"
+    },
+    {
+      "sku": "01153",
+      "slot_letter": null,
+      "name": "1/2-13 x 8 carriage bolt",
+      "label_short": "1/2-13 x 8",
+      "price_cents": 399,
+      "box_price_cents": 7099,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01153"
+    },
+    {
+      "sku": "01166",
+      "slot_letter": null,
+      "name": "5/8-11 x 3-1/2 carriage bolt",
+      "label_short": "5/8-11 x 3-1/2",
+      "price_cents": 319,
+      "box_price_cents": 5799,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01166"
+    },
+    {
+      "sku": "01155",
+      "slot_letter": null,
+      "name": "1/2-13 x 9 carriage bolt",
+      "label_short": "1/2-13 x 9",
+      "price_cents": 439,
+      "box_price_cents": 8099,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01155"
+    },
+    {
+      "sku": "01167",
+      "slot_letter": null,
+      "name": "5/8-11 x 4 carriage bolt",
+      "label_short": "5/8-11 x 4",
+      "price_cents": 369,
+      "box_price_cents": 6499,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01167"
+    },
+    {
+      "sku": "01156",
+      "slot_letter": null,
+      "name": "1/2-13 x 10 carriage bolt",
+      "label_short": "1/2-13 x 10",
+      "price_cents": 479,
+      "box_price_cents": 8799,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01156"
+    },
+    {
+      "sku": "01168",
+      "slot_letter": null,
+      "name": "5/8-11 x 4-1/2 carriage bolt",
+      "label_short": "5/8-11 x 4-1/2",
+      "price_cents": 399,
+      "box_price_cents": 7199,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01168"
+    },
+    {
+      "sku": "01158",
+      "slot_letter": null,
+      "name": "1/2-13 x 12 carriage bolt",
+      "label_short": "1/2-13 x 12",
+      "price_cents": 559,
+      "box_price_cents": 10399,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01158"
+    },
+    {
+      "sku": "01169",
+      "slot_letter": null,
+      "name": "5/8-11 x 5 carriage bolt",
+      "label_short": "5/8-11 x 5",
+      "price_cents": 419,
+      "box_price_cents": 7599,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01169"
+    },
+    {
+      "sku": "01164",
+      "slot_letter": null,
+      "name": "5/8-11 x 2-1/2 carriage bolt",
+      "label_short": "5/8-11 x 2-1/2",
+      "price_cents": 269,
+      "box_price_cents": 4899,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01164",
+      "note": "cents of the EACH price are blurry in the photo; best reading"
+    },
+    {
+      "sku": "01173",
+      "slot_letter": null,
+      "name": "5/8-11 x 7 carriage bolt",
+      "label_short": "5/8-11 x 7",
+      "price_cents": 559,
+      "box_price_cents": 9999,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 01173",
+      "note": "cents of the EACH price are blurry in the photo; best reading"
+    }
+  ]
+}

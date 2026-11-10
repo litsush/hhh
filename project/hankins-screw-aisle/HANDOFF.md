@@ -82,3 +82,13 @@ Shoot straight down over the open drawer with the whole tray and the whole lid l
   - `c03r1` (columns 1–10 data) has two overlapping compartments.
   - Column 1's left edge falls just outside the scan.
   - Scan units are the scan's own units, not metres.
+
+## Update: red bin shelving under the drawers
+
+- 17 photos arrived in `screw_dump/bottom_section`. They were re-saved without metadata into `originals/bottom/`.
+  - 15 photos cover columns 1–30, two units each.
+  - IMG_7573 covers the two units past column 30 under the red open cubbies, stored as columns 31–32.
+  - IMG_7574 (the endcap tubs) was not used.
+- One file per unit: `bins/cNNbins.json` (`"kind": "bins"`, same shape as a drawer file, but items add `box_price_cents` and `box_qty` and have no UPC). The straightened unit photo is `images/bins/cNN.jpg` (500×1500). `tools/BIN_BRIEF.md` is the step-by-step brief.
+- Totals: 32 units, 576 physical bins, 659 products (many bins hold two products under one label strip). `REVIEW_bins.md` lists the 168 flagged values, mostly blurry cents on the bottom rows.
+- 3D: `stitch.py` has `BIN_POSTS`, `BIN_TOP`, `BIN_BOTTOM` and `BIN_DEPTH`. `scan/wall_layout.json` has `bin_slots`. `export_splat.py` removes splats in front of the bin photos.

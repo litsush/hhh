@@ -22,3 +22,4 @@
 .price{font-size:24px;font-weight:700;margin:2px 0 4px}.price small{font-size:13px;font-weight:400;color:var(--mute)}
 .open dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:1px 10px;font-size:13px}.open dt{color:var(--mute)}.open dd{margin:0;font-variant-numeric:tabular-nums}
 @media (prefers-reduced-motion:reduce){.tray{transition:none}}
+.bay.solo{border-radius:6px}

@@ -1,0 +1,366 @@
+{
+  "id": "c31bins",
+  "kind": "bins",
+  "column": 31,
+  "row": 6,
+  "half": null,
+  "title": "Bins under column 31",
+  "description": "SaberDrive structural screws: star-drive and hex-head lag screws, ledger board screws and yellow-zinc wood screws.",
+  "front_image": null,
+  "tray_image": "images/bins/c31.jpg",
+  "tray_image_px": [
+    500,
+    1500
+  ],
+  "photo": "IMG_7573.jpg",
+  "compartments": [
+    {
+      "item_index": 0,
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 0.48,
+      "y1": 0.1067
+    },
+    {
+      "item_index": 1,
+      "x0": 0.48,
+      "y0": 0.0,
+      "x1": 1.0,
+      "y1": 0.1067
+    },
+    {
+      "item_index": 2,
+      "x0": 0.0,
+      "y0": 0.1067,
+      "x1": 0.484,
+      "y1": 0.2267
+    },
+    {
+      "item_index": 3,
+      "x0": 0.484,
+      "y0": 0.1067,
+      "x1": 1.0,
+      "y1": 0.2267
+    },
+    {
+      "item_index": 4,
+      "x0": 0.0,
+      "y0": 0.2267,
+      "x1": 0.51,
+      "y1": 0.3433
+    },
+    {
+      "item_index": 5,
+      "x0": 0.51,
+      "y0": 0.2267,
+      "x1": 1.0,
+      "y1": 0.3433
+    },
+    {
+      "item_index": 6,
+      "x0": 0.0,
+      "y0": 0.3653,
+      "x1": 0.55,
+      "y1": 0.48
+    },
+    {
+      "item_index": 7,
+      "x0": 0.55,
+      "y0": 0.3653,
+      "x1": 1.0,
+      "y1": 0.48
+    },
+    {
+      "item_index": 8,
+      "x0": 0.0,
+      "y0": 0.48,
+      "x1": 0.57,
+      "y1": 0.584
+    },
+    {
+      "item_index": 9,
+      "x0": 0.57,
+      "y0": 0.48,
+      "x1": 1.0,
+      "y1": 0.584
+    },
+    {
+      "item_index": 10,
+      "x0": 0.0,
+      "y0": 0.584,
+      "x1": 0.58,
+      "y1": 0.6833
+    },
+    {
+      "item_index": 11,
+      "x0": 0.58,
+      "y0": 0.584,
+      "x1": 1.0,
+      "y1": 0.6833
+    },
+    {
+      "item_index": 12,
+      "x0": 0.0,
+      "y0": 0.6833,
+      "x1": 0.59,
+      "y1": 0.8
+    },
+    {
+      "item_index": 13,
+      "x0": 0.59,
+      "y0": 0.6833,
+      "x1": 1.0,
+      "y1": 0.8
+    },
+    {
+      "item_index": 14,
+      "x0": 0.0,
+      "y0": 0.8,
+      "x1": 0.6,
+      "y1": 0.89
+    },
+    {
+      "item_index": 15,
+      "x0": 0.6,
+      "y0": 0.8,
+      "x1": 1.0,
+      "y1": 0.89
+    },
+    {
+      "item_index": 16,
+      "x0": 0.0,
+      "y0": 0.89,
+      "x1": 0.6,
+      "y1": 1.0
+    },
+    {
+      "item_index": 17,
+      "x0": 0.6,
+      "y0": 0.89,
+      "x1": 1.0,
+      "y1": 1.0
+    }
+  ],
+  "items": [
+    {
+      "sku": "51957",
+      "slot_letter": null,
+      "name": "5/16 x 6 star drive lag screw, T-30 bit, tan XL1500 (SaberDrive Platinum)",
+      "label_short": "5/16 x 6",
+      "price_cents": 209,
+      "box_price_cents": 2999,
+      "box_qty": 20,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 51957"
+    },
+    {
+      "sku": "54981",
+      "slot_letter": null,
+      "name": "5/16 x 2-7/8 star drive lag screw, T-30 bit, black XL1500 (SaberDrive Platinum)",
+      "label_short": "5/16 x 2-7/8",
+      "price_cents": 87,
+      "box_price_cents": 2899,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 54981"
+    },
+    {
+      "sku": "51958",
+      "slot_letter": null,
+      "name": "5/16 x 8 star drive lag screw, T-30 bit, tan XL1500 (SaberDrive Platinum)",
+      "label_short": "5/16 x 8",
+      "price_cents": 279,
+      "box_price_cents": 5999,
+      "box_qty": 30,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 51958"
+    },
+    {
+      "sku": "54982",
+      "slot_letter": null,
+      "name": "5/16 x 3-3/4 star drive lag screw, T-30 bit, black XL1500 (SaberDrive Platinum)",
+      "label_short": "5/16 x 3-3/4",
+      "price_cents": 115,
+      "box_price_cents": 3699,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 54982"
+    },
+    {
+      "sku": "52005",
+      "slot_letter": null,
+      "name": "5/16 x 1-1/2 hex head lag screw, tan XL1500 (SaberDrive Platinum)",
+      "label_short": "5/16 x 1-1/2",
+      "price_cents": 47,
+      "box_price_cents": 2699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 52005"
+    },
+    {
+      "sku": "54983",
+      "slot_letter": null,
+      "name": "5/16 x 4-1/2 star drive lag screw, T-30 bit, black XL1500 (SaberDrive Platinum)",
+      "label_short": "5/16 x 4-1/2",
+      "price_cents": 205,
+      "box_price_cents": 4099,
+      "box_qty": 30,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 54983"
+    },
+    {
+      "sku": "52006",
+      "slot_letter": null,
+      "name": "3/8 x 2 hex head lag screw, tan XL1500 (SaberDrive Platinum)",
+      "label_short": "3/8 x 2",
+      "price_cents": 64,
+      "box_price_cents": 3699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 52006"
+    },
+    {
+      "sku": "54984",
+      "slot_letter": null,
+      "name": "5/16 x 5 star drive lag screw, T-30 bit, black XL1500 (SaberDrive Platinum)",
+      "label_short": "5/16 x 5",
+      "price_cents": 229,
+      "box_price_cents": 3799,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 54984",
+      "note": "box-price cents slightly blurry; read as 37.99"
+    },
+    {
+      "sku": "52007",
+      "slot_letter": null,
+      "name": "3/8 x 2-1/2 hex head lag screw, tan XL1500 (SaberDrive Platinum)",
+      "label_short": "3/8 x 2-1/2",
+      "price_cents": 95,
+      "box_price_cents": 4199,
+      "box_qty": 75,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 52007"
+    },
+    {
+      "sku": "54985",
+      "slot_letter": null,
+      "name": "5/16 x 6 star drive lag screw, T-30 bit, black XL1500 (SaberDrive Platinum)",
+      "label_short": "5/16 x 6",
+      "price_cents": 309,
+      "box_price_cents": 5099,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 54985"
+    },
+    {
+      "sku": "52008",
+      "slot_letter": null,
+      "name": "3/8 x 3 hex head lag screw, tan XL1500 (SaberDrive Platinum)",
+      "label_short": "3/8 x 3",
+      "price_cents": 105,
+      "box_price_cents": 2999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 52008"
+    },
+    {
+      "sku": "54986",
+      "slot_letter": null,
+      "name": "5/16 x 8 star drive lag screw, T-30 bit, black XL1500 (SaberDrive Platinum)",
+      "label_short": "5/16 x 8",
+      "price_cents": 439,
+      "box_price_cents": 7199,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 54986"
+    },
+    {
+      "sku": "52009",
+      "slot_letter": null,
+      "name": "3/8 x 3-5/8 hex head ledger board screw, tan XL1500 (SaberDrive Platinum)",
+      "label_short": "3/8 x 3-5/8",
+      "price_cents": 119,
+      "box_price_cents": 3999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 52009"
+    },
+    {
+      "sku": "56063",
+      "slot_letter": null,
+      "name": "#10 x 3 star truss head wood screw, yellow zinc (SaberDrive Platinum)",
+      "label_short": "10 x 3",
+      "price_cents": 36,
+      "box_price_cents": 1549,
+      "box_qty": 65,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 56063"
+    },
+    {
+      "sku": "52010",
+      "slot_letter": null,
+      "name": "3/8 x 4 hex head ledger board screw, tan XL1500 (SaberDrive Platinum)",
+      "label_short": "3/8 x 4",
+      "price_cents": 135,
+      "box_price_cents": 3199,
+      "box_qty": 35,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 52010"
+    },
+    {
+      "sku": "56064",
+      "slot_letter": null,
+      "name": "#12 x 3-1/2 star truss head wood screw, yellow zinc (SaberDrive Platinum)",
+      "label_short": "12 x 3-1/2",
+      "price_cents": 60,
+      "box_price_cents": 1549,
+      "box_qty": 39,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 56064",
+      "note": "box count blurry; read as Box/39 (fits 40c w/Box price)"
+    },
+    {
+      "sku": "",
+      "slot_letter": null,
+      "name": "Unlabelled bin",
+      "label_short": "",
+      "price_cents": null,
+      "box_price_cents": null,
+      "box_qty": null,
+      "upc": "",
+      "upc_source": null,
+      "location": "Unlabelled bin, row 9 left",
+      "note": "no label; bin holds boxed packs (black-coated hex bolts, carriage bolts, lag screws)"
+    },
+    {
+      "sku": "56065",
+      "slot_letter": null,
+      "name": "#12 x 4 star truss head wood screw, yellow zinc (SaberDrive Platinum)",
+      "label_short": "12 x 4",
+      "price_cents": 68,
+      "box_price_cents": 1549,
+      "box_qty": 34,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 56065",
+      "note": "box count blurry; read as Box/34"
+    }
+  ]
+}
