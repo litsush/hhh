@@ -1,0 +1,222 @@
+{
+ "id": "c23r3",
+ "column": 23,
+ "row": 3,
+ "half": null,
+ "title": "Household 88 and Household 89",
+ "description": "Clamping knobs with male thread: 3-prong and fluted, 10-24 to 3/8-16 (78100), in the back two rows and small knurled and 3-prong knobs, 8-32 to 10-32 (78120), in the front two rows.",
+ "front_image": "images/fronts/c23r3.jpg",
+ "tray_image": "images/trays/c23r3.jpg",
+ "tray_image_px": [
+  1200,
+  1040
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.3458,
+   "y1": 0.2404
+  },
+  {
+   "item_index": 1,
+   "x0": 0.3458,
+   "y0": 0.0,
+   "x1": 0.675,
+   "y1": 0.2404
+  },
+  {
+   "item_index": 2,
+   "x0": 0.675,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2404
+  },
+  {
+   "item_index": 3,
+   "x0": 0.0,
+   "y0": 0.2404,
+   "x1": 0.35,
+   "y1": 0.4856
+  },
+  {
+   "item_index": 4,
+   "x0": 0.35,
+   "y0": 0.2404,
+   "x1": 0.6792,
+   "y1": 0.4856
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6792,
+   "y0": 0.2404,
+   "x1": 1.0,
+   "y1": 0.4856
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.4856,
+   "x1": 0.3542,
+   "y1": 0.7404
+  },
+  {
+   "item_index": 7,
+   "x0": 0.3542,
+   "y0": 0.4856,
+   "x1": 0.6792,
+   "y1": 0.7404
+  },
+  {
+   "item_index": 8,
+   "x0": 0.6792,
+   "y0": 0.4856,
+   "x1": 1.0,
+   "y1": 0.7404
+  },
+  {
+   "item_index": 9,
+   "x0": 0.0,
+   "y0": 0.7404,
+   "x1": 0.35,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.35,
+   "y0": 0.7404,
+   "x1": 0.6917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.6917,
+   "y0": 0.7404,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "78101",
+   "slot_letter": "A",
+   "name": "10-24 x 1-3/4 3-prong clamping knob, male thread",
+   "price_cents": 519,
+   "upc": "738287781014",
+   "upc_source": "read_from_label",
+   "location": "Household 88, slot A",
+   "label_short": "10-24 3-prong"
+  },
+  {
+   "sku": "78102",
+   "slot_letter": "B",
+   "name": "1/4-20 x 1-3/4 3-prong clamping knob, male thread",
+   "price_cents": 519,
+   "upc": "738287781021",
+   "upc_source": "read_from_label",
+   "location": "Household 88, slot B",
+   "label_short": "1/4-20 3-prong"
+  },
+  {
+   "sku": "78103",
+   "slot_letter": "C",
+   "name": "5/16-18 x 1-3/4 3-prong clamping knob, male thread",
+   "price_cents": 519,
+   "upc": "738287781038",
+   "upc_source": "read_from_label",
+   "location": "Household 88, slot C",
+   "label_short": "5/16-18 3-prong"
+  },
+  {
+   "sku": "78104",
+   "slot_letter": "D",
+   "name": "1/4-20 x 1-3/4 fluted clamping knob, male thread",
+   "price_cents": 519,
+   "upc": "738287781045",
+   "upc_source": "read_from_label",
+   "location": "Household 88, slot D",
+   "label_short": "1/4-20 fluted"
+  },
+  {
+   "sku": "78105",
+   "slot_letter": "E",
+   "name": "5/16-18 x 1-3/4 fluted clamping knob, male thread",
+   "price_cents": 519,
+   "upc": "738287781052",
+   "upc_source": "read_from_label",
+   "location": "Household 88, slot E",
+   "label_short": "5/16-18 fluted"
+  },
+  {
+   "sku": "78106",
+   "slot_letter": "F",
+   "name": "3/8-16 x 1-3/4 fluted clamping knob, male thread",
+   "price_cents": 519,
+   "upc": "738287781069",
+   "upc_source": "read_from_label",
+   "location": "Household 88, slot F",
+   "label_short": "3/8-16 fluted"
+  },
+  {
+   "sku": "78121",
+   "slot_letter": "A",
+   "name": "8-32 x 3/4 knurled clamping knob, male thread",
+   "price_cents": 479,
+   "upc": "738287781212",
+   "upc_source": "read_from_label",
+   "location": "Household 89, slot A",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "78122",
+   "slot_letter": "B",
+   "name": "8-32 x 5/8 knurled clamping knob, male thread",
+   "price_cents": 479,
+   "upc": "738287781229",
+   "upc_source": "read_from_label",
+   "location": "Household 89, slot B",
+   "label_short": "8-32 x 5/8"
+  },
+  {
+   "sku": "78123",
+   "slot_letter": "C",
+   "name": "10-32 x 9/16 knurled clamping knob, male thread",
+   "price_cents": 479,
+   "upc": "738287781236",
+   "upc_source": "read_from_label",
+   "location": "Household 89, slot C",
+   "label_short": "10-32 x 9/16"
+  },
+  {
+   "sku": "78124",
+   "slot_letter": "D",
+   "name": "10-24 x 7/8 knurled clamping knob, male thread",
+   "price_cents": 479,
+   "upc": "738287781243",
+   "upc_source": "read_from_label",
+   "location": "Household 89, slot D",
+   "label_short": "10-24 x 7/8"
+  },
+  {
+   "sku": "78125",
+   "slot_letter": "E",
+   "name": "10-32 x 7/8 3-prong clamping knob, male thread",
+   "price_cents": 479,
+   "upc": "738287781250",
+   "upc_source": "read_from_label",
+   "location": "Household 89, slot E",
+   "label_short": "10-32 3-prong"
+  },
+  {
+   "sku": "78126",
+   "slot_letter": "F",
+   "name": "10-24 x 13/16 knurled clamping knob, male thread",
+   "price_cents": 479,
+   "upc": "738287781267",
+   "upc_source": "read_from_label",
+   "location": "Household 89, slot F",
+   "label_short": "10-24 x 13/16"
+  }
+ ]
+}

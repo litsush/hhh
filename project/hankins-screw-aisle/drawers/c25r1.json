@@ -1,0 +1,256 @@
+{
+ "id": "c25r1",
+ "column": 25,
+ "row": 1,
+ "half": null,
+ "title": "Specialty 5 and Specialty 6",
+ "description": "Hitch pin clips: small, .028 to .072 wire (70640), and large, 3/32 to 1/4 wire (60600).",
+ "front_image": "images/fronts/c25r1.jpg",
+ "tray_image": "images/trays/c25r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.3792,
+   "y1": 0.1812
+  },
+  {
+   "item_index": 1,
+   "x0": 0.0,
+   "y0": 0.1812,
+   "x1": 0.3792,
+   "y1": 0.34
+  },
+  {
+   "item_index": 2,
+   "x0": 0.0,
+   "y0": 0.34,
+   "x1": 0.3792,
+   "y1": 0.5
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3792,
+   "y0": 0.0,
+   "x1": 0.5625,
+   "y1": 0.5
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5625,
+   "y0": 0.0,
+   "x1": 0.7458,
+   "y1": 0.5
+  },
+  {
+   "item_index": 5,
+   "x0": 0.7458,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.125,
+   "y1": 0.875
+  },
+  {
+   "item_index": 8,
+   "x0": 0.125,
+   "y0": 0.5,
+   "x1": 0.2483,
+   "y1": 0.875
+  },
+  {
+   "item_index": 9,
+   "x0": 0.2483,
+   "y0": 0.5,
+   "x1": 0.4167,
+   "y1": 0.875
+  },
+  {
+   "item_index": 10,
+   "x0": 0.4167,
+   "y0": 0.5,
+   "x1": 0.6708,
+   "y1": 0.875
+  },
+  {
+   "item_index": 11,
+   "x0": 0.6708,
+   "y0": 0.5,
+   "x1": 0.8375,
+   "y1": 0.875
+  },
+  {
+   "item_index": 12,
+   "x0": 0.8375,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.875
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.875,
+   "x1": 0.3833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.3833,
+   "y0": 0.875,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "70641",
+   "slot_letter": "A",
+   "name": ".028 wire x .80 hitch pin clip",
+   "price_cents": 38,
+   "upc": "738287706413",
+   "upc_source": "read_from_label",
+   "location": "Specialty 5, slot A",
+   "label_short": ".028 x .80"
+  },
+  {
+   "sku": "70642",
+   "slot_letter": "B",
+   "name": ".042 wire x 1 hitch pin clip",
+   "price_cents": 41,
+   "upc": "738287706420",
+   "upc_source": "read_from_label",
+   "location": "Specialty 5, slot B",
+   "label_short": ".042 x 1"
+  },
+  {
+   "sku": "70643",
+   "slot_letter": "C",
+   "name": ".047 wire x 19/32 hitch pin clip",
+   "price_cents": 47,
+   "upc": "738287706437",
+   "upc_source": "read_from_label",
+   "location": "Specialty 5, slot C",
+   "label_short": ".047 x 19/32"
+  },
+  {
+   "sku": "70644",
+   "slot_letter": "D",
+   "name": ".054 wire x 7/8 hitch pin clip",
+   "price_cents": 49,
+   "upc": "738287706444",
+   "upc_source": "read_from_label",
+   "location": "Specialty 5, slot D",
+   "label_short": ".054 x 7/8"
+  },
+  {
+   "sku": "70645",
+   "slot_letter": "E",
+   "name": ".062 wire x 1-9/16 hitch pin clip",
+   "price_cents": 54,
+   "upc": "738287706451",
+   "upc_source": "read_from_label",
+   "location": "Specialty 5, slot E",
+   "label_short": ".062 x 1-9/16"
+  },
+  {
+   "sku": "70646",
+   "slot_letter": "F",
+   "name": ".072 wire x 1-7/8 hitch pin clip",
+   "price_cents": 61,
+   "upc": "738287706468",
+   "upc_source": "read_from_label",
+   "location": "Specialty 5, slot F",
+   "label_short": ".072 x 1-7/8"
+  },
+  {
+   "sku": "60601",
+   "slot_letter": "A",
+   "name": "3/32 x 1-5/8 hitch pin clip",
+   "price_cents": 43,
+   "upc": "738287606010",
+   "upc_source": "read_from_label",
+   "location": "Specialty 6, slot A",
+   "label_short": "3/32 x 1-5/8"
+  },
+  {
+   "sku": "60602",
+   "slot_letter": "B",
+   "name": "3/32 x 2-5/16 hitch pin clip",
+   "price_cents": 49,
+   "upc": "738287606027",
+   "upc_source": "read_from_label",
+   "location": "Specialty 6, slot B",
+   "label_short": "3/32 x 2-5/16"
+  },
+  {
+   "sku": "60603",
+   "slot_letter": "C",
+   "name": "3/32 x 2-1/2 hitch pin clip",
+   "price_cents": 55,
+   "upc": "738287606034",
+   "upc_source": "read_from_label",
+   "location": "Specialty 6, slot C",
+   "label_short": "3/32 x 2-1/2"
+  },
+  {
+   "sku": "60604",
+   "slot_letter": "D",
+   "name": "1/8 x 2-9/16 hitch pin clip",
+   "price_cents": 69,
+   "upc": "738287606041",
+   "upc_source": "read_from_label",
+   "location": "Specialty 6, slot D",
+   "label_short": "1/8 x 2-9/16"
+  },
+  {
+   "sku": "60605",
+   "slot_letter": "E",
+   "name": "5/32 x 2-15/16 hitch pin clip",
+   "price_cents": 85,
+   "upc": "738287606058",
+   "upc_source": "read_from_label",
+   "location": "Specialty 6, slot E",
+   "label_short": "5/32 x 2-15/16"
+  },
+  {
+   "sku": "60606",
+   "slot_letter": "F",
+   "name": "3/16 x 3-1/4 hitch pin clip",
+   "price_cents": 125,
+   "upc": "738287606065",
+   "upc_source": "read_from_label",
+   "location": "Specialty 6, slot F",
+   "label_short": "3/16 x 3-1/4"
+  },
+  {
+   "sku": "60607",
+   "slot_letter": "G",
+   "name": "3/16 x 3-3/4 hitch pin clip",
+   "price_cents": 145,
+   "upc": "738287606072",
+   "upc_source": "read_from_label",
+   "location": "Specialty 6, slot G",
+   "label_short": "3/16 x 3-3/4"
+  },
+  {
+   "sku": "60608",
+   "slot_letter": "H",
+   "name": "1/4 x 4-3/8 hitch pin clip",
+   "price_cents": 239,
+   "upc": "738287606089",
+   "upc_source": "read_from_label",
+   "location": "Specialty 6, slot H",
+   "label_short": "1/4 x 4-3/8"
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "id": "c07r3-right",
+ "column": 7,
+ "row": 3,
+ "half": "R",
+ "title": "Nuts 19.5",
+ "description": "Round and round projection weld nuts, 8-32 to 1/2-13 (931360)",
+ "front_image": "images/fronts/d33.jpg",
+ "tray_image": "images/trays/tray34.jpg",
+ "tray_image_px": [
+  1200,
+  540
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1333,
+   "y1": 0.463
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1333,
+   "y0": 0.0,
+   "x1": 0.2667,
+   "y1": 0.463
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2667,
+   "y0": 0.0,
+   "x1": 0.3958,
+   "y1": 0.463
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3958,
+   "y0": 0.0,
+   "x1": 0.5208,
+   "y1": 0.463
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5208,
+   "y0": 0.0,
+   "x1": 0.6792,
+   "y1": 0.463
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6792,
+   "y0": 0.0,
+   "x1": 0.8375,
+   "y1": 0.463
+  },
+  {
+   "item_index": 6,
+   "x0": 0.8375,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.463
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.463,
+   "x1": 0.2208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.2208,
+   "y0": 0.463,
+   "x1": 0.475,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.475,
+   "y0": 0.463,
+   "x1": 0.6417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.6417,
+   "y0": 0.463,
+   "x1": 0.8083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.8083,
+   "y0": 0.463,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "931361",
+   "slot_letter": "A",
+   "name": "8-32 x 1/4 round weld nut",
+   "price_cents": 52,
+   "upc": "719199313616",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19.5, slot A",
+   "label_short": "8-32 x 1/4"
+  },
+  {
+   "sku": "931362",
+   "slot_letter": "B",
+   "name": "10-24 x 5/16 round weld nut",
+   "price_cents": 52,
+   "upc": "719199313623",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19.5, slot B",
+   "label_short": "10-24 x 5/16"
+  },
+  {
+   "sku": "931363",
+   "slot_letter": "C",
+   "name": "1/4-20 x 5/16 round weld nut",
+   "price_cents": 58,
+   "upc": "719199313630",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19.5, slot C",
+   "label_short": "1/4-20 x 5/16"
+  },
+  {
+   "sku": "931364",
+   "slot_letter": "D",
+   "name": "1/4-20 x 7/16 round weld nut",
+   "price_cents": 63,
+   "upc": "719199313647",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19.5, slot D",
+   "label_short": "1/4-20 x 7/16"
+  },
+  {
+   "sku": "931365",
+   "slot_letter": "E",
+   "name": "1/4-20 x 9/16 round weld nut",
+   "price_cents": 69,
+   "upc": "719199313654",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19.5, slot E",
+   "label_short": "1/4-20 x 9/16"
+  },
+  {
+   "sku": "931366",
+   "slot_letter": "F",
+   "name": "5/16-18 x 3/8 round weld nut",
+   "price_cents": 89,
+   "upc": "719199313661",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19.5, slot F",
+   "label_short": "5/16-18 x 3/8"
+  },
+  {
+   "sku": "931367",
+   "slot_letter": "G",
+   "name": "5/16-18 x 5/8 round weld nut",
+   "price_cents": 99,
+   "upc": "719199313678",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19.5, slot G",
+   "label_short": "5/16-18 x 5/8"
+  },
+  {
+   "sku": "931368",
+   "slot_letter": "H",
+   "name": "3/8-16 x 7/16 round weld nut",
+   "price_cents": 125,
+   "upc": "719199313685",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19.5, slot H",
+   "label_short": "3/8-16 x 7/16"
+  },
+  {
+   "sku": "931371",
+   "slot_letter": "J",
+   "name": "1/2-13 x 3/8 round weld nut",
+   "price_cents": 269,
+   "upc": "719199313715",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19.5, slot J",
+   "label_short": "1/2-13 x 3/8"
+  },
+  {
+   "sku": "931372",
+   "slot_letter": "K",
+   "name": "1/4-20 x 7/16 round projection weld nut",
+   "price_cents": 99,
+   "upc": "719199313722",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19.5, slot K",
+   "label_short": "1/4-20 x 7/16"
+  },
+  {
+   "sku": "931373",
+   "slot_letter": "L",
+   "name": "5/16-18 x 3/8 round projection weld nut",
+   "price_cents": 125,
+   "upc": "719199313739",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19.5, slot L",
+   "label_short": "5/16-18 x 3/8"
+  },
+  {
+   "sku": "931374",
+   "slot_letter": "M",
+   "name": "3/8-16 x 7/16 round projection weld nut",
+   "price_cents": 145,
+   "upc": "719199313746",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19.5, slot M",
+   "label_short": "3/8-16 x 7/16"
+  }
+ ]
+}

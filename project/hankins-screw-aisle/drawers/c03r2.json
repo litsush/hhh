@@ -1,0 +1,290 @@
+{
+ "id": "c03r2",
+ "column": 3,
+ "row": 2,
+ "half": null,
+ "title": "Machine 7",
+ "description": "Aluminum slotted machine screws, round and oval head, 6-32 to 1/4-20 (61600)",
+ "front_image": "images/fronts/d12.jpg",
+ "tray_image": "images/trays/tray12.jpg",
+ "tray_image_px": [
+  1200,
+  540
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1208,
+   "y1": 0.463
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1208,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.463
+  },
+  {
+   "item_index": 2,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.3725,
+   "y1": 0.463
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3725,
+   "y0": 0.0,
+   "x1": 0.4975,
+   "y1": 0.463
+  },
+  {
+   "item_index": 4,
+   "x0": 0.4975,
+   "y0": 0.0,
+   "x1": 0.6167,
+   "y1": 0.463
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6167,
+   "y0": 0.0,
+   "x1": 0.7392,
+   "y1": 0.463
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7392,
+   "y0": 0.0,
+   "x1": 0.8583,
+   "y1": 0.463
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8583,
+   "y0": 0.0,
+   "x1": 0.9833,
+   "y1": 0.463
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.463,
+   "x1": 0.1083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1083,
+   "y0": 0.463,
+   "x1": 0.2417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2417,
+   "y0": 0.463,
+   "x1": 0.3667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3667,
+   "y0": 0.463,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5,
+   "y0": 0.463,
+   "x1": 0.625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.625,
+   "y0": 0.463,
+   "x1": 0.7542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7542,
+   "y0": 0.463,
+   "x1": 0.8792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8792,
+   "y0": 0.463,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "61601",
+   "slot_letter": "A",
+   "name": "6-32 x 3/4 aluminum round head",
+   "price_cents": 49,
+   "upc": "738287616019",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot A",
+   "label_short": "6-32 x 3/4"
+  },
+  {
+   "sku": "61602",
+   "slot_letter": "B",
+   "name": "8-32 x 1/2 aluminum round head",
+   "price_cents": 51,
+   "upc": "738287616026",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot B",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "61603",
+   "slot_letter": "C",
+   "name": "8-32 x 3/4 aluminum round head",
+   "price_cents": 55,
+   "upc": "738287616033",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot C",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "61604",
+   "slot_letter": "D",
+   "name": "10-24 x 1/2 aluminum round head",
+   "price_cents": 60,
+   "upc": "738287616040",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot D",
+   "label_short": "10-24 x 1/2"
+  },
+  {
+   "sku": "61605",
+   "slot_letter": "E",
+   "name": "10-24 x 3/4 aluminum round head",
+   "price_cents": 75,
+   "upc": "738287616057",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot E",
+   "label_short": "10-24 x 3/4"
+  },
+  {
+   "sku": "61606",
+   "slot_letter": "F",
+   "name": "10-24 x 1 aluminum round head",
+   "price_cents": 79,
+   "upc": "738287616064",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot F",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "61607",
+   "slot_letter": "G",
+   "name": "1/4-20 x 3/4 aluminum round head",
+   "price_cents": 79,
+   "upc": "738287616071",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot G",
+   "label_short": "1/4-20 x 3/4"
+  },
+  {
+   "sku": "61608",
+   "slot_letter": "H",
+   "name": "1/4-20 x 1 aluminum round head",
+   "price_cents": 85,
+   "upc": "738287616088",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot H",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "61611",
+   "slot_letter": "J",
+   "name": "1/4-20 x 1-1/2 aluminum round head",
+   "price_cents": 105,
+   "upc": "738287616118",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot J",
+   "label_short": "1/4-20 x 1-1/2"
+  },
+  {
+   "sku": "61612",
+   "slot_letter": "K",
+   "name": "6-32 x 1/2 aluminum oval head",
+   "price_cents": 46,
+   "upc": "738287616125",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot K",
+   "label_short": "6-32 x 1/2"
+  },
+  {
+   "sku": "61613",
+   "slot_letter": "L",
+   "name": "8-32 x 3/4 aluminum oval head",
+   "price_cents": 63,
+   "upc": "738287616132",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot L",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "61614",
+   "slot_letter": "M",
+   "name": "10-24 x 1 aluminum oval head",
+   "price_cents": 69,
+   "upc": "738287616149",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot M",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "61615",
+   "slot_letter": "N",
+   "name": "6-32 aluminum hex nuts",
+   "price_cents": 44,
+   "upc": "738287616156",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot N",
+   "label_short": "6-32 Nuts"
+  },
+  {
+   "sku": "61616",
+   "slot_letter": "P",
+   "name": "8-32 aluminum hex nuts",
+   "price_cents": 49,
+   "upc": "738287616163",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot P",
+   "label_short": "8-32 Nuts"
+  },
+  {
+   "sku": "61617",
+   "slot_letter": "Q",
+   "name": "10-24 aluminum hex nuts",
+   "price_cents": 55,
+   "upc": "738287616170",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot Q",
+   "label_short": "10-24 Nuts"
+  },
+  {
+   "sku": "61618",
+   "slot_letter": "R",
+   "name": "1/4-20 aluminum hex nuts",
+   "price_cents": 66,
+   "upc": "738287616187",
+   "upc_source": "read_from_label",
+   "location": "Machine 7, slot R",
+   "label_short": "1/4-20 Nuts"
+  }
+ ]
+}

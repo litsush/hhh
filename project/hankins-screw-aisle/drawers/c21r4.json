@@ -1,0 +1,444 @@
+{
+ "id": "c21r4",
+ "column": 21,
+ "row": 4,
+ "half": null,
+ "title": "Household 65 and Household 68",
+ "description": "Picture hangers, hardwall hangers, screw eyes and press-sensitive hangers (69800) in the back two rows; solid brass cup hooks 1/2 to 1-1/2 and shoulder hooks 1/2 to 1-1/2 (62660) in the front two rows",
+ "front_image": "images/fronts/c21r4.jpg",
+ "tray_image": "images/trays/c21r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1292,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1292,
+   "y0": 0.0,
+   "x1": 0.2567,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2567,
+   "y0": 0.0,
+   "x1": 0.3833,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3833,
+   "y0": 0.0,
+   "x1": 0.5458,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5458,
+   "y0": 0.0,
+   "x1": 0.7083,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 5,
+   "x0": 0.7083,
+   "y0": 0.0,
+   "x1": 0.8667,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 6,
+   "x0": 0.8667,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.2375,
+   "x1": 0.1292,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 8,
+   "x0": 0.1292,
+   "y0": 0.2375,
+   "x1": 0.2958,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 9,
+   "x0": 0.2958,
+   "y0": 0.2375,
+   "x1": 0.4167,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 10,
+   "x0": 0.4167,
+   "y0": 0.2375,
+   "x1": 0.5417,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 11,
+   "x0": 0.5417,
+   "y0": 0.2375,
+   "x1": 0.6667,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 12,
+   "x0": 0.6667,
+   "y0": 0.2375,
+   "x1": 0.7917,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 13,
+   "x0": 0.7917,
+   "y0": 0.2375,
+   "x1": 1.0,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 14,
+   "x0": 0.0,
+   "y0": 0.4813,
+   "x1": 0.1292,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 15,
+   "x0": 0.1292,
+   "y0": 0.4813,
+   "x1": 0.2567,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 16,
+   "x0": 0.2567,
+   "y0": 0.4813,
+   "x1": 0.4208,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 17,
+   "x0": 0.4208,
+   "y0": 0.4813,
+   "x1": 0.5833,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 18,
+   "x0": 0.5833,
+   "y0": 0.4813,
+   "x1": 0.8,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 19,
+   "x0": 0.8,
+   "y0": 0.4813,
+   "x1": 1.0,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 20,
+   "x0": 0.0,
+   "y0": 0.7438,
+   "x1": 0.2667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.2667,
+   "y0": 0.7438,
+   "x1": 0.3917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.3917,
+   "y0": 0.7438,
+   "x1": 0.5542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.5542,
+   "y0": 0.7438,
+   "x1": 0.7792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.7792,
+   "y0": 0.7438,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "69801",
+   "slot_letter": "A",
+   "name": "Small self-leveling picture hanger, zinc plated",
+   "price_cents": 35,
+   "upc": "738287698015",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot A",
+   "label_short": "small self-leveling"
+  },
+  {
+   "sku": "69802",
+   "slot_letter": "B",
+   "name": "Large self-leveling picture hanger, zinc plated",
+   "price_cents": 52,
+   "upc": "738287698022",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot B",
+   "label_short": "large self-leveling"
+  },
+  {
+   "sku": "69803",
+   "slot_letter": "C",
+   "name": "Easy picture hanger, brass plated, up to 10 lb",
+   "price_cents": 85,
+   "upc": "738287698039",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot C",
+   "label_short": "up to 10 lb"
+  },
+  {
+   "sku": "69804",
+   "slot_letter": "D",
+   "name": "Easy picture hanger, brass plated, up to 20 lb",
+   "price_cents": 95,
+   "upc": "738287698046",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot D",
+   "label_short": "up to 20 lb"
+  },
+  {
+   "sku": "69805",
+   "slot_letter": "E",
+   "name": "Easy picture hanger, brass plated, up to 30 lb",
+   "price_cents": 105,
+   "upc": "738287698053",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot E",
+   "label_short": "up to 30 lb"
+  },
+  {
+   "sku": "69806",
+   "slot_letter": "F",
+   "name": "Easy picture hanger, brass plated, up to 50 lb",
+   "price_cents": 115,
+   "upc": "738287698060",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot F",
+   "label_short": "up to 50 lb"
+  },
+  {
+   "sku": "69807",
+   "slot_letter": "G",
+   "name": "Self-adhesive clear plastic protective disk",
+   "price_cents": 46,
+   "upc": "738287698077",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot G",
+   "label_short": "protective disk"
+  },
+  {
+   "sku": "69808",
+   "slot_letter": "H",
+   "name": "Small hardwall picture hanger, up to 15 lb",
+   "price_cents": 139,
+   "upc": "738287698084",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot H",
+   "label_short": "small hardwall, 15 lb"
+  },
+  {
+   "sku": "69811",
+   "slot_letter": "J",
+   "name": "Large hardwall picture hanger, up to 25 lb",
+   "price_cents": 195,
+   "upc": "738287698114",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot J",
+   "label_short": "large hardwall, 25 lb"
+  },
+  {
+   "sku": "69812",
+   "slot_letter": "K",
+   "name": "No. 216-1/2 screw eye, zinc plated",
+   "price_cents": 31,
+   "upc": "738287698121",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot K",
+   "label_short": "216-1/2 screw eye",
+   "note": "A plastic bag from the neighbouring hardwall-hanger compartment lies over this compartment; a few small screw eyes are visible under it."
+  },
+  {
+   "sku": "69813",
+   "slot_letter": "L",
+   "name": "No. 214-1/2 screw eye, zinc plated",
+   "price_cents": 32,
+   "upc": "738287698138",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot L",
+   "label_short": "214-1/2 screw eye"
+  },
+  {
+   "sku": "69814",
+   "slot_letter": "M",
+   "name": "No. 212 screw eye, zinc plated",
+   "price_cents": 34,
+   "upc": "738287698145",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot M",
+   "label_short": "212 screw eye"
+  },
+  {
+   "sku": "69815",
+   "slot_letter": "N",
+   "name": "5/8 x 1-5/8 press-sensitive picture hanger",
+   "price_cents": 68,
+   "upc": "738287698152",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot N",
+   "label_short": "5/8 x 1-5/8 press-sensitive"
+  },
+  {
+   "sku": "69816",
+   "slot_letter": "P",
+   "name": "1-1/4 x 2-1/2 press-sensitive picture hanger",
+   "price_cents": 129,
+   "upc": "738287698169",
+   "upc_source": "read_from_label",
+   "location": "Household 65, slot P",
+   "label_short": "1-1/4 x 2-1/2 press-sensitive"
+  },
+  {
+   "sku": "62661",
+   "slot_letter": "A",
+   "name": "1/2 solid brass cup hook",
+   "price_cents": 46,
+   "upc": "738287626612",
+   "upc_source": "read_from_label",
+   "location": "Household 68, slot A",
+   "label_short": "1/2 cup"
+  },
+  {
+   "sku": "62662",
+   "slot_letter": "B",
+   "name": "5/8 solid brass cup hook",
+   "price_cents": 54,
+   "upc": "738287626629",
+   "upc_source": "read_from_label",
+   "location": "Household 68, slot B",
+   "label_short": "5/8 cup"
+  },
+  {
+   "sku": "62663",
+   "slot_letter": "C",
+   "name": "3/4 solid brass cup hook",
+   "price_cents": 59,
+   "upc": "738287626636",
+   "upc_source": "read_from_label",
+   "location": "Household 68, slot C",
+   "label_short": "3/4 cup"
+  },
+  {
+   "sku": "62664",
+   "slot_letter": "D",
+   "name": "7/8 solid brass cup hook",
+   "price_cents": 79,
+   "upc": "738287626643",
+   "upc_source": "read_from_label",
+   "location": "Household 68, slot D",
+   "label_short": "7/8 cup"
+  },
+  {
+   "sku": "62665",
+   "slot_letter": "E",
+   "name": "1 in. solid brass cup hook",
+   "price_cents": 95,
+   "upc": "738287626650",
+   "upc_source": "read_from_label",
+   "location": "Household 68, slot E",
+   "label_short": "1\" cup"
+  },
+  {
+   "sku": "62666",
+   "slot_letter": "F",
+   "name": "1-1/4 solid brass cup hook",
+   "price_cents": 129,
+   "upc": "738287626667",
+   "upc_source": "read_from_label",
+   "location": "Household 68, slot F",
+   "label_short": "1-1/4 cup"
+  },
+  {
+   "sku": "62667",
+   "slot_letter": "G",
+   "name": "1-1/2 solid brass cup hook",
+   "price_cents": 169,
+   "upc": "738287626674",
+   "upc_source": "read_from_label",
+   "location": "Household 68, slot G",
+   "label_short": "1-1/2 cup"
+  },
+  {
+   "sku": "62668",
+   "slot_letter": "H",
+   "name": "1/2 solid brass shoulder hook",
+   "price_cents": 56,
+   "upc": "738287626681",
+   "upc_source": "read_from_label",
+   "location": "Household 68, slot H",
+   "label_short": "1/2 shoulder"
+  },
+  {
+   "sku": "62671",
+   "slot_letter": "J",
+   "name": "3/4 solid brass shoulder hook",
+   "price_cents": 65,
+   "upc": "738287626711",
+   "upc_source": "read_from_label",
+   "location": "Household 68, slot J",
+   "label_short": "3/4 shoulder"
+  },
+  {
+   "sku": "62672",
+   "slot_letter": "K",
+   "name": "1 in. solid brass shoulder hook",
+   "price_cents": 85,
+   "upc": "738287626728",
+   "upc_source": "read_from_label",
+   "location": "Household 68, slot K",
+   "label_short": "1\" shoulder"
+  },
+  {
+   "sku": "62673",
+   "slot_letter": "L",
+   "name": "1-1/2 solid brass shoulder hook",
+   "price_cents": 135,
+   "upc": "738287626735",
+   "upc_source": "read_from_label",
+   "location": "Household 68, slot L",
+   "label_short": "1-1/2 shoulder"
+  }
+ ]
+}

@@ -1,0 +1,528 @@
+{
+ "id": "c27r2",
+ "column": 27,
+ "row": 2,
+ "half": null,
+ "title": "Specialty 33 and Specialty 34",
+ "description": "External retaining rings 1/4 to 3/4 inch and E-rings 3/16 to 5/8 inch (61080), plus C-clips 1/4 to 1-1/2 inch (70660).",
+ "front_image": "images/fronts/c27r2.jpg",
+ "tray_image": "images/trays/c27r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1333,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1333,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.3767,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3767,
+   "y0": 0.0,
+   "x1": 0.4983,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 4,
+   "x0": 0.4983,
+   "y0": 0.0,
+   "x1": 0.6183,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6183,
+   "y0": 0.0,
+   "x1": 0.735,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 6,
+   "x0": 0.735,
+   "y0": 0.0,
+   "x1": 0.8583,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8583,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.2437,
+   "x1": 0.1333,
+   "y1": 0.49
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1333,
+   "y0": 0.2437,
+   "x1": 0.2558,
+   "y1": 0.49
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2558,
+   "y0": 0.2437,
+   "x1": 0.3792,
+   "y1": 0.49
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3792,
+   "y0": 0.2437,
+   "x1": 0.5,
+   "y1": 0.49
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5,
+   "y0": 0.2437,
+   "x1": 0.6208,
+   "y1": 0.49
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6208,
+   "y0": 0.2437,
+   "x1": 0.7375,
+   "y1": 0.49
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7375,
+   "y0": 0.2437,
+   "x1": 0.8667,
+   "y1": 0.49
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8667,
+   "y0": 0.2437,
+   "x1": 1.0,
+   "y1": 0.49
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.49,
+   "x1": 0.1225,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1225,
+   "y0": 0.49,
+   "x1": 0.2483,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 18,
+   "x0": 0.2483,
+   "y0": 0.49,
+   "x1": 0.375,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 19,
+   "x0": 0.375,
+   "y0": 0.49,
+   "x1": 0.4983,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 20,
+   "x0": 0.4983,
+   "y0": 0.49,
+   "x1": 0.6233,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 21,
+   "x0": 0.6233,
+   "y0": 0.49,
+   "x1": 0.7483,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 22,
+   "x0": 0.7483,
+   "y0": 0.49,
+   "x1": 0.8733,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 23,
+   "x0": 0.8733,
+   "y0": 0.49,
+   "x1": 1.0,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0,
+   "y0": 0.7438,
+   "x1": 0.1192,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.1192,
+   "y0": 0.7438,
+   "x1": 0.2483,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.2483,
+   "y0": 0.7438,
+   "x1": 0.4083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.4083,
+   "y0": 0.7438,
+   "x1": 0.5667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.5667,
+   "y0": 0.7438,
+   "x1": 0.7833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.7833,
+   "y0": 0.7438,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "61081",
+   "slot_letter": "A",
+   "name": "1/4\" external retaining ring",
+   "price_cents": 39,
+   "upc": "738287610819",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot A",
+   "label_short": "1/4 Ext"
+  },
+  {
+   "sku": "61082",
+   "slot_letter": "B",
+   "name": "5/16\" external retaining ring",
+   "price_cents": 41,
+   "upc": "738287610826",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot B",
+   "label_short": "5/16 Ext"
+  },
+  {
+   "sku": "61083",
+   "slot_letter": "C",
+   "name": "3/8\" external retaining ring",
+   "price_cents": 45,
+   "upc": "738287610833",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot C",
+   "label_short": "3/8 Ext"
+  },
+  {
+   "sku": "61084",
+   "slot_letter": "D",
+   "name": "7/16\" external retaining ring",
+   "price_cents": 46,
+   "upc": "738287610840",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot D",
+   "label_short": "7/16 Ext"
+  },
+  {
+   "sku": "61085",
+   "slot_letter": "E",
+   "name": "1/2\" external retaining ring",
+   "price_cents": 49,
+   "upc": "738287610857",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot E",
+   "label_short": "1/2 Ext"
+  },
+  {
+   "sku": "61086",
+   "slot_letter": "F",
+   "name": "9/16\" external retaining ring",
+   "price_cents": 56,
+   "upc": "738287610864",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot F",
+   "label_short": "9/16 Ext"
+  },
+  {
+   "sku": "61087",
+   "slot_letter": "G",
+   "name": "5/8\" external retaining ring",
+   "price_cents": 61,
+   "upc": "738287610871",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot G",
+   "label_short": "5/8 Ext"
+  },
+  {
+   "sku": "61088",
+   "slot_letter": "H",
+   "name": "3/4\" external retaining ring",
+   "price_cents": 67,
+   "upc": "738287610888",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot H",
+   "label_short": "3/4 Ext"
+  },
+  {
+   "sku": "61091",
+   "slot_letter": "J",
+   "name": "3/16\" E-ring (E-clip)",
+   "price_cents": 33,
+   "upc": "738287610918",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot J",
+   "label_short": "3/16 E"
+  },
+  {
+   "sku": "61092",
+   "slot_letter": "K",
+   "name": "7/32\" E-ring (E-clip)",
+   "price_cents": 34,
+   "upc": "738287610925",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot K",
+   "label_short": "7/32 E"
+  },
+  {
+   "sku": "61093",
+   "slot_letter": "L",
+   "name": "1/4\" E-ring (E-clip)",
+   "price_cents": 38,
+   "upc": "738287610932",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot L",
+   "label_short": "1/4 E"
+  },
+  {
+   "sku": "61094",
+   "slot_letter": "M",
+   "name": "5/16\" E-ring (E-clip)",
+   "price_cents": 39,
+   "upc": "738287610949",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot M",
+   "label_short": "5/16 E"
+  },
+  {
+   "sku": "61095",
+   "slot_letter": "N",
+   "name": "3/8\" E-ring (E-clip)",
+   "price_cents": 41,
+   "upc": "738287610956",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot N",
+   "label_short": "3/8 E"
+  },
+  {
+   "sku": "61096",
+   "slot_letter": "P",
+   "name": "7/16\" E-ring (E-clip)",
+   "price_cents": 45,
+   "upc": "738287610963",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot P",
+   "label_short": "7/16 E"
+  },
+  {
+   "sku": "61097",
+   "slot_letter": "Q",
+   "name": "1/2\" E-ring (E-clip)",
+   "price_cents": 46,
+   "upc": "738287610970",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot Q",
+   "label_short": "1/2 E"
+  },
+  {
+   "sku": "61098",
+   "slot_letter": "R",
+   "name": "5/8\" E-ring (E-clip)",
+   "price_cents": 50,
+   "upc": "738287610987",
+   "upc_source": "read_from_label",
+   "location": "Specialty 33, slot R",
+   "label_short": "5/8 E"
+  },
+  {
+   "sku": "70661",
+   "slot_letter": "A",
+   "name": "1/4\" C-clip",
+   "price_cents": 34,
+   "upc": "738287706611",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot A",
+   "label_short": "1/4 C"
+  },
+  {
+   "sku": "70662",
+   "slot_letter": "B",
+   "name": "5/16\" C-clip",
+   "price_cents": 39,
+   "upc": "738287706628",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot B",
+   "label_short": "5/16 C"
+  },
+  {
+   "sku": "70663",
+   "slot_letter": "C",
+   "name": "3/8\" C-clip",
+   "price_cents": 45,
+   "upc": "738287706635",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot C",
+   "label_short": "3/8 C"
+  },
+  {
+   "sku": "70664",
+   "slot_letter": "D",
+   "name": "7/16\" C-clip",
+   "price_cents": 46,
+   "upc": "738287706642",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot D",
+   "label_short": "7/16 C"
+  },
+  {
+   "sku": "70665",
+   "slot_letter": "E",
+   "name": "1/2\" C-clip",
+   "price_cents": 49,
+   "upc": "738287706659",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot E",
+   "label_short": "1/2 C"
+  },
+  {
+   "sku": "70666",
+   "slot_letter": "F",
+   "name": "9/16\" C-clip",
+   "price_cents": 52,
+   "upc": "738287706666",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot F",
+   "label_short": "9/16 C"
+  },
+  {
+   "sku": "70667",
+   "slot_letter": "G",
+   "name": "5/8\" C-clip",
+   "price_cents": 55,
+   "upc": "738287706673",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot G",
+   "label_short": "5/8 C"
+  },
+  {
+   "sku": "70668",
+   "slot_letter": "H",
+   "name": "3/4\" C-clip",
+   "price_cents": 60,
+   "upc": "738287706680",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot H",
+   "label_short": "3/4 C"
+  },
+  {
+   "sku": "70671",
+   "slot_letter": "J",
+   "name": "7/8\" C-clip",
+   "price_cents": 67,
+   "upc": "738287706710",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot J",
+   "label_short": "7/8 C"
+  },
+  {
+   "sku": "70672",
+   "slot_letter": "K",
+   "name": "1\" C-clip",
+   "price_cents": 75,
+   "upc": "738287706727",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot K",
+   "label_short": "1\" C"
+  },
+  {
+   "sku": "70673",
+   "slot_letter": "L",
+   "name": "1-1/8\" C-clip",
+   "price_cents": 75,
+   "upc": "738287706734",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot L",
+   "label_short": "1-1/8 C"
+  },
+  {
+   "sku": "70674",
+   "slot_letter": "M",
+   "name": "1-1/4\" C-clip",
+   "price_cents": 85,
+   "upc": "738287706741",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot M",
+   "label_short": "1-1/4 C"
+  },
+  {
+   "sku": "70675",
+   "slot_letter": "N",
+   "name": "1-3/8\" C-clip",
+   "price_cents": 89,
+   "upc": "738287706758",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot N",
+   "label_short": "1-3/8 C"
+  },
+  {
+   "sku": "70676",
+   "slot_letter": "P",
+   "name": "1-1/2\" C-clip",
+   "price_cents": 95,
+   "upc": "738287706765",
+   "upc_source": "read_from_label",
+   "location": "Specialty 34, slot P",
+   "label_short": "1-1/2 C"
+  }
+ ]
+}

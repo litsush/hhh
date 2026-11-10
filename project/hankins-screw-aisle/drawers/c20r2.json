@@ -1,0 +1,394 @@
+{
+ "id": "c20r2",
+ "column": 20,
+ "row": 2,
+ "half": null,
+ "title": "Household 45 and Household 45.6",
+ "description": "Hex drive and press-in wood inserts and slot drive insert nuts, 6-32 to 5/16-18 (68460), plus 6.3mm metric Pozi drive euro screws, 7.5-30mm (35980).",
+ "front_image": "images/fronts/c20r2.jpg",
+ "tray_image": "images/trays/c20r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1375,
+   "y1": 0.25
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1375,
+   "y0": 0.0,
+   "x1": 0.2708,
+   "y1": 0.25
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2708,
+   "y0": 0.0,
+   "x1": 0.4458,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.4458,
+   "y0": 0.0,
+   "x1": 0.6083,
+   "y1": 0.25
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6083,
+   "y0": 0.0,
+   "x1": 0.7667,
+   "y1": 0.25
+  },
+  {
+   "item_index": 5,
+   "x0": 0.7667,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.25
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.25,
+   "x1": 0.1233,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 7,
+   "x0": 0.1233,
+   "y0": 0.25,
+   "x1": 0.25,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 8,
+   "x0": 0.25,
+   "y0": 0.25,
+   "x1": 0.41,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 9,
+   "x0": 0.41,
+   "y0": 0.25,
+   "x1": 0.5667,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 10,
+   "x0": 0.5667,
+   "y0": 0.25,
+   "x1": 0.7833,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 11,
+   "x0": 0.7833,
+   "y0": 0.25,
+   "x1": 1.0,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.4938,
+   "x1": 0.1792,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 13,
+   "x0": 0.1792,
+   "y0": 0.4938,
+   "x1": 0.3458,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 14,
+   "x0": 0.3458,
+   "y0": 0.4938,
+   "x1": 0.5167,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 15,
+   "x0": 0.5167,
+   "y0": 0.4938,
+   "x1": 0.6833,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 16,
+   "x0": 0.6833,
+   "y0": 0.4938,
+   "x1": 0.8458,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 17,
+   "x0": 0.8458,
+   "y0": 0.4938,
+   "x1": 1.0,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 18,
+   "x0": 0.0,
+   "y0": 0.7438,
+   "x1": 0.2667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 19,
+   "x0": 0.2667,
+   "y0": 0.7438,
+   "x1": 0.525,
+   "y1": 1.0
+  },
+  {
+   "item_index": 20,
+   "x0": 0.525,
+   "y0": 0.7438,
+   "x1": 0.7792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.7792,
+   "y0": 0.7438,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "68461",
+   "slot_letter": "A",
+   "name": "6-32 hex drive wood insert, zinc",
+   "price_cents": 69,
+   "upc": "738287684612",
+   "upc_source": "read_from_label",
+   "location": "Household 45, slot A",
+   "label_short": "6-32 hex"
+  },
+  {
+   "sku": "68462",
+   "slot_letter": "B",
+   "name": "8-32 hex drive wood insert, zinc",
+   "price_cents": 69,
+   "upc": "738287684629",
+   "upc_source": "read_from_label",
+   "location": "Household 45, slot B",
+   "label_short": "8-32 hex"
+  },
+  {
+   "sku": "68463",
+   "slot_letter": "C",
+   "name": "10-24 hex drive wood insert, zinc",
+   "price_cents": 69,
+   "upc": "738287684636",
+   "upc_source": "read_from_label",
+   "location": "Household 45, slot C",
+   "label_short": "10-24 hex"
+  },
+  {
+   "sku": "68464",
+   "slot_letter": "D",
+   "name": "10-32 hex drive wood insert, zinc",
+   "price_cents": 75,
+   "upc": "738287684643",
+   "upc_source": "read_from_label",
+   "location": "Household 45, slot D",
+   "label_short": "10-32 hex"
+  },
+  {
+   "sku": "68465",
+   "slot_letter": "E",
+   "name": "1/4-20 hex drive wood insert, zinc",
+   "price_cents": 79,
+   "upc": "738287684650",
+   "upc_source": "read_from_label",
+   "location": "Household 45, slot E",
+   "label_short": "1/4-20 hex"
+  },
+  {
+   "sku": "68466",
+   "slot_letter": "F",
+   "name": "5/16-18 hex drive wood insert, zinc",
+   "price_cents": 89,
+   "upc": "738287684667",
+   "upc_source": "read_from_label",
+   "location": "Household 45, slot F",
+   "label_short": "5/16-18 hex"
+  },
+  {
+   "sku": "68467",
+   "slot_letter": "G",
+   "name": "8-32 press-in wood insert, zinc",
+   "price_cents": 64,
+   "upc": "738287684674",
+   "upc_source": "read_from_label",
+   "location": "Household 45, slot G",
+   "label_short": "8-32 press"
+  },
+  {
+   "sku": "68468",
+   "slot_letter": "H",
+   "name": "10-24 press-in wood insert, zinc",
+   "price_cents": 69,
+   "upc": "738287684681",
+   "upc_source": "read_from_label",
+   "location": "Household 45, slot H",
+   "label_short": "10-24 press"
+  },
+  {
+   "sku": "68471",
+   "slot_letter": "J",
+   "name": "10-32 press-in wood insert, zinc",
+   "price_cents": 75,
+   "upc": "738287684711",
+   "upc_source": "read_from_label",
+   "location": "Household 45, slot J",
+   "label_short": "10-32 press"
+  },
+  {
+   "sku": "68472",
+   "slot_letter": "K",
+   "name": "1/4-20 press-in wood insert, zinc",
+   "price_cents": 79,
+   "upc": "738287684728",
+   "upc_source": "read_from_label",
+   "location": "Household 45, slot K",
+   "label_short": "1/4-20 press"
+  },
+  {
+   "sku": "68642",
+   "slot_letter": "L",
+   "name": "1/4-20 x 1/2 slot drive insert nut",
+   "price_cents": 139,
+   "upc": "738287686425",
+   "upc_source": "read_from_label",
+   "location": "Household 45, slot L",
+   "label_short": "1/4-20 x 1/2",
+   "note": "No slot letter printed on the label; letter assigned by position after K."
+  },
+  {
+   "sku": "68643",
+   "slot_letter": "M",
+   "name": "1/4-20 x 3/4 slot drive insert nut",
+   "price_cents": 179,
+   "upc": "738287686432",
+   "upc_source": "read_from_label",
+   "location": "Household 45, slot M",
+   "label_short": "1/4-20 x 3/4",
+   "note": "No slot letter printed on the label; letter assigned by position after K."
+  },
+  {
+   "sku": "35981",
+   "slot_letter": "A",
+   "name": "6.3mm x 7.5mm metric Pozi drive euro screw, nickel plated",
+   "price_cents": 36,
+   "upc": "738287359817",
+   "upc_source": "read_from_label",
+   "location": "Household 45.6, slot A",
+   "label_short": "6.3 x 7.5mm"
+  },
+  {
+   "sku": "35982",
+   "slot_letter": "B",
+   "name": "6.3mm x 10mm metric Pozi drive euro screw, nickel plated",
+   "price_cents": 37,
+   "upc": "738287359824",
+   "upc_source": "read_from_label",
+   "location": "Household 45.6, slot B",
+   "label_short": "6.3 x 10mm"
+  },
+  {
+   "sku": "35983",
+   "slot_letter": "C",
+   "name": "6.3mm x 10.5mm metric Pozi drive euro screw, nickel plated",
+   "price_cents": 39,
+   "upc": "738287359831",
+   "upc_source": "read_from_label",
+   "location": "Household 45.6, slot C",
+   "label_short": "6.3 x 10.5mm"
+  },
+  {
+   "sku": "35984",
+   "slot_letter": "D",
+   "name": "6.3mm x 11.5mm metric Pozi drive euro screw, nickel plated",
+   "price_cents": 42,
+   "upc": "738287359848",
+   "upc_source": "read_from_label",
+   "location": "Household 45.6, slot D",
+   "label_short": "6.3 x 11.5mm"
+  },
+  {
+   "sku": "35985",
+   "slot_letter": "E",
+   "name": "6.3mm x 13mm metric Pozi drive euro screw, nickel plated",
+   "price_cents": 45,
+   "upc": "738287359855",
+   "upc_source": "read_from_label",
+   "location": "Household 45.6, slot E",
+   "label_short": "6.3 x 13mm"
+  },
+  {
+   "sku": "35986",
+   "slot_letter": "F",
+   "name": "6.3mm x 14.5mm metric Pozi drive euro screw, nickel plated",
+   "price_cents": 48,
+   "upc": "738287359862",
+   "upc_source": "read_from_label",
+   "location": "Household 45.6, slot F",
+   "label_short": "6.3 x 14.5mm"
+  },
+  {
+   "sku": "35987",
+   "slot_letter": "G",
+   "name": "6.3mm x 18mm metric Pozi drive euro screw, nickel plated",
+   "price_cents": 55,
+   "upc": "738287359879",
+   "upc_source": "read_from_label",
+   "location": "Household 45.6, slot G",
+   "label_short": "6.3 x 18mm"
+  },
+  {
+   "sku": "35988",
+   "slot_letter": "H",
+   "name": "6.3mm x 20mm metric Pozi drive euro screw, nickel plated",
+   "price_cents": 58,
+   "upc": "738287359886",
+   "upc_source": "read_from_label",
+   "location": "Household 45.6, slot H",
+   "label_short": "6.3 x 20mm"
+  },
+  {
+   "sku": "35991",
+   "slot_letter": "J",
+   "name": "6.3mm x 25mm metric Pozi drive euro screw, nickel plated",
+   "price_cents": 61,
+   "upc": "738287359916",
+   "upc_source": "read_from_label",
+   "location": "Household 45.6, slot J",
+   "label_short": "6.3 x 25mm"
+  },
+  {
+   "sku": "35992",
+   "slot_letter": "K",
+   "name": "6.3mm x 30mm metric Pozi drive euro screw, nickel plated",
+   "price_cents": 64,
+   "upc": "738287359923",
+   "upc_source": "read_from_label",
+   "location": "Household 45.6, slot K",
+   "label_short": "6.3 x 30mm"
+  }
+ ]
+}

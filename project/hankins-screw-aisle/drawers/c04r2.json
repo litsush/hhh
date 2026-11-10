@@ -1,0 +1,562 @@
+{
+ "id": "c04r2",
+ "column": 4,
+ "row": 2,
+ "half": null,
+ "title": "Machines 63 and 64",
+ "description": "Slot indented hex head machine screws: 6-32 and 8-32 (65540), 10-24 and 10-32 (65560)",
+ "front_image": "images/fronts/d17.jpg",
+ "tray_image": "images/trays/tray17.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0292,
+   "y0": 0.0,
+   "x1": 0.1583,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1583,
+   "y0": 0.0,
+   "x1": 0.2817,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2817,
+   "y0": 0.0,
+   "x1": 0.4017,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 3,
+   "x0": 0.4017,
+   "y0": 0.0,
+   "x1": 0.5208,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5208,
+   "y0": 0.0,
+   "x1": 0.64,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 5,
+   "x0": 0.64,
+   "y0": 0.0,
+   "x1": 0.7542,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7542,
+   "y0": 0.0,
+   "x1": 0.875,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 7,
+   "x0": 0.875,
+   "y0": 0.0,
+   "x1": 0.9958,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 8,
+   "x0": 0.025,
+   "y0": 0.2375,
+   "x1": 0.1583,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1583,
+   "y0": 0.2375,
+   "x1": 0.2875,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2875,
+   "y0": 0.2375,
+   "x1": 0.4125,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 11,
+   "x0": 0.4125,
+   "y0": 0.2375,
+   "x1": 0.5267,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5267,
+   "y0": 0.2375,
+   "x1": 0.6483,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6483,
+   "y0": 0.2375,
+   "x1": 0.7708,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7708,
+   "y0": 0.2375,
+   "x1": 0.89,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 15,
+   "x0": 0.89,
+   "y0": 0.2375,
+   "x1": 1.0,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 16,
+   "x0": 0.025,
+   "y0": 0.4875,
+   "x1": 0.16,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 17,
+   "x0": 0.16,
+   "y0": 0.4875,
+   "x1": 0.29,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 18,
+   "x0": 0.29,
+   "y0": 0.4875,
+   "x1": 0.4167,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 19,
+   "x0": 0.4167,
+   "y0": 0.4875,
+   "x1": 0.535,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 20,
+   "x0": 0.535,
+   "y0": 0.4875,
+   "x1": 0.6583,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 21,
+   "x0": 0.6583,
+   "y0": 0.4875,
+   "x1": 0.7792,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 22,
+   "x0": 0.7792,
+   "y0": 0.4875,
+   "x1": 0.91,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 23,
+   "x0": 0.91,
+   "y0": 0.4875,
+   "x1": 1.0,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 24,
+   "x0": 0.025,
+   "y0": 0.7438,
+   "x1": 0.1667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.1667,
+   "y0": 0.7438,
+   "x1": 0.2917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.2917,
+   "y0": 0.7438,
+   "x1": 0.4208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.4208,
+   "y0": 0.7438,
+   "x1": 0.5458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.5458,
+   "y0": 0.7438,
+   "x1": 0.6733,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.6733,
+   "y0": 0.7438,
+   "x1": 0.8,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.8,
+   "y0": 0.7438,
+   "x1": 0.9233,
+   "y1": 1.0
+  },
+  {
+   "item_index": 31,
+   "x0": 0.9233,
+   "y0": 0.7438,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "65541",
+   "slot_letter": "A",
+   "name": "6-32 x 3/8 zinc slot indented hex head",
+   "price_cents": 32,
+   "upc": "738287655414",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot A",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "65542",
+   "slot_letter": "B",
+   "name": "6-32 x 1/2 zinc slot indented hex head",
+   "price_cents": 33,
+   "upc": "738287655421",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot B",
+   "label_short": "1/2"
+  },
+  {
+   "sku": "65543",
+   "slot_letter": "C",
+   "name": "6-32 x 5/8 zinc slot indented hex head",
+   "price_cents": 34,
+   "upc": "738287655438",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot C",
+   "label_short": "5/8"
+  },
+  {
+   "sku": "65544",
+   "slot_letter": "D",
+   "name": "6-32 x 3/4 zinc slot indented hex head",
+   "price_cents": 36,
+   "upc": "738287655445",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot D",
+   "label_short": "3/4"
+  },
+  {
+   "sku": "65545",
+   "slot_letter": "E",
+   "name": "6-32 x 1 zinc slot indented hex head",
+   "price_cents": 41,
+   "upc": "738287655452",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot E",
+   "label_short": "1"
+  },
+  {
+   "sku": "65546",
+   "slot_letter": "F",
+   "name": "6-32 x 1-1/4 zinc slot indented hex head",
+   "price_cents": 43,
+   "upc": "738287655469",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot F",
+   "label_short": "1-1/4"
+  },
+  {
+   "sku": "65547",
+   "slot_letter": "G",
+   "name": "6-32 x 1-1/2 zinc slot indented hex head",
+   "price_cents": 51,
+   "upc": "738287655476",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot G",
+   "label_short": "1-1/2"
+  },
+  {
+   "sku": "65548",
+   "slot_letter": "H",
+   "name": "6-32 x 2 zinc slot indented hex head",
+   "price_cents": 56,
+   "upc": "738287655483",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot H",
+   "label_short": "2"
+  },
+  {
+   "sku": "65551",
+   "slot_letter": "J",
+   "name": "8-32 x 3/8 zinc slot indented hex head",
+   "price_cents": 33,
+   "upc": "738287655513",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot J",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "65552",
+   "slot_letter": "K",
+   "name": "8-32 x 1/2 zinc slot indented hex head",
+   "price_cents": 34,
+   "upc": "738287655520",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot K",
+   "label_short": "1/2"
+  },
+  {
+   "sku": "65553",
+   "slot_letter": "L",
+   "name": "8-32 x 5/8 zinc slot indented hex head",
+   "price_cents": 36,
+   "upc": "738287655537",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot L",
+   "label_short": "5/8"
+  },
+  {
+   "sku": "65554",
+   "slot_letter": "M",
+   "name": "8-32 x 3/4 zinc slot indented hex head",
+   "price_cents": 40,
+   "upc": "738287655544",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot M",
+   "label_short": "3/4"
+  },
+  {
+   "sku": "65555",
+   "slot_letter": "N",
+   "name": "8-32 x 1 zinc slot indented hex head",
+   "price_cents": 43,
+   "upc": "738287655551",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot N",
+   "label_short": "1"
+  },
+  {
+   "sku": "65556",
+   "slot_letter": "P",
+   "name": "8-32 x 1-1/4 zinc slot indented hex head",
+   "price_cents": 53,
+   "upc": "738287655568",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot P",
+   "label_short": "1-1/4"
+  },
+  {
+   "sku": "65557",
+   "slot_letter": "Q",
+   "name": "8-32 x 1-1/2 zinc slot indented hex head",
+   "price_cents": 56,
+   "upc": "738287655575",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot Q",
+   "label_short": "1-1/2"
+  },
+  {
+   "sku": "65558",
+   "slot_letter": "R",
+   "name": "8-32 x 2 zinc slot indented hex head",
+   "price_cents": 62,
+   "upc": "738287655582",
+   "upc_source": "read_from_label",
+   "location": "Machine 63, slot R",
+   "label_short": "2"
+  },
+  {
+   "sku": "65561",
+   "slot_letter": "A",
+   "name": "10-24 x 3/8 coarse zinc slot indented hex head",
+   "price_cents": 40,
+   "upc": "738287655612",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot A",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "65562",
+   "slot_letter": "B",
+   "name": "10-24 x 1/2 coarse zinc slot indented hex head",
+   "price_cents": 42,
+   "upc": "738287655629",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot B",
+   "label_short": "1/2"
+  },
+  {
+   "sku": "65563",
+   "slot_letter": "C",
+   "name": "10-24 x 5/8 coarse zinc slot indented hex head",
+   "price_cents": 43,
+   "upc": "738287655636",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot C",
+   "label_short": "5/8"
+  },
+  {
+   "sku": "65564",
+   "slot_letter": "D",
+   "name": "10-24 x 3/4 coarse zinc slot indented hex head",
+   "price_cents": 44,
+   "upc": "738287655643",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot D",
+   "label_short": "3/4"
+  },
+  {
+   "sku": "65565",
+   "slot_letter": "E",
+   "name": "10-24 x 1 coarse zinc slot indented hex head",
+   "price_cents": 49,
+   "upc": "738287655650",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot E",
+   "label_short": "1"
+  },
+  {
+   "sku": "65566",
+   "slot_letter": "F",
+   "name": "10-24 x 1-1/4 coarse zinc slot indented hex head",
+   "price_cents": 55,
+   "upc": "738287655667",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot F",
+   "label_short": "1-1/4"
+  },
+  {
+   "sku": "65567",
+   "slot_letter": "G",
+   "name": "10-24 x 1-1/2 coarse zinc slot indented hex head",
+   "price_cents": 69,
+   "upc": "738287655674",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot G",
+   "label_short": "1-1/2"
+  },
+  {
+   "sku": "65568",
+   "slot_letter": "H",
+   "name": "10-24 x 2 coarse zinc slot indented hex head",
+   "price_cents": 85,
+   "upc": "738287655681",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot H",
+   "label_short": "2"
+  },
+  {
+   "sku": "65571",
+   "slot_letter": "J",
+   "name": "10-32 x 3/8 fine zinc slot indented hex head",
+   "price_cents": 41,
+   "upc": "738287655711",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot J",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "65572",
+   "slot_letter": "K",
+   "name": "10-32 x 1/2 fine zinc slot indented hex head",
+   "price_cents": 43,
+   "upc": "738287655728",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot K",
+   "label_short": "1/2"
+  },
+  {
+   "sku": "65573",
+   "slot_letter": "L",
+   "name": "10-32 x 5/8 fine zinc slot indented hex head",
+   "price_cents": 44,
+   "upc": "738287655735",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot L",
+   "label_short": "5/8"
+  },
+  {
+   "sku": "65574",
+   "slot_letter": "M",
+   "name": "10-32 x 3/4 fine zinc slot indented hex head",
+   "price_cents": 47,
+   "upc": "738287655742",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot M",
+   "label_short": "3/4"
+  },
+  {
+   "sku": "65575",
+   "slot_letter": "N",
+   "name": "10-32 x 1 fine zinc slot indented hex head",
+   "price_cents": 52,
+   "upc": "738287655759",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot N",
+   "label_short": "1"
+  },
+  {
+   "sku": "65576",
+   "slot_letter": "P",
+   "name": "10-32 x 1-1/4 fine zinc slot indented hex head",
+   "price_cents": 58,
+   "upc": "738287655766",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot P",
+   "label_short": "1-1/4"
+  },
+  {
+   "sku": "65577",
+   "slot_letter": "Q",
+   "name": "10-32 x 1-1/2 fine zinc slot indented hex head",
+   "price_cents": 69,
+   "upc": "738287655773",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot Q",
+   "label_short": "1-1/2"
+  },
+  {
+   "sku": "65578",
+   "slot_letter": "R",
+   "name": "10-32 x 2 fine zinc slot indented hex head",
+   "price_cents": 85,
+   "upc": "738287655780",
+   "upc_source": "read_from_label",
+   "location": "Machine 64, slot R",
+   "label_short": "2"
+  }
+ ]
+}

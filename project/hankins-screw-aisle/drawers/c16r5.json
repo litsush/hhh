@@ -1,0 +1,291 @@
+{
+ "id": "c16r5",
+ "column": 16,
+ "row": 5,
+ "half": null,
+ "title": "Socket 22",
+ "description": "Black socket set screws (hex socket, cup point), coarse thread, 8-32 and 10-24 (70760).",
+ "front_image": "images/fronts/c16r5.jpg",
+ "tray_image": "images/trays/c16r5.jpg",
+ "tray_image_px": [
+  1200,
+  580
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.125,
+   "y1": 0.5
+  },
+  {
+   "item_index": 1,
+   "x0": 0.125,
+   "y0": 0.0,
+   "x1": 0.2475,
+   "y1": 0.5
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2475,
+   "y0": 0.0,
+   "x1": 0.3667,
+   "y1": 0.5
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3667,
+   "y0": 0.0,
+   "x1": 0.4875,
+   "y1": 0.5
+  },
+  {
+   "item_index": 4,
+   "x0": 0.4875,
+   "y0": 0.0,
+   "x1": 0.6067,
+   "y1": 0.5
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6067,
+   "y0": 0.0,
+   "x1": 0.725,
+   "y1": 0.5
+  },
+  {
+   "item_index": 6,
+   "x0": 0.725,
+   "y0": 0.0,
+   "x1": 0.8483,
+   "y1": 0.5
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8483,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.125,
+   "y0": 0.5,
+   "x1": 0.2475,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2475,
+   "y0": 0.5,
+   "x1": 0.3667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3667,
+   "y0": 0.5,
+   "x1": 0.49,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.49,
+   "y0": 0.5,
+   "x1": 0.61,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.61,
+   "y0": 0.5,
+   "x1": 0.7333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7333,
+   "y0": 0.5,
+   "x1": 0.8542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8542,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "70761",
+   "slot_letter": "A",
+   "name": "8-32 x 1/8 socket set screw, black, coarse thread",
+   "price_cents": 43,
+   "upc": "738287707618",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot A",
+   "label_short": "8-32 x 1/8",
+   "note": "Compartment is nearly empty: it holds a loose clear plastic bag and only a stray screw or two."
+  },
+  {
+   "sku": "70762",
+   "slot_letter": "B",
+   "name": "8-32 x 3/16 socket set screw, black, coarse thread",
+   "price_cents": 45,
+   "upc": "738287707625",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot B",
+   "label_short": "8-32 x 3/16"
+  },
+  {
+   "sku": "70763",
+   "slot_letter": "C",
+   "name": "8-32 x 1/4 socket set screw, black, coarse thread",
+   "price_cents": 48,
+   "upc": "738287707632",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot C",
+   "label_short": "8-32 x 1/4"
+  },
+  {
+   "sku": "70764",
+   "slot_letter": "D",
+   "name": "8-32 x 5/16 socket set screw, black, coarse thread",
+   "price_cents": 50,
+   "upc": "738287707649",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot D",
+   "label_short": "8-32 x 5/16"
+  },
+  {
+   "sku": "70765",
+   "slot_letter": "E",
+   "name": "8-32 x 3/8 socket set screw, black, coarse thread",
+   "price_cents": 53,
+   "upc": "738287707656",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot E",
+   "label_short": "8-32 x 3/8"
+  },
+  {
+   "sku": "70766",
+   "slot_letter": "F",
+   "name": "8-32 x 1/2 socket set screw, black, coarse thread",
+   "price_cents": 54,
+   "upc": "738287707663",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot F",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "70767",
+   "slot_letter": "G",
+   "name": "8-32 x 3/4 socket set screw, black, coarse thread",
+   "price_cents": 60,
+   "upc": "738287707670",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot G",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "70768",
+   "slot_letter": "H",
+   "name": "8-32 x 1 socket set screw, black, coarse thread",
+   "price_cents": 69,
+   "upc": "738287707687",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot H",
+   "label_short": "8-32 x 1"
+  },
+  {
+   "sku": "70771",
+   "slot_letter": "J",
+   "name": "10-24 x 3/16 socket set screw, black, coarse thread",
+   "price_cents": 49,
+   "upc": "738287707717",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot J",
+   "label_short": "10-24 x 3/16"
+  },
+  {
+   "sku": "70772",
+   "slot_letter": "K",
+   "name": "10-24 x 1/4 socket set screw, black, coarse thread",
+   "price_cents": 50,
+   "upc": "738287707724",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot K",
+   "label_short": "10-24 x 1/4"
+  },
+  {
+   "sku": "70773",
+   "slot_letter": "L",
+   "name": "10-24 x 5/16 socket set screw, black, coarse thread",
+   "price_cents": 53,
+   "upc": "738287707731",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot L",
+   "label_short": "10-24 x 5/16"
+  },
+  {
+   "sku": "70774",
+   "slot_letter": "M",
+   "name": "10-24 x 3/8 socket set screw, black, coarse thread",
+   "price_cents": 55,
+   "upc": "738287707748",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot M",
+   "label_short": "10-24 x 3/8"
+  },
+  {
+   "sku": "70775",
+   "slot_letter": "N",
+   "name": "10-24 x 1/2 socket set screw, black, coarse thread",
+   "price_cents": 59,
+   "upc": "738287707755",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot N",
+   "label_short": "10-24 x 1/2"
+  },
+  {
+   "sku": "70776",
+   "slot_letter": "P",
+   "name": "10-24 x 3/4 socket set screw, black, coarse thread",
+   "price_cents": 66,
+   "upc": "738287707762",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot P",
+   "label_short": "10-24 x 3/4"
+  },
+  {
+   "sku": "70777",
+   "slot_letter": "Q",
+   "name": "10-24 x 1 socket set screw, black, coarse thread",
+   "price_cents": 79,
+   "upc": "738287707779",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot Q",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "70778",
+   "slot_letter": "R",
+   "name": "10-24 x 1-1/4 socket set screw, black, coarse thread",
+   "price_cents": 99,
+   "upc": "738287707786",
+   "upc_source": "read_from_label",
+   "location": "Socket 22, slot R",
+   "label_short": "10-24 x 1-1/4"
+  }
+ ]
+}

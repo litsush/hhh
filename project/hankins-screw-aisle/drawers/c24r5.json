@@ -1,0 +1,222 @@
+{
+ "id": "c24r5",
+ "column": 24,
+ "row": 5,
+ "half": null,
+ "title": "Specialty 4",
+ "description": "Hairpin (hitch pin) clips for 1/8 to 7/8 groove diameter, including two stainless steel sizes (67080)",
+ "front_image": "images/fronts/c24r5.jpg",
+ "tray_image": "images/trays/c24r5.jpg",
+ "tray_image_px": [
+  1200,
+  660
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.125,
+   "y1": 0.495
+  },
+  {
+   "item_index": 1,
+   "x0": 0.125,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.495
+  },
+  {
+   "item_index": 2,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.375,
+   "y1": 0.495
+  },
+  {
+   "item_index": 3,
+   "x0": 0.375,
+   "y0": 0.0,
+   "x1": 0.4975,
+   "y1": 0.495
+  },
+  {
+   "item_index": 4,
+   "x0": 0.4975,
+   "y0": 0.0,
+   "x1": 0.6208,
+   "y1": 0.495
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6208,
+   "y0": 0.0,
+   "x1": 0.7458,
+   "y1": 0.495
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7458,
+   "y0": 0.0,
+   "x1": 0.875,
+   "y1": 0.495
+  },
+  {
+   "item_index": 7,
+   "x0": 0.875,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.495
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.495,
+   "x1": 0.25,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.25,
+   "y0": 0.495,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.5,
+   "y0": 0.495,
+   "x1": 0.75,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.75,
+   "y0": 0.495,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "67081",
+   "slot_letter": "A",
+   "name": "Hairpin clip for 1/8 groove, 3/8 long",
+   "price_cents": 53,
+   "upc": "738287670813",
+   "upc_source": "read_from_label",
+   "location": "Specialty 4, slot A",
+   "label_short": "1/8 groove"
+  },
+  {
+   "sku": "67082",
+   "slot_letter": "B",
+   "name": "Hairpin clip for 3/16 groove, 1/2 long",
+   "price_cents": 56,
+   "upc": "738287670820",
+   "upc_source": "read_from_label",
+   "location": "Specialty 4, slot B",
+   "label_short": "3/16 groove"
+  },
+  {
+   "sku": "67083",
+   "slot_letter": "C",
+   "name": "Hairpin clip for 1/4 groove, 5/8 long",
+   "price_cents": 58,
+   "upc": "738287670837",
+   "upc_source": "read_from_label",
+   "location": "Specialty 4, slot C",
+   "label_short": "1/4 groove"
+  },
+  {
+   "sku": "67084",
+   "slot_letter": "D",
+   "name": "Hairpin clip for 5/16 groove, 3/4 long",
+   "price_cents": 59,
+   "upc": "738287670844",
+   "upc_source": "read_from_label",
+   "location": "Specialty 4, slot D",
+   "label_short": "5/16 groove"
+  },
+  {
+   "sku": "67085",
+   "slot_letter": "E",
+   "name": "Hairpin clip for 3/8 groove, 1\" long",
+   "price_cents": 61,
+   "upc": "738287670851",
+   "upc_source": "read_from_label",
+   "location": "Specialty 4, slot E",
+   "label_short": "3/8 groove"
+  },
+  {
+   "sku": "67086",
+   "slot_letter": "F",
+   "name": "Hairpin clip for 7/16 groove, 1-1/8 long",
+   "price_cents": 65,
+   "upc": "738287670868",
+   "upc_source": "read_from_label",
+   "location": "Specialty 4, slot F",
+   "label_short": "7/16 groove"
+  },
+  {
+   "sku": "67087",
+   "slot_letter": "G",
+   "name": "Hairpin clip for 1/8 groove, 3/8 long, stainless steel",
+   "price_cents": 69,
+   "upc": "738287670875",
+   "upc_source": "read_from_label",
+   "location": "Specialty 4, slot G",
+   "label_short": "1/8 groove SS"
+  },
+  {
+   "sku": "67088",
+   "slot_letter": "H",
+   "name": "Hairpin clip for 3/16 groove, 1/2 long, stainless steel",
+   "price_cents": 75,
+   "upc": "738287670882",
+   "upc_source": "read_from_label",
+   "location": "Specialty 4, slot H",
+   "label_short": "3/16 groove SS"
+  },
+  {
+   "sku": "67091",
+   "slot_letter": "J",
+   "name": "Hairpin clip for 1/2 groove, 1-1/4 long",
+   "price_cents": 68,
+   "upc": "738287670912",
+   "upc_source": "read_from_label",
+   "location": "Specialty 4, slot J",
+   "label_short": "1/2 groove"
+  },
+  {
+   "sku": "67092",
+   "slot_letter": "K",
+   "name": "Hairpin clip for 5/8 groove, 1-1/2 long",
+   "price_cents": 75,
+   "upc": "738287670929",
+   "upc_source": "read_from_label",
+   "location": "Specialty 4, slot K",
+   "label_short": "5/8 groove"
+  },
+  {
+   "sku": "67093",
+   "slot_letter": "L",
+   "name": "Hairpin clip for 3/4 groove, 1-7/8 long",
+   "price_cents": 79,
+   "upc": "738287670936",
+   "upc_source": "read_from_label",
+   "location": "Specialty 4, slot L",
+   "label_short": "3/4 groove"
+  },
+  {
+   "sku": "67094",
+   "slot_letter": "M",
+   "name": "Hairpin clip for 7/8 groove, 2-1/8 long",
+   "price_cents": 85,
+   "upc": "738287670943",
+   "upc_source": "read_from_label",
+   "location": "Specialty 4, slot M",
+   "label_short": "7/8 groove"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "id": "c11r5",
+ "column": 11,
+ "row": 5,
+ "half": null,
+ "title": "Bolts 4",
+ "description": "Full thread hex tap bolts, coarse thread, 1/2-13 x 1-1/2 to 6 (63360)",
+ "front_image": "images/fronts/c11r5.jpg",
+ "tray_image": "images/trays/c11r5.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1583,
+   "y1": 0.715
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1583,
+   "y0": 0.0,
+   "x1": 0.3417,
+   "y1": 0.715
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3417,
+   "y0": 0.0,
+   "x1": 0.5042,
+   "y1": 0.715
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5042,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.3375
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5042,
+   "y0": 0.3375,
+   "x1": 1.0,
+   "y1": 0.715
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0,
+   "y0": 0.715,
+   "x1": 0.3833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.3833,
+   "y0": 0.715,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "63362",
+   "slot_letter": "B",
+   "name": "1/2-13 x 2 full thread hex tap bolt, coarse thread, 3/4 wrench",
+   "price_cents": 129,
+   "upc": "738287633627",
+   "upc_source": "read_from_label",
+   "location": "Bolts 4, slot B",
+   "label_short": "1/2-13 x 2"
+  },
+  {
+   "sku": "63363",
+   "slot_letter": "C",
+   "name": "1/2-13 x 2-1/2 full thread hex tap bolt, coarse thread, 3/4 wrench",
+   "price_cents": 155,
+   "upc": "738287633634",
+   "upc_source": "read_from_label",
+   "location": "Bolts 4, slot C",
+   "label_short": "1/2-13 x 2-1/2"
+  },
+  {
+   "sku": "63364",
+   "slot_letter": "D",
+   "name": "1/2-13 x 3 full thread hex tap bolt, coarse thread, 3/4 wrench",
+   "price_cents": 175,
+   "upc": "738287633641",
+   "upc_source": "read_from_label",
+   "location": "Bolts 4, slot D",
+   "label_short": "1/2-13 x 3"
+  },
+  {
+   "sku": "63365",
+   "slot_letter": "E",
+   "name": "1/2-13 x 4 full thread hex tap bolt, coarse thread, 3/4 wrench",
+   "price_cents": 209,
+   "upc": "738287633658",
+   "upc_source": "read_from_label",
+   "location": "Bolts 4, slot E",
+   "label_short": "1/2-13 x 4"
+  },
+  {
+   "sku": "63366",
+   "slot_letter": "F",
+   "name": "1/2-13 x 5 full thread hex tap bolt, coarse thread, 3/4 wrench",
+   "price_cents": 269,
+   "upc": "738287633665",
+   "upc_source": "read_from_label",
+   "location": "Bolts 4, slot F",
+   "label_short": "1/2-13 x 5"
+  },
+  {
+   "sku": "63361",
+   "slot_letter": "A",
+   "name": "1/2-13 x 1-1/2 full thread hex tap bolt, coarse thread, 3/4 wrench",
+   "price_cents": 105,
+   "upc": "738287633610",
+   "upc_source": "read_from_label",
+   "location": "Bolts 4, slot A",
+   "label_short": "1/2-13 x 1-1/2"
+  },
+  {
+   "sku": "63367",
+   "slot_letter": "G",
+   "name": "1/2-13 x 6 full thread hex tap bolt, coarse thread, 3/4 wrench",
+   "price_cents": 309,
+   "upc": "738287633672",
+   "upc_source": "read_from_label",
+   "location": "Bolts 4, slot G",
+   "label_short": "1/2-13 x 6"
+  }
+ ]
+}

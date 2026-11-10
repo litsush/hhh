@@ -1,0 +1,528 @@
+{
+ "id": "c06r5",
+ "column": 6,
+ "row": 5,
+ "half": null,
+ "title": "Nuts 12 and 13",
+ "description": "Left hand thread hex nuts (60660) and square nuts (64480)",
+ "front_image": "images/fronts/d30.jpg",
+ "tray_image": "images/trays/tray30.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0125,
+   "y0": 0.0,
+   "x1": 0.1417,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1417,
+   "y0": 0.0,
+   "x1": 0.2667,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2667,
+   "y0": 0.0,
+   "x1": 0.3917,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3917,
+   "y0": 0.0,
+   "x1": 0.51,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 4,
+   "x0": 0.51,
+   "y0": 0.0,
+   "x1": 0.6375,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6375,
+   "y0": 0.0,
+   "x1": 0.7567,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7567,
+   "y0": 0.0,
+   "x1": 0.875,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 7,
+   "x0": 0.875,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 8,
+   "x0": 0.025,
+   "y0": 0.2562,
+   "x1": 0.1583,
+   "y1": 0.5125
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1583,
+   "y0": 0.2562,
+   "x1": 0.2817,
+   "y1": 0.5125
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2817,
+   "y0": 0.2562,
+   "x1": 0.4067,
+   "y1": 0.5125
+  },
+  {
+   "item_index": 11,
+   "x0": 0.4067,
+   "y0": 0.2562,
+   "x1": 0.5267,
+   "y1": 0.5125
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5267,
+   "y0": 0.2562,
+   "x1": 0.65,
+   "y1": 0.5125
+  },
+  {
+   "item_index": 13,
+   "x0": 0.65,
+   "y0": 0.2562,
+   "x1": 0.7683,
+   "y1": 0.5125
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7683,
+   "y0": 0.2562,
+   "x1": 0.8917,
+   "y1": 0.5125
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8917,
+   "y0": 0.2562,
+   "x1": 1.0,
+   "y1": 0.5125
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0292,
+   "y0": 0.5125,
+   "x1": 0.1375,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1375,
+   "y0": 0.5125,
+   "x1": 0.24,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 18,
+   "x0": 0.24,
+   "y0": 0.5125,
+   "x1": 0.34,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 19,
+   "x0": 0.34,
+   "y0": 0.5125,
+   "x1": 0.4375,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 20,
+   "x0": 0.4375,
+   "y0": 0.5125,
+   "x1": 0.535,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 21,
+   "x0": 0.535,
+   "y0": 0.5125,
+   "x1": 0.6542,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 22,
+   "x0": 0.6542,
+   "y0": 0.5125,
+   "x1": 0.7767,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 23,
+   "x0": 0.7767,
+   "y0": 0.5125,
+   "x1": 0.9,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 24,
+   "x0": 0.9,
+   "y0": 0.5125,
+   "x1": 1.0,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 25,
+   "x0": 0.0333,
+   "y0": 0.7625,
+   "x1": 0.2,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.2,
+   "y0": 0.7625,
+   "x1": 0.415,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.415,
+   "y0": 0.7625,
+   "x1": 0.615,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.615,
+   "y0": 0.7625,
+   "x1": 0.8208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.8208,
+   "y0": 0.7625,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "60661",
+   "slot_letter": "A",
+   "name": "1/4-20 left hand hex nut, yellow zinc, coarse",
+   "price_cents": 69,
+   "upc": "738287606614",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot A",
+   "label_short": "1/4-20"
+  },
+  {
+   "sku": "60662",
+   "slot_letter": "B",
+   "name": "5/16-18 left hand hex nut, yellow zinc, coarse",
+   "price_cents": 89,
+   "upc": "738287606621",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot B",
+   "label_short": "5/16-18"
+  },
+  {
+   "sku": "60663",
+   "slot_letter": "C",
+   "name": "3/8-16 left hand hex nut, yellow zinc, coarse",
+   "price_cents": 109,
+   "upc": "738287606638",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot C",
+   "label_short": "3/8-16"
+  },
+  {
+   "sku": "60664",
+   "slot_letter": "D",
+   "name": "7/16-14 left hand hex nut, yellow zinc, coarse",
+   "price_cents": 139,
+   "upc": "738287606645",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot D",
+   "label_short": "7/16-14"
+  },
+  {
+   "sku": "60665",
+   "slot_letter": "E",
+   "name": "1/2-13 left hand hex nut, yellow zinc, coarse",
+   "price_cents": 149,
+   "upc": "738287606652",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot E",
+   "label_short": "1/2-13"
+  },
+  {
+   "sku": "60666",
+   "slot_letter": "F",
+   "name": "9/16-12 left hand hex nut, yellow zinc, coarse",
+   "price_cents": 299,
+   "upc": "738287606669",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot F",
+   "label_short": "9/16-12"
+  },
+  {
+   "sku": "60667",
+   "slot_letter": "G",
+   "name": "5/8-11 left hand hex nut, yellow zinc, coarse",
+   "price_cents": 379,
+   "upc": "738287606676",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot G",
+   "label_short": "5/8-11"
+  },
+  {
+   "sku": "60668",
+   "slot_letter": "H",
+   "name": "3/4-10 left hand hex nut, yellow zinc, coarse",
+   "price_cents": 499,
+   "upc": "738287606683",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot H",
+   "label_short": "3/4-10"
+  },
+  {
+   "sku": "60671",
+   "slot_letter": "J",
+   "name": "3/4-16 left hand hex nut, plain steel, fine",
+   "price_cents": 499,
+   "upc": "738287606713",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot J",
+   "label_short": "3/4-16"
+  },
+  {
+   "sku": "60672",
+   "slot_letter": "K",
+   "name": "5/8-18 left hand hex nut, plain steel, fine",
+   "price_cents": 389,
+   "upc": "738287606720",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot K",
+   "label_short": "5/8-18"
+  },
+  {
+   "sku": "60673",
+   "slot_letter": "L",
+   "name": "9/16-18 left hand hex nut, plain steel, fine",
+   "price_cents": 309,
+   "upc": "738287606737",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot L",
+   "label_short": "9/16-18"
+  },
+  {
+   "sku": "60674",
+   "slot_letter": "M",
+   "name": "1/2-20 left hand hex nut, plain steel, fine",
+   "price_cents": 149,
+   "upc": "738287606744",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot M",
+   "label_short": "1/2-20"
+  },
+  {
+   "sku": "60675",
+   "slot_letter": "N",
+   "name": "7/16-20 left hand hex nut, plain steel, fine",
+   "price_cents": 139,
+   "upc": "738287606751",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot N",
+   "label_short": "7/16-20"
+  },
+  {
+   "sku": "60676",
+   "slot_letter": "P",
+   "name": "3/8-24 left hand hex nut, plain steel, fine",
+   "price_cents": 115,
+   "upc": "738287606768",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot P",
+   "label_short": "3/8-24"
+  },
+  {
+   "sku": "60677",
+   "slot_letter": "Q",
+   "name": "5/16-24 left hand hex nut, plain steel, fine",
+   "price_cents": 89,
+   "upc": "738287606775",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot Q",
+   "label_short": "5/16-24"
+  },
+  {
+   "sku": "60678",
+   "slot_letter": "R",
+   "name": "1/4-28 left hand hex nut, plain steel, fine",
+   "price_cents": 75,
+   "upc": "738287606782",
+   "upc_source": "read_from_label",
+   "location": "Nuts 12, slot R",
+   "label_short": "1/4-28"
+  },
+  {
+   "sku": "64481",
+   "slot_letter": "A",
+   "name": "6-32 square nut, coarse",
+   "price_cents": 21,
+   "upc": "738287644814",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot A",
+   "label_short": "6-32"
+  },
+  {
+   "sku": "64482",
+   "slot_letter": "B",
+   "name": "8-32 square nut, coarse",
+   "price_cents": 25,
+   "upc": "738287644821",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot B",
+   "label_short": "8-32"
+  },
+  {
+   "sku": "64483",
+   "slot_letter": "C",
+   "name": "10-24 square nut, coarse",
+   "price_cents": 29,
+   "upc": "738287644838",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot C",
+   "label_short": "10-24"
+  },
+  {
+   "sku": "64484",
+   "slot_letter": "D",
+   "name": "10-32 square nut, fine",
+   "price_cents": 30,
+   "upc": "738287644845",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot D",
+   "label_short": "10-32"
+  },
+  {
+   "sku": "64485",
+   "slot_letter": "E",
+   "name": "12-24 square nut, coarse",
+   "price_cents": 33,
+   "upc": "738287644852",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot E",
+   "label_short": "12-24"
+  },
+  {
+   "sku": "64486",
+   "slot_letter": "F",
+   "name": "1/4-20 square nut, coarse",
+   "price_cents": 32,
+   "upc": "738287644869",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot F",
+   "label_short": "1/4-20"
+  },
+  {
+   "sku": "64487",
+   "slot_letter": "G",
+   "name": "5/16-18 square nut, coarse",
+   "price_cents": 42,
+   "upc": "738287644876",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot G",
+   "label_short": "5/16-18"
+  },
+  {
+   "sku": "64488",
+   "slot_letter": "H",
+   "name": "3/8-16 square nut, coarse",
+   "price_cents": 55,
+   "upc": "738287644883",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot H",
+   "label_short": "3/8-16"
+  },
+  {
+   "sku": "64491",
+   "slot_letter": "J",
+   "name": "7/16-14 square nut, coarse",
+   "price_cents": 75,
+   "upc": "738287644913",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot J",
+   "label_short": "7/16-14"
+  },
+  {
+   "sku": "64492",
+   "slot_letter": "K",
+   "name": "1/2-13 square nut, coarse",
+   "price_cents": 99,
+   "upc": "738287644920",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot K",
+   "label_short": "1/2-13"
+  },
+  {
+   "sku": "64493",
+   "slot_letter": "L",
+   "name": "5/8-11 square nut, coarse",
+   "price_cents": 149,
+   "upc": "738287644937",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot L",
+   "label_short": "5/8-11"
+  },
+  {
+   "sku": "64494",
+   "slot_letter": "M",
+   "name": "3/4-10 square nut, coarse",
+   "price_cents": 199,
+   "upc": "738287644944",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot M",
+   "label_short": "3/4-10"
+  },
+  {
+   "sku": "64495",
+   "slot_letter": "N",
+   "name": "7/8-9 square nut, coarse",
+   "price_cents": 299,
+   "upc": "738287644951",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot N",
+   "label_short": "7/8-9"
+  },
+  {
+   "sku": "64496",
+   "slot_letter": "P",
+   "name": "1-8 square nut, coarse",
+   "price_cents": 439,
+   "upc": "738287644968",
+   "upc_source": "read_from_label",
+   "location": "Nuts 13, slot P",
+   "label_short": "1-8"
+  }
+ ]
+}

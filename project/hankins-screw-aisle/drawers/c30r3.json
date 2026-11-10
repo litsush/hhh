@@ -1,0 +1,358 @@
+{
+ "id": "c30r3",
+ "column": 30,
+ "row": 3,
+ "half": null,
+ "title": "Specialty 82 and Specialty 83",
+ "description": "Aluminum cable ferrules and stops, 1/16 to 1/4 (64260), and cable thimbles for 3/64 to 1/2 cable (71980)",
+ "front_image": "images/fronts/c30r3.jpg",
+ "tray_image": "images/trays/c30r3.jpg",
+ "tray_image_px": [
+  1200,
+  900
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1708,
+   "y1": 0.2467
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1708,
+   "y0": 0.0,
+   "x1": 0.3375,
+   "y1": 0.2467
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3375,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.2467
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6667,
+   "y1": 0.2467
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6667,
+   "y0": 0.0,
+   "x1": 0.8292,
+   "y1": 0.2467
+  },
+  {
+   "item_index": 5,
+   "x0": 0.8292,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2467
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.2467,
+   "x1": 0.1708,
+   "y1": 0.4944
+  },
+  {
+   "item_index": 7,
+   "x0": 0.1708,
+   "y0": 0.2467,
+   "x1": 0.3375,
+   "y1": 0.4944
+  },
+  {
+   "item_index": 8,
+   "x0": 0.3375,
+   "y0": 0.2467,
+   "x1": 0.5,
+   "y1": 0.4944
+  },
+  {
+   "item_index": 9,
+   "x0": 0.5,
+   "y0": 0.2467,
+   "x1": 0.6667,
+   "y1": 0.4944
+  },
+  {
+   "item_index": 10,
+   "x0": 0.6667,
+   "y0": 0.2467,
+   "x1": 0.8292,
+   "y1": 0.4944
+  },
+  {
+   "item_index": 11,
+   "x0": 0.8292,
+   "y0": 0.2467,
+   "x1": 1.0,
+   "y1": 0.4944
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.4944,
+   "x1": 0.1625,
+   "y1": 0.7333
+  },
+  {
+   "item_index": 13,
+   "x0": 0.1625,
+   "y0": 0.4944,
+   "x1": 0.3292,
+   "y1": 0.7333
+  },
+  {
+   "item_index": 14,
+   "x0": 0.3292,
+   "y0": 0.4944,
+   "x1": 0.5375,
+   "y1": 0.7333
+  },
+  {
+   "item_index": 15,
+   "x0": 0.5375,
+   "y0": 0.4944,
+   "x1": 0.75,
+   "y1": 0.7333
+  },
+  {
+   "item_index": 16,
+   "x0": 0.75,
+   "y0": 0.4944,
+   "x1": 1.0,
+   "y1": 0.7333
+  },
+  {
+   "item_index": 17,
+   "x0": 0.0,
+   "y0": 0.7333,
+   "x1": 0.3375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 18,
+   "x0": 0.3375,
+   "y0": 0.7333,
+   "x1": 0.6708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 19,
+   "x0": 0.6708,
+   "y0": 0.7333,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "64261",
+   "slot_letter": "A",
+   "name": "1/16 aluminum cable ferrule",
+   "price_cents": 75,
+   "upc": "738287642612",
+   "upc_source": "read_from_label",
+   "location": "Specialty 82, slot A",
+   "label_short": "1/16 ferrule"
+  },
+  {
+   "sku": "64262",
+   "slot_letter": "B",
+   "name": "3/32 aluminum cable ferrule",
+   "price_cents": 85,
+   "upc": "738287642629",
+   "upc_source": "read_from_label",
+   "location": "Specialty 82, slot B",
+   "label_short": "3/32 ferrule"
+  },
+  {
+   "sku": "64263",
+   "slot_letter": "C",
+   "name": "1/8 aluminum cable ferrule",
+   "price_cents": 89,
+   "upc": "738287642636",
+   "upc_source": "read_from_label",
+   "location": "Specialty 82, slot C",
+   "label_short": "1/8 ferrule"
+  },
+  {
+   "sku": "64264",
+   "slot_letter": "D",
+   "name": "5/32 aluminum cable ferrule",
+   "price_cents": 105,
+   "upc": "738287642643",
+   "upc_source": "read_from_label",
+   "location": "Specialty 82, slot D",
+   "label_short": "5/32 ferrule"
+  },
+  {
+   "sku": "64265",
+   "slot_letter": "E",
+   "name": "3/16 aluminum cable ferrule",
+   "price_cents": 115,
+   "upc": "738287642650",
+   "upc_source": "read_from_label",
+   "location": "Specialty 82, slot E",
+   "label_short": "3/16 ferrule"
+  },
+  {
+   "sku": "64266",
+   "slot_letter": "F",
+   "name": "1/4 aluminum cable ferrule",
+   "price_cents": 159,
+   "upc": "738287642667",
+   "upc_source": "read_from_label",
+   "location": "Specialty 82, slot F",
+   "label_short": "1/4 ferrule"
+  },
+  {
+   "sku": "64267",
+   "slot_letter": "G",
+   "name": "1/16 aluminum cable stop",
+   "price_cents": 61,
+   "upc": "738287642674",
+   "upc_source": "read_from_label",
+   "location": "Specialty 82, slot G",
+   "label_short": "1/16 stop"
+  },
+  {
+   "sku": "64268",
+   "slot_letter": "H",
+   "name": "3/32 aluminum cable stop",
+   "price_cents": 64,
+   "upc": "738287642681",
+   "upc_source": "read_from_label",
+   "location": "Specialty 82, slot H",
+   "label_short": "3/32 stop"
+  },
+  {
+   "sku": "64271",
+   "slot_letter": "J",
+   "name": "1/8 aluminum cable stop",
+   "price_cents": 75,
+   "upc": "738287642711",
+   "upc_source": "read_from_label",
+   "location": "Specialty 82, slot J",
+   "label_short": "1/8 stop"
+  },
+  {
+   "sku": "64272",
+   "slot_letter": "K",
+   "name": "5/32 aluminum cable stop",
+   "price_cents": 79,
+   "upc": "738287642728",
+   "upc_source": "read_from_label",
+   "location": "Specialty 82, slot K",
+   "label_short": "5/32 stop"
+  },
+  {
+   "sku": "64273",
+   "slot_letter": "L",
+   "name": "3/16 aluminum cable stop",
+   "price_cents": 89,
+   "upc": "738287642735",
+   "upc_source": "read_from_label",
+   "location": "Specialty 82, slot L",
+   "label_short": "3/16 stop"
+  },
+  {
+   "sku": "64274",
+   "slot_letter": "M",
+   "name": "1/4 aluminum cable stop",
+   "price_cents": 209,
+   "upc": "738287642742",
+   "upc_source": "read_from_label",
+   "location": "Specialty 82, slot M",
+   "label_short": "1/4 stop"
+  },
+  {
+   "sku": "71981",
+   "slot_letter": "A",
+   "name": "Cable thimble, fits 3/64 cable",
+   "price_cents": 105,
+   "upc": "738287719819",
+   "upc_source": "read_from_label",
+   "location": "Specialty 83, slot A",
+   "label_short": "fits 3/64"
+  },
+  {
+   "sku": "71982",
+   "slot_letter": "B",
+   "name": "Cable thimble, fits 3/32 cable",
+   "price_cents": 115,
+   "upc": "738287719826",
+   "upc_source": "read_from_label",
+   "location": "Specialty 83, slot B",
+   "label_short": "fits 3/32"
+  },
+  {
+   "sku": "71983",
+   "slot_letter": "C",
+   "name": "Cable thimble, fits 5/32 cable",
+   "price_cents": 125,
+   "upc": "738287719833",
+   "upc_source": "read_from_label",
+   "location": "Specialty 83, slot C",
+   "label_short": "fits 5/32"
+  },
+  {
+   "sku": "71984",
+   "slot_letter": "D",
+   "name": "Cable thimble, fits 3/16 cable",
+   "price_cents": 135,
+   "upc": "738287719840",
+   "upc_source": "read_from_label",
+   "location": "Specialty 83, slot D",
+   "label_short": "fits 3/16"
+  },
+  {
+   "sku": "71985",
+   "slot_letter": "E",
+   "name": "Cable thimble, fits 7/32 cable",
+   "price_cents": 159,
+   "upc": "738287719857",
+   "upc_source": "read_from_label",
+   "location": "Specialty 83, slot E",
+   "label_short": "fits 7/32"
+  },
+  {
+   "sku": "71986",
+   "slot_letter": "F",
+   "name": "Cable thimble, fits 5/16 cable",
+   "price_cents": 249,
+   "upc": "738287719864",
+   "upc_source": "read_from_label",
+   "location": "Specialty 83, slot F",
+   "label_short": "fits 5/16"
+  },
+  {
+   "sku": "71987",
+   "slot_letter": "G",
+   "name": "Cable thimble, fits 3/8 cable",
+   "price_cents": 359,
+   "upc": "738287719871",
+   "upc_source": "read_from_label",
+   "location": "Specialty 83, slot G",
+   "label_short": "fits 3/8"
+  },
+  {
+   "sku": "71988",
+   "slot_letter": "H",
+   "name": "Cable thimble, fits 1/2 cable",
+   "price_cents": 449,
+   "upc": "738287719888",
+   "upc_source": "read_from_label",
+   "location": "Specialty 83, slot H",
+   "label_short": "fits 1/2"
+  }
+ ]
+}

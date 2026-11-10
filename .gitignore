@@ -1,0 +1,10 @@
+# Too large for GitHub or not needed for the website (kept locally only)
+screw_dump/
+plys/
+/hankins-screw-aisle
+project/hankins-screw-aisle/.venv/
+project/hankins-screw-aisle/originals/*/IMG_*.jpg
+project/hankins-screw-aisle/scan/*.ply
+project/hankins-screw-aisle/scan/aisle.splat
+__pycache__/
+*.pyc

@@ -1,0 +1,222 @@
+{
+ "id": "c08r5-right",
+ "column": 8,
+ "row": 5,
+ "half": "R",
+ "title": "Nuts 37",
+ "description": "Black oxide hex and lock nuts, 6-32 to 5/16-18 (34160)",
+ "front_image": "images/fronts/d40.jpg",
+ "tray_image": "images/trays/tray43.jpg",
+ "tray_image_px": [
+  1200,
+  540
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0042,
+   "y0": 0.0,
+   "x1": 0.1708,
+   "y1": 0.4593
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1708,
+   "y0": 0.0,
+   "x1": 0.3333,
+   "y1": 0.4593
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3333,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.4593
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6542,
+   "y1": 0.4593
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6542,
+   "y0": 0.0,
+   "x1": 0.8167,
+   "y1": 0.4593
+  },
+  {
+   "item_index": 5,
+   "x0": 0.8167,
+   "y0": 0.0,
+   "x1": 0.9833,
+   "y1": 0.4593
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.4593,
+   "x1": 0.1708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.1708,
+   "y0": 0.4593,
+   "x1": 0.3417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.3417,
+   "y0": 0.4593,
+   "x1": 0.5042,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.5042,
+   "y0": 0.4593,
+   "x1": 0.6708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.6708,
+   "y0": 0.4593,
+   "x1": 0.8375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.8375,
+   "y0": 0.4593,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "34161",
+   "slot_letter": "A",
+   "name": "6-32 black oxide hex nut",
+   "price_cents": 28,
+   "upc": "738287341614",
+   "upc_source": "read_from_label",
+   "location": "Nuts 37, slot A",
+   "label_short": "6-32"
+  },
+  {
+   "sku": "34162",
+   "slot_letter": "B",
+   "name": "8-32 black oxide hex nut",
+   "price_cents": 30,
+   "upc": "738287341621",
+   "upc_source": "read_from_label",
+   "location": "Nuts 37, slot B",
+   "label_short": "8-32"
+  },
+  {
+   "sku": "34163",
+   "slot_letter": "C",
+   "name": "10-24 black oxide hex nut",
+   "price_cents": 31,
+   "upc": "738287341638",
+   "upc_source": "read_from_label",
+   "location": "Nuts 37, slot C",
+   "label_short": "10-24"
+  },
+  {
+   "sku": "34164",
+   "slot_letter": "D",
+   "name": "10-32 black oxide hex nut",
+   "price_cents": 31,
+   "upc": "738287341645",
+   "upc_source": "read_from_label",
+   "location": "Nuts 37, slot D",
+   "label_short": "10-32"
+  },
+  {
+   "sku": "34165",
+   "slot_letter": "E",
+   "name": "1/4-20 black oxide hex nut",
+   "price_cents": 32,
+   "upc": "738287341652",
+   "upc_source": "read_from_label",
+   "location": "Nuts 37, slot E",
+   "label_short": "1/4-20"
+  },
+  {
+   "sku": "34166",
+   "slot_letter": "F",
+   "name": "5/16-18 black oxide hex nut",
+   "price_cents": 32,
+   "upc": "738287341669",
+   "upc_source": "read_from_label",
+   "location": "Nuts 37, slot F",
+   "label_short": "5/16-18"
+  },
+  {
+   "sku": "34167",
+   "slot_letter": "G",
+   "name": "6-32 black oxide lock nut",
+   "price_cents": 41,
+   "upc": "738287341676",
+   "upc_source": "read_from_label",
+   "location": "Nuts 37, slot G",
+   "label_short": "6-32"
+  },
+  {
+   "sku": "34168",
+   "slot_letter": "H",
+   "name": "8-32 black oxide lock nut",
+   "price_cents": 43,
+   "upc": "738287341683",
+   "upc_source": "read_from_label",
+   "location": "Nuts 37, slot H",
+   "label_short": "8-32"
+  },
+  {
+   "sku": "34171",
+   "slot_letter": "J",
+   "name": "10-24 black oxide lock nut",
+   "price_cents": 44,
+   "upc": "738287341713",
+   "upc_source": "read_from_label",
+   "location": "Nuts 37, slot J",
+   "label_short": "10-24"
+  },
+  {
+   "sku": "34172",
+   "slot_letter": "K",
+   "name": "10-32 black oxide lock nut",
+   "price_cents": 44,
+   "upc": "738287341720",
+   "upc_source": "read_from_label",
+   "location": "Nuts 37, slot K",
+   "label_short": "10-32"
+  },
+  {
+   "sku": "34173",
+   "slot_letter": "L",
+   "name": "1/4-20 black oxide lock nut",
+   "price_cents": 57,
+   "upc": "738287341737",
+   "upc_source": "read_from_label",
+   "location": "Nuts 37, slot L",
+   "label_short": "1/4-20"
+  },
+  {
+   "sku": "34174",
+   "slot_letter": "M",
+   "name": "5/16-18 black oxide lock nut",
+   "price_cents": 57,
+   "upc": "738287341744",
+   "upc_source": "read_from_label",
+   "location": "Nuts 37, slot M",
+   "label_short": "5/16-18"
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "id": "c24r1-right",
+ "column": 24,
+ "row": 1,
+ "half": "R",
+ "title": "Nylon 3",
+ "description": "Nylon binding head and flat head machine screws, 6-32 to 1/4-20 x 1/2 to 1-1/2, with nylon hex nuts (62520)",
+ "front_image": "images/fronts/c24r1.jpg",
+ "tray_image": "images/trays/c24r1-right.jpg",
+ "tray_image_px": [
+  1200,
+  720
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1292,
+   "y1": 0.4733
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1292,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.4733
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.3792,
+   "y1": 0.4733
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3792,
+   "y0": 0.0,
+   "x1": 0.4975,
+   "y1": 0.4733
+  },
+  {
+   "item_index": 4,
+   "x0": 0.4975,
+   "y0": 0.0,
+   "x1": 0.6142,
+   "y1": 0.4733
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6142,
+   "y0": 0.0,
+   "x1": 0.725,
+   "y1": 0.4733
+  },
+  {
+   "item_index": 6,
+   "x0": 0.725,
+   "y0": 0.0,
+   "x1": 0.8433,
+   "y1": 0.4733
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8433,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4733
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.4733,
+   "x1": 0.125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.125,
+   "y0": 0.4733,
+   "x1": 0.2542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2542,
+   "y0": 0.4733,
+   "x1": 0.3792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3792,
+   "y0": 0.4733,
+   "x1": 0.5042,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5042,
+   "y0": 0.4733,
+   "x1": 0.625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.625,
+   "y0": 0.4733,
+   "x1": 0.75,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.75,
+   "y0": 0.4733,
+   "x1": 0.875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.875,
+   "y0": 0.4733,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "62521",
+   "slot_letter": "A",
+   "name": "6-32 x 1/2 nylon binding head machine screw",
+   "price_cents": 49,
+   "upc": "738287625219",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot A",
+   "label_short": "6-32 x 1/2"
+  },
+  {
+   "sku": "62522",
+   "slot_letter": "B",
+   "name": "6-32 x 1 nylon binding head machine screw",
+   "price_cents": 53,
+   "upc": "738287625226",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot B",
+   "label_short": "6-32 x 1"
+  },
+  {
+   "sku": "62523",
+   "slot_letter": "C",
+   "name": "8-32 x 1/2 nylon binding head machine screw",
+   "price_cents": 53,
+   "upc": "738287625233",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot C",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "62524",
+   "slot_letter": "D",
+   "name": "8-32 x 1 nylon binding head machine screw",
+   "price_cents": 55,
+   "upc": "738287625240",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot D",
+   "label_short": "8-32 x 1"
+  },
+  {
+   "sku": "62525",
+   "slot_letter": "E",
+   "name": "10-24 x 1 nylon binding head machine screw",
+   "price_cents": 60,
+   "upc": "738287625257",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot E",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "62526",
+   "slot_letter": "F",
+   "name": "10-24 x 1-1/2 nylon binding head machine screw",
+   "price_cents": 62,
+   "upc": "738287625264",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot F",
+   "label_short": "10-24 x 1-1/2"
+  },
+  {
+   "sku": "62527",
+   "slot_letter": "G",
+   "name": "1/4-20 x 1 nylon binding head machine screw",
+   "price_cents": 67,
+   "upc": "738287625271",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot G",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "62528",
+   "slot_letter": "H",
+   "name": "1/4-20 x 1-1/2 nylon binding head machine screw",
+   "price_cents": 75,
+   "upc": "738287625288",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot H",
+   "label_short": "1/4-20 x 1-1/2"
+  },
+  {
+   "sku": "62531",
+   "slot_letter": "J",
+   "name": "6-32 x 1 nylon flat head machine screw",
+   "price_cents": 53,
+   "upc": "738287625318",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot J",
+   "label_short": "6-32 x 1"
+  },
+  {
+   "sku": "62532",
+   "slot_letter": "K",
+   "name": "8-32 x 1 nylon flat head machine screw",
+   "price_cents": 55,
+   "upc": "738287625325",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot K",
+   "label_short": "8-32 x 1"
+  },
+  {
+   "sku": "62533",
+   "slot_letter": "L",
+   "name": "10-24 x 1 nylon flat head machine screw",
+   "price_cents": 58,
+   "upc": "738287625332",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot L",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "62534",
+   "slot_letter": "M",
+   "name": "1/4-20 x 1 nylon flat head machine screw",
+   "price_cents": 67,
+   "upc": "738287625349",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot M",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "62535",
+   "slot_letter": "N",
+   "name": "6-32 nylon hex nut",
+   "price_cents": 45,
+   "upc": "738287625356",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot N",
+   "label_short": "6-32"
+  },
+  {
+   "sku": "62536",
+   "slot_letter": "P",
+   "name": "8-32 nylon hex nut",
+   "price_cents": 49,
+   "upc": "738287625363",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot P",
+   "label_short": "8-32"
+  },
+  {
+   "sku": "62537",
+   "slot_letter": "Q",
+   "name": "10-24 nylon hex nut",
+   "price_cents": 55,
+   "upc": "738287625370",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot Q",
+   "label_short": "10-24"
+  },
+  {
+   "sku": "62538",
+   "slot_letter": "R",
+   "name": "1/4-20 nylon hex nut",
+   "price_cents": 62,
+   "upc": "738287625387",
+   "upc_source": "read_from_label",
+   "location": "Nylon 3, slot R",
+   "label_short": "1/4-20"
+  }
+ ]
+}

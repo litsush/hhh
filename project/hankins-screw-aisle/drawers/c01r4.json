@@ -1,0 +1,562 @@
+{
+ "id": "c01r4",
+ "column": 1,
+ "row": 4,
+ "half": null,
+ "title": "Machine 4 and Machine 24",
+ "description": "10-24 coarse slotted screws: round head (61480), flat head (61460)",
+ "front_image": "images/fronts/d4.jpg",
+ "tray_image": "images/trays/tray4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0317,
+   "y0": 0.0,
+   "x1": 0.1542,
+   "y1": 0.2288
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1542,
+   "y0": 0.0,
+   "x1": 0.2667,
+   "y1": 0.2288
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2667,
+   "y0": 0.0,
+   "x1": 0.3817,
+   "y1": 0.2288
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3817,
+   "y0": 0.0,
+   "x1": 0.4983,
+   "y1": 0.2288
+  },
+  {
+   "item_index": 4,
+   "x0": 0.4983,
+   "y0": 0.0,
+   "x1": 0.6108,
+   "y1": 0.2288
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6108,
+   "y0": 0.0,
+   "x1": 0.7267,
+   "y1": 0.2288
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7267,
+   "y0": 0.0,
+   "x1": 0.8417,
+   "y1": 0.2288
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8417,
+   "y0": 0.0,
+   "x1": 0.9625,
+   "y1": 0.2288
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0208,
+   "y0": 0.2288,
+   "x1": 0.1458,
+   "y1": 0.4775
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1458,
+   "y0": 0.2288,
+   "x1": 0.2683,
+   "y1": 0.4775
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2683,
+   "y0": 0.2288,
+   "x1": 0.385,
+   "y1": 0.4775
+  },
+  {
+   "item_index": 11,
+   "x0": 0.385,
+   "y0": 0.2288,
+   "x1": 0.5025,
+   "y1": 0.4775
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5025,
+   "y0": 0.2288,
+   "x1": 0.6183,
+   "y1": 0.4775
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6183,
+   "y0": 0.2288,
+   "x1": 0.7317,
+   "y1": 0.4775
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7317,
+   "y0": 0.2288,
+   "x1": 0.8458,
+   "y1": 0.4775
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8458,
+   "y0": 0.2288,
+   "x1": 0.975,
+   "y1": 0.4775
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0067,
+   "y0": 0.4775,
+   "x1": 0.1375,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1375,
+   "y0": 0.4775,
+   "x1": 0.26,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 18,
+   "x0": 0.26,
+   "y0": 0.4775,
+   "x1": 0.3792,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 19,
+   "x0": 0.3792,
+   "y0": 0.4775,
+   "x1": 0.5,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 20,
+   "x0": 0.5,
+   "y0": 0.4775,
+   "x1": 0.615,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 21,
+   "x0": 0.615,
+   "y0": 0.4775,
+   "x1": 0.7317,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 22,
+   "x0": 0.7317,
+   "y0": 0.4775,
+   "x1": 0.8517,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 23,
+   "x0": 0.8517,
+   "y0": 0.4775,
+   "x1": 0.985,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0,
+   "y0": 0.7312,
+   "x1": 0.1267,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.1267,
+   "y0": 0.7312,
+   "x1": 0.2517,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.2517,
+   "y0": 0.7312,
+   "x1": 0.3733,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.3733,
+   "y0": 0.7312,
+   "x1": 0.4983,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.4983,
+   "y0": 0.7312,
+   "x1": 0.6183,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.6183,
+   "y0": 0.7312,
+   "x1": 0.74,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.74,
+   "y0": 0.7312,
+   "x1": 0.8625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 31,
+   "x0": 0.8625,
+   "y0": 0.7312,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "61481",
+   "slot_letter": "A",
+   "name": "10-24 x 3/8 zinc round head",
+   "price_cents": 25,
+   "upc": "738287614817",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, back row, column 1",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "61482",
+   "slot_letter": "B",
+   "name": "10-24 x 1/2 zinc round head",
+   "price_cents": 28,
+   "upc": "738287614824",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, back row, column 2",
+   "label_short": "1/2"
+  },
+  {
+   "sku": "61483",
+   "slot_letter": "C",
+   "name": "10-24 x 3/4 zinc round head",
+   "price_cents": 29,
+   "upc": "738287614831",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, back row, column 3",
+   "label_short": "3/4"
+  },
+  {
+   "sku": "61484",
+   "slot_letter": "D",
+   "name": "10-24 x 1 zinc round head",
+   "price_cents": 32,
+   "upc": "738287614848",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, back row, column 4",
+   "label_short": "1"
+  },
+  {
+   "sku": "61485",
+   "slot_letter": "E",
+   "name": "10-24 x 1-1/4 zinc round head",
+   "price_cents": 32,
+   "upc": "738287614855",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, back row, column 5",
+   "label_short": "1-1/4"
+  },
+  {
+   "sku": "61486",
+   "slot_letter": "F",
+   "name": "10-24 x 1-1/2 zinc round head",
+   "price_cents": 33,
+   "upc": "738287614862",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, back row, column 6",
+   "label_short": "1-1/2"
+  },
+  {
+   "sku": "61487",
+   "slot_letter": "G",
+   "name": "10-24 x 2 zinc round head",
+   "price_cents": 42,
+   "upc": "738287614879",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, back row, column 7",
+   "label_short": "2"
+  },
+  {
+   "sku": "61488",
+   "slot_letter": "H",
+   "name": "10-24 zinc hex nuts",
+   "price_cents": 23,
+   "upc": "738287614886",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, back row, column 8",
+   "label_short": "Nuts"
+  },
+  {
+   "sku": "61491",
+   "slot_letter": "J",
+   "name": "10-24 x 3/8 brass round head",
+   "price_cents": 47,
+   "upc": "738287614916",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, front row, column 1",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "61492",
+   "slot_letter": "K",
+   "name": "10-24 x 1/2 brass round head",
+   "price_cents": 55,
+   "upc": "738287614923",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, front row, column 2",
+   "label_short": "1/2"
+  },
+  {
+   "sku": "61493",
+   "slot_letter": "L",
+   "name": "10-24 x 3/4 brass round head",
+   "price_cents": 64,
+   "upc": "738287614930",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, front row, column 3",
+   "label_short": "3/4"
+  },
+  {
+   "sku": "61494",
+   "slot_letter": "M",
+   "name": "10-24 x 1 brass round head",
+   "price_cents": 69,
+   "upc": "738287614947",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, front row, column 4",
+   "label_short": "1"
+  },
+  {
+   "sku": "61495",
+   "slot_letter": "N",
+   "name": "10-24 x 1-1/4 brass round head",
+   "price_cents": 79,
+   "upc": "738287614954",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, front row, column 5",
+   "label_short": "1-1/4"
+  },
+  {
+   "sku": "61496",
+   "slot_letter": "P",
+   "name": "10-24 x 1-1/2 brass round head",
+   "price_cents": 85,
+   "upc": "738287614961",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, front row, column 6",
+   "label_short": "1-1/2"
+  },
+  {
+   "sku": "61497",
+   "slot_letter": "Q",
+   "name": "10-24 x 2 brass round head",
+   "price_cents": 95,
+   "upc": "738287614978",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, front row, column 7",
+   "label_short": "2"
+  },
+  {
+   "sku": "61498",
+   "slot_letter": "R",
+   "name": "10-24 brass hex nuts",
+   "price_cents": 43,
+   "upc": "738287614985",
+   "upc_source": "read_from_label",
+   "location": "Machine 4, front row, column 8",
+   "label_short": "Nuts"
+  },
+  {
+   "sku": "61461",
+   "slot_letter": "A",
+   "name": "10-24 x 3/8 zinc flat head",
+   "price_cents": 25,
+   "upc": "738287614619",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, back row, column 1",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "61462",
+   "slot_letter": "B",
+   "name": "10-24 x 1/2 zinc flat head",
+   "price_cents": 27,
+   "upc": "738287614626",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, back row, column 2",
+   "label_short": "1/2"
+  },
+  {
+   "sku": "61463",
+   "slot_letter": "C",
+   "name": "10-24 x 3/4 zinc flat head",
+   "price_cents": 29,
+   "upc": "738287614633",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, back row, column 3",
+   "label_short": "3/4"
+  },
+  {
+   "sku": "61464",
+   "slot_letter": "D",
+   "name": "10-24 x 1 zinc flat head",
+   "price_cents": 32,
+   "upc": "738287614640",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, back row, column 4",
+   "label_short": "1"
+  },
+  {
+   "sku": "61465",
+   "slot_letter": "E",
+   "name": "10-24 x 1-1/4 zinc flat head",
+   "price_cents": 33,
+   "upc": "738287614657",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, back row, column 5",
+   "label_short": "1-1/4"
+  },
+  {
+   "sku": "61466",
+   "slot_letter": "F",
+   "name": "10-24 x 1-1/2 zinc flat head",
+   "price_cents": 36,
+   "upc": "738287614664",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, back row, column 6",
+   "label_short": "1-1/2"
+  },
+  {
+   "sku": "61467",
+   "slot_letter": "G",
+   "name": "10-24 x 2 zinc flat head",
+   "price_cents": 42,
+   "upc": "738287614671",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, back row, column 7",
+   "label_short": "2"
+  },
+  {
+   "sku": "61468",
+   "slot_letter": "H",
+   "name": "10-24 zinc hex nuts",
+   "price_cents": 23,
+   "upc": "738287614688",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, back row, column 8",
+   "label_short": "Nuts"
+  },
+  {
+   "sku": "61471",
+   "slot_letter": "J",
+   "name": "10-24 x 3/8 brass flat head",
+   "price_cents": 56,
+   "upc": "738287614718",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, front row, column 1",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "61472",
+   "slot_letter": "K",
+   "name": "10-24 x 1/2 brass flat head",
+   "price_cents": 63,
+   "upc": "738287614725",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, front row, column 2",
+   "label_short": "1/2"
+  },
+  {
+   "sku": "61473",
+   "slot_letter": "L",
+   "name": "10-24 x 3/4 brass flat head",
+   "price_cents": 75,
+   "upc": "738287614732",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, front row, column 3",
+   "label_short": "3/4"
+  },
+  {
+   "sku": "61474",
+   "slot_letter": "M",
+   "name": "10-24 x 1 brass flat head",
+   "price_cents": 79,
+   "upc": "738287614749",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, front row, column 4",
+   "label_short": "1"
+  },
+  {
+   "sku": "61475",
+   "slot_letter": "N",
+   "name": "10-24 x 1-1/4 brass flat head",
+   "price_cents": 89,
+   "upc": "738287614756",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, front row, column 5",
+   "label_short": "1-1/4"
+  },
+  {
+   "sku": "61476",
+   "slot_letter": "P",
+   "name": "10-24 x 1-1/2 brass flat head",
+   "price_cents": 99,
+   "upc": "738287614763",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, front row, column 6",
+   "label_short": "1-1/2"
+  },
+  {
+   "sku": "61477",
+   "slot_letter": "Q",
+   "name": "10-24 x 2 brass flat head",
+   "price_cents": 119,
+   "upc": "738287614770",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, front row, column 7",
+   "label_short": "2"
+  },
+  {
+   "sku": "61478",
+   "slot_letter": "R",
+   "name": "10-24 brass hex nuts",
+   "price_cents": 43,
+   "upc": "738287614787",
+   "upc_source": "read_from_label",
+   "location": "Machine 24, front row, column 8",
+   "label_short": "Nuts"
+  }
+ ]
+}

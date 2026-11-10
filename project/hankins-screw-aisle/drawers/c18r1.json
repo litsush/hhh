@@ -1,0 +1,461 @@
+{
+ "id": "c18r1",
+ "column": 18,
+ "row": 1,
+ "half": null,
+ "title": "Household 8 and Household 11",
+ "description": "Storm door and window offset clips in gray, white and black, 1/16 to 7/16 (72020), and aluminum storm door and window screen fasteners: wood screws, binding posts, thumb screws, screen clips and sheet metal screws (62360)",
+ "front_image": "images/fronts/c18r1.jpg",
+ "tray_image": "images/trays/c18r1.jpg",
+ "tray_image_px": [
+  1200,
+  900
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0458,
+   "y0": 0.0,
+   "x1": 0.2083,
+   "y1": 0.2056
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2083,
+   "y0": 0.0,
+   "x1": 0.3458,
+   "y1": 0.2056
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3458,
+   "y0": 0.0,
+   "x1": 0.5375,
+   "y1": 0.2056
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5375,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.2056
+  },
+  {
+   "item_index": 4,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 0.9542,
+   "y1": 0.2056
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0375,
+   "y0": 0.2056,
+   "x1": 0.2042,
+   "y1": 0.4333
+  },
+  {
+   "item_index": 6,
+   "x0": 0.2042,
+   "y0": 0.2056,
+   "x1": 0.3583,
+   "y1": 0.4333
+  },
+  {
+   "item_index": 7,
+   "x0": 0.3583,
+   "y0": 0.2056,
+   "x1": 0.5083,
+   "y1": 0.4333
+  },
+  {
+   "item_index": 8,
+   "x0": 0.5083,
+   "y0": 0.2056,
+   "x1": 0.6625,
+   "y1": 0.4333
+  },
+  {
+   "item_index": 9,
+   "x0": 0.6625,
+   "y0": 0.2056,
+   "x1": 0.8208,
+   "y1": 0.4333
+  },
+  {
+   "item_index": 10,
+   "x0": 0.8208,
+   "y0": 0.2056,
+   "x1": 0.9833,
+   "y1": 0.4333
+  },
+  {
+   "item_index": 11,
+   "x0": 0.0167,
+   "y0": 0.4333,
+   "x1": 0.1458,
+   "y1": 0.7
+  },
+  {
+   "item_index": 12,
+   "x0": 0.1458,
+   "y0": 0.4333,
+   "x1": 0.2708,
+   "y1": 0.7
+  },
+  {
+   "item_index": 13,
+   "x0": 0.2708,
+   "y0": 0.4333,
+   "x1": 0.3917,
+   "y1": 0.7
+  },
+  {
+   "item_index": 14,
+   "x0": 0.3917,
+   "y0": 0.4333,
+   "x1": 0.6292,
+   "y1": 0.7
+  },
+  {
+   "item_index": 15,
+   "x0": 0.6292,
+   "y0": 0.4333,
+   "x1": 0.7542,
+   "y1": 0.7
+  },
+  {
+   "item_index": 16,
+   "x0": 0.7542,
+   "y0": 0.4333,
+   "x1": 0.8708,
+   "y1": 0.7
+  },
+  {
+   "item_index": 17,
+   "x0": 0.8708,
+   "y0": 0.4333,
+   "x1": 1.0,
+   "y1": 0.7
+  },
+  {
+   "item_index": 18,
+   "x0": 0.0,
+   "y0": 0.7,
+   "x1": 0.1292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 19,
+   "x0": 0.1292,
+   "y0": 0.7,
+   "x1": 0.2583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 20,
+   "x0": 0.2583,
+   "y0": 0.7,
+   "x1": 0.3917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.3917,
+   "y0": 0.7,
+   "x1": 0.5208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.5208,
+   "y0": 0.7,
+   "x1": 0.6542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.6542,
+   "y0": 0.7,
+   "x1": 0.7875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.7875,
+   "y0": 0.7,
+   "x1": 0.9167,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.9167,
+   "y0": 0.7,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "72021",
+   "slot_letter": "A",
+   "name": "1/16\" offset storm door and window clip, gray",
+   "price_cents": 75,
+   "upc": "738287720211",
+   "upc_source": "read_from_label",
+   "location": "Household 8, slot A",
+   "label_short": "1/16 gray",
+   "note": "Compartment holds only a single stray screw; no 1/16\" gray clips visible."
+  },
+  {
+   "sku": "72022",
+   "slot_letter": "B",
+   "name": "3/16\" offset storm door and window clip, gray",
+   "price_cents": 79,
+   "upc": "738287720228",
+   "upc_source": "read_from_label",
+   "location": "Household 8, slot B",
+   "label_short": "3/16 gray"
+  },
+  {
+   "sku": "72023",
+   "slot_letter": "C",
+   "name": "5/16\" offset storm door and window clip, gray",
+   "price_cents": 79,
+   "upc": "738287720235",
+   "upc_source": "read_from_label",
+   "location": "Household 8, slot C",
+   "label_short": "5/16 gray"
+  },
+  {
+   "sku": "72024",
+   "slot_letter": "D",
+   "name": "3/8\" offset storm door and window clip, gray",
+   "price_cents": 85,
+   "upc": "738287720242",
+   "upc_source": "read_from_label",
+   "location": "Household 8, slot D",
+   "label_short": "3/8 gray"
+  },
+  {
+   "sku": "72025",
+   "slot_letter": "E",
+   "name": "7/16\" offset storm door and window clip, gray",
+   "price_cents": 85,
+   "upc": "738287720259",
+   "upc_source": "read_from_label",
+   "location": "Household 8, slot E",
+   "label_short": "7/16 gray"
+  },
+  {
+   "sku": "72026",
+   "slot_letter": "F",
+   "name": "5/16\" offset storm door and window clip, white",
+   "price_cents": 79,
+   "upc": "738287720266",
+   "upc_source": "read_from_label",
+   "location": "Household 8, slot F",
+   "label_short": "5/16 white"
+  },
+  {
+   "sku": "72027",
+   "slot_letter": "G",
+   "name": "3/8\" offset storm door and window clip, white",
+   "price_cents": 85,
+   "upc": "738287720273",
+   "upc_source": "read_from_label",
+   "location": "Household 8, slot G",
+   "label_short": "3/8 white"
+  },
+  {
+   "sku": "72028",
+   "slot_letter": "H",
+   "name": "7/16\" offset storm door and window clip, white",
+   "price_cents": 85,
+   "upc": "738287720280",
+   "upc_source": "read_from_label",
+   "location": "Household 8, slot H",
+   "label_short": "7/16 white"
+  },
+  {
+   "sku": "72031",
+   "slot_letter": "J",
+   "name": "5/16\" offset storm door and window clip, black",
+   "price_cents": 79,
+   "upc": "738287720310",
+   "upc_source": "read_from_label",
+   "location": "Household 8, slot J",
+   "label_short": "5/16 black"
+  },
+  {
+   "sku": "72032",
+   "slot_letter": "K",
+   "name": "3/8\" offset storm door and window clip, black",
+   "price_cents": 85,
+   "upc": "738287720327",
+   "upc_source": "read_from_label",
+   "location": "Household 8, slot K",
+   "label_short": "3/8 black"
+  },
+  {
+   "sku": "72033",
+   "slot_letter": "L",
+   "name": "7/16\" offset storm door and window clip, black",
+   "price_cents": 85,
+   "upc": "738287720334",
+   "upc_source": "read_from_label",
+   "location": "Household 8, slot L",
+   "label_short": "7/16 black"
+  },
+  {
+   "sku": "62361",
+   "slot_letter": "A",
+   "name": "No. 6 x 3/4 Phillips round head wood screw, aluminum",
+   "price_cents": 51,
+   "upc": "738287623611",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot A",
+   "label_short": "6 x 3/4"
+  },
+  {
+   "sku": "62362",
+   "slot_letter": "B",
+   "name": "No. 8 x 1 Phillips round head wood screw, aluminum",
+   "price_cents": 55,
+   "upc": "738287623628",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot B",
+   "label_short": "8 x 1"
+  },
+  {
+   "sku": "62363",
+   "slot_letter": "C",
+   "name": "No. 8 x 1-1/4 Phillips round head wood screw, aluminum",
+   "price_cents": 63,
+   "upc": "738287623635",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot C",
+   "label_short": "8 x 1-1/4"
+  },
+  {
+   "sku": "62364",
+   "slot_letter": "D",
+   "name": "No. 10 x 2-1/2 Phillips round head wood screw, aluminum",
+   "price_cents": 105,
+   "upc": "738287623642",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot D",
+   "label_short": "10 x 2-1/2"
+  },
+  {
+   "sku": "62365",
+   "slot_letter": "E",
+   "name": "8-32 x 1 binding post, aluminum",
+   "price_cents": 115,
+   "upc": "738287623659",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot E",
+   "label_short": "8-32 x 1 post"
+  },
+  {
+   "sku": "62366",
+   "slot_letter": "F",
+   "name": "8-32 x 1-1/2 binding post, aluminum",
+   "price_cents": 129,
+   "upc": "738287623666",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot F",
+   "label_short": "8-32 x 1-1/2 post"
+  },
+  {
+   "sku": "62367",
+   "slot_letter": "G",
+   "name": "8-32 x 2 binding post, aluminum",
+   "price_cents": 145,
+   "upc": "738287623673",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot G",
+   "label_short": "8-32 x 2 post"
+  },
+  {
+   "sku": "62368",
+   "slot_letter": "H",
+   "name": "8-32 x 5/8 two-sided binding post, aluminum",
+   "price_cents": 115,
+   "upc": "738287623680",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot H",
+   "label_short": "8-32 x 5/8 2-sided"
+  },
+  {
+   "sku": "62371",
+   "slot_letter": "J",
+   "name": "8-32 x 3/8 slotted binding post machine screw, aluminum",
+   "price_cents": 44,
+   "upc": "738287623710",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot J",
+   "label_short": "8-32 x 3/8 slotted"
+  },
+  {
+   "sku": "62372",
+   "slot_letter": "K",
+   "name": "6-32 x 9/16 knurled shoulder thumb screw, aluminum",
+   "price_cents": 95,
+   "upc": "738287623727",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot K",
+   "label_short": "6-32 x 9/16 thumb"
+  },
+  {
+   "sku": "62373",
+   "slot_letter": "L",
+   "name": "8-32 x 9/16 knurled shoulder thumb screw, aluminum",
+   "price_cents": 105,
+   "upc": "738287623734",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot L",
+   "label_short": "8-32 x 9/16 thumb"
+  },
+  {
+   "sku": "62374",
+   "slot_letter": "M",
+   "name": "C121 screen clip, aluminum",
+   "price_cents": 69,
+   "upc": "738287623741",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot M",
+   "label_short": "C121 clip"
+  },
+  {
+   "sku": "62375",
+   "slot_letter": "N",
+   "name": "C141 screen clip, aluminum",
+   "price_cents": 75,
+   "upc": "738287623758",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot N",
+   "label_short": "C141 clip"
+  },
+  {
+   "sku": "62376",
+   "slot_letter": "P",
+   "name": "No. 8 x 3/4 slotted hex washer head sheet metal screw, aluminum",
+   "price_cents": 57,
+   "upc": "738287623765",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot P",
+   "label_short": "8 x 3/4 hex wash"
+  },
+  {
+   "sku": "62377",
+   "slot_letter": "Q",
+   "name": "No. 8 x 1 slotted hex washer head sheet metal screw, aluminum",
+   "price_cents": 59,
+   "upc": "738287623772",
+   "upc_source": "read_from_label",
+   "location": "Household 11, slot Q",
+   "label_short": "8 x 1 hex wash"
+  }
+ ]
+}

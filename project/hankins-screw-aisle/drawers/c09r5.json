@@ -1,0 +1,392 @@
+{
+ "id": "c09r5",
+ "column": 9,
+ "row": 5,
+ "half": null,
+ "title": "Washers 12 and 21.5",
+ "description": "Finishing washers (61840) and black oxide finishing washers (36320)",
+ "front_image": "images/fronts/d45.jpg",
+ "tray_image": "images/trays/tray48.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0208,
+   "y0": 0.0,
+   "x1": 0.1542,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1542,
+   "y0": 0.0,
+   "x1": 0.275,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 2,
+   "x0": 0.275,
+   "y0": 0.0,
+   "x1": 0.3942,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3942,
+   "y0": 0.0,
+   "x1": 0.51,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 4,
+   "x0": 0.51,
+   "y0": 0.0,
+   "x1": 0.6292,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6292,
+   "y0": 0.0,
+   "x1": 0.7475,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7475,
+   "y0": 0.0,
+   "x1": 0.8625,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8625,
+   "y0": 0.0,
+   "x1": 0.9833,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0167,
+   "y0": 0.2475,
+   "x1": 0.1483,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1483,
+   "y0": 0.2475,
+   "x1": 0.2733,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2733,
+   "y0": 0.2475,
+   "x1": 0.3933,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3933,
+   "y0": 0.2475,
+   "x1": 0.5167,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5167,
+   "y0": 0.2475,
+   "x1": 0.6333,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6333,
+   "y0": 0.2475,
+   "x1": 0.7475,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7475,
+   "y0": 0.2475,
+   "x1": 0.8667,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8667,
+   "y0": 0.2475,
+   "x1": 0.9917,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0167,
+   "y0": 0.4938,
+   "x1": 0.3542,
+   "y1": 0.75
+  },
+  {
+   "item_index": 17,
+   "x0": 0.3542,
+   "y0": 0.4938,
+   "x1": 0.675,
+   "y1": 0.75
+  },
+  {
+   "item_index": 18,
+   "x0": 0.675,
+   "y0": 0.4938,
+   "x1": 0.9958,
+   "y1": 0.75
+  },
+  {
+   "item_index": 19,
+   "x0": 0.0125,
+   "y0": 0.75,
+   "x1": 0.3542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 20,
+   "x0": 0.3542,
+   "y0": 0.75,
+   "x1": 0.675,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.675,
+   "y0": 0.75,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "61841",
+   "slot_letter": "A",
+   "name": "No. 6 nickel plated steel finishing washer",
+   "price_cents": 24,
+   "upc": "738287618419",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot A",
+   "label_short": "No. 6"
+  },
+  {
+   "sku": "61842",
+   "slot_letter": "B",
+   "name": "No. 8 nickel plated steel finishing washer",
+   "price_cents": 26,
+   "upc": "738287618426",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot B",
+   "label_short": "No. 8"
+  },
+  {
+   "sku": "61843",
+   "slot_letter": "C",
+   "name": "No. 10 nickel plated steel finishing washer",
+   "price_cents": 27,
+   "upc": "738287618433",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot C",
+   "label_short": "No. 10"
+  },
+  {
+   "sku": "61844",
+   "slot_letter": "D",
+   "name": "No. 12 nickel plated steel finishing washer",
+   "price_cents": 29,
+   "upc": "738287618440",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot D",
+   "label_short": "No. 12"
+  },
+  {
+   "sku": "61845",
+   "slot_letter": "E",
+   "name": "No. 14 nickel plated steel finishing washer",
+   "price_cents": 32,
+   "upc": "738287618457",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot E",
+   "label_short": "No. 14"
+  },
+  {
+   "sku": "61846",
+   "slot_letter": "F",
+   "name": "No. 16 nickel plated steel finishing washer",
+   "price_cents": 37,
+   "upc": "738287618464",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot F",
+   "label_short": "No. 16"
+  },
+  {
+   "sku": "61847",
+   "slot_letter": "G",
+   "name": "No. 6 brass finishing washer",
+   "price_cents": 28,
+   "upc": "738287618471",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot G",
+   "label_short": "No. 6"
+  },
+  {
+   "sku": "61848",
+   "slot_letter": "H",
+   "name": "No. 8 brass finishing washer",
+   "price_cents": 32,
+   "upc": "738287618488",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot H",
+   "label_short": "No. 8"
+  },
+  {
+   "sku": "61851",
+   "slot_letter": "J",
+   "name": "No. 6 aluminum finishing washer",
+   "price_cents": 35,
+   "upc": "738287618518",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot J",
+   "label_short": "No. 6"
+  },
+  {
+   "sku": "61852",
+   "slot_letter": "K",
+   "name": "No. 8 aluminum finishing washer",
+   "price_cents": 43,
+   "upc": "738287618525",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot K",
+   "label_short": "No. 8"
+  },
+  {
+   "sku": "61853",
+   "slot_letter": "L",
+   "name": "No. 10 aluminum finishing washer",
+   "price_cents": 50,
+   "upc": "738287618532",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot L",
+   "label_short": "No. 10"
+  },
+  {
+   "sku": "61854",
+   "slot_letter": "M",
+   "name": "No. 6 nickel plated brass finishing washer",
+   "price_cents": 32,
+   "upc": "738287618549",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot M",
+   "label_short": "No. 6"
+  },
+  {
+   "sku": "61855",
+   "slot_letter": "N",
+   "name": "No. 8 nickel plated brass finishing washer",
+   "price_cents": 38,
+   "upc": "738287618556",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot N",
+   "label_short": "No. 8"
+  },
+  {
+   "sku": "61856",
+   "slot_letter": "P",
+   "name": "No. 10 nickel plated brass finishing washer",
+   "price_cents": 45,
+   "upc": "738287618563",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot P",
+   "label_short": "No. 10"
+  },
+  {
+   "sku": "61857",
+   "slot_letter": "Q",
+   "name": "No. 10 brass finishing washer",
+   "price_cents": 37,
+   "upc": "738287618570",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot Q",
+   "label_short": "No. 10"
+  },
+  {
+   "sku": "61858",
+   "slot_letter": "R",
+   "name": "No. 12 brass finishing washer",
+   "price_cents": 48,
+   "upc": "738287618587",
+   "upc_source": "read_from_label",
+   "location": "Washers 12, slot R",
+   "label_short": "No. 12"
+  },
+  {
+   "sku": "36321",
+   "slot_letter": "A",
+   "name": "No. 4 black oxide finishing washer",
+   "price_cents": 25,
+   "upc": "738287363210",
+   "upc_source": "read_from_label",
+   "location": "Washers 21.5, slot A",
+   "label_short": "No. 4"
+  },
+  {
+   "sku": "36322",
+   "slot_letter": "B",
+   "name": "No. 6 black oxide finishing washer",
+   "price_cents": 28,
+   "upc": "738287363227",
+   "upc_source": "read_from_label",
+   "location": "Washers 21.5, slot B",
+   "label_short": "No. 6"
+  },
+  {
+   "sku": "36323",
+   "slot_letter": "C",
+   "name": "No. 8 black oxide finishing washer",
+   "price_cents": 32,
+   "upc": "738287363234",
+   "upc_source": "read_from_label",
+   "location": "Washers 21.5, slot C",
+   "label_short": "No. 8"
+  },
+  {
+   "sku": "36324",
+   "slot_letter": "D",
+   "name": "No. 10 black oxide finishing washer",
+   "price_cents": 38,
+   "upc": "738287363241",
+   "upc_source": "read_from_label",
+   "location": "Washers 21.5, slot D",
+   "label_short": "No. 10"
+  },
+  {
+   "sku": "36325",
+   "slot_letter": "E",
+   "name": "1/4 black oxide finishing washer",
+   "price_cents": 66,
+   "upc": "738287363258",
+   "upc_source": "read_from_label",
+   "location": "Washers 21.5, slot E",
+   "label_short": "1/4"
+  },
+  {
+   "sku": "36326",
+   "slot_letter": "F",
+   "name": "5/16 black oxide finishing washer",
+   "price_cents": 68,
+   "upc": "738287363265",
+   "upc_source": "read_from_label",
+   "location": "Washers 21.5, slot F",
+   "label_short": "5/16"
+  }
+ ]
+}

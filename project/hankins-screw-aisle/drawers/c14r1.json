@@ -1,0 +1,188 @@
+{
+ "id": "c14r1",
+ "column": 14,
+ "row": 1,
+ "half": null,
+ "title": "Bolts 45",
+ "description": "Grade 8 hex flange bolts, 1/4-20 coarse thread, 3/4 to 3 inch long, plus matching hex flange lock nuts (74600)",
+ "front_image": "images/fronts/c14r1.jpg",
+ "tray_image": "images/trays/c14r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.15,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 1,
+   "x0": 0.15,
+   "y0": 0.0,
+   "x1": 0.3125,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3125,
+   "y0": 0.0,
+   "x1": 0.4708,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 3,
+   "x0": 0.4708,
+   "y0": 0.0,
+   "x1": 0.6292,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.4875,
+   "x1": 0.1583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 5,
+   "x0": 0.1583,
+   "y0": 0.4875,
+   "x1": 0.3858,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.3858,
+   "y0": 0.4875,
+   "x1": 0.6317,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.6292,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.3088
+  },
+  {
+   "item_index": 8,
+   "x0": 0.6317,
+   "y0": 0.3088,
+   "x1": 1.0,
+   "y1": 0.625
+  },
+  {
+   "item_index": 9,
+   "x0": 0.6333,
+   "y0": 0.625,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "74601",
+   "slot_letter": "A",
+   "name": "1/4-20 grade 8 hex flange lock nut, yellow zinc",
+   "price_cents": 75,
+   "upc": "738287746013",
+   "upc_source": "read_from_label",
+   "location": "Bolts 45, slot A",
+   "label_short": "1/4-20 lock nut"
+  },
+  {
+   "sku": "74602",
+   "slot_letter": "B",
+   "name": "1/4-20 x 3/4 grade 8 hex flange bolt, yellow zinc, 7/16 wrench",
+   "price_cents": 105,
+   "upc": "738287746020",
+   "upc_source": "read_from_label",
+   "location": "Bolts 45, slot B",
+   "label_short": "1/4-20 x 3/4"
+  },
+  {
+   "sku": "74603",
+   "slot_letter": "C",
+   "name": "1/4-20 x 1 grade 8 hex flange bolt, yellow zinc, 7/16 wrench",
+   "price_cents": 115,
+   "upc": "738287746037",
+   "upc_source": "read_from_label",
+   "location": "Bolts 45, slot C",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "74604",
+   "slot_letter": "D",
+   "name": "1/4-20 x 1-1/4 grade 8 hex flange bolt, yellow zinc, 7/16 wrench",
+   "price_cents": 125,
+   "upc": "738287746044",
+   "upc_source": "read_from_label",
+   "location": "Bolts 45, slot D",
+   "label_short": "1/4-20 x 1-1/4"
+  },
+  {
+   "sku": "74605",
+   "slot_letter": "E",
+   "name": "1/4-20 x 1-1/2 grade 8 hex flange bolt, yellow zinc, 7/16 wrench",
+   "price_cents": 129,
+   "upc": "738287746051",
+   "upc_source": "read_from_label",
+   "location": "Bolts 45, slot E",
+   "label_short": "1/4-20 x 1-1/2"
+  },
+  {
+   "sku": "74606",
+   "slot_letter": "F",
+   "name": "1/4-20 x 1-3/4 grade 8 hex flange bolt, yellow zinc, 7/16 wrench",
+   "price_cents": 145,
+   "upc": "738287746068",
+   "upc_source": "read_from_label",
+   "location": "Bolts 45, slot F",
+   "label_short": "1/4-20 x 1-3/4"
+  },
+  {
+   "sku": "74607",
+   "slot_letter": "G",
+   "name": "1/4-20 x 2 grade 8 hex flange bolt, yellow zinc, 7/16 wrench",
+   "price_cents": 149,
+   "upc": "738287746075",
+   "upc_source": "read_from_label",
+   "location": "Bolts 45, slot G",
+   "label_short": "1/4-20 x 2"
+  },
+  {
+   "sku": "74608",
+   "slot_letter": "H",
+   "name": "1/4-20 x 2-1/4 grade 8 hex flange bolt, yellow zinc, 7/16 wrench",
+   "price_cents": 159,
+   "upc": "738287746082",
+   "upc_source": "read_from_label",
+   "location": "Bolts 45, slot H",
+   "label_short": "1/4-20 x 2-1/4"
+  },
+  {
+   "sku": "74611",
+   "slot_letter": "J",
+   "name": "1/4-20 x 2-1/2 grade 8 hex flange bolt, yellow zinc, 7/16 wrench",
+   "price_cents": 165,
+   "upc": "738287746112",
+   "upc_source": "read_from_label",
+   "location": "Bolts 45, slot J",
+   "label_short": "1/4-20 x 2-1/2"
+  },
+  {
+   "sku": "74612",
+   "slot_letter": "K",
+   "name": "1/4-20 x 3 grade 8 hex flange bolt, yellow zinc, 7/16 wrench",
+   "price_cents": 185,
+   "upc": "738287746129",
+   "upc_source": "read_from_label",
+   "location": "Bolts 45, slot K",
+   "label_short": "1/4-20 x 3"
+  }
+ ]
+}

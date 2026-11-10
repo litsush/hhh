@@ -1,0 +1,190 @@
+{
+ "id": "c13r5",
+ "column": 13,
+ "row": 5,
+ "half": null,
+ "title": "Bolts 56",
+ "description": "Short elevator bolts, zinc, 1/4-20 to 3/8-16, 3/4 to 1-1/2 inch (71300).",
+ "front_image": "images/fronts/c13r5.jpg",
+ "tray_image": "images/trays/c13r5.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1625,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1625,
+   "y0": 0.0,
+   "x1": 0.3725,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3725,
+   "y0": 0.0,
+   "x1": 0.5833,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5833,
+   "y0": 0.0,
+   "x1": 0.7933,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 4,
+   "x0": 0.7933,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0,
+   "y0": 0.4938,
+   "x1": 0.1625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.1625,
+   "y0": 0.4938,
+   "x1": 0.375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.375,
+   "y0": 0.4938,
+   "x1": 0.5858,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.5858,
+   "y0": 0.4938,
+   "x1": 0.7958,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.7958,
+   "y0": 0.4938,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "71301",
+   "slot_letter": "A",
+   "name": "1/4-20 x 3/4 short elevator bolt, zinc",
+   "price_cents": 85,
+   "upc": "738287713015",
+   "upc_source": "read_from_label",
+   "location": "Bolts 56, slot A",
+   "label_short": "1/4-20 x 3/4"
+  },
+  {
+   "sku": "71303",
+   "slot_letter": "C",
+   "name": "1/4-20 x 1-1/4 short elevator bolt, zinc",
+   "price_cents": 105,
+   "upc": "738287713039",
+   "upc_source": "read_from_label",
+   "location": "Bolts 56, slot C",
+   "label_short": "1/4-20 x 1-1/4"
+  },
+  {
+   "sku": "71305",
+   "slot_letter": "E",
+   "name": "5/16-18 x 1 short elevator bolt, zinc",
+   "price_cents": 129,
+   "upc": "738287713053",
+   "upc_source": "read_from_label",
+   "location": "Bolts 56, slot E",
+   "label_short": "5/16-18 x 1",
+   "note": "Price printed as $1.29, higher than the longer 5/16-18 sizes next to it ($1.05, $1.09); entered as printed."
+  },
+  {
+   "sku": "71307",
+   "slot_letter": "G",
+   "name": "5/16-18 x 1-1/2 short elevator bolt, zinc",
+   "price_cents": 109,
+   "upc": "738287713077",
+   "upc_source": "read_from_label",
+   "location": "Bolts 56, slot G",
+   "label_short": "5/16-18 x 1-1/2"
+  },
+  {
+   "sku": "71311",
+   "slot_letter": "J",
+   "name": "3/8-16 x 1-1/4 short elevator bolt, zinc",
+   "price_cents": 175,
+   "upc": "738287713114",
+   "upc_source": "read_from_label",
+   "location": "Bolts 56, slot J",
+   "label_short": "3/8-16 x 1-1/4"
+  },
+  {
+   "sku": "71302",
+   "slot_letter": "B",
+   "name": "1/4-20 x 1 short elevator bolt, zinc",
+   "price_cents": 99,
+   "upc": "738287713022",
+   "upc_source": "read_from_label",
+   "location": "Bolts 56, slot B",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "71304",
+   "slot_letter": "D",
+   "name": "1/4-20 x 1-1/2 short elevator bolt, zinc",
+   "price_cents": 119,
+   "upc": "738287713046",
+   "upc_source": "read_from_label",
+   "location": "Bolts 56, slot D",
+   "label_short": "1/4-20 x 1-1/2"
+  },
+  {
+   "sku": "71306",
+   "slot_letter": "F",
+   "name": "5/16-18 x 1-1/4 short elevator bolt, zinc",
+   "price_cents": 105,
+   "upc": "738287713060",
+   "upc_source": "read_from_label",
+   "location": "Bolts 56, slot F",
+   "label_short": "5/16-18 x 1-1/4"
+  },
+  {
+   "sku": "71308",
+   "slot_letter": "H",
+   "name": "3/8-16 x 1 short elevator bolt, zinc",
+   "price_cents": 149,
+   "upc": "738287713084",
+   "upc_source": "read_from_label",
+   "location": "Bolts 56, slot H",
+   "label_short": "3/8-16 x 1"
+  },
+  {
+   "sku": "71312",
+   "slot_letter": "K",
+   "name": "3/8-16 x 1-1/2 short elevator bolt, zinc",
+   "price_cents": 195,
+   "upc": "738287713121",
+   "upc_source": "read_from_label",
+   "location": "Bolts 56, slot K",
+   "label_short": "3/8-16 x 1-1/2",
+   "note": "Several hex-head bolts are mixed into this compartment along with the elevator bolts."
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "id": "c14r4",
+ "column": 14,
+ "row": 4,
+ "half": null,
+ "title": "Bolts 49",
+ "description": "Grade 8 hex flange bolts, 1/2-13 coarse thread, 1-1/2 to 3 inch long, plus matching hex flange lock nuts (71660)",
+ "front_image": "images/fronts/c14r4.jpg",
+ "tray_image": "images/trays/c14r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.265,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 1,
+   "x0": 0.265,
+   "y0": 0.0,
+   "x1": 0.5125,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 2,
+   "x0": 0.5125,
+   "y0": 0.0,
+   "x1": 0.7542,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 3,
+   "x0": 0.7542,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.4813,
+   "x1": 0.35,
+   "y1": 1.0
+  },
+  {
+   "item_index": 5,
+   "x0": 0.35,
+   "y0": 0.4813,
+   "x1": 0.6875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.6875,
+   "y0": 0.4813,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "71661",
+   "slot_letter": "A",
+   "name": "1/2-13 grade 8 hex flange lock nut, yellow zinc",
+   "price_cents": 149,
+   "upc": "738287716610",
+   "upc_source": "read_from_label",
+   "location": "Bolts 49, slot A",
+   "label_short": "1/2-13 lock nut"
+  },
+  {
+   "sku": "71662",
+   "slot_letter": "B",
+   "name": "1/2-13 x 1-1/2 grade 8 hex flange bolt, yellow zinc, 3/4 wrench",
+   "price_cents": 279,
+   "upc": "738287716627",
+   "upc_source": "read_from_label",
+   "location": "Bolts 49, slot B",
+   "label_short": "1/2-13 x 1-1/2",
+   "note": "Several black-finish flange bolts are mixed in with the yellow-zinc ones in this compartment."
+  },
+  {
+   "sku": "71663",
+   "slot_letter": "C",
+   "name": "1/2-13 x 1-3/4 grade 8 hex flange bolt, yellow zinc, 3/4 wrench",
+   "price_cents": 299,
+   "upc": "738287716634",
+   "upc_source": "read_from_label",
+   "location": "Bolts 49, slot C",
+   "label_short": "1/2-13 x 1-3/4"
+  },
+  {
+   "sku": "71664",
+   "slot_letter": "D",
+   "name": "1/2-13 x 2 grade 8 hex flange bolt, yellow zinc, 3/4 wrench",
+   "price_cents": 329,
+   "upc": "738287716641",
+   "upc_source": "read_from_label",
+   "location": "Bolts 49, slot D",
+   "label_short": "1/2-13 x 2",
+   "note": "One black-finish flange bolt is mixed in with the yellow-zinc ones."
+  },
+  {
+   "sku": "71665",
+   "slot_letter": "E",
+   "name": "1/2-13 x 2-1/2 grade 8 hex flange bolt, yellow zinc, 3/4 wrench",
+   "price_cents": 379,
+   "upc": "738287716658",
+   "upc_source": "read_from_label",
+   "location": "Bolts 49, slot E",
+   "label_short": "1/2-13 x 2-1/2",
+   "note": "One plain silver (zinc) bolt is mixed in with the yellow-zinc flange bolts."
+  },
+  {
+   "sku": "71666",
+   "slot_letter": "F",
+   "name": "1/2-13 x 2-3/4 grade 8 hex flange bolt, yellow zinc, 3/4 wrench",
+   "price_cents": 399,
+   "upc": "738287716665",
+   "upc_source": "read_from_label",
+   "location": "Bolts 49, slot F",
+   "label_short": "1/2-13 x 2-3/4"
+  },
+  {
+   "sku": "71667",
+   "slot_letter": "G",
+   "name": "1/2-13 x 3 grade 8 hex flange bolt, yellow zinc, 3/4 wrench",
+   "price_cents": 429,
+   "upc": "738287716672",
+   "upc_source": "read_from_label",
+   "location": "Bolts 49, slot G",
+   "label_short": "1/2-13 x 3",
+   "note": "One long black-finish flange bolt is mixed in with the yellow-zinc ones."
+  }
+ ]
+}

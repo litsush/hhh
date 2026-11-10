@@ -1,0 +1,137 @@
+{
+ "id": "c11r4",
+ "column": 11,
+ "row": 4,
+ "half": null,
+ "title": "Bolts 3",
+ "description": "Full thread hex tap bolts, coarse thread, 3/8-16 x 1-1/2 to 6 (63340)",
+ "front_image": "images/fronts/c11r4.jpg",
+ "tray_image": "images/trays/c11r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.175,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 1,
+   "x0": 0.175,
+   "y0": 0.0,
+   "x1": 0.3483,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3483,
+   "y0": 0.0,
+   "x1": 0.5125,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5125,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.3438
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5125,
+   "y0": 0.3438,
+   "x1": 1.0,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0,
+   "y0": 0.7188,
+   "x1": 0.3958,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.3958,
+   "y0": 0.7188,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "63342",
+   "slot_letter": "B",
+   "name": "3/8-16 x 2 full thread hex tap bolt, coarse thread, 9/16 wrench",
+   "price_cents": 89,
+   "upc": "738287633429",
+   "upc_source": "read_from_label",
+   "location": "Bolts 3, slot B",
+   "label_short": "3/8-16 x 2"
+  },
+  {
+   "sku": "63343",
+   "slot_letter": "C",
+   "name": "3/8-16 x 2-1/2 full thread hex tap bolt, coarse thread, 9/16 wrench",
+   "price_cents": 115,
+   "upc": "738287633436",
+   "upc_source": "read_from_label",
+   "location": "Bolts 3, slot C",
+   "label_short": "3/8-16 x 2-1/2"
+  },
+  {
+   "sku": "63344",
+   "slot_letter": "D",
+   "name": "3/8-16 x 3 full thread hex tap bolt, coarse thread, 9/16 wrench",
+   "price_cents": 135,
+   "upc": "738287633443",
+   "upc_source": "read_from_label",
+   "location": "Bolts 3, slot D",
+   "label_short": "3/8-16 x 3"
+  },
+  {
+   "sku": "63345",
+   "slot_letter": "E",
+   "name": "3/8-16 x 4 full thread hex tap bolt, coarse thread, 9/16 wrench",
+   "price_cents": 145,
+   "upc": "738287633450",
+   "upc_source": "read_from_label",
+   "location": "Bolts 3, slot E",
+   "label_short": "3/8-16 x 4"
+  },
+  {
+   "sku": "63346",
+   "slot_letter": "F",
+   "name": "3/8-16 x 5 full thread hex tap bolt, coarse thread, 9/16 wrench",
+   "price_cents": 175,
+   "upc": "738287633467",
+   "upc_source": "read_from_label",
+   "location": "Bolts 3, slot F",
+   "label_short": "3/8-16 x 5"
+  },
+  {
+   "sku": "63341",
+   "slot_letter": "A",
+   "name": "3/8-16 x 1-1/2 full thread hex tap bolt, coarse thread, 9/16 wrench",
+   "price_cents": 79,
+   "upc": "738287633412",
+   "upc_source": "read_from_label",
+   "location": "Bolts 3, slot A",
+   "label_short": "3/8-16 x 1-1/2"
+  },
+  {
+   "sku": "63347",
+   "slot_letter": "G",
+   "name": "3/8-16 x 6 full thread hex tap bolt, coarse thread, 9/16 wrench",
+   "price_cents": 199,
+   "upc": "738287633474",
+   "upc_source": "read_from_label",
+   "location": "Bolts 3, slot G",
+   "label_short": "3/8-16 x 6"
+  }
+ ]
+}

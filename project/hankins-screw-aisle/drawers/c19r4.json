@@ -1,0 +1,273 @@
+{
+ "id": "c19r4",
+ "column": 19,
+ "row": 4,
+ "half": null,
+ "title": "Household 41 and Household 42",
+ "description": "Metric knock-down furniture parts: original cam discs, disc covers, bushings and dowels (74660), and Mini-Loc cam discs, bushings and dowels (74680)",
+ "front_image": "images/fronts/c19r4.jpg",
+ "tray_image": "images/trays/c19r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2375,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2375,
+   "y0": 0.0,
+   "x1": 0.4,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 2,
+   "x0": 0.4,
+   "y0": 0.0,
+   "x1": 0.56,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 3,
+   "x0": 0.56,
+   "y0": 0.0,
+   "x1": 0.775,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 4,
+   "x0": 0.775,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0,
+   "y0": 0.2375,
+   "x1": 0.35,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 6,
+   "x0": 0.35,
+   "y0": 0.2375,
+   "x1": 0.675,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 7,
+   "x0": 0.675,
+   "y0": 0.2375,
+   "x1": 1.0,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.4938,
+   "x1": 0.2708,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 9,
+   "x0": 0.2708,
+   "y0": 0.4938,
+   "x1": 0.5208,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 10,
+   "x0": 0.5208,
+   "y0": 0.4938,
+   "x1": 0.7667,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 11,
+   "x0": 0.7667,
+   "y0": 0.4938,
+   "x1": 1.0,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.7438,
+   "x1": 0.3583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.3583,
+   "y0": 0.7438,
+   "x1": 0.7042,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7042,
+   "y0": 0.7438,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "74661",
+   "slot_letter": "A",
+   "name": "25mm x 12mm cam connector disc",
+   "price_cents": 179,
+   "upc": "738287746617",
+   "upc_source": "read_from_label",
+   "location": "Household 41, slot A",
+   "label_short": "25x12 cam disc"
+  },
+  {
+   "sku": "74662",
+   "slot_letter": "B",
+   "name": "30mm cam disc cover, brown",
+   "price_cents": 105,
+   "upc": "738287746624",
+   "upc_source": "read_from_label",
+   "location": "Household 41, slot B",
+   "label_short": "30mm cover brown"
+  },
+  {
+   "sku": "74663",
+   "slot_letter": "C",
+   "name": "30mm cam disc cover, white",
+   "price_cents": 105,
+   "upc": "738287746631",
+   "upc_source": "read_from_label",
+   "location": "Household 41, slot C",
+   "label_short": "30mm cover white"
+  },
+  {
+   "sku": "74664",
+   "slot_letter": "D",
+   "name": "6mm x 10mm x 12mm nylon bushing, 1.00 pitch",
+   "price_cents": 61,
+   "upc": "738287746648",
+   "upc_source": "read_from_label",
+   "location": "Household 41, slot D",
+   "label_short": "6x10x12 nylon"
+  },
+  {
+   "sku": "74665",
+   "slot_letter": "E",
+   "name": "6mm x 8mm x 12mm solid brass expansion bushing, 1.00 pitch",
+   "price_cents": 165,
+   "upc": "738287746655",
+   "upc_source": "read_from_label",
+   "location": "Household 41, slot E",
+   "label_short": "6x8x12 brass"
+  },
+  {
+   "sku": "74666",
+   "slot_letter": "F",
+   "name": "6mm x 34mm machine screw dowel, 1.00 pitch",
+   "price_cents": 299,
+   "upc": "738287746662",
+   "upc_source": "read_from_label",
+   "location": "Household 41, slot F",
+   "label_short": "6x34 machine dowel"
+  },
+  {
+   "sku": "74667",
+   "slot_letter": "G",
+   "name": "7mm x 64mm double-ended dowel",
+   "price_cents": 559,
+   "upc": "738287746679",
+   "upc_source": "read_from_label",
+   "location": "Household 41, slot G",
+   "label_short": "7x64 double-ended"
+  },
+  {
+   "sku": "74668",
+   "slot_letter": "H",
+   "name": "90 degree right angle dowel",
+   "price_cents": 519,
+   "upc": "738287746686",
+   "upc_source": "read_from_label",
+   "location": "Household 41, slot H",
+   "label_short": "90 deg dowel"
+  },
+  {
+   "sku": "74681",
+   "slot_letter": "A",
+   "name": "15mm x 12mm Mini-Loc cam connector disc",
+   "price_cents": 125,
+   "upc": "738287746815",
+   "upc_source": "read_from_label",
+   "location": "Household 42, slot A",
+   "label_short": "15x12 cam disc"
+  },
+  {
+   "sku": "74682",
+   "slot_letter": "B",
+   "name": "15mm x 13.7mm Mini-Loc cam connector disc",
+   "price_cents": 129,
+   "upc": "738287746822",
+   "upc_source": "read_from_label",
+   "location": "Household 42, slot B",
+   "label_short": "15x13.7 cam disc"
+  },
+  {
+   "sku": "74683",
+   "slot_letter": "C",
+   "name": "6mm x 10mm x 12mm nylon bushing, 1.00 pitch (Mini-Loc)",
+   "price_cents": 61,
+   "upc": "738287746839",
+   "upc_source": "read_from_label",
+   "location": "Household 42, slot C",
+   "label_short": "6x10x12 nylon"
+  },
+  {
+   "sku": "74684",
+   "slot_letter": "D",
+   "name": "6mm x 8mm x 12mm solid brass expansion bushing, 1.00 pitch (Mini-Loc)",
+   "price_cents": 149,
+   "upc": "738287746846",
+   "upc_source": "read_from_label",
+   "location": "Household 42, slot D",
+   "label_short": "6x8x12 brass"
+  },
+  {
+   "sku": "74685",
+   "slot_letter": "E",
+   "name": "6mm x 42mm machine screw dowel, 1.00 pitch (Mini-Loc)",
+   "price_cents": 99,
+   "upc": "738287746853",
+   "upc_source": "read_from_label",
+   "location": "Household 42, slot E",
+   "label_short": "6x42 machine dowel"
+  },
+  {
+   "sku": "74686",
+   "slot_letter": "F",
+   "name": "6mm x 42mm wood screw dowel (Mini-Loc)",
+   "price_cents": 105,
+   "upc": "738287746860",
+   "upc_source": "read_from_label",
+   "location": "Household 42, slot F",
+   "label_short": "6x42 wood dowel"
+  },
+  {
+   "sku": "74687",
+   "slot_letter": "G",
+   "name": "7mm x 88mm articulated dowel (Mini-Loc)",
+   "price_cents": 289,
+   "upc": "738287746877",
+   "upc_source": "read_from_label",
+   "location": "Household 42, slot G",
+   "label_short": "7x88 articulated"
+  }
+ ]
+}

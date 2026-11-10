@@ -1,0 +1,426 @@
+{
+ "id": "c26r5",
+ "column": 26,
+ "row": 5,
+ "half": null,
+ "title": "Specialty 28 and Specialty 28.3",
+ "description": "Square machine keys: 1/8 to 1/2 in 1 to 2 inch lengths (62620), 1/8 to 1/4 in 3 and 6 inch lengths (32360)",
+ "front_image": "images/fronts/c26r5.jpg",
+ "tray_image": "images/trays/c26r5.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1417,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1417,
+   "y0": 0.0,
+   "x1": 0.2667,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2667,
+   "y0": 0.0,
+   "x1": 0.39,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 3,
+   "x0": 0.39,
+   "y0": 0.0,
+   "x1": 0.51,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 4,
+   "x0": 0.51,
+   "y0": 0.0,
+   "x1": 0.6308,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6308,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 6,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 0.8708,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8708,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.2437,
+   "x1": 0.1417,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1417,
+   "y0": 0.2437,
+   "x1": 0.2667,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2667,
+   "y0": 0.2437,
+   "x1": 0.39,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 11,
+   "x0": 0.39,
+   "y0": 0.2437,
+   "x1": 0.51,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 12,
+   "x0": 0.51,
+   "y0": 0.2437,
+   "x1": 0.6308,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6308,
+   "y0": 0.2437,
+   "x1": 0.75,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 14,
+   "x0": 0.75,
+   "y0": 0.2437,
+   "x1": 0.8708,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8708,
+   "y0": 0.2437,
+   "x1": 1.0,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.4938,
+   "x1": 0.3917,
+   "y1": 0.6188
+  },
+  {
+   "item_index": 17,
+   "x0": 0.3917,
+   "y0": 0.4938,
+   "x1": 1.0,
+   "y1": 0.6188
+  },
+  {
+   "item_index": 18,
+   "x0": 0.0,
+   "y0": 0.6188,
+   "x1": 0.3917,
+   "y1": 0.75
+  },
+  {
+   "item_index": 19,
+   "x0": 0.3917,
+   "y0": 0.6188,
+   "x1": 1.0,
+   "y1": 0.75
+  },
+  {
+   "item_index": 20,
+   "x0": 0.0,
+   "y0": 0.75,
+   "x1": 0.3917,
+   "y1": 0.8812
+  },
+  {
+   "item_index": 21,
+   "x0": 0.3917,
+   "y0": 0.75,
+   "x1": 1.0,
+   "y1": 0.8812
+  },
+  {
+   "item_index": 22,
+   "x0": 0.0,
+   "y0": 0.8812,
+   "x1": 0.3917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.3917,
+   "y0": 0.8812,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "62621",
+   "slot_letter": "A",
+   "name": "1/8 x 1/8 x 1 inch square machine key",
+   "price_cents": 75,
+   "upc": "738287626216",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot A",
+   "label_short": "1/8 x 1/8 x 1"
+  },
+  {
+   "sku": "62622",
+   "slot_letter": "B",
+   "name": "1/8 x 1/8 x 1-1/2 inch square machine key",
+   "price_cents": 95,
+   "upc": "738287626223",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot B",
+   "label_short": "1/8 x 1/8 x 1-1/2"
+  },
+  {
+   "sku": "62623",
+   "slot_letter": "C",
+   "name": "5/32 x 5/32 x 1 inch square machine key",
+   "price_cents": 89,
+   "upc": "738287626230",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot C",
+   "label_short": "5/32 x 5/32 x 1"
+  },
+  {
+   "sku": "62624",
+   "slot_letter": "D",
+   "name": "5/32 x 5/32 x 1-1/2 inch square machine key",
+   "price_cents": 99,
+   "upc": "738287626247",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot D",
+   "label_short": "5/32 x 5/32 x 1-1/2"
+  },
+  {
+   "sku": "62625",
+   "slot_letter": "E",
+   "name": "3/16 x 3/16 x 1 inch square machine key",
+   "price_cents": 95,
+   "upc": "738287626254",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot E",
+   "label_short": "3/16 x 3/16 x 1"
+  },
+  {
+   "sku": "62626",
+   "slot_letter": "F",
+   "name": "3/16 x 3/16 x 1-1/2 inch square machine key",
+   "price_cents": 105,
+   "upc": "738287626261",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot F",
+   "label_short": "3/16 x 3/16 x 1-1/2"
+  },
+  {
+   "sku": "62627",
+   "slot_letter": "G",
+   "name": "1/4 x 1/4 x 1 inch square machine key",
+   "price_cents": 119,
+   "upc": "738287626278",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot G",
+   "label_short": "1/4 x 1/4 x 1"
+  },
+  {
+   "sku": "62628",
+   "slot_letter": "H",
+   "name": "1/4 x 1/4 x 1-1/2 inch square machine key",
+   "price_cents": 149,
+   "upc": "738287626285",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot H",
+   "label_short": "1/4 x 1/4 x 1-1/2"
+  },
+  {
+   "sku": "62631",
+   "slot_letter": "J",
+   "name": "5/16 x 5/16 x 1-1/2 inch square machine key",
+   "price_cents": 189,
+   "upc": "738287626315",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot J",
+   "label_short": "5/16 x 5/16 x 1-1/2"
+  },
+  {
+   "sku": "62632",
+   "slot_letter": "K",
+   "name": "5/16 x 5/16 x 2 inch square machine key",
+   "price_cents": 239,
+   "upc": "738287626322",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot K",
+   "label_short": "5/16 x 5/16 x 2"
+  },
+  {
+   "sku": "62633",
+   "slot_letter": "L",
+   "name": "3/8 x 3/8 x 1-1/2 inch square machine key",
+   "price_cents": 229,
+   "upc": "738287626339",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot L",
+   "label_short": "3/8 x 3/8 x 1-1/2"
+  },
+  {
+   "sku": "62634",
+   "slot_letter": "M",
+   "name": "3/8 x 3/8 x 2 inch square machine key",
+   "price_cents": 269,
+   "upc": "738287626346",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot M",
+   "label_short": "3/8 x 3/8 x 2"
+  },
+  {
+   "sku": "62635",
+   "slot_letter": "N",
+   "name": "7/16 x 7/16 x 1-1/2 inch square machine key",
+   "price_cents": 289,
+   "upc": "738287626353",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot N",
+   "label_short": "7/16 x 7/16 x 1-1/2"
+  },
+  {
+   "sku": "62636",
+   "slot_letter": "P",
+   "name": "7/16 x 7/16 x 2 inch square machine key",
+   "price_cents": 329,
+   "upc": "738287626360",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot P",
+   "label_short": "7/16 x 7/16 x 2"
+  },
+  {
+   "sku": "62637",
+   "slot_letter": "Q",
+   "name": "1/2 x 1/2 x 1-1/2 inch square machine key",
+   "price_cents": 309,
+   "upc": "738287626377",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot Q",
+   "label_short": "1/2 x 1/2 x 1-1/2"
+  },
+  {
+   "sku": "62638",
+   "slot_letter": "R",
+   "name": "1/2 x 1/2 x 2 inch square machine key",
+   "price_cents": 339,
+   "upc": "738287626384",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28, slot R",
+   "label_short": "1/2 x 1/2 x 2"
+  },
+  {
+   "sku": "32361",
+   "slot_letter": "A",
+   "name": "1/8 x 1/8 x 3 inch square machine key",
+   "price_cents": 289,
+   "upc": "738287323610",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28.3, slot A",
+   "label_short": "1/8 x 1/8 x 3"
+  },
+  {
+   "sku": "32362",
+   "slot_letter": "B",
+   "name": "1/8 x 1/8 x 6 inch square machine key",
+   "price_cents": 369,
+   "upc": "738287323627",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28.3, slot B",
+   "label_short": "1/8 x 1/8 x 6"
+  },
+  {
+   "sku": "32363",
+   "slot_letter": "C",
+   "name": "5/32 x 5/32 x 3 inch square machine key",
+   "price_cents": 309,
+   "upc": "738287323634",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28.3, slot C",
+   "label_short": "5/32 x 5/32 x 3"
+  },
+  {
+   "sku": "32364",
+   "slot_letter": "D",
+   "name": "5/32 x 5/32 x 6 inch square machine key",
+   "price_cents": 399,
+   "upc": "738287323641",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28.3, slot D",
+   "label_short": "5/32 x 5/32 x 6"
+  },
+  {
+   "sku": "32365",
+   "slot_letter": "E",
+   "name": "3/16 x 3/16 x 3 inch square machine key",
+   "price_cents": 329,
+   "upc": "738287323658",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28.3, slot E",
+   "label_short": "3/16 x 3/16 x 3"
+  },
+  {
+   "sku": "32366",
+   "slot_letter": "F",
+   "name": "3/16 x 3/16 x 6 inch square machine key",
+   "price_cents": 409,
+   "upc": "738287323665",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28.3, slot F",
+   "label_short": "3/16 x 3/16 x 6"
+  },
+  {
+   "sku": "32367",
+   "slot_letter": "G",
+   "name": "1/4 x 1/4 x 3 inch square machine key",
+   "price_cents": 359,
+   "upc": "738287323672",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28.3, slot G",
+   "label_short": "1/4 x 1/4 x 3"
+  },
+  {
+   "sku": "32368",
+   "slot_letter": "H",
+   "name": "1/4 x 1/4 x 6 inch square machine key",
+   "price_cents": 439,
+   "upc": "738287323689",
+   "upc_source": "read_from_label",
+   "location": "Specialty 28.3, slot H",
+   "label_short": "1/4 x 1/4 x 6"
+  }
+ ]
+}

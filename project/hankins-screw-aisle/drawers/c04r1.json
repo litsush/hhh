@@ -1,0 +1,256 @@
+{
+ "id": "c04r1",
+ "column": 4,
+ "row": 1,
+ "half": null,
+ "title": "Machine 62",
+ "description": "Combination truss head machine screws, 8-32 to 1/4-20 (63240)",
+ "front_image": "images/fronts/d16.jpg",
+ "tray_image": "images/trays/tray16.jpg",
+ "tray_image_px": [
+  1200,
+  520
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1317,
+   "y1": 0.4615
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1317,
+   "y0": 0.0,
+   "x1": 0.2525,
+   "y1": 0.4615
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2525,
+   "y0": 0.0,
+   "x1": 0.3725,
+   "y1": 0.4615
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3725,
+   "y0": 0.0,
+   "x1": 0.4917,
+   "y1": 0.4615
+  },
+  {
+   "item_index": 4,
+   "x0": 0.4917,
+   "y0": 0.0,
+   "x1": 0.6625,
+   "y1": 0.4615
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6625,
+   "y0": 0.0,
+   "x1": 0.8125,
+   "y1": 0.4615
+  },
+  {
+   "item_index": 6,
+   "x0": 0.8125,
+   "y0": 0.0,
+   "x1": 0.9708,
+   "y1": 0.4615
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0042,
+   "y0": 0.4615,
+   "x1": 0.1333,
+   "y1": 0.9808
+  },
+  {
+   "item_index": 8,
+   "x0": 0.1333,
+   "y0": 0.4615,
+   "x1": 0.265,
+   "y1": 0.9808
+  },
+  {
+   "item_index": 9,
+   "x0": 0.265,
+   "y0": 0.4615,
+   "x1": 0.3983,
+   "y1": 0.9808
+  },
+  {
+   "item_index": 10,
+   "x0": 0.3983,
+   "y0": 0.4615,
+   "x1": 0.5208,
+   "y1": 0.9808
+  },
+  {
+   "item_index": 11,
+   "x0": 0.5208,
+   "y0": 0.4615,
+   "x1": 0.6708,
+   "y1": 0.9808
+  },
+  {
+   "item_index": 12,
+   "x0": 0.6708,
+   "y0": 0.4615,
+   "x1": 0.825,
+   "y1": 0.9808
+  },
+  {
+   "item_index": 13,
+   "x0": 0.825,
+   "y0": 0.4615,
+   "x1": 1.0,
+   "y1": 0.9808
+  }
+ ],
+ "items": [
+  {
+   "sku": "63241",
+   "slot_letter": "A",
+   "name": "8-32 x 1/2 zinc combo truss head",
+   "price_cents": 22,
+   "upc": "738287632415",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot A",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "63242",
+   "slot_letter": "B",
+   "name": "8-32 x 3/4 zinc combo truss head",
+   "price_cents": 23,
+   "upc": "738287632422",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot B",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "63243",
+   "slot_letter": "C",
+   "name": "8-32 x 1 zinc combo truss head",
+   "price_cents": 27,
+   "upc": "738287632439",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot C",
+   "label_short": "8-32 x 1"
+  },
+  {
+   "sku": "63244",
+   "slot_letter": "D",
+   "name": "8-32 x 1-1/4 zinc combo truss head",
+   "price_cents": 30,
+   "upc": "738287632446",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot D",
+   "label_short": "8-32 x 1-1/4"
+  },
+  {
+   "sku": "63245",
+   "slot_letter": "E",
+   "name": "8-32 x 1-1/2 zinc combo truss head",
+   "price_cents": 34,
+   "upc": "738287632453",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot E",
+   "label_short": "8-32 x 1-1/2"
+  },
+  {
+   "sku": "63246",
+   "slot_letter": "F",
+   "name": "8-32 x 1-3/4 zinc combo truss head",
+   "price_cents": 39,
+   "upc": "738287632460",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot F",
+   "label_short": "8-32 x 1-3/4"
+  },
+  {
+   "sku": "63247",
+   "slot_letter": "G",
+   "name": "8-32 x 2 zinc combo truss head",
+   "price_cents": 41,
+   "upc": "738287632477",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot G",
+   "label_short": "8-32 x 2"
+  },
+  {
+   "sku": "63248",
+   "slot_letter": "H",
+   "name": "10-24 x 1/2 zinc combo truss head",
+   "price_cents": 23,
+   "upc": "738287632484",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot H",
+   "label_short": "10-24 x 1/2"
+  },
+  {
+   "sku": "63251",
+   "slot_letter": "J",
+   "name": "10-24 x 3/4 zinc combo truss head",
+   "price_cents": 27,
+   "upc": "738287632514",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot J",
+   "label_short": "10-24 x 3/4"
+  },
+  {
+   "sku": "63252",
+   "slot_letter": "K",
+   "name": "10-24 x 1 zinc combo truss head",
+   "price_cents": 31,
+   "upc": "738287632521",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot K",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "63253",
+   "slot_letter": "L",
+   "name": "1/4-20 x 1/2 zinc combo truss head",
+   "price_cents": 32,
+   "upc": "738287632538",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot L",
+   "label_short": "1/4-20 x 1/2"
+  },
+  {
+   "sku": "63254",
+   "slot_letter": "M",
+   "name": "1/4-20 x 3/4 zinc combo truss head",
+   "price_cents": 39,
+   "upc": "738287632545",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot M",
+   "label_short": "1/4-20 x 3/4"
+  },
+  {
+   "sku": "63255",
+   "slot_letter": "N",
+   "name": "1/4-20 x 1 zinc combo truss head",
+   "price_cents": 45,
+   "upc": "738287632552",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot N",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "63256",
+   "slot_letter": "P",
+   "name": "1/4-20 x 1-1/2 zinc combo truss head",
+   "price_cents": 54,
+   "upc": "738287632569",
+   "upc_source": "read_from_label",
+   "location": "Machine 62, slot P",
+   "label_short": "1/4-20 x 1-1/2"
+  }
+ ]
+}

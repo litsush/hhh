@@ -1,0 +1,496 @@
+{
+ "id": "c21r3",
+ "column": 21,
+ "row": 3,
+ "half": null,
+ "title": "Household 60 and Household 61",
+ "description": "Mirror hardware: hangers, eyelets, channel clips and rosettes (66200) in the back two rows; mirror screws, rosettes and clear plastic mirror clips (66180) in the front two rows",
+ "front_image": "images/fronts/c21r3.jpg",
+ "tray_image": "images/trays/c21r3.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1333,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1333,
+   "y0": 0.0,
+   "x1": 0.2567,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2567,
+   "y0": 0.0,
+   "x1": 0.3792,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3792,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6233,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6233,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 6,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 0.8708,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8708,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.2437,
+   "x1": 0.1292,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1292,
+   "y0": 0.2437,
+   "x1": 0.2542,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2542,
+   "y0": 0.2437,
+   "x1": 0.5,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 11,
+   "x0": 0.5,
+   "y0": 0.2437,
+   "x1": 0.6208,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 12,
+   "x0": 0.6208,
+   "y0": 0.2437,
+   "x1": 0.7625,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 13,
+   "x0": 0.7625,
+   "y0": 0.2437,
+   "x1": 1.0,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 14,
+   "x0": 0.0,
+   "y0": 0.4938,
+   "x1": 0.1208,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 15,
+   "x0": 0.1208,
+   "y0": 0.4938,
+   "x1": 0.2483,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 16,
+   "x0": 0.2483,
+   "y0": 0.4938,
+   "x1": 0.375,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 17,
+   "x0": 0.375,
+   "y0": 0.4938,
+   "x1": 0.54,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 18,
+   "x0": 0.54,
+   "y0": 0.4938,
+   "x1": 0.7542,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 19,
+   "x0": 0.7542,
+   "y0": 0.4938,
+   "x1": 1.0,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 20,
+   "x0": 0.0,
+   "y0": 0.7438,
+   "x1": 0.1125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.1125,
+   "y0": 0.7438,
+   "x1": 0.2458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.2458,
+   "y0": 0.7438,
+   "x1": 0.375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.375,
+   "y0": 0.7438,
+   "x1": 0.5042,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.5042,
+   "y0": 0.7438,
+   "x1": 0.6292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.6292,
+   "y0": 0.7438,
+   "x1": 0.7583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.7583,
+   "y0": 0.7438,
+   "x1": 0.8833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.8833,
+   "y0": 0.7438,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "66201",
+   "slot_letter": "A",
+   "name": "Small light-duty mirror hanger",
+   "price_cents": 55,
+   "upc": "738287662016",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot A",
+   "label_short": "small hanger"
+  },
+  {
+   "sku": "66202",
+   "slot_letter": "B",
+   "name": "Large heavy-duty mirror hanger",
+   "price_cents": 64,
+   "upc": "738287662023",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot B",
+   "label_short": "large hanger"
+  },
+  {
+   "sku": "66203",
+   "slot_letter": "C",
+   "name": "Swivel-type mirror eyelet, 1 screw hole",
+   "price_cents": 109,
+   "upc": "738287662030",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot C",
+   "label_short": "swivel eyelet, 1 hole"
+  },
+  {
+   "sku": "66204",
+   "slot_letter": "D",
+   "name": "Swivel-type mirror eyelet, 2 screw holes",
+   "price_cents": 109,
+   "upc": "738287662047",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot D",
+   "label_short": "swivel eyelet, 2 holes"
+  },
+  {
+   "sku": "66205",
+   "slot_letter": "E",
+   "name": "Safety swivel mirror eyelet, 4 screw holes",
+   "price_cents": 169,
+   "upc": "738287662054",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot E",
+   "label_short": "safety swivel, 4 holes"
+  },
+  {
+   "sku": "66206",
+   "slot_letter": "F",
+   "name": "1-1/2 x 1/2 16 gauge mirror channel clip for 5/16 glass",
+   "price_cents": 145,
+   "upc": "738287662061",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot F",
+   "label_short": "1-1/2 x 1/2 channel clip"
+  },
+  {
+   "sku": "66207",
+   "slot_letter": "G",
+   "name": "3/4 x 3/8 20 gauge felt-lined mirror channel clip for 3/8 glass",
+   "price_cents": 125,
+   "upc": "738287662078",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot G",
+   "label_short": "3/4 x 3/8 channel clip, felt"
+  },
+  {
+   "sku": "66208",
+   "slot_letter": "H",
+   "name": "Felt-lined mirror channel clip (label reads \"Not available, put in empty box\")",
+   "price_cents": 155,
+   "upc": "738287662085",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot H",
+   "label_short": "channel clip, felt (n/a)",
+   "note": "Label cell is printed \"NOT AVAILABLE / PUT IN EMPTY BOX\" with only a channel-clip icon; the compartment holds a few felt-lined channel clips."
+  },
+  {
+   "sku": "66211",
+   "slot_letter": "J",
+   "name": "7/8 x 1/2 18 gauge offset mirror clip for 1/4 glass",
+   "price_cents": 63,
+   "upc": "738287662115",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot J",
+   "label_short": "7/8 x 1/2 offset clip"
+  },
+  {
+   "sku": "66212",
+   "slot_letter": "K",
+   "name": "1 x 1-1/4 21 gauge wide mirror channel clip for 1/4 glass",
+   "price_cents": 129,
+   "upc": "738287662122",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot K",
+   "label_short": "1 x 1-1/4 wide channel clip"
+  },
+  {
+   "sku": "66213",
+   "slot_letter": "L",
+   "name": "Spring-loaded top mirror clips, 2 pairs per set",
+   "price_cents": 1299,
+   "upc": "738287662139",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot L",
+   "label_short": "spring-loaded clips",
+   "note": "Compartment is empty."
+  },
+  {
+   "sku": "66214",
+   "slot_letter": "M",
+   "name": "7/8 mirror rosette with screw, chrometint",
+   "price_cents": 229,
+   "upc": "738287662146",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot M",
+   "label_short": "7/8 rosette, chrometint"
+  },
+  {
+   "sku": "66215",
+   "slot_letter": "N",
+   "name": "1 in. white plastic mirror rosette for ceiling panels",
+   "price_cents": 79,
+   "upc": "738287662153",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot N",
+   "label_short": "1\" rosette, white"
+  },
+  {
+   "sku": "66216",
+   "slot_letter": "P",
+   "name": "1 x 1 clear acrylic mirror knob",
+   "price_cents": 799,
+   "upc": "738287662160",
+   "upc_source": "read_from_label",
+   "location": "Household 60, slot P",
+   "label_short": "1 x 1 knob, acrylic"
+  },
+  {
+   "sku": "66181",
+   "slot_letter": "A",
+   "name": "8 x 1 mirror wood screw, tapped 3-48 female thread",
+   "price_cents": 155,
+   "upc": "738287661811",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot A",
+   "label_short": "8 x 1 screw, 3-48"
+  },
+  {
+   "sku": "66182",
+   "slot_letter": "B",
+   "name": "8 x 1-1/2 mirror wood screw, tapped 3-48 female thread",
+   "price_cents": 195,
+   "upc": "738287661828",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot B",
+   "label_short": "8 x 1-1/2 screw, 3-48"
+  },
+  {
+   "sku": "66183",
+   "slot_letter": "C",
+   "name": "3-48 stud clear plastic mirror bud",
+   "price_cents": 239,
+   "upc": "738287661835",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot C",
+   "label_short": "3-48 mirror bud"
+  },
+  {
+   "sku": "66184",
+   "slot_letter": "D",
+   "name": "1 in. clear plastic mirror rosette",
+   "price_cents": 99,
+   "upc": "738287661842",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot D",
+   "label_short": "1\" rosette, clear"
+  },
+  {
+   "sku": "66185",
+   "slot_letter": "E",
+   "name": "1-1/2 in. clear plastic mirror rosette",
+   "price_cents": 109,
+   "upc": "738287661859",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot E",
+   "label_short": "1-1/2\" rosette, clear"
+  },
+  {
+   "sku": "66186",
+   "slot_letter": "F",
+   "name": "2 in. clear plastic mirror rosette",
+   "price_cents": 155,
+   "upc": "738287661866",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot F",
+   "label_short": "2\" rosette, clear"
+  },
+  {
+   "sku": "66187",
+   "slot_letter": "G",
+   "name": "6 x 1-1/4 Phillips oval head mirror clip screw",
+   "price_cents": 36,
+   "upc": "738287661873",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot G",
+   "label_short": "6 x 1-1/4 clip screw"
+  },
+  {
+   "sku": "66188",
+   "slot_letter": "H",
+   "name": "3/4 medium felt washer",
+   "price_cents": 85,
+   "upc": "738287661880",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot H",
+   "label_short": "3/4 felt washer"
+  },
+  {
+   "sku": "66191",
+   "slot_letter": "J",
+   "name": "Vinyl sleeve for 1/4 glass",
+   "price_cents": 51,
+   "upc": "738287661910",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot J",
+   "label_short": "vinyl sleeve, 1/4 glass"
+  },
+  {
+   "sku": "66192",
+   "slot_letter": "K",
+   "name": "Decorative clear plastic mirror clip for 1/8 glass",
+   "price_cents": 63,
+   "upc": "738287661927",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot K",
+   "label_short": "decorative clip, 1/8"
+  },
+  {
+   "sku": "66193",
+   "slot_letter": "L",
+   "name": "Decorative clear plastic mirror clip for 1/4 glass",
+   "price_cents": 63,
+   "upc": "738287661934",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot L",
+   "label_short": "decorative clip, 1/4"
+  },
+  {
+   "sku": "66194",
+   "slot_letter": "M",
+   "name": "Plain clear plastic mirror clip for 1/8 glass",
+   "price_cents": 89,
+   "upc": "738287661941",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot M",
+   "label_short": "plain clip, 1/8"
+  },
+  {
+   "sku": "66195",
+   "slot_letter": "N",
+   "name": "Plain clear plastic mirror clip for 1/4 glass",
+   "price_cents": 89,
+   "upc": "738287661958",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot N",
+   "label_short": "plain clip, 1/4"
+  },
+  {
+   "sku": "66196",
+   "slot_letter": "P",
+   "name": "Tear drop clear plastic mirror clip for 1/4 glass",
+   "price_cents": 95,
+   "upc": "738287661965",
+   "upc_source": "read_from_label",
+   "location": "Household 61, slot P",
+   "label_short": "tear drop clip, 1/4"
+  }
+ ]
+}

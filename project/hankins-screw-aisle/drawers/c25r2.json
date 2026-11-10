@@ -1,0 +1,205 @@
+{
+ "id": "c25r2",
+ "column": 25,
+ "row": 2,
+ "half": null,
+ "title": "Specialty 7",
+ "description": "Universal (multi-hole) clevis pins, 1/4 x 2 to 3/4 x 3 (62640).",
+ "front_image": "images/fronts/c25r2.jpg",
+ "tray_image": "images/trays/c25r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 2,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2583,
+   "y1": 0.3187
+  },
+  {
+   "item_index": 1,
+   "x0": 0.0,
+   "y0": 0.3187,
+   "x1": 0.2583,
+   "y1": 0.6562
+  },
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.6562,
+   "x1": 0.2583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 3,
+   "x0": 0.2583,
+   "y0": 0.0,
+   "x1": 0.6333,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 5,
+   "x0": 0.2583,
+   "y0": 0.2437,
+   "x1": 0.6333,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 7,
+   "x0": 0.2583,
+   "y0": 0.4875,
+   "x1": 0.6333,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 9,
+   "x0": 0.2583,
+   "y0": 0.7375,
+   "x1": 0.6333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6333,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 6,
+   "x0": 0.6333,
+   "y0": 0.2375,
+   "x1": 1.0,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 8,
+   "x0": 0.6333,
+   "y0": 0.4875,
+   "x1": 1.0,
+   "y1": 0.725
+  },
+  {
+   "item_index": 10,
+   "x0": 0.6333,
+   "y0": 0.725,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "62641",
+   "slot_letter": "A",
+   "name": "1/4 x 2 universal clevis pin, adjustable (multi-hole)",
+   "price_cents": 169,
+   "upc": "738287626414",
+   "upc_source": "read_from_label",
+   "location": "Specialty 7, slot A",
+   "label_short": "1/4 x 2"
+  },
+  {
+   "sku": "62642",
+   "slot_letter": "B",
+   "name": "5/16 x 2 universal clevis pin, adjustable (multi-hole)",
+   "price_cents": 209,
+   "upc": "738287626421",
+   "upc_source": "read_from_label",
+   "location": "Specialty 7, slot B",
+   "label_short": "5/16 x 2"
+  },
+  {
+   "sku": "62643",
+   "slot_letter": "C",
+   "name": "3/8 x 2 universal clevis pin, adjustable (multi-hole)",
+   "price_cents": 239,
+   "upc": "738287626438",
+   "upc_source": "read_from_label",
+   "location": "Specialty 7, slot C",
+   "label_short": "3/8 x 2"
+  },
+  {
+   "sku": "62644",
+   "slot_letter": "D",
+   "name": "7/16 x 2 universal clevis pin, adjustable (multi-hole)",
+   "price_cents": 279,
+   "upc": "738287626445",
+   "upc_source": "read_from_label",
+   "location": "Specialty 7, slot D",
+   "label_short": "7/16 x 2"
+  },
+  {
+   "sku": "62645",
+   "slot_letter": "E",
+   "name": "7/16 x 2-1/2 universal clevis pin, adjustable (multi-hole)",
+   "price_cents": 299,
+   "upc": "738287626452",
+   "upc_source": "read_from_label",
+   "location": "Specialty 7, slot E",
+   "label_short": "7/16 x 2-1/2"
+  },
+  {
+   "sku": "62646",
+   "slot_letter": "F",
+   "name": "7/16 x 3 universal clevis pin, adjustable (multi-hole)",
+   "price_cents": 319,
+   "upc": "738287626469",
+   "upc_source": "read_from_label",
+   "location": "Specialty 7, slot F",
+   "label_short": "7/16 x 3"
+  },
+  {
+   "sku": "62647",
+   "slot_letter": "G",
+   "name": "1/2 x 2 universal clevis pin, adjustable (multi-hole)",
+   "price_cents": 349,
+   "upc": "738287626476",
+   "upc_source": "read_from_label",
+   "location": "Specialty 7, slot G",
+   "label_short": "1/2 x 2"
+  },
+  {
+   "sku": "62648",
+   "slot_letter": "H",
+   "name": "1/2 x 2-1/2 universal clevis pin, adjustable (multi-hole)",
+   "price_cents": 369,
+   "upc": "738287626483",
+   "upc_source": "read_from_label",
+   "location": "Specialty 7, slot H",
+   "label_short": "1/2 x 2-1/2"
+  },
+  {
+   "sku": "62651",
+   "slot_letter": "J",
+   "name": "1/2 x 3 universal clevis pin, adjustable (multi-hole)",
+   "price_cents": 449,
+   "upc": "738287626513",
+   "upc_source": "read_from_label",
+   "location": "Specialty 7, slot J",
+   "label_short": "1/2 x 3"
+  },
+  {
+   "sku": "62652",
+   "slot_letter": "K",
+   "name": "5/8 x 3 universal clevis pin, adjustable (multi-hole)",
+   "price_cents": 699,
+   "upc": "738287626520",
+   "upc_source": "read_from_label",
+   "location": "Specialty 7, slot K",
+   "label_short": "5/8 x 3"
+  },
+  {
+   "sku": "62653",
+   "slot_letter": "L",
+   "name": "3/4 x 3 universal clevis pin, adjustable (multi-hole)",
+   "price_cents": 739,
+   "upc": "738287626537",
+   "upc_source": "read_from_label",
+   "location": "Specialty 7, slot L",
+   "label_short": "3/4 x 3"
+  }
+ ]
+}

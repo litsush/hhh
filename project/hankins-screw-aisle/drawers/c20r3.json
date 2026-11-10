@@ -1,0 +1,222 @@
+{
+ "id": "c20r3",
+ "column": 20,
+ "row": 3,
+ "half": null,
+ "title": "Household 46 and Household 48",
+ "description": "Stereo cabinet strike plates, magnetic latches and an inset door hinge in black, brass and chrometint (66320), plus brass and bronze cabinet catches (75740).",
+ "front_image": "images/fronts/c20r3.jpg",
+ "tray_image": "images/trays/c20r3.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.3417,
+   "y1": 0.225
+  },
+  {
+   "item_index": 1,
+   "x0": 0.3417,
+   "y0": 0.0,
+   "x1": 0.675,
+   "y1": 0.225
+  },
+  {
+   "item_index": 2,
+   "x0": 0.675,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.225
+  },
+  {
+   "item_index": 3,
+   "x0": 0.0,
+   "y0": 0.225,
+   "x1": 0.35,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 4,
+   "x0": 0.35,
+   "y0": 0.225,
+   "x1": 0.6833,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6833,
+   "y0": 0.225,
+   "x1": 1.0,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.4813,
+   "x1": 0.3583,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 7,
+   "x0": 0.3583,
+   "y0": 0.4813,
+   "x1": 0.6983,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 8,
+   "x0": 0.6983,
+   "y0": 0.4813,
+   "x1": 1.0,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 9,
+   "x0": 0.0,
+   "y0": 0.7312,
+   "x1": 0.3683,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.3683,
+   "y0": 0.7312,
+   "x1": 0.7167,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.7167,
+   "y0": 0.7312,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "66321",
+   "slot_letter": "A",
+   "name": "Black stereo cabinet strike plate",
+   "price_cents": 519,
+   "upc": "738287663211",
+   "upc_source": "read_from_label",
+   "location": "Household 46, slot A",
+   "label_short": "Black strike"
+  },
+  {
+   "sku": "66322",
+   "slot_letter": "B",
+   "name": "Brass stereo cabinet strike plate",
+   "price_cents": 519,
+   "upc": "738287663228",
+   "upc_source": "read_from_label",
+   "location": "Household 46, slot B",
+   "label_short": "Brass strike"
+  },
+  {
+   "sku": "66323",
+   "slot_letter": "C",
+   "name": "Chrometint stereo cabinet strike plate",
+   "price_cents": 519,
+   "upc": "738287663235",
+   "upc_source": "read_from_label",
+   "location": "Household 46, slot C",
+   "label_short": "Chrome strike"
+  },
+  {
+   "sku": "66325",
+   "slot_letter": "E",
+   "name": "Black magnetic single latch",
+   "price_cents": 759,
+   "upc": "738287663259",
+   "upc_source": "read_from_label",
+   "location": "Household 46, slot E",
+   "label_short": "Black single latch"
+  },
+  {
+   "sku": "66326",
+   "slot_letter": "F",
+   "name": "Black magnetic double latch",
+   "price_cents": 999,
+   "upc": "738287663266",
+   "upc_source": "read_from_label",
+   "location": "Household 46, slot F",
+   "label_short": "Black double latch"
+  },
+  {
+   "sku": "66327",
+   "slot_letter": "G",
+   "name": "Chrometint inset door hinge",
+   "price_cents": 2599,
+   "upc": "738287663273",
+   "upc_source": "read_from_label",
+   "location": "Household 46, slot G",
+   "label_short": "Chrome hinge"
+  },
+  {
+   "sku": "75741",
+   "slot_letter": "A",
+   "name": "Solid brass double ball catch",
+   "price_cents": 619,
+   "upc": "738287757415",
+   "upc_source": "read_from_label",
+   "location": "Household 48, slot A",
+   "label_short": "Brass ball catch"
+  },
+  {
+   "sku": "75742",
+   "slot_letter": "B",
+   "name": "Bronze spring mounted roller catch",
+   "price_cents": 409,
+   "upc": "738287757422",
+   "upc_source": "read_from_label",
+   "location": "Household 48, slot B",
+   "label_short": "Bronze spring roller"
+  },
+  {
+   "sku": "75743",
+   "slot_letter": "C",
+   "name": "Zinc double roller catch",
+   "price_cents": 319,
+   "upc": "738287757439",
+   "upc_source": "read_from_label",
+   "location": "Household 48, slot C",
+   "label_short": "Zinc double roller"
+  },
+  {
+   "sku": "75744",
+   "slot_letter": "D",
+   "name": "Bronze double roller catch",
+   "price_cents": 299,
+   "upc": "738287757446",
+   "upc_source": "read_from_label",
+   "location": "Household 48, slot D",
+   "label_short": "Bronze double roller"
+  },
+  {
+   "sku": "75745",
+   "slot_letter": "E",
+   "name": "Brass plated insert bullet catch",
+   "price_cents": 449,
+   "upc": "738287757453",
+   "upc_source": "read_from_label",
+   "location": "Household 48, slot E",
+   "label_short": "Brass bullet catch"
+  },
+  {
+   "sku": "75746",
+   "slot_letter": "F",
+   "name": "Bronze elbow catch",
+   "price_cents": 449,
+   "upc": "738287757460",
+   "upc_source": "read_from_label",
+   "location": "Household 48, slot F",
+   "label_short": "Bronze elbow catch"
+  }
+ ]
+}

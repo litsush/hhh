@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Screw aisle drawer wall</title>
+<style>
+:root{--ink:#16233f;--mute:#5d6880;--paper:#f3f1ea;--line:#d8d4c8;--blue:#14389a;--tag:#c8203a}
+*{box-sizing:border-box}html,body{margin:0}
+body{background:var(--paper);color:var(--ink);font:16px/1.4 system-ui,-apple-system,"Segoe UI",sans-serif}
+header{padding:20px 16px 12px;max-width:900px}
+h1{font-size:22px;margin:0 0 2px}header p{margin:0;color:var(--mute);font-size:14px}
+.wall{overflow-x:auto;padding:4px 16px 18px;-webkit-overflow-scrolling:touch}
+.grid{display:grid;grid-auto-flow:column;grid-template-rows:repeat(5,auto);grid-auto-columns:clamp(210px,62vw,300px);gap:3px;width:max-content;background:var(--blue);padding:6px;border-radius:6px}
+.tile{display:block;aspect-ratio:720/150;border:0;padding:0;margin:0;width:100%;background:#0e2a78;cursor:pointer;position:relative;border-radius:2px;overflow:hidden}
+.tile img{display:block;width:100%;height:100%}
+.tile:focus-visible,.cell:focus-visible,.x:focus-visible{outline:3px solid #ffc53d;outline-offset:-3px}
+.tile.has::after{content:"";position:absolute;bottom:5px;right:7px;width:9px;height:9px;border-radius:50%;background:#ffc53d;box-shadow:0 0 0 2px #14389a}
+.pair{display:flex;gap:2px;aspect-ratio:720/150}.tile.half{width:calc(50% - 1px);height:100%;aspect-ratio:auto}.tile.half img{width:calc(200% + 2px);max-width:none}.tile.half.R img{margin-left:calc(-100% - 2px)}.empty{aspect-ratio:720/150;border:1px dashed #5c78c9;border-radius:2px;color:#a9baea;display:flex;align-items:center;justify-content:center;font-size:12px}
+.note{padding:0 16px 28px;color:var(--mute);font-size:14px;max-width:640px}
+.key{display:inline-block;width:9px;height:9px;border-radius:50%;background:#ffc53d;box-shadow:0 0 0 2px #14389a;margin:0 5px 0 2px}
+.open{position:fixed;inset:0;background:var(--paper);overflow-y:auto;display:none;z-index:5}
+.open.on{display:block}
+.inner{max-width:760px;margin:0 auto;padding:12px 12px 32px}
+.top{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;margin-bottom:10px}
+h2{font-size:18px;margin:0;line-height:1.25}.top p{margin:2px 0 0;font-size:13px;color:var(--mute)}
+.x{flex:none;border:1px solid var(--line);background:#fff;color:var(--ink);font:inherit;font-size:14px;padding:9px 14px;border-radius:6px;cursor:pointer}
+.bay{overflow:hidden;border-radius:6px 6px 0 0}
+.tray{position:relative;aspect-ratio:3/2;background:#b89a70 center/100% 100%;transform:translateY(100%);transition:transform .38s cubic-bezier(.2,.75,.25,1)}
+.on .tray{transform:none}
+.tray.blank{background:#e7e1d2;display:grid;place-items:center;text-align:center;padding:20px;color:var(--mute);font-size:15px}
+.cell{position:absolute;border:0;background:transparent;padding:0;cursor:pointer;display:flex;align-items:flex-end;justify-content:center}
+.cell span{background:rgba(16,24,44,.78);color:#fff;font-size:11px;line-height:1;padding:3px 4px;border-radius:3px;margin-bottom:3px;white-space:nowrap}
+.cell.sel{box-shadow:inset 0 0 0 3px #ffc53d}
+.front{display:block;width:100%;border-radius:0 0 6px 6px}
+.detail{margin-top:12px;background:#fff;border:1px solid var(--line);border-radius:8px;padding:12px;display:flex;gap:12px;min-height:118px}
+.nt{margin:6px 0 0;font-size:13px;color:#a3341f}.hint{color:var(--mute);font-size:14px;margin:0;align-self:center}
+.thumb{flex:0 0 88px;border-radius:5px;align-self:flex-start;background-repeat:no-repeat}
+.detail h3{margin:0;font-size:17px;line-height:1.25}
+.price{font-size:24px;font-weight:700;margin:2px 0 4px}.price small{font-size:13px;font-weight:400;color:var(--mute)}
+dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:1px 10px;font-size:13px}dt{color:var(--mute)}dd{margin:0;font-variant-numeric:tabular-nums}
+@media (prefers-reduced-motion:reduce){.tray{transition:none}}
+</style></head><body>
+<header><h1>Screw aisle drawer wall</h1><p>5 drawers high, 30 wide. Tap a drawer to pull it out.</p></header>
+<div class="wall"><div class="grid" id="grid"></div></div>
+<p class="note"><span class="key"></span>marks a drawer with its inside photographed. Columns 1 to 10 are done. Scroll sideways for the other 20.</p>
+<section class="open" id="open" role="dialog" aria-modal="true" aria-labelledby="ttl"><div class="inner">
+<div class="top"><div><h2 id="ttl"></h2><p id="sub"></p></div><button class="x" id="close">Close</button></div>
+<div class="bay"><div class="tray" id="tray"></div></div><img class="front" id="front" alt="">
+<div class="detail" id="detail"></div>
+</div></section>
+<script>
+const IMG=__IMG__, D=__DATA__;
+const $=id=>document.getElementById(id), grid=$('grid');
+let pair;D.drawers.forEach((d,i)=>{const b=document.createElement('button');b.className='tile'+(d.items?' has':'')+(d.split?' half '+d.split:'');b.setAttribute('aria-label','Open drawer: '+d.title);
+ b.innerHTML='<img alt="" src="'+IMG[d.front]+'">';b.onclick=()=>open(d,i,b);
+ if(d.split==='L'){pair=document.createElement('div');pair.className='pair';grid.appendChild(pair)}
+ (d.split?pair:grid).appendChild(b)});
+for(let c=11;c<=30;c++)for(let r=1;r<=5;r++){const e=document.createElement('div');e.className='empty';e.textContent='Column '+c+', row '+r;grid.appendChild(e)}
+let last;
+function open(d,i,b){last=b;$('ttl').textContent=d.title;$('sub').textContent=d.sub;$('front').src=IMG[d.front];
+ const t=$('tray');t.innerHTML='';t.className='tray';t.style.backgroundImage='';t.style.aspectRatio='';
+ if(d.items){t.style.backgroundImage='url('+IMG[d.img]+')';t.style.aspectRatio='1200/'+d.h;d.cells.forEach(([i,x0,y0,x1,y1])=>{const it=d.items[i],l=x0/1200,w=(x1-x0)/1200,top=y0/d.h,h=(y1-y0)/d.h,n=document.createElement('button');n.className='cell';n.style.cssText=`left:${l*100}%;top:${top*100}%;width:${w*100}%;height:${h*100}%`;
+   n.setAttribute('aria-label',it.name+', '+it.price);n.innerHTML='<span>'+it.short+'</span>';n.onclick=()=>pick(it,n,l,top,w,h,d);t.appendChild(n)});
+  $('detail').innerHTML='<p class="hint">Tap a compartment.</p>'}
+ else{t.classList.add('blank');t.textContent='Inside not photographed yet';$('detail').innerHTML='<p class="hint">Send a photo of this open drawer and its 32 compartments fill in here.</p>'}
+ $('open').classList.remove('on');$('open').style.display='block';$('open').scrollTop=0;void t.offsetWidth;requestAnimationFrame(()=>requestAnimationFrame(()=>$('open').classList.add('on')));$('close').focus()}
+function pick(it,n,l,top,w,h,d){const im=d.img;document.querySelectorAll('.cell.sel').forEach(e=>e.classList.remove('sel'));n.classList.add('sel');
+ const th=`aspect-ratio:${w*1200}/${h*d.h};background-image:url(${IMG[im]});background-size:${100/w}% ${100/h}%;background-position:${w<1?l/(1-w)*100:0}% ${h<1?top/(1-h)*100:0}%`;
+ $('detail').innerHTML=`<div class="thumb" style="${th}"></div><div><h3>${it.name}</h3><div class="price">${it.price}<small> each</small></div><dl><dt>Where</dt><dd>${it.where}</dd><dt>SKU</dt><dd>${it.sku}</dd><dt>UPC</dt><dd>${it.upc}</dd></dl>${it.note?'<p class="nt">'+it.note+'</p>':''}</div>`}
+function shut(){$('open').classList.remove('on');$('open').style.display='';if(last)last.focus()}
+$('close').onclick=shut;addEventListener('keydown',e=>{if(e.key==='Escape'&&$('open').classList.contains('on'))shut()});
+</script></body></html>

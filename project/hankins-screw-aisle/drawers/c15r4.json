@@ -1,0 +1,359 @@
+{
+ "id": "c15r4",
+ "column": 15,
+ "row": 4,
+ "half": null,
+ "title": "Socket 4 and Socket 5",
+ "description": "Black oxide socket head cap screws, coarse thread: 5/16-18 x 1/2 to 4 (67440) in the back insert, 3/8-16 x 3/4 to 4 and 7/16-14 x 1 and 2 (67460) in the front insert",
+ "front_image": "images/fronts/c15r4.jpg",
+ "tray_image": "images/trays/c15r4.jpg",
+ "tray_image_px": [
+  1200,
+  1250
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2458,
+   "y1": 0.116
+  },
+  {
+   "item_index": 1,
+   "x0": 0.0,
+   "y0": 0.116,
+   "x1": 0.2458,
+   "y1": 0.232
+  },
+  {
+   "item_index": 2,
+   "x0": 0.0,
+   "y0": 0.232,
+   "x1": 0.2458,
+   "y1": 0.344
+  },
+  {
+   "item_index": 3,
+   "x0": 0.0,
+   "y0": 0.344,
+   "x1": 0.2458,
+   "y1": 0.464
+  },
+  {
+   "item_index": 4,
+   "x0": 0.2458,
+   "y0": 0.0,
+   "x1": 0.6042,
+   "y1": 0.14
+  },
+  {
+   "item_index": 5,
+   "x0": 0.2458,
+   "y0": 0.14,
+   "x1": 0.6042,
+   "y1": 0.3
+  },
+  {
+   "item_index": 6,
+   "x0": 0.2458,
+   "y0": 0.3,
+   "x1": 0.6042,
+   "y1": 0.464
+  },
+  {
+   "item_index": 7,
+   "x0": 0.6042,
+   "y0": 0.0,
+   "x1": 0.7625,
+   "y1": 0.464
+  },
+  {
+   "item_index": 8,
+   "x0": 0.7625,
+   "y0": 0.0,
+   "x1": 0.975,
+   "y1": 0.464
+  },
+  {
+   "item_index": 9,
+   "x0": 0.0,
+   "y0": 0.464,
+   "x1": 0.1167,
+   "y1": 0.724
+  },
+  {
+   "item_index": 17,
+   "x0": 0.0,
+   "y0": 0.724,
+   "x1": 0.1167,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.1167,
+   "y0": 0.464,
+   "x1": 0.2708,
+   "y1": 0.724
+  },
+  {
+   "item_index": 18,
+   "x0": 0.1167,
+   "y0": 0.724,
+   "x1": 0.2708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.2708,
+   "y0": 0.464,
+   "x1": 0.6542,
+   "y1": 0.584
+  },
+  {
+   "item_index": 12,
+   "x0": 0.2708,
+   "y0": 0.584,
+   "x1": 0.6542,
+   "y1": 0.712
+  },
+  {
+   "item_index": 13,
+   "x0": 0.2708,
+   "y0": 0.712,
+   "x1": 0.6542,
+   "y1": 0.848
+  },
+  {
+   "item_index": 14,
+   "x0": 0.2708,
+   "y0": 0.848,
+   "x1": 0.6542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.6542,
+   "y0": 0.464,
+   "x1": 0.8208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 16,
+   "x0": 0.8208,
+   "y0": 0.464,
+   "x1": 0.9917,
+   "y1": 0.716
+  },
+  {
+   "item_index": 19,
+   "x0": 0.8208,
+   "y0": 0.716,
+   "x1": 0.9917,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "67444",
+   "slot_letter": "D",
+   "name": "5/16-18 x 1-1/2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 145,
+   "upc": "738287674446",
+   "upc_source": "read_from_label",
+   "location": "Socket 4, slot D",
+   "label_short": "5/16-18 x 1-1/2"
+  },
+  {
+   "sku": "67443",
+   "slot_letter": "C",
+   "name": "5/16-18 x 1 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 115,
+   "upc": "738287674439",
+   "upc_source": "read_from_label",
+   "location": "Socket 4, slot C",
+   "label_short": "5/16-18 x 1"
+  },
+  {
+   "sku": "67442",
+   "slot_letter": "B",
+   "name": "5/16-18 x 3/4 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 109,
+   "upc": "738287674422",
+   "upc_source": "read_from_label",
+   "location": "Socket 4, slot B",
+   "label_short": "5/16-18 x 3/4"
+  },
+  {
+   "sku": "67441",
+   "slot_letter": "A",
+   "name": "5/16-18 x 1/2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 99,
+   "upc": "738287674415",
+   "upc_source": "read_from_label",
+   "location": "Socket 4, slot A",
+   "label_short": "5/16-18 x 1/2"
+  },
+  {
+   "sku": "67447",
+   "slot_letter": "G",
+   "name": "5/16-18 x 3 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 199,
+   "upc": "738287674477",
+   "upc_source": "read_from_label",
+   "location": "Socket 4, slot G",
+   "label_short": "5/16-18 x 3"
+  },
+  {
+   "sku": "67446",
+   "slot_letter": "F",
+   "name": "5/16-18 x 2-1/2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 189,
+   "upc": "738287674460",
+   "upc_source": "read_from_label",
+   "location": "Socket 4, slot F",
+   "label_short": "5/16-18 x 2-1/2"
+  },
+  {
+   "sku": "67445",
+   "slot_letter": "E",
+   "name": "5/16-18 x 2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 175,
+   "upc": "738287674453",
+   "upc_source": "read_from_label",
+   "location": "Socket 4, slot E",
+   "label_short": "5/16-18 x 2"
+  },
+  {
+   "sku": "67448",
+   "slot_letter": "H",
+   "name": "5/16-18 x 3-1/2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 269,
+   "upc": "738287674484",
+   "upc_source": "read_from_label",
+   "location": "Socket 4, slot H",
+   "label_short": "5/16-18 x 3-1/2"
+  },
+  {
+   "sku": "67451",
+   "slot_letter": "J",
+   "name": "5/16-18 x 4 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 329,
+   "upc": "738287674514",
+   "upc_source": "read_from_label",
+   "location": "Socket 4, slot J",
+   "label_short": "5/16-18 x 4"
+  },
+  {
+   "sku": "67462",
+   "slot_letter": "B",
+   "name": "3/8-16 x 1 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 149,
+   "upc": "738287674620",
+   "upc_source": "read_from_label",
+   "location": "Socket 5, slot B",
+   "label_short": "3/8-16 x 1"
+  },
+  {
+   "sku": "67464",
+   "slot_letter": "D",
+   "name": "3/8-16 x 1-1/2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 179,
+   "upc": "738287674644",
+   "upc_source": "read_from_label",
+   "location": "Socket 5, slot D",
+   "label_short": "3/8-16 x 1-1/2"
+  },
+  {
+   "sku": "67468",
+   "slot_letter": "H",
+   "name": "3/8-16 x 3-1/2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 309,
+   "upc": "738287674682",
+   "upc_source": "read_from_label",
+   "location": "Socket 5, slot H",
+   "label_short": "3/8-16 x 3-1/2"
+  },
+  {
+   "sku": "67467",
+   "slot_letter": "G",
+   "name": "3/8-16 x 3 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 249,
+   "upc": "738287674675",
+   "upc_source": "read_from_label",
+   "location": "Socket 5, slot G",
+   "label_short": "3/8-16 x 3"
+  },
+  {
+   "sku": "67466",
+   "slot_letter": "F",
+   "name": "3/8-16 x 2-1/2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 199,
+   "upc": "738287674668",
+   "upc_source": "read_from_label",
+   "location": "Socket 5, slot F",
+   "label_short": "3/8-16 x 2-1/2"
+  },
+  {
+   "sku": "67465",
+   "slot_letter": "E",
+   "name": "3/8-16 x 2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 189,
+   "upc": "738287674651",
+   "upc_source": "read_from_label",
+   "location": "Socket 5, slot E",
+   "label_short": "3/8-16 x 2"
+  },
+  {
+   "sku": "67471",
+   "slot_letter": "J",
+   "name": "3/8-16 x 4 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 399,
+   "upc": "738287674712",
+   "upc_source": "read_from_label",
+   "location": "Socket 5, slot J",
+   "label_short": "3/8-16 x 4"
+  },
+  {
+   "sku": "67473",
+   "slot_letter": "L",
+   "name": "7/16-14 x 2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 259,
+   "upc": "738287674736",
+   "upc_source": "read_from_label",
+   "location": "Socket 5, slot L",
+   "label_short": "7/16-14 x 2"
+  },
+  {
+   "sku": "67461",
+   "slot_letter": "A",
+   "name": "3/8-16 x 3/4 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 125,
+   "upc": "738287674613",
+   "upc_source": "read_from_label",
+   "location": "Socket 5, slot A",
+   "label_short": "3/8-16 x 3/4"
+  },
+  {
+   "sku": "67463",
+   "slot_letter": "C",
+   "name": "3/8-16 x 1-1/4 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 165,
+   "upc": "738287674637",
+   "upc_source": "read_from_label",
+   "location": "Socket 5, slot C",
+   "label_short": "3/8-16 x 1-1/4"
+  },
+  {
+   "sku": "67472",
+   "slot_letter": "K",
+   "name": "7/16-14 x 1 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 199,
+   "upc": "738287674729",
+   "upc_source": "read_from_label",
+   "location": "Socket 5, slot K",
+   "label_short": "7/16-14 x 1",
+   "note": "Compartment also holds a few zinc-plated (silver) socket cap screws mixed in with the black oxide ones."
+  }
+ ]
+}

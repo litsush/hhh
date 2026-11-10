@@ -1,0 +1,495 @@
+{
+ "id": "c10r4",
+ "column": 10,
+ "row": 4,
+ "half": null,
+ "title": "Washers 17 and 20",
+ "description": "Fiber washers (71860) and brass and bronze flat and lock washers (61920)",
+ "front_image": "images/fronts/d49.jpg",
+ "tray_image": "images/trays/tray52.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0083,
+   "y0": 0.0,
+   "x1": 0.1333,
+   "y1": 0.2062
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1333,
+   "y0": 0.0,
+   "x1": 0.2958,
+   "y1": 0.2062
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2958,
+   "y0": 0.0,
+   "x1": 0.4167,
+   "y1": 0.2062
+  },
+  {
+   "item_index": 3,
+   "x0": 0.4167,
+   "y0": 0.0,
+   "x1": 0.5333,
+   "y1": 0.2062
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5333,
+   "y0": 0.0,
+   "x1": 0.6542,
+   "y1": 0.2062
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6542,
+   "y0": 0.0,
+   "x1": 0.8042,
+   "y1": 0.2062
+  },
+  {
+   "item_index": 6,
+   "x0": 0.8042,
+   "y0": 0.0,
+   "x1": 0.9667,
+   "y1": 0.2062
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0042,
+   "y0": 0.2062,
+   "x1": 0.15,
+   "y1": 0.45
+  },
+  {
+   "item_index": 8,
+   "x0": 0.15,
+   "y0": 0.2062,
+   "x1": 0.3667,
+   "y1": 0.45
+  },
+  {
+   "item_index": 9,
+   "x0": 0.3667,
+   "y0": 0.2062,
+   "x1": 0.575,
+   "y1": 0.45
+  },
+  {
+   "item_index": 10,
+   "x0": 0.575,
+   "y0": 0.2062,
+   "x1": 0.7833,
+   "y1": 0.45
+  },
+  {
+   "item_index": 11,
+   "x0": 0.7833,
+   "y0": 0.2062,
+   "x1": 0.9958,
+   "y1": 0.45
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0042,
+   "y0": 0.45,
+   "x1": 0.1083,
+   "y1": 0.71
+  },
+  {
+   "item_index": 13,
+   "x0": 0.1083,
+   "y0": 0.45,
+   "x1": 0.2417,
+   "y1": 0.71
+  },
+  {
+   "item_index": 14,
+   "x0": 0.2417,
+   "y0": 0.45,
+   "x1": 0.3708,
+   "y1": 0.71
+  },
+  {
+   "item_index": 15,
+   "x0": 0.3708,
+   "y0": 0.45,
+   "x1": 0.5,
+   "y1": 0.71
+  },
+  {
+   "item_index": 16,
+   "x0": 0.5,
+   "y0": 0.45,
+   "x1": 0.6208,
+   "y1": 0.71
+  },
+  {
+   "item_index": 17,
+   "x0": 0.6208,
+   "y0": 0.45,
+   "x1": 0.75,
+   "y1": 0.71
+  },
+  {
+   "item_index": 18,
+   "x0": 0.75,
+   "y0": 0.45,
+   "x1": 0.875,
+   "y1": 0.71
+  },
+  {
+   "item_index": 19,
+   "x0": 0.875,
+   "y0": 0.45,
+   "x1": 1.0,
+   "y1": 0.71
+  },
+  {
+   "item_index": 20,
+   "x0": 0.0042,
+   "y0": 0.71,
+   "x1": 0.0917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.0917,
+   "y0": 0.71,
+   "x1": 0.2417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.2417,
+   "y0": 0.71,
+   "x1": 0.3708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.3708,
+   "y0": 0.71,
+   "x1": 0.5042,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.5042,
+   "y0": 0.71,
+   "x1": 0.6375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.6375,
+   "y0": 0.71,
+   "x1": 0.7708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.7708,
+   "y0": 0.71,
+   "x1": 0.9042,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.9042,
+   "y0": 0.71,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "71861",
+   "slot_letter": "A",
+   "name": "1/8 ID x 5/16 OD x 1/16 fiber washer",
+   "price_cents": 48,
+   "upc": "738287718614",
+   "upc_source": "read_from_label",
+   "location": "Washers 17, slot A",
+   "label_short": "1/8 5/16"
+  },
+  {
+   "sku": "71862",
+   "slot_letter": "B",
+   "name": "5/32 ID x 5/16 OD x 1/16 fiber washer",
+   "price_cents": 51,
+   "upc": "738287718621",
+   "upc_source": "read_from_label",
+   "location": "Washers 17, slot B",
+   "label_short": "5/32 5/16"
+  },
+  {
+   "sku": "71863",
+   "slot_letter": "C",
+   "name": "3/16 ID x 3/8 OD x 1/16 fiber washer",
+   "price_cents": 52,
+   "upc": "738287718638",
+   "upc_source": "read_from_label",
+   "location": "Washers 17, slot C",
+   "label_short": "3/16 3/8"
+  },
+  {
+   "sku": "71864",
+   "slot_letter": "D",
+   "name": "7/32 ID x 7/16 OD x 1/16 fiber washer",
+   "price_cents": 55,
+   "upc": "738287718645",
+   "upc_source": "read_from_label",
+   "location": "Washers 17, slot D",
+   "label_short": "7/32 7/16"
+  },
+  {
+   "sku": "71865",
+   "slot_letter": "E",
+   "name": "1/4 ID x 3/8 OD x 1/16 fiber washer",
+   "price_cents": 56,
+   "upc": "738287718652",
+   "upc_source": "read_from_label",
+   "location": "Washers 17, slot E",
+   "label_short": "1/4 3/8"
+  },
+  {
+   "sku": "71866",
+   "slot_letter": "F",
+   "name": "1/4 ID x 1/2 OD x 1/16 fiber washer",
+   "price_cents": 57,
+   "upc": "738287718669",
+   "upc_source": "read_from_label",
+   "location": "Washers 17, slot F",
+   "label_short": "1/4 1/2"
+  },
+  {
+   "sku": "71867",
+   "slot_letter": "G",
+   "name": "5/16 ID x 3/4 OD x 1/16 fiber washer",
+   "price_cents": 61,
+   "upc": "738287718676",
+   "upc_source": "read_from_label",
+   "location": "Washers 17, slot G",
+   "label_short": "5/16 3/4"
+  },
+  {
+   "sku": "71868",
+   "slot_letter": "H",
+   "name": "3/8 ID x 1/2 OD x 1/16 fiber washer",
+   "price_cents": 57,
+   "upc": "738287718683",
+   "upc_source": "read_from_label",
+   "location": "Washers 17, slot H",
+   "label_short": "3/8 1/2"
+  },
+  {
+   "sku": "71871",
+   "slot_letter": "J",
+   "name": "3/8 ID x 7/8 OD x 1/16 fiber washer",
+   "price_cents": 67,
+   "upc": "738287718713",
+   "upc_source": "read_from_label",
+   "location": "Washers 17, slot J",
+   "label_short": "3/8 7/8"
+  },
+  {
+   "sku": "71872",
+   "slot_letter": "K",
+   "name": "7/16 ID x 1 OD x 1/16 fiber washer",
+   "price_cents": 69,
+   "upc": "738287718720",
+   "upc_source": "read_from_label",
+   "location": "Washers 17, slot K",
+   "label_short": "7/16 1"
+  },
+  {
+   "sku": "71873",
+   "slot_letter": "L",
+   "name": "5/8 ID x 3/4 OD x 1/16 fiber washer",
+   "price_cents": 69,
+   "upc": "738287718737",
+   "upc_source": "read_from_label",
+   "location": "Washers 17, slot L",
+   "label_short": "5/8 3/4"
+  },
+  {
+   "sku": "71874",
+   "slot_letter": "M",
+   "name": "3/4 ID x 1 OD x 1/16 fiber washer",
+   "price_cents": 75,
+   "upc": "738287718744",
+   "upc_source": "read_from_label",
+   "location": "Washers 17, slot M",
+   "label_short": "3/4 1",
+   "note": "This compartment was empty in the photo."
+  },
+  {
+   "sku": "61921",
+   "slot_letter": "A",
+   "name": "No. 4 bronze split lock washer",
+   "price_cents": 29,
+   "upc": "738287619218",
+   "upc_source": "read_from_label",
+   "location": "Washers 20, slot A",
+   "label_short": "No. 4"
+  },
+  {
+   "sku": "61922",
+   "slot_letter": "B",
+   "name": "No. 6 bronze split lock washer",
+   "price_cents": 32,
+   "upc": "738287619225",
+   "upc_source": "read_from_label",
+   "location": "Washers 20, slot B",
+   "label_short": "No. 6"
+  },
+  {
+   "sku": "61923",
+   "slot_letter": "C",
+   "name": "No. 8 bronze split lock washer",
+   "price_cents": 34,
+   "upc": "738287619232",
+   "upc_source": "read_from_label",
+   "location": "Washers 20, slot C",
+   "label_short": "No. 8"
+  },
+  {
+   "sku": "61924",
+   "slot_letter": "D",
+   "name": "No. 10 bronze split lock washer",
+   "price_cents": 40,
+   "upc": "738287619249",
+   "upc_source": "read_from_label",
+   "location": "Washers 20, slot D",
+   "label_short": "No. 10"
+  },
+  {
+   "sku": "61925",
+   "slot_letter": "E",
+   "name": "1/4 bronze split lock washer",
+   "price_cents": 52,
+   "upc": "738287619256",
+   "upc_source": "read_from_label",
+   "location": "Washers 20, slot E",
+   "label_short": "1/4"
+  },
+  {
+   "sku": "61926",
+   "slot_letter": "F",
+   "name": "5/16 bronze split lock washer",
+   "price_cents": 66,
+   "upc": "738287619263",
+   "upc_source": "read_from_label",
+   "location": "Washers 20, slot F",
+   "label_short": "5/16"
+  },
+  {
+   "sku": "61927",
+   "slot_letter": "G",
+   "name": "3/8 bronze split lock washer",
+   "price_cents": 85,
+   "upc": "738287619270",
+   "upc_source": "read_from_label",
+   "location": "Washers 20, slot G",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "61928",
+   "slot_letter": "H",
+   "name": "1/2 bronze split lock washer",
+   "price_cents": 135,
+   "upc": "738287619287",
+   "upc_source": "read_from_label",
+   "location": "Washers 20, slot H",
+   "label_short": "1/2"
+  },
+  {
+   "sku": "61931",
+   "slot_letter": "J",
+   "name": "No. 4 brass flat washer",
+   "price_cents": 29,
+   "upc": "738287619317",
+   "upc_source": "calculated_from_sku",
+   "location": "Washers 20, slot J",
+   "label_short": "No. 4"
+  },
+  {
+   "sku": "61932",
+   "slot_letter": "K",
+   "name": "No. 6 brass flat washer",
+   "price_cents": 30,
+   "upc": "738287619324",
+   "upc_source": "calculated_from_sku",
+   "location": "Washers 20, slot K",
+   "label_short": "No. 6"
+  },
+  {
+   "sku": "61933",
+   "slot_letter": "L",
+   "name": "No. 8 brass flat washer",
+   "price_cents": 35,
+   "upc": "738287619331",
+   "upc_source": "calculated_from_sku",
+   "location": "Washers 20, slot L",
+   "label_short": "No. 8"
+  },
+  {
+   "sku": "61934",
+   "slot_letter": "M",
+   "name": "No. 10 brass flat washer",
+   "price_cents": 44,
+   "upc": "738287619348",
+   "upc_source": "calculated_from_sku",
+   "location": "Washers 20, slot M",
+   "label_short": "No. 10"
+  },
+  {
+   "sku": "61935",
+   "slot_letter": "N",
+   "name": "1/4 brass flat washer",
+   "price_cents": 48,
+   "upc": "738287619355",
+   "upc_source": "calculated_from_sku",
+   "location": "Washers 20, slot N",
+   "label_short": "1/4"
+  },
+  {
+   "sku": "61936",
+   "slot_letter": "P",
+   "name": "5/16 brass flat washer",
+   "price_cents": 69,
+   "upc": "738287619362",
+   "upc_source": "calculated_from_sku",
+   "location": "Washers 20, slot P",
+   "label_short": "5/16"
+  },
+  {
+   "sku": "61937",
+   "slot_letter": "Q",
+   "name": "3/8 brass flat washer",
+   "price_cents": 105,
+   "upc": "738287619379",
+   "upc_source": "calculated_from_sku",
+   "location": "Washers 20, slot Q",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "61938",
+   "slot_letter": "R",
+   "name": "1/2 brass flat washer",
+   "price_cents": 175,
+   "upc": "738287619386",
+   "upc_source": "calculated_from_sku",
+   "location": "Washers 20, slot R",
+   "label_short": "1/2"
+  }
+ ]
+}

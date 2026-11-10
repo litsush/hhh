@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Screw aisle in 3D</title>
+<style>
+:root{--ink:#16233f;--mute:#5d6880;--paper:#f3f1ea;--line:#d8d4c8}
+html,body{margin:0;height:100%;background:#1b1d22;color:var(--ink);font:15px/1.4 system-ui,-apple-system,"Segoe UI",sans-serif;overflow:hidden}
+#c{position:fixed;inset:0;display:block;width:100%;height:100%;touch-action:none}
+.bar{position:fixed;left:12px;top:12px;right:12px;display:flex;gap:8px;flex-wrap:wrap;align-items:center;pointer-events:none}
+.bar>*{pointer-events:auto}
+.chip{background:rgba(243,241,234,.94);border:1px solid var(--line);border-radius:8px;padding:7px 11px;font-size:14px}
+.chip a{color:#14389a}
+button.chip{cursor:pointer;font:inherit;font-size:14px;color:var(--ink)}
+#info{position:fixed;z-index:2;left:12px;bottom:12px;max-width:min(420px,calc(100% - 24px));background:rgba(243,241,234,.96);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:none}
+#info h2{margin:0 0 2px;font-size:17px}#info p{margin:0 0 8px;color:var(--mute);font-size:13px}
+#info a{display:inline-block;background:#14389a;color:#fff;text-decoration:none;padding:7px 12px;border-radius:6px;font-size:14px}
+#load{position:fixed;inset:0;display:grid;place-items:center;color:#ddd;font-size:15px;pointer-events:none}
+/* drawer pop-up floats over the dimmed 3D view */
+section.open{background:rgba(16,18,24,.6)}section.open .inner{background:var(--paper);margin:20px auto;border-radius:12px}
+@media (max-width:600px){section.open .inner{margin:0;border-radius:0;min-height:100%}}
+</style>
+<link rel="stylesheet" href="drawer.css">
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.169.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.169.0/examples/jsm/","@mkkellogg/gaussian-splats-3d":"https://cdn.jsdelivr.net/npm/@mkkellogg/gaussian-splats-3d@0.4.7/build/gaussian-splats-3d.module.js"}}</script>
+</head><body>
+<canvas id="c"></canvas>
+<div id="load">Loading the 3D scan (about 23 MB)…</div>
+<div class="bar"><span class="chip"><a href="index.html">← Flat wall view</a></span>
+<button class="chip" id="tog">Hide drawer photos</button><button class="chip" id="home">Reset view</button>
+<span class="chip">Drag to look around, scroll or pinch to zoom, tap a drawer.</span></div>
+<div id="info"><h2 id="it"></h2><p id="is"></p></div>
+<script src="drawer.js"></script>
+<script type="module">
+import * as THREE from 'three';
+import {OrbitControls} from 'three/addons/controls/OrbitControls.js';
+import * as GS from '@mkkellogg/gaussian-splats-3d';
+const [L,DR]=await Promise.all([fetch('wall3d.json').then(r=>r.json()),fetch('drawers.json').then(r=>r.json())]);
+const byId=Object.fromEntries(DR.map(d=>[d.id,d]));let paused=false;
+const canvas=document.getElementById('c');
+const renderer=new THREE.WebGLRenderer({canvas,antialias:false});renderer.setPixelRatio(Math.min(devicePixelRatio,2));
+const scene=new THREE.Scene();scene.background=new THREE.Color(0x1b1d22);
+const camera=new THREE.PerspectiveCamera(55,1,0.02,200);
+const V=a=>new THREE.Vector3(...a);
+const n=V(L.normal),up=V(L.up),right=V(L.right);
+const all=L.slots.flatMap(s=>s.q.map(V));const center=all.reduce((a,b)=>a.add(b),new THREE.Vector3()).multiplyScalar(1/all.length);
+const span=all.reduce((m,p)=>Math.max(m,Math.abs(p.clone().sub(center).dot(right))),0);
+camera.up.copy(up);
+const controls=new OrbitControls(camera,canvas);controls.enableDamping=true;controls.screenSpacePanning=true;
+function home(){const hf=2*Math.atan(Math.tan(camera.fov*Math.PI/360)*camera.aspect);camera.position.copy(center).addScaledVector(n,span*1.08/Math.tan(hf/2));controls.target.copy(center);controls.update()}
+const viewer=new GS.DropInViewer({sharedMemoryForWorkers:false,gpuAcceleratedSort:false});
+scene.add(viewer);
+viewer.addSplatScene('aisle.splat',{format:GS.SceneFormat.Splat,showLoadingUI:false,progressiveLoad:false})
+  .then(()=>{document.getElementById('load').remove()}).catch(e=>{document.getElementById('load').textContent='Could not load the scan: '+e});
+// drawer photos as quads
+const group=new THREE.Group();scene.add(group);const loader=new THREE.TextureLoader();const off=n.clone().multiplyScalar(0.006);
+for(const s of L.slots){
+  const [tl,tr,br,bl]=s.q.map(a=>V(a).add(off));
+  const parts=s.d.length?s.d:[null];
+  parts.forEach((d,k)=>{const f0=k/parts.length,f1=(k+1)/parts.length,lerp=(a,b,t)=>a.clone().lerp(b,t);
+    const p=[lerp(tl,tr,f0),lerp(tl,tr,f1),lerp(bl,br,f1),lerp(bl,br,f0)];
+    const g=new THREE.BufferGeometry();g.setAttribute('position',new THREE.Float32BufferAttribute(p.flatMap(v=>[v.x,v.y,v.z]),3));
+    g.setAttribute('uv',new THREE.Float32BufferAttribute([f0,1,f1,1,f1,0,f0,0],2));g.setIndex([0,2,1,0,3,2]);
+    const m=new THREE.MeshBasicMaterial({side:THREE.DoubleSide,transparent:true,opacity:s.f?1:0.0});
+    if(s.f){const t=loader.load(s.f);t.colorSpace=THREE.SRGBColorSpace;m.map=t}
+    const mesh=new THREE.Mesh(g,m);mesh.userData={d,s};group.add(mesh)})}
+document.getElementById('tog').onclick=e=>{group.visible=!group.visible;e.target.textContent=group.visible?'Hide drawer photos':'Show drawer photos'};
+document.getElementById('home').onclick=home;
+const ray=new THREE.Raycaster(),ptr=new THREE.Vector2();let down;
+canvas.addEventListener('pointerdown',e=>down=[e.clientX,e.clientY]);
+canvas.addEventListener('pointerup',e=>{if(!down||Math.hypot(e.clientX-down[0],e.clientY-down[1])>6)return;
+  ptr.set(e.clientX/innerWidth*2-1,-(e.clientY/innerHeight)*2+1);ray.setFromCamera(ptr,camera);
+  const h=ray.intersectObjects(group.children)[0];const box=document.getElementById('info');box.style.display='none';
+  if(!h)return;
+  const {d,s}=h.object.userData;
+  if(d&&byId[d.id]){paused=true;DrawerView.open(byId[d.id],canvas,()=>{paused=false});return}
+  box.style.display='block';document.getElementById('it').textContent='Column '+s.c+', row '+s.r;
+  document.getElementById('is').textContent='Inside not photographed yet.'});
+function size(){renderer.setSize(innerWidth,innerHeight,false);camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix()}
+addEventListener('resize',size);size();home();
+renderer.setAnimationLoop(()=>{if(paused)return;controls.update();renderer.render(scene,camera)});
+</script></body></html>

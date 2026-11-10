@@ -1,0 +1,273 @@
+{
+ "id": "c15r2",
+ "column": 15,
+ "row": 2,
+ "half": null,
+ "title": "Socket 2",
+ "description": "Black oxide socket head cap screws, 8-32 and 10-24 coarse and 10-32 fine, 3/8 to 2 long (67400)",
+ "front_image": "images/fronts/c15r2.jpg",
+ "tray_image": "images/trays/c15r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1375,
+   "y1": 0.4437
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1375,
+   "y0": 0.0,
+   "x1": 0.2667,
+   "y1": 0.4437
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2667,
+   "y0": 0.0,
+   "x1": 0.3875,
+   "y1": 0.4437
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3875,
+   "y0": 0.0,
+   "x1": 0.5042,
+   "y1": 0.4437
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5042,
+   "y0": 0.0,
+   "x1": 0.6167,
+   "y1": 0.4437
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6167,
+   "y0": 0.0,
+   "x1": 0.725,
+   "y1": 0.4437
+  },
+  {
+   "item_index": 6,
+   "x0": 0.725,
+   "y0": 0.0,
+   "x1": 0.8375,
+   "y1": 0.4437
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8375,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4437
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.4437,
+   "x1": 0.1708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1708,
+   "y0": 0.4437,
+   "x1": 0.3333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.3333,
+   "y0": 0.4437,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.5,
+   "y0": 0.4437,
+   "x1": 0.625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.625,
+   "y0": 0.4437,
+   "x1": 0.75,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.75,
+   "y0": 0.4437,
+   "x1": 0.875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.875,
+   "y0": 0.4437,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "67401",
+   "slot_letter": "A",
+   "name": "8-32 x 1 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 66,
+   "upc": "738287674019",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot A",
+   "label_short": "8-32 x 1"
+  },
+  {
+   "sku": "67402",
+   "slot_letter": "B",
+   "name": "8-32 x 1-1/4 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 75,
+   "upc": "738287674026",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot B",
+   "label_short": "8-32 x 1-1/4"
+  },
+  {
+   "sku": "67403",
+   "slot_letter": "C",
+   "name": "8-32 x 1-1/2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 89,
+   "upc": "738287674033",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot C",
+   "label_short": "8-32 x 1-1/2"
+  },
+  {
+   "sku": "67404",
+   "slot_letter": "D",
+   "name": "10-24 x 3/8 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 63,
+   "upc": "738287674040",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot D",
+   "label_short": "10-24 x 3/8"
+  },
+  {
+   "sku": "67405",
+   "slot_letter": "E",
+   "name": "10-24 x 1/2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 64,
+   "upc": "738287674057",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot E",
+   "label_short": "10-24 x 1/2"
+  },
+  {
+   "sku": "67406",
+   "slot_letter": "F",
+   "name": "10-24 x 5/8 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 66,
+   "upc": "738287674064",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot F",
+   "label_short": "10-24 x 5/8"
+  },
+  {
+   "sku": "67407",
+   "slot_letter": "G",
+   "name": "10-24 x 3/4 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 67,
+   "upc": "738287674071",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot G",
+   "label_short": "10-24 x 3/4"
+  },
+  {
+   "sku": "67408",
+   "slot_letter": "H",
+   "name": "10-24 x 1 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 69,
+   "upc": "738287674088",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot H",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "67411",
+   "slot_letter": "J",
+   "name": "10-24 x 1-1/4 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 75,
+   "upc": "738287674118",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot J",
+   "label_short": "10-24 x 1-1/4"
+  },
+  {
+   "sku": "67412",
+   "slot_letter": "K",
+   "name": "10-24 x 1-1/2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 79,
+   "upc": "738287674125",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot K",
+   "label_short": "10-24 x 1-1/2"
+  },
+  {
+   "sku": "67413",
+   "slot_letter": "L",
+   "name": "10-24 x 2 socket head cap screw, coarse thread, black oxide alloy steel",
+   "price_cents": 95,
+   "upc": "738287674132",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot L",
+   "label_short": "10-24 x 2"
+  },
+  {
+   "sku": "67414",
+   "slot_letter": "M",
+   "name": "10-32 x 3/8 socket head cap screw, fine thread, black oxide alloy steel",
+   "price_cents": 60,
+   "upc": "738287674149",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot M",
+   "label_short": "10-32 x 3/8"
+  },
+  {
+   "sku": "67415",
+   "slot_letter": "N",
+   "name": "10-32 x 1/2 socket head cap screw, fine thread, black oxide alloy steel",
+   "price_cents": 61,
+   "upc": "738287674156",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot N",
+   "label_short": "10-32 x 1/2"
+  },
+  {
+   "sku": "67416",
+   "slot_letter": "P",
+   "name": "10-32 x 5/8 socket head cap screw, fine thread, black oxide alloy steel",
+   "price_cents": 69,
+   "upc": "738287674163",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot P",
+   "label_short": "10-32 x 5/8"
+  },
+  {
+   "sku": "67417",
+   "slot_letter": "Q",
+   "name": "10-32 x 3/4 socket head cap screw, fine thread, black oxide alloy steel",
+   "price_cents": 69,
+   "upc": "738287674170",
+   "upc_source": "read_from_label",
+   "location": "Socket 2, slot Q",
+   "label_short": "10-32 x 3/4"
+  }
+ ]
+}

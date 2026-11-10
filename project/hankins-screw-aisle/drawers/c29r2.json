@@ -1,0 +1,430 @@
+{
+ "id": "c29r2",
+ "column": 29,
+ "row": 2,
+ "half": null,
+ "title": "Specialty 56 and Specialty 61",
+ "description": "Grease fittings, 1/4-28 and 1/8 MIP, straight to 90 degree (63220), and bagged roller, offset and connecting chain links #35 to #50 (64240)",
+ "front_image": "images/fronts/c29r2.jpg",
+ "tray_image": "images/trays/c29r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2625,
+   "y1": 0.25
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2625,
+   "y0": 0.0,
+   "x1": 0.4292,
+   "y1": 0.25
+  },
+  {
+   "item_index": 2,
+   "x0": 0.4292,
+   "y0": 0.0,
+   "x1": 0.5958,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5958,
+   "y0": 0.0,
+   "x1": 0.7583,
+   "y1": 0.25
+  },
+  {
+   "item_index": 4,
+   "x0": 0.7583,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.25
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0,
+   "y0": 0.25,
+   "x1": 0.225,
+   "y1": 0.5
+  },
+  {
+   "item_index": 6,
+   "x0": 0.225,
+   "y0": 0.25,
+   "x1": 0.5167,
+   "y1": 0.5
+  },
+  {
+   "item_index": 7,
+   "x0": 0.5167,
+   "y0": 0.25,
+   "x1": 0.7667,
+   "y1": 0.5
+  },
+  {
+   "item_index": 8,
+   "x0": 0.7667,
+   "y0": 0.25,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 9,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.1275,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 10,
+   "x0": 0.1275,
+   "y0": 0.5,
+   "x1": 0.2642,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 11,
+   "x0": 0.2642,
+   "y0": 0.5,
+   "x1": 0.3917,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 12,
+   "x0": 0.3917,
+   "y0": 0.5,
+   "x1": 0.5192,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 13,
+   "x0": 0.5192,
+   "y0": 0.5,
+   "x1": 0.6692,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 14,
+   "x0": 0.6692,
+   "y0": 0.5,
+   "x1": 0.7667,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 15,
+   "x0": 0.7667,
+   "y0": 0.5,
+   "x1": 0.8917,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 16,
+   "x0": 0.8917,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 17,
+   "x0": 0.0,
+   "y0": 0.7625,
+   "x1": 0.1417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 18,
+   "x0": 0.1417,
+   "y0": 0.7625,
+   "x1": 0.2725,
+   "y1": 1.0
+  },
+  {
+   "item_index": 19,
+   "x0": 0.2725,
+   "y0": 0.7625,
+   "x1": 0.4083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 20,
+   "x0": 0.4083,
+   "y0": 0.7625,
+   "x1": 0.5458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.5458,
+   "y0": 0.7625,
+   "x1": 0.675,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.675,
+   "y0": 0.7625,
+   "x1": 0.8442,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.8442,
+   "y0": 0.7625,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "63221",
+   "slot_letter": "A",
+   "name": "1/4-28 short straight grease fitting",
+   "price_cents": 115,
+   "upc": "738287632217",
+   "upc_source": "read_from_label",
+   "location": "Specialty 56, slot A",
+   "label_short": "1/4-28 short"
+  },
+  {
+   "sku": "63222",
+   "slot_letter": "B",
+   "name": "1/4-28 long straight grease fitting",
+   "price_cents": 135,
+   "upc": "738287632224",
+   "upc_source": "read_from_label",
+   "location": "Specialty 56, slot B",
+   "label_short": "1/4-28 long"
+  },
+  {
+   "sku": "63223",
+   "slot_letter": "C",
+   "name": "1/4-28 45-degree grease fitting",
+   "price_cents": 199,
+   "upc": "738287632231",
+   "upc_source": "read_from_label",
+   "location": "Specialty 56, slot C",
+   "label_short": "1/4-28 45°"
+  },
+  {
+   "sku": "63224",
+   "slot_letter": "D",
+   "name": "1/4-28 90-degree grease fitting",
+   "price_cents": 209,
+   "upc": "738287632248",
+   "upc_source": "read_from_label",
+   "location": "Specialty 56, slot D",
+   "label_short": "1/4-28 90°"
+  },
+  {
+   "sku": "63225",
+   "slot_letter": "E",
+   "name": "1/8 MIP straight grease fitting",
+   "price_cents": 159,
+   "upc": "738287632255",
+   "upc_source": "read_from_label",
+   "location": "Specialty 56, slot E",
+   "label_short": "1/8 straight"
+  },
+  {
+   "sku": "63226",
+   "slot_letter": "F",
+   "name": "1/8 MIP 30-degree grease fitting",
+   "price_cents": 219,
+   "upc": "738287632262",
+   "upc_source": "read_from_label",
+   "location": "Specialty 56, slot F",
+   "label_short": "1/8 30°",
+   "note": "Handwritten sticker on the lid cell reads \"$13 O/L\" (meaning unclear); printed price used. Back half of this compartment row is mostly covered by bagged chain links that have spilled over from the chain-link section; only a few grease fittings are visible."
+  },
+  {
+   "sku": "63227",
+   "slot_letter": "G",
+   "name": "1/8 MIP 45-degree grease fitting",
+   "price_cents": 219,
+   "upc": "738287632279",
+   "upc_source": "read_from_label",
+   "location": "Specialty 56, slot G",
+   "label_short": "1/8 45°",
+   "note": "Back half of this compartment row is mostly covered by bagged chain links that have spilled over from the chain-link section; only a few grease fittings are visible."
+  },
+  {
+   "sku": "63228",
+   "slot_letter": "H",
+   "name": "1/8 MIP 65-degree grease fitting",
+   "price_cents": 229,
+   "upc": "738287632286",
+   "upc_source": "read_from_label",
+   "location": "Specialty 56, slot H",
+   "label_short": "1/8 65°",
+   "note": "Back half of this compartment row is mostly covered by bagged chain links that have spilled over from the chain-link section; only a few grease fittings are visible."
+  },
+  {
+   "sku": "63231",
+   "slot_letter": "J",
+   "name": "1/8 MIP 90-degree grease fitting",
+   "price_cents": 239,
+   "upc": "738287632316",
+   "upc_source": "read_from_label",
+   "location": "Specialty 56, slot J",
+   "label_short": "1/8 90°",
+   "note": "Back half of this compartment row is mostly covered by bagged chain links that have spilled over from the chain-link section; only a few grease fittings are visible."
+  },
+  {
+   "sku": "64241",
+   "slot_letter": "A",
+   "name": "#35 roller chain link",
+   "price_cents": 219,
+   "upc": "738287642414",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot A",
+   "label_short": "#35 roller"
+  },
+  {
+   "sku": "64242",
+   "slot_letter": "B",
+   "name": "#40 roller chain link",
+   "price_cents": 239,
+   "upc": "738287642421",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot B",
+   "label_short": "#40 roller"
+  },
+  {
+   "sku": "64243",
+   "slot_letter": "C",
+   "name": "#41 roller chain link",
+   "price_cents": 269,
+   "upc": "738287642438",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot C",
+   "label_short": "#41 roller"
+  },
+  {
+   "sku": "64244",
+   "slot_letter": "D",
+   "name": "#43 (65) roller chain link",
+   "price_cents": 349,
+   "upc": "738287642445",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot D",
+   "label_short": "#43 roller"
+  },
+  {
+   "sku": "64245",
+   "slot_letter": "E",
+   "name": "#50 roller chain link",
+   "price_cents": 299,
+   "upc": "738287642452",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot E",
+   "label_short": "#50 roller"
+  },
+  {
+   "sku": "64246",
+   "slot_letter": "F",
+   "name": "#35 offset chain link",
+   "price_cents": 319,
+   "upc": "738287642469",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot F",
+   "label_short": "#35 offset"
+  },
+  {
+   "sku": "64247",
+   "slot_letter": "G",
+   "name": "#40 offset chain link",
+   "price_cents": 359,
+   "upc": "738287642476",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot G",
+   "label_short": "#40 offset"
+  },
+  {
+   "sku": "64248",
+   "slot_letter": "H",
+   "name": "#41 offset chain link",
+   "price_cents": 319,
+   "upc": "738287642483",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot H",
+   "label_short": "#41 offset"
+  },
+  {
+   "sku": "64251",
+   "slot_letter": "J",
+   "name": "#43 (65) offset chain link",
+   "price_cents": 499,
+   "upc": "738287642513",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot J",
+   "label_short": "#43 offset"
+  },
+  {
+   "sku": "64252",
+   "slot_letter": "K",
+   "name": "#50 offset chain link",
+   "price_cents": 429,
+   "upc": "738287642520",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot K",
+   "label_short": "#50 offset"
+  },
+  {
+   "sku": "64253",
+   "slot_letter": "L",
+   "name": "#35 connecting chain link",
+   "price_cents": 209,
+   "upc": "738287642537",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot L",
+   "label_short": "#35 conn."
+  },
+  {
+   "sku": "64254",
+   "slot_letter": "M",
+   "name": "#40 connecting chain link",
+   "price_cents": 219,
+   "upc": "738287642544",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot M",
+   "label_short": "#40 conn."
+  },
+  {
+   "sku": "64255",
+   "slot_letter": "N",
+   "name": "#41 connecting chain link",
+   "price_cents": 195,
+   "upc": "738287642551",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot N",
+   "label_short": "#41 conn."
+  },
+  {
+   "sku": "64256",
+   "slot_letter": "P",
+   "name": "#43 (65) connecting chain link",
+   "price_cents": 219,
+   "upc": "738287642568",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot P",
+   "label_short": "#43 conn."
+  },
+  {
+   "sku": "64257",
+   "slot_letter": "Q",
+   "name": "#50 connecting chain link",
+   "price_cents": 319,
+   "upc": "738287642575",
+   "upc_source": "read_from_label",
+   "location": "Specialty 61, slot Q",
+   "label_short": "#50 conn."
+  }
+ ]
+}

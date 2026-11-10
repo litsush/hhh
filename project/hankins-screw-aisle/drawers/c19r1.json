@@ -1,0 +1,324 @@
+{
+ "id": "c19r1",
+ "column": 19,
+ "row": 1,
+ "half": null,
+ "title": "Household 27 and Household 33",
+ "description": "Nylon computer panel and desk grommets, 5/8 to 2 inch (70260), and furniture spring caps and outside-fit caps, 5/8 to 1-1/4 inch (66300)",
+ "front_image": "images/fronts/c19r1.jpg",
+ "tray_image": "images/trays/c19r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1417,
+   "y1": 0.2188
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1417,
+   "y0": 0.0,
+   "x1": 0.265,
+   "y1": 0.2188
+  },
+  {
+   "item_index": 2,
+   "x0": 0.265,
+   "y0": 0.0,
+   "x1": 0.3792,
+   "y1": 0.2188
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3792,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.2188
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2188
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0,
+   "y0": 0.2188,
+   "x1": 0.1725,
+   "y1": 0.4562
+  },
+  {
+   "item_index": 6,
+   "x0": 0.1725,
+   "y0": 0.2188,
+   "x1": 0.3358,
+   "y1": 0.4562
+  },
+  {
+   "item_index": 7,
+   "x0": 0.3358,
+   "y0": 0.2188,
+   "x1": 0.6625,
+   "y1": 0.4562
+  },
+  {
+   "item_index": 8,
+   "x0": 0.6625,
+   "y0": 0.2188,
+   "x1": 1.0,
+   "y1": 0.4562
+  },
+  {
+   "item_index": 9,
+   "x0": 0.0,
+   "y0": 0.4562,
+   "x1": 0.1667,
+   "y1": 0.7063
+  },
+  {
+   "item_index": 10,
+   "x0": 0.1667,
+   "y0": 0.4562,
+   "x1": 0.3792,
+   "y1": 0.7063
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3792,
+   "y0": 0.4562,
+   "x1": 0.5933,
+   "y1": 0.7063
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5933,
+   "y0": 0.4562,
+   "x1": 0.8042,
+   "y1": 0.7063
+  },
+  {
+   "item_index": 13,
+   "x0": 0.8042,
+   "y0": 0.4562,
+   "x1": 1.0,
+   "y1": 0.7063
+  },
+  {
+   "item_index": 14,
+   "x0": 0.0,
+   "y0": 0.7063,
+   "x1": 0.2475,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.2475,
+   "y0": 0.7063,
+   "x1": 0.4608,
+   "y1": 1.0
+  },
+  {
+   "item_index": 16,
+   "x0": 0.4608,
+   "y0": 0.7063,
+   "x1": 0.7917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 17,
+   "x0": 0.7917,
+   "y0": 0.7063,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "70261",
+   "slot_letter": "A",
+   "name": "5/8\" black nylon panel grommet",
+   "price_cents": 69,
+   "upc": "738287702613",
+   "upc_source": "read_from_label",
+   "location": "Household 27, slot A",
+   "label_short": "5/8 panel"
+  },
+  {
+   "sku": "70263",
+   "slot_letter": "C",
+   "name": "13/16\" black nylon panel grommet",
+   "price_cents": 89,
+   "upc": "738287702637",
+   "upc_source": "read_from_label",
+   "location": "Household 27, slot C",
+   "label_short": "13/16 panel"
+  },
+  {
+   "sku": "70265",
+   "slot_letter": "E",
+   "name": "1\" black nylon panel grommet",
+   "price_cents": 109,
+   "upc": "738287702651",
+   "upc_source": "read_from_label",
+   "location": "Household 27, slot E",
+   "label_short": "1 panel"
+  },
+  {
+   "sku": "70266",
+   "slot_letter": "F",
+   "name": "1-1/32\" black nylon panel grommet",
+   "price_cents": 115,
+   "upc": "738287702668",
+   "upc_source": "read_from_label",
+   "location": "Household 27, slot F",
+   "label_short": "1-1/32 panel"
+  },
+  {
+   "sku": "70271",
+   "slot_letter": "J",
+   "name": "2\" black desk grommet with cap",
+   "price_cents": 349,
+   "upc": "738287702712",
+   "upc_source": "read_from_label",
+   "location": "Household 27, slot J",
+   "label_short": "2 desk"
+  },
+  {
+   "sku": "70262",
+   "slot_letter": "B",
+   "name": "3/4\" black nylon panel grommet",
+   "price_cents": 79,
+   "upc": "738287702620",
+   "upc_source": "read_from_label",
+   "location": "Household 27, slot B",
+   "label_short": "3/4 panel"
+  },
+  {
+   "sku": "70264",
+   "slot_letter": "D",
+   "name": "7/8\" black nylon panel grommet",
+   "price_cents": 95,
+   "upc": "738287702644",
+   "upc_source": "read_from_label",
+   "location": "Household 27, slot D",
+   "label_short": "7/8 panel"
+  },
+  {
+   "sku": "70267",
+   "slot_letter": "G",
+   "name": "1-1/2\" black desk grommet with cap",
+   "price_cents": 249,
+   "upc": "738287702675",
+   "upc_source": "read_from_label",
+   "location": "Household 27, slot G",
+   "label_short": "1-1/2 desk"
+  },
+  {
+   "sku": "70268",
+   "slot_letter": "H",
+   "name": "1-3/4\" black desk grommet with cap",
+   "price_cents": 309,
+   "upc": "738287702682",
+   "upc_source": "read_from_label",
+   "location": "Household 27, slot H",
+   "label_short": "1-3/4 desk"
+  },
+  {
+   "sku": "66301",
+   "slot_letter": "A",
+   "name": "5/8\" round spring cap (furniture tip)",
+   "price_cents": 125,
+   "upc": "738287663013",
+   "upc_source": "read_from_label",
+   "location": "Household 33, slot A",
+   "label_short": "5/8 round"
+  },
+  {
+   "sku": "66302",
+   "slot_letter": "B",
+   "name": "3/4\" round spring cap (furniture tip)",
+   "price_cents": 135,
+   "upc": "738287663020",
+   "upc_source": "read_from_label",
+   "location": "Household 33, slot B",
+   "label_short": "3/4 round"
+  },
+  {
+   "sku": "66303",
+   "slot_letter": "C",
+   "name": "1\" round spring cap (furniture tip)",
+   "price_cents": 165,
+   "upc": "738287663037",
+   "upc_source": "read_from_label",
+   "location": "Household 33, slot C",
+   "label_short": "1 round"
+  },
+  {
+   "sku": "66304",
+   "slot_letter": "D",
+   "name": "1-1/4\" round spring cap (furniture tip)",
+   "price_cents": 219,
+   "upc": "738287663044",
+   "upc_source": "read_from_label",
+   "location": "Household 33, slot D",
+   "label_short": "1-1/4 round"
+  },
+  {
+   "sku": "66305",
+   "slot_letter": "E",
+   "name": "1-1/4\" round spring cap with turned-back prong",
+   "price_cents": 249,
+   "upc": "738287663051",
+   "upc_source": "read_from_label",
+   "location": "Household 33, slot E",
+   "label_short": "1-1/4 prong"
+  },
+  {
+   "sku": "66306",
+   "slot_letter": "F",
+   "name": "3/4\" square spring cap (furniture tip)",
+   "price_cents": 175,
+   "upc": "738287663068",
+   "upc_source": "read_from_label",
+   "location": "Household 33, slot F",
+   "label_short": "3/4 square"
+  },
+  {
+   "sku": "66307",
+   "slot_letter": "G",
+   "name": "1\" square spring cap (furniture tip)",
+   "price_cents": 179,
+   "upc": "738287663075",
+   "upc_source": "read_from_label",
+   "location": "Household 33, slot G",
+   "label_short": "1 square"
+  },
+  {
+   "sku": "66308",
+   "slot_letter": "H",
+   "name": "7/8\" round outside-fit cap, black plastic",
+   "price_cents": 95,
+   "upc": "738287663082",
+   "upc_source": "read_from_label",
+   "location": "Household 33, slot H",
+   "label_short": "7/8 outside"
+  },
+  {
+   "sku": "66311",
+   "slot_letter": "J",
+   "name": "1-1/8\" round outside-fit cap, black plastic",
+   "price_cents": 125,
+   "upc": "738287663112",
+   "upc_source": "read_from_label",
+   "location": "Household 33, slot J",
+   "label_short": "1-1/8 outside"
+  }
+ ]
+}

@@ -1,0 +1,483 @@
+{
+ "id": "c28r3",
+ "column": 28,
+ "row": 3,
+ "half": null,
+ "title": "Specialty 43 and Specialty 44",
+ "description": "Steel ball bearings 1/16 to 5/8 (72840) and ball bearings with bronze sleeve bearings 1/4 to 3/4 ID (64280)",
+ "front_image": "images/fronts/c28r3.jpg",
+ "tray_image": "images/trays/c28r3.jpg",
+ "tray_image_px": [
+  1200,
+  900
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1417,
+   "y1": 0.2556
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1417,
+   "y0": 0.0,
+   "x1": 0.2667,
+   "y1": 0.2556
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2667,
+   "y0": 0.0,
+   "x1": 0.3875,
+   "y1": 0.2556
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3875,
+   "y0": 0.0,
+   "x1": 0.5125,
+   "y1": 0.2556
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5125,
+   "y0": 0.0,
+   "x1": 0.6708,
+   "y1": 0.2556
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6708,
+   "y0": 0.0,
+   "x1": 0.8375,
+   "y1": 0.2556
+  },
+  {
+   "item_index": 6,
+   "x0": 0.8375,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2556
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.2556,
+   "x1": 0.1708,
+   "y1": 0.5
+  },
+  {
+   "item_index": 8,
+   "x0": 0.1708,
+   "y0": 0.2556,
+   "x1": 0.3792,
+   "y1": 0.5
+  },
+  {
+   "item_index": 9,
+   "x0": 0.3792,
+   "y0": 0.2556,
+   "x1": 0.5833,
+   "y1": 0.5
+  },
+  {
+   "item_index": 10,
+   "x0": 0.5833,
+   "y0": 0.2556,
+   "x1": 0.7917,
+   "y1": 0.5
+  },
+  {
+   "item_index": 11,
+   "x0": 0.7917,
+   "y0": 0.2556,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.125,
+   "y1": 0.7667
+  },
+  {
+   "item_index": 13,
+   "x0": 0.125,
+   "y0": 0.5,
+   "x1": 0.25,
+   "y1": 0.7667
+  },
+  {
+   "item_index": 14,
+   "x0": 0.25,
+   "y0": 0.5,
+   "x1": 0.3708,
+   "y1": 0.7667
+  },
+  {
+   "item_index": 15,
+   "x0": 0.3708,
+   "y0": 0.5,
+   "x1": 0.4958,
+   "y1": 0.7667
+  },
+  {
+   "item_index": 16,
+   "x0": 0.4958,
+   "y0": 0.5,
+   "x1": 0.6167,
+   "y1": 0.7667
+  },
+  {
+   "item_index": 17,
+   "x0": 0.6167,
+   "y0": 0.5,
+   "x1": 0.7417,
+   "y1": 0.7667
+  },
+  {
+   "item_index": 18,
+   "x0": 0.7417,
+   "y0": 0.5,
+   "x1": 0.8583,
+   "y1": 0.7667
+  },
+  {
+   "item_index": 19,
+   "x0": 0.0,
+   "y0": 0.7667,
+   "x1": 0.1208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 20,
+   "x0": 0.1208,
+   "y0": 0.7667,
+   "x1": 0.2458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.2458,
+   "y0": 0.7667,
+   "x1": 0.3667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.3667,
+   "y0": 0.7667,
+   "x1": 0.4917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.4917,
+   "y0": 0.7667,
+   "x1": 0.6208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.6208,
+   "y0": 0.7667,
+   "x1": 0.7417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.7417,
+   "y0": 0.7667,
+   "x1": 0.8583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.8583,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "72841",
+   "slot_letter": "A",
+   "name": "1/16 steel ball bearing",
+   "price_cents": 36,
+   "upc": "738287728415",
+   "upc_source": "read_from_label",
+   "location": "Specialty 43, slot A",
+   "label_short": "1/16"
+  },
+  {
+   "sku": "72842",
+   "slot_letter": "B",
+   "name": "3/32 steel ball bearing",
+   "price_cents": 39,
+   "upc": "738287728422",
+   "upc_source": "read_from_label",
+   "location": "Specialty 43, slot B",
+   "label_short": "3/32"
+  },
+  {
+   "sku": "72843",
+   "slot_letter": "C",
+   "name": "1/8 steel ball bearing",
+   "price_cents": 46,
+   "upc": "738287728439",
+   "upc_source": "read_from_label",
+   "location": "Specialty 43, slot C",
+   "label_short": "1/8"
+  },
+  {
+   "sku": "72844",
+   "slot_letter": "D",
+   "name": "5/32 steel ball bearing",
+   "price_cents": 31,
+   "upc": "738287728446",
+   "upc_source": "read_from_label",
+   "location": "Specialty 43, slot D",
+   "label_short": "5/32"
+  },
+  {
+   "sku": "72845",
+   "slot_letter": "E",
+   "name": "3/16 steel ball bearing",
+   "price_cents": 35,
+   "upc": "738287728453",
+   "upc_source": "read_from_label",
+   "location": "Specialty 43, slot E",
+   "label_short": "3/16"
+  },
+  {
+   "sku": "72846",
+   "slot_letter": "F",
+   "name": "1/4 steel ball bearing",
+   "price_cents": 44,
+   "upc": "738287728460",
+   "upc_source": "read_from_label",
+   "location": "Specialty 43, slot F",
+   "label_short": "1/4"
+  },
+  {
+   "sku": "72847",
+   "slot_letter": "G",
+   "name": "5/16 steel ball bearing",
+   "price_cents": 52,
+   "upc": "738287728477",
+   "upc_source": "read_from_label",
+   "location": "Specialty 43, slot G",
+   "label_short": "5/16"
+  },
+  {
+   "sku": "72848",
+   "slot_letter": "H",
+   "name": "3/8 steel ball bearing",
+   "price_cents": 69,
+   "upc": "738287728484",
+   "upc_source": "read_from_label",
+   "location": "Specialty 43, slot H",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "72851",
+   "slot_letter": "J",
+   "name": "7/16 steel ball bearing",
+   "price_cents": 79,
+   "upc": "738287728514",
+   "upc_source": "read_from_label",
+   "location": "Specialty 43, slot J",
+   "label_short": "7/16"
+  },
+  {
+   "sku": "72852",
+   "slot_letter": "K",
+   "name": "1/2 steel ball bearing",
+   "price_cents": 99,
+   "upc": "738287728521",
+   "upc_source": "read_from_label",
+   "location": "Specialty 43, slot K",
+   "label_short": "1/2"
+  },
+  {
+   "sku": "72853",
+   "slot_letter": "L",
+   "name": "9/16 steel ball bearing",
+   "price_cents": 115,
+   "upc": "738287728538",
+   "upc_source": "read_from_label",
+   "location": "Specialty 43, slot L",
+   "label_short": "9/16"
+  },
+  {
+   "sku": "72854",
+   "slot_letter": "M",
+   "name": "5/8 steel ball bearing",
+   "price_cents": 155,
+   "upc": "738287728545",
+   "upc_source": "read_from_label",
+   "location": "Specialty 43, slot M",
+   "label_short": "5/8"
+  },
+  {
+   "sku": "64281",
+   "slot_letter": "A",
+   "name": "5/32 steel ball bearing",
+   "price_cents": 29,
+   "upc": "738287642810",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot A",
+   "label_short": "5/32 ball",
+   "note": "Compartment is covered by a box with a handwritten \"Empty\" card; out of stock when photographed"
+  },
+  {
+   "sku": "64282",
+   "slot_letter": "B",
+   "name": "3/16 steel ball bearing",
+   "price_cents": 32,
+   "upc": "738287642827",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot B",
+   "label_short": "3/16 ball",
+   "note": "Compartment is covered by a box with a handwritten \"Empty\" card; out of stock when photographed"
+  },
+  {
+   "sku": "64283",
+   "slot_letter": "C",
+   "name": "1/4 steel ball bearing",
+   "price_cents": 39,
+   "upc": "738287642834",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot C",
+   "label_short": "1/4 ball",
+   "note": "Compartment is covered by a box with a handwritten \"Empty\" card; out of stock when photographed"
+  },
+  {
+   "sku": "64284",
+   "slot_letter": "D",
+   "name": "5/16 steel ball bearing",
+   "price_cents": 50,
+   "upc": "738287642841",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot D",
+   "label_short": "5/16 ball",
+   "note": "Compartment is covered by a box with a handwritten \"Empty\" card; out of stock when photographed"
+  },
+  {
+   "sku": "64285",
+   "slot_letter": "E",
+   "name": "3/8 steel ball bearing",
+   "price_cents": 61,
+   "upc": "738287642858",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot E",
+   "label_short": "3/8 ball",
+   "note": "Compartment is covered by a box with a handwritten \"Empty\" card; out of stock when photographed"
+  },
+  {
+   "sku": "64286",
+   "slot_letter": "F",
+   "name": "7/16 steel ball bearing",
+   "price_cents": 69,
+   "upc": "738287642865",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot F",
+   "label_short": "7/16 ball",
+   "note": "Compartment is covered by a box with a handwritten \"Empty\" card; out of stock when photographed"
+  },
+  {
+   "sku": "64287",
+   "slot_letter": "G",
+   "name": "Bronze sleeve bearing, 1/4 ID x 5/16 OD x 3/4 long",
+   "price_cents": 259,
+   "upc": "738287642872",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot G",
+   "label_short": "1/4 x 5/16 x 3/4"
+  },
+  {
+   "sku": "64288",
+   "slot_letter": "H",
+   "name": "Bronze sleeve bearing, 1/4 ID x 3/8 OD x 1 long",
+   "price_cents": 299,
+   "upc": "738287642889",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot H",
+   "label_short": "1/4 x 3/8 x 1"
+  },
+  {
+   "sku": "64291",
+   "slot_letter": "J",
+   "name": "Bronze sleeve bearing, 3/8 ID x 1/2 OD x 1 long",
+   "price_cents": 289,
+   "upc": "738287642919",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot J",
+   "label_short": "3/8 x 1/2 x 1"
+  },
+  {
+   "sku": "64292",
+   "slot_letter": "K",
+   "name": "Bronze sleeve bearing, 1/2 ID x 11/16 OD x 1-1/8 long",
+   "price_cents": 349,
+   "upc": "738287642926",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot K",
+   "label_short": "1/2 x 11/16 x 1-1/8"
+  },
+  {
+   "sku": "64293",
+   "slot_letter": "L",
+   "name": "Bronze sleeve bearing, 1/2 ID x 5/8 OD x 1-1/8 long",
+   "price_cents": 309,
+   "upc": "738287642933",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot L",
+   "label_short": "1/2 x 5/8 x 1-1/8"
+  },
+  {
+   "sku": "64294",
+   "slot_letter": "M",
+   "name": "Bronze sleeve bearing, 1/2 ID x 3/4 OD x 1-1/8 long",
+   "price_cents": 449,
+   "upc": "738287642940",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot M",
+   "label_short": "1/2 x 3/4 x 1-1/8"
+  },
+  {
+   "sku": "64295",
+   "slot_letter": "N",
+   "name": "Bronze sleeve bearing, 5/8 ID x 3/4 OD x 1 long",
+   "price_cents": 309,
+   "upc": "738287642957",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot N",
+   "label_short": "5/8 x 3/4 x 1"
+  },
+  {
+   "sku": "64296",
+   "slot_letter": "P",
+   "name": "Bronze sleeve bearing, 5/8 ID x 3/4 OD x 1-1/8 long",
+   "price_cents": 369,
+   "upc": "738287642964",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot P",
+   "label_short": "5/8 x 3/4 x 1-1/8"
+  },
+  {
+   "sku": "64297",
+   "slot_letter": "Q",
+   "name": "Bronze sleeve bearing, 3/4 ID x 1 OD x 2 long",
+   "price_cents": 639,
+   "upc": "738287642971",
+   "upc_source": "read_from_label",
+   "location": "Specialty 44, slot Q",
+   "label_short": "3/4 x 1 x 2"
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "id": "c10r3",
+ "column": 10,
+ "row": 3,
+ "half": null,
+ "title": "Washers 15.3 and 16",
+ "description": "Neoprene rubber washers: medium 1/8 thick (34200) and extra large (77160)",
+ "front_image": "images/fronts/d48.jpg",
+ "tray_image": "images/trays/tray51.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.2
+  },
+  {
+   "item_index": 1,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.4933,
+   "y1": 0.2
+  },
+  {
+   "item_index": 2,
+   "x0": 0.4933,
+   "y0": 0.0,
+   "x1": 0.7375,
+   "y1": 0.2
+  },
+  {
+   "item_index": 3,
+   "x0": 0.7375,
+   "y0": 0.0,
+   "x1": 0.9875,
+   "y1": 0.2
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.2,
+   "x1": 0.3317,
+   "y1": 0.425
+  },
+  {
+   "item_index": 5,
+   "x0": 0.3317,
+   "y0": 0.2,
+   "x1": 0.6625,
+   "y1": 0.425
+  },
+  {
+   "item_index": 6,
+   "x0": 0.6625,
+   "y0": 0.2,
+   "x1": 0.9958,
+   "y1": 0.425
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.425,
+   "x1": 0.5,
+   "y1": 0.6312
+  },
+  {
+   "item_index": 8,
+   "x0": 0.5,
+   "y0": 0.425,
+   "x1": 1.0,
+   "y1": 0.6312
+  },
+  {
+   "item_index": 9,
+   "x0": 0.0,
+   "y0": 0.6312,
+   "x1": 0.3292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.3292,
+   "y0": 0.6312,
+   "x1": 0.6875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.6875,
+   "y0": 0.6312,
+   "x1": 0.9958,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "34201",
+   "slot_letter": "A",
+   "name": "3/16 ID x 1-1/4 OD x 1/8 neoprene rubber washer",
+   "price_cents": 95,
+   "upc": "738287342017",
+   "upc_source": "read_from_label",
+   "location": "Washers 15.3, slot A",
+   "label_short": "3/16 1-1/4"
+  },
+  {
+   "sku": "34202",
+   "slot_letter": "B",
+   "name": "3/16 ID x 1-1/2 OD x 1/8 neoprene rubber washer",
+   "price_cents": 119,
+   "upc": "738287342024",
+   "upc_source": "read_from_label",
+   "location": "Washers 15.3, slot B",
+   "label_short": "3/16 1-1/2"
+  },
+  {
+   "sku": "34203",
+   "slot_letter": "C",
+   "name": "1/4 ID x 1-1/4 OD x 1/8 neoprene rubber washer",
+   "price_cents": 95,
+   "upc": "738287342031",
+   "upc_source": "read_from_label",
+   "location": "Washers 15.3, slot C",
+   "label_short": "1/4 1-1/4"
+  },
+  {
+   "sku": "34204",
+   "slot_letter": "D",
+   "name": "1/4 ID x 1-1/2 OD x 1/8 neoprene rubber washer",
+   "price_cents": 119,
+   "upc": "738287342048",
+   "upc_source": "read_from_label",
+   "location": "Washers 15.3, slot D",
+   "label_short": "1/4 1-1/2"
+  },
+  {
+   "sku": "34205",
+   "slot_letter": "E",
+   "name": "1/4 ID x 2 OD x 1/8 neoprene rubber washer",
+   "price_cents": 125,
+   "upc": "738287342055",
+   "upc_source": "read_from_label",
+   "location": "Washers 15.3, slot E",
+   "label_short": "1/4 2"
+  },
+  {
+   "sku": "34206",
+   "slot_letter": "F",
+   "name": "5/16 ID x 1-1/4 OD x 1/8 neoprene rubber washer",
+   "price_cents": 85,
+   "upc": "738287342062",
+   "upc_source": "read_from_label",
+   "location": "Washers 15.3, slot F",
+   "label_short": "5/16 1-1/4"
+  },
+  {
+   "sku": "34207",
+   "slot_letter": "G",
+   "name": "5/16 ID x 1-1/2 OD x 1/8 neoprene rubber washer",
+   "price_cents": 115,
+   "upc": "738287342079",
+   "upc_source": "read_from_label",
+   "location": "Washers 15.3, slot G",
+   "label_short": "5/16 1-1/2"
+  },
+  {
+   "sku": "77161",
+   "slot_letter": "A",
+   "name": "1-1/4 ID x 2-3/8 OD x 1/8 neoprene rubber washer",
+   "price_cents": 249,
+   "upc": "738287771619",
+   "upc_source": "read_from_label",
+   "location": "Washers 16, slot A",
+   "label_short": "1-1/4 2-3/8"
+  },
+  {
+   "sku": "77162",
+   "slot_letter": "B",
+   "name": "1-1/2 ID x 2-3/8 OD x 1/8 neoprene rubber washer",
+   "price_cents": 249,
+   "upc": "738287771626",
+   "upc_source": "read_from_label",
+   "location": "Washers 16, slot B",
+   "label_short": "1-1/2 2-3/8"
+  },
+  {
+   "sku": "77163",
+   "slot_letter": "C",
+   "name": "1-1/8 ID x 2-3/4 OD x 1/8 neoprene rubber washer",
+   "price_cents": 279,
+   "upc": "738287771633",
+   "upc_source": "read_from_label",
+   "location": "Washers 16, slot C",
+   "label_short": "1-1/8 2-3/4"
+  },
+  {
+   "sku": "77164",
+   "slot_letter": "D",
+   "name": "1 ID x 3 OD x 1/8 neoprene rubber washer",
+   "price_cents": 289,
+   "upc": "738287771640",
+   "upc_source": "read_from_label",
+   "location": "Washers 16, slot D",
+   "label_short": "1 3"
+  },
+  {
+   "sku": "77165",
+   "slot_letter": "E",
+   "name": "1-1/2 ID x 3 OD x 1/8 neoprene rubber washer",
+   "price_cents": 299,
+   "upc": "738287771657",
+   "upc_source": "read_from_label",
+   "location": "Washers 16, slot E",
+   "label_short": "1-1/2 3"
+  }
+ ]
+}

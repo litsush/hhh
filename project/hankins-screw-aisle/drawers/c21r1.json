@@ -1,0 +1,324 @@
+{
+ "id": "c21r1",
+ "column": 21,
+ "row": 1,
+ "half": null,
+ "title": "Household 54 and Household 55",
+ "description": "Shelf supports: standard and metric plastic and steel (66240) in the back two rows, metric 5mm (72000) in the front two rows",
+ "front_image": "images/fronts/c21r1.jpg",
+ "tray_image": "images/trays/c21r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1792,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1792,
+   "y0": 0.0,
+   "x1": 0.3433,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3433,
+   "y0": 0.0,
+   "x1": 0.465,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 3,
+   "x0": 0.465,
+   "y0": 0.0,
+   "x1": 0.5875,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5875,
+   "y0": 0.0,
+   "x1": 0.7417,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 5,
+   "x0": 0.7417,
+   "y0": 0.0,
+   "x1": 0.8667,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 6,
+   "x0": 0.8667,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.2313,
+   "x1": 0.225,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 8,
+   "x0": 0.225,
+   "y0": 0.2313,
+   "x1": 0.4375,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 9,
+   "x0": 0.4375,
+   "y0": 0.2313,
+   "x1": 0.675,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 10,
+   "x0": 0.675,
+   "y0": 0.2313,
+   "x1": 0.8333,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 11,
+   "x0": 0.8333,
+   "y0": 0.2313,
+   "x1": 1.0,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.4688,
+   "x1": 0.3458,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 13,
+   "x0": 0.3458,
+   "y0": 0.4688,
+   "x1": 0.6875,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 14,
+   "x0": 0.6875,
+   "y0": 0.4688,
+   "x1": 1.0,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 15,
+   "x0": 0.0,
+   "y0": 0.7188,
+   "x1": 0.3542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 16,
+   "x0": 0.3542,
+   "y0": 0.7188,
+   "x1": 0.7,
+   "y1": 1.0
+  },
+  {
+   "item_index": 17,
+   "x0": 0.7,
+   "y0": 0.7188,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "66241",
+   "slot_letter": "A",
+   "name": "5mm brass-plated cushioned shelf support with brown cover",
+   "price_cents": 125,
+   "upc": "738287662412",
+   "upc_source": "read_from_label",
+   "location": "Household 54, slot A",
+   "label_short": "5mm brass, brown cover"
+  },
+  {
+   "sku": "66242",
+   "slot_letter": "B",
+   "name": "5mm nickel-plated cushioned shelf support with white cover",
+   "price_cents": 125,
+   "upc": "738287662429",
+   "upc_source": "read_from_label",
+   "location": "Household 54, slot B",
+   "label_short": "5mm nickel, white cover"
+  },
+  {
+   "sku": "66243",
+   "slot_letter": "C",
+   "name": "5mm clear plastic shelf support with nickel pin",
+   "price_cents": 125,
+   "upc": "738287662436",
+   "upc_source": "read_from_label",
+   "location": "Household 54, slot C",
+   "label_short": "5mm clear plastic"
+  },
+  {
+   "sku": "66244",
+   "slot_letter": "D",
+   "name": "1/4 brass-plated shelf support",
+   "price_cents": 95,
+   "upc": "738287662443",
+   "upc_source": "read_from_label",
+   "location": "Household 54, slot D",
+   "label_short": "1/4 brass"
+  },
+  {
+   "sku": "66245",
+   "slot_letter": "E",
+   "name": "1/4 nickel-plated shelf support",
+   "price_cents": 95,
+   "upc": "738287662450",
+   "upc_source": "read_from_label",
+   "location": "Household 54, slot E",
+   "label_short": "1/4 nickel"
+  },
+  {
+   "sku": "66246",
+   "slot_letter": "F",
+   "name": "1/4 nickel-plated spoon-type shelf support",
+   "price_cents": 69,
+   "upc": "738287662467",
+   "upc_source": "read_from_label",
+   "location": "Household 54, slot F",
+   "label_short": "1/4 spoon"
+  },
+  {
+   "sku": "66247",
+   "slot_letter": "G",
+   "name": "Brown plastic shelf retaining button with screw",
+   "price_cents": 99,
+   "upc": "738287662474",
+   "upc_source": "read_from_label",
+   "location": "Household 54, slot G",
+   "label_short": "brown button"
+  },
+  {
+   "sku": "66248",
+   "slot_letter": "H",
+   "name": "1/4 white plastic locking shelf support",
+   "price_cents": 99,
+   "upc": "738287662481",
+   "upc_source": "read_from_label",
+   "location": "Household 54, slot H",
+   "label_short": "1/4 white locking"
+  },
+  {
+   "sku": "66251",
+   "slot_letter": "J",
+   "name": "1/4 almond plastic locking shelf support",
+   "price_cents": 99,
+   "upc": "738287662511",
+   "upc_source": "read_from_label",
+   "location": "Household 54, slot J",
+   "label_short": "1/4 almond locking"
+  },
+  {
+   "sku": "66252",
+   "slot_letter": "K",
+   "name": "1/4 brown plastic locking shelf support",
+   "price_cents": 99,
+   "upc": "738287662528",
+   "upc_source": "read_from_label",
+   "location": "Household 54, slot K",
+   "label_short": "1/4 brown locking"
+  },
+  {
+   "sku": "66253",
+   "slot_letter": "L",
+   "name": "1/4 brass-plated cushioned shelf support with brown cover",
+   "price_cents": 125,
+   "upc": "738287662535",
+   "upc_source": "read_from_label",
+   "location": "Household 54, slot L",
+   "label_short": "1/4 brass, brown cover"
+  },
+  {
+   "sku": "66254",
+   "slot_letter": "M",
+   "name": "1/4 nickel-plated cushioned shelf support with white cover",
+   "price_cents": 125,
+   "upc": "738287662542",
+   "upc_source": "read_from_label",
+   "location": "Household 54, slot M",
+   "label_short": "1/4 nickel, white cover"
+  },
+  {
+   "sku": "72001",
+   "slot_letter": "A",
+   "name": "Bronze-plated shelf support for 5mm hole",
+   "price_cents": 89,
+   "upc": "738287720013",
+   "upc_source": "read_from_label",
+   "location": "Household 55, slot A",
+   "label_short": "5mm bronze"
+  },
+  {
+   "sku": "72002",
+   "slot_letter": "B",
+   "name": "Bronze shelf support with brown cover for 5mm hole",
+   "price_cents": 125,
+   "upc": "738287720020",
+   "upc_source": "read_from_label",
+   "location": "Household 55, slot B",
+   "label_short": "5mm bronze, brown cover"
+  },
+  {
+   "sku": "72003",
+   "slot_letter": "C",
+   "name": "Brass-plated shelf support for 5mm hole",
+   "price_cents": 69,
+   "upc": "738287720037",
+   "upc_source": "read_from_label",
+   "location": "Household 55, slot C",
+   "label_short": "5mm brass"
+  },
+  {
+   "sku": "72004",
+   "slot_letter": "D",
+   "name": "Nickel-plated shelf support for 5mm hole",
+   "price_cents": 75,
+   "upc": "738287720044",
+   "upc_source": "read_from_label",
+   "location": "Household 55, slot D",
+   "label_short": "5mm nickel"
+  },
+  {
+   "sku": "72005",
+   "slot_letter": "E",
+   "name": "Zinc divided-pin shelf support for 5mm hole",
+   "price_cents": 51,
+   "upc": "738287720051",
+   "upc_source": "read_from_label",
+   "location": "Household 55, slot E",
+   "label_short": "5mm zinc divided pin"
+  },
+  {
+   "sku": "72006",
+   "slot_letter": "F",
+   "name": "Clear plastic shelf support for 5mm hole",
+   "price_cents": 79,
+   "upc": "738287720068",
+   "upc_source": "read_from_label",
+   "location": "Household 55, slot F",
+   "label_short": "5mm clear plastic"
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "id": "c28r5",
+ "column": 28,
+ "row": 5,
+ "half": null,
+ "title": "Specialty 50 and Specialty 51",
+ "description": "Nylon spacers .194 to .328 ID (65800) and 3/8 to 1/2 ID (65820)",
+ "front_image": "images/fronts/c28r5.jpg",
+ "tray_image": "images/trays/c28r5.jpg",
+ "tray_image_px": [
+  1200,
+  900
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.26,
+   "y1": 0.2611
+  },
+  {
+   "item_index": 1,
+   "x0": 0.26,
+   "y0": 0.0,
+   "x1": 0.51,
+   "y1": 0.2611
+  },
+  {
+   "item_index": 2,
+   "x0": 0.51,
+   "y0": 0.0,
+   "x1": 0.7567,
+   "y1": 0.2611
+  },
+  {
+   "item_index": 3,
+   "x0": 0.7567,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2611
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.2611,
+   "x1": 0.26,
+   "y1": 0.5056
+  },
+  {
+   "item_index": 5,
+   "x0": 0.26,
+   "y0": 0.2611,
+   "x1": 0.51,
+   "y1": 0.5056
+  },
+  {
+   "item_index": 6,
+   "x0": 0.51,
+   "y0": 0.2611,
+   "x1": 0.7567,
+   "y1": 0.5056
+  },
+  {
+   "item_index": 7,
+   "x0": 0.7567,
+   "y0": 0.2611,
+   "x1": 1.0,
+   "y1": 0.5056
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.5056,
+   "x1": 0.26,
+   "y1": 0.7667
+  },
+  {
+   "item_index": 9,
+   "x0": 0.26,
+   "y0": 0.5056,
+   "x1": 0.51,
+   "y1": 0.7667
+  },
+  {
+   "item_index": 10,
+   "x0": 0.51,
+   "y0": 0.5056,
+   "x1": 0.76,
+   "y1": 0.7667
+  },
+  {
+   "item_index": 11,
+   "x0": 0.76,
+   "y0": 0.5056,
+   "x1": 1.0,
+   "y1": 0.7667
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.7667,
+   "x1": 0.265,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.265,
+   "y0": 0.7667,
+   "x1": 0.5167,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.5167,
+   "y0": 0.7667,
+   "x1": 0.7625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.7625,
+   "y0": 0.7667,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "65801",
+   "slot_letter": "A",
+   "name": "Nylon spacer, .194 ID x 1/2 OD x 1/2 long",
+   "price_cents": 62,
+   "upc": "738287658019",
+   "upc_source": "read_from_label",
+   "location": "Specialty 50, slot A",
+   "label_short": ".194 x 1/2 x 1/2"
+  },
+  {
+   "sku": "65802",
+   "slot_letter": "B",
+   "name": "Nylon spacer, .194 ID x 1/2 OD x 1\" long",
+   "price_cents": 67,
+   "upc": "738287658026",
+   "upc_source": "read_from_label",
+   "location": "Specialty 50, slot B",
+   "label_short": ".194 x 1/2 x 1\""
+  },
+  {
+   "sku": "65803",
+   "slot_letter": "C",
+   "name": "Nylon spacer, .25 ID x 5/8 OD x 3/8 long",
+   "price_cents": 89,
+   "upc": "738287658033",
+   "upc_source": "read_from_label",
+   "location": "Specialty 50, slot C",
+   "label_short": ".25 x 5/8 x 3/8"
+  },
+  {
+   "sku": "65804",
+   "slot_letter": "D",
+   "name": "Nylon spacer, .257 ID x 1/2 OD x 1/4 long",
+   "price_cents": 58,
+   "upc": "738287658040",
+   "upc_source": "read_from_label",
+   "location": "Specialty 50, slot D",
+   "label_short": ".257 x 1/2 x 1/4"
+  },
+  {
+   "sku": "65805",
+   "slot_letter": "E",
+   "name": "Nylon spacer, .257 ID x 1/2 OD x 1/2 long",
+   "price_cents": 61,
+   "upc": "738287658057",
+   "upc_source": "read_from_label",
+   "location": "Specialty 50, slot E",
+   "label_short": ".257 x 1/2 x 1/2"
+  },
+  {
+   "sku": "65806",
+   "slot_letter": "F",
+   "name": "Nylon spacer, .257 ID x 1/2 OD x 1\" long",
+   "price_cents": 66,
+   "upc": "738287658064",
+   "upc_source": "read_from_label",
+   "location": "Specialty 50, slot F",
+   "label_short": ".257 x 1/2 x 1\""
+  },
+  {
+   "sku": "65807",
+   "slot_letter": "G",
+   "name": "Nylon spacer, .325 ID x 29/64 OD x 27/64 long",
+   "price_cents": 58,
+   "upc": "738287658071",
+   "upc_source": "read_from_label",
+   "location": "Specialty 50, slot G",
+   "label_short": ".325 x 29/64 x 27/64"
+  },
+  {
+   "sku": "65808",
+   "slot_letter": "H",
+   "name": "Nylon spacer, .328 ID x 1/2 OD x 1\" long",
+   "price_cents": 66,
+   "upc": "738287658088",
+   "upc_source": "read_from_label",
+   "location": "Specialty 50, slot H",
+   "label_short": ".328 x 1/2 x 1\""
+  },
+  {
+   "sku": "65821",
+   "slot_letter": "A",
+   "name": "Nylon spacer, 3/8 ID x 1/2 OD x 5/8 long",
+   "price_cents": 62,
+   "upc": "738287658217",
+   "upc_source": "read_from_label",
+   "location": "Specialty 51, slot A",
+   "label_short": "3/8 x 1/2 x 5/8"
+  },
+  {
+   "sku": "65822",
+   "slot_letter": "B",
+   "name": "Nylon spacer, 3/8 ID x .562 OD x 1/2 long",
+   "price_cents": 65,
+   "upc": "738287658224",
+   "upc_source": "read_from_label",
+   "location": "Specialty 51, slot B",
+   "label_short": "3/8 x .562 x 1/2"
+  },
+  {
+   "sku": "65823",
+   "slot_letter": "C",
+   "name": "Nylon spacer, 3/8 ID x 1 OD x 3/8 long",
+   "price_cents": 105,
+   "upc": "738287658231",
+   "upc_source": "read_from_label",
+   "location": "Specialty 51, slot C",
+   "label_short": "3/8 x 1 x 3/8"
+  },
+  {
+   "sku": "65824",
+   "slot_letter": "D",
+   "name": "Nylon spacer, .385 ID x 1/2 OD x 1\" long",
+   "price_cents": 66,
+   "upc": "738287658248",
+   "upc_source": "read_from_label",
+   "location": "Specialty 51, slot D",
+   "label_short": ".385 x 1/2 x 1\""
+  },
+  {
+   "sku": "65825",
+   "slot_letter": "E",
+   "name": "Nylon spacer, .385 ID x 3/4 OD x 13/64 long",
+   "price_cents": 85,
+   "upc": "738287658255",
+   "upc_source": "read_from_label",
+   "location": "Specialty 51, slot E",
+   "label_short": ".385 x 3/4 x 13/64"
+  },
+  {
+   "sku": "65826",
+   "slot_letter": "F",
+   "name": "Nylon spacer, 1/2 ID x 3/4 OD x 3/8 long",
+   "price_cents": 89,
+   "upc": "738287658262",
+   "upc_source": "read_from_label",
+   "location": "Specialty 51, slot F",
+   "label_short": "1/2 x 3/4 x 3/8"
+  },
+  {
+   "sku": "65827",
+   "slot_letter": "G",
+   "name": "Nylon spacer, 1/2 ID x 5/8 OD x 1/2 long",
+   "price_cents": 89,
+   "upc": "738287658279",
+   "upc_source": "read_from_label",
+   "location": "Specialty 51, slot G",
+   "label_short": "1/2 x 5/8 x 1/2"
+  },
+  {
+   "sku": "65828",
+   "slot_letter": "H",
+   "name": "Nylon spacer, 1/2 ID x 1 OD x 3/8 long",
+   "price_cents": 105,
+   "upc": "738287658286",
+   "upc_source": "read_from_label",
+   "location": "Specialty 51, slot H",
+   "label_short": "1/2 x 1 x 3/8"
+  }
+ ]
+}

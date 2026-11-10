@@ -1,0 +1,291 @@
+{
+ "id": "c07r3-left",
+ "column": 7,
+ "row": 3,
+ "half": "L",
+ "title": "Nuts 19",
+ "description": "T-nuts, long prong and brad hole, 6-32 to 3/8-16 (60880)",
+ "front_image": "images/fronts/d33.jpg",
+ "tray_image": "images/trays/tray33.jpg",
+ "tray_image_px": [
+  1200,
+  540
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1125,
+   "y1": 0.463
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1125,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.463
+  },
+  {
+   "item_index": 2,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.375,
+   "y1": 0.463
+  },
+  {
+   "item_index": 3,
+   "x0": 0.375,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.463
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.625,
+   "y1": 0.463
+  },
+  {
+   "item_index": 5,
+   "x0": 0.625,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.463
+  },
+  {
+   "item_index": 6,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 0.875,
+   "y1": 0.463
+  },
+  {
+   "item_index": 7,
+   "x0": 0.875,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.463
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.463,
+   "x1": 0.0958,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.0958,
+   "y0": 0.463,
+   "x1": 0.2183,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2183,
+   "y0": 0.463,
+   "x1": 0.3625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3625,
+   "y0": 0.463,
+   "x1": 0.4983,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.4983,
+   "y0": 0.463,
+   "x1": 0.625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.625,
+   "y0": 0.463,
+   "x1": 0.7542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7542,
+   "y0": 0.463,
+   "x1": 0.8875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8875,
+   "y0": 0.463,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "60881",
+   "slot_letter": "A",
+   "name": "6-32 x 1/4 pronged T-nut, for 5/32 hole",
+   "price_cents": 58,
+   "upc": "738287608816",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot A",
+   "label_short": "6-32 x 1/4"
+  },
+  {
+   "sku": "60882",
+   "slot_letter": "B",
+   "name": "8-32 x 1/4 pronged T-nut, for 7/32 hole",
+   "price_cents": 64,
+   "upc": "738287608823",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot B",
+   "label_short": "8-32 x 1/4"
+  },
+  {
+   "sku": "60883",
+   "slot_letter": "C",
+   "name": "10-24 x 9/32 pronged T-nut, for 15/64 hole",
+   "price_cents": 68,
+   "upc": "738287608830",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot C",
+   "label_short": "10-24 x 9/32"
+  },
+  {
+   "sku": "60884",
+   "slot_letter": "D",
+   "name": "10-24 x 7/16 pronged T-nut, for 15/64 hole",
+   "price_cents": 69,
+   "upc": "738287608847",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot D",
+   "label_short": "10-24 x 7/16",
+   "note": "This compartment was empty in the photo."
+  },
+  {
+   "sku": "60885",
+   "slot_letter": "E",
+   "name": "1/4-20 x 5/16 pronged T-nut, for 5/16 hole",
+   "price_cents": 75,
+   "upc": "738287608854",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot E",
+   "label_short": "1/4-20 x 5/16"
+  },
+  {
+   "sku": "60886",
+   "slot_letter": "F",
+   "name": "1/4-20 x 7/16 pronged T-nut, for 5/16 hole",
+   "price_cents": 75,
+   "upc": "738287608861",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot F",
+   "label_short": "1/4-20 x 7/16"
+  },
+  {
+   "sku": "60887",
+   "slot_letter": "G",
+   "name": "1/4-20 x 9/16 pronged T-nut, for 5/16 hole",
+   "price_cents": 79,
+   "upc": "738287608878",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot G",
+   "label_short": "1/4-20 x 9/16"
+  },
+  {
+   "sku": "60888",
+   "slot_letter": "H",
+   "name": "5/16-18 x 3/8 pronged T-nut, for 25/64 hole",
+   "price_cents": 79,
+   "upc": "738287608885",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot H",
+   "label_short": "5/16-18 x 3/8"
+  },
+  {
+   "sku": "60891",
+   "slot_letter": "J",
+   "name": "6-32 x 1/4 brad hole T-nut, for 5/32 hole",
+   "price_cents": 85,
+   "upc": "738287608915",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot J",
+   "label_short": "6-32 x 1/4"
+  },
+  {
+   "sku": "60892",
+   "slot_letter": "K",
+   "name": "8-32 x 1/4 brad hole T-nut, for 7/32 hole",
+   "price_cents": 95,
+   "upc": "738287608922",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot K",
+   "label_short": "8-32 x 1/4"
+  },
+  {
+   "sku": "60893",
+   "slot_letter": "L",
+   "name": "10-24 x 5/16 brad hole T-nut, for 15/64 hole",
+   "price_cents": 99,
+   "upc": "738287608939",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot L",
+   "label_short": "10-24 x 5/16"
+  },
+  {
+   "sku": "60894",
+   "slot_letter": "M",
+   "name": "10-32 x 5/16 brad hole T-nut, for 15/64 hole",
+   "price_cents": 115,
+   "upc": "738287608946",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot M",
+   "label_short": "10-32 x 5/16"
+  },
+  {
+   "sku": "60895",
+   "slot_letter": "N",
+   "name": "1/4-20 x 5/16 brad hole T-nut, for 5/16 hole",
+   "price_cents": 115,
+   "upc": "738287608953",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot N",
+   "label_short": "1/4-20 x 5/16"
+  },
+  {
+   "sku": "60896",
+   "slot_letter": "P",
+   "name": "5/16-18 x 5/8 brad hole T-nut, for 25/64 hole",
+   "price_cents": 125,
+   "upc": "738287608960",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot P",
+   "label_short": "5/16-18 x 5/8"
+  },
+  {
+   "sku": "60897",
+   "slot_letter": "Q",
+   "name": "3/8-16 x 7/16 brad hole T-nut, for 15/32 hole",
+   "price_cents": 135,
+   "upc": "738287608977",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot Q",
+   "label_short": "3/8-16 x 7/16"
+  },
+  {
+   "sku": "60898",
+   "slot_letter": "R",
+   "name": "1/4-20 x 1/4 brad hole rectangle base T-nut, for 5/16 hole",
+   "price_cents": 135,
+   "upc": "738287608984",
+   "upc_source": "read_from_label",
+   "location": "Nuts 19, slot R",
+   "label_short": "1/4-20 x 1/4"
+  }
+ ]
+}

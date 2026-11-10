@@ -1,0 +1,239 @@
+{
+ "id": "c05r2",
+ "column": 5,
+ "row": 2,
+ "half": null,
+ "title": "Machine 73",
+ "description": "Slotted Weaver oval head gun screws and plug screws, with tweezers (32940)",
+ "front_image": "images/fronts/d22.jpg",
+ "tray_image": "images/trays/tray22.jpg",
+ "tray_image_px": [
+  1200,
+  540
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.125,
+   "y1": 0.4815
+  },
+  {
+   "item_index": 1,
+   "x0": 0.125,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.4815
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.3875,
+   "y1": 0.4815
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3875,
+   "y0": 0.0,
+   "x1": 0.51,
+   "y1": 0.4815
+  },
+  {
+   "item_index": 4,
+   "x0": 0.51,
+   "y0": 0.0,
+   "x1": 0.6375,
+   "y1": 0.4815
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6375,
+   "y0": 0.0,
+   "x1": 0.7708,
+   "y1": 0.4815
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.4815,
+   "x1": 0.2583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.2583,
+   "y0": 0.4815,
+   "x1": 0.3933,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.3933,
+   "y0": 0.4815,
+   "x1": 0.5233,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.5233,
+   "y0": 0.4815,
+   "x1": 0.6483,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.6483,
+   "y0": 0.4815,
+   "x1": 0.7917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.7917,
+   "y0": 0.0,
+   "x1": 0.9125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.9125,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "32941",
+   "slot_letter": "A",
+   "name": "6-48 x 5/32 slotted Weaver oval head gun screw",
+   "price_cents": 169,
+   "upc": "738287329414",
+   "upc_source": "read_from_label",
+   "location": "Machine 73, slot A",
+   "label_short": "6-48 x 5/32"
+  },
+  {
+   "sku": "32942",
+   "slot_letter": "B",
+   "name": "6-48 x 3/16 slotted Weaver oval head gun screw",
+   "price_cents": 175,
+   "upc": "738287329421",
+   "upc_source": "read_from_label",
+   "location": "Machine 73, slot B",
+   "label_short": "6-48 x 3/16"
+  },
+  {
+   "sku": "32943",
+   "slot_letter": "C",
+   "name": "6-48 x 1/4 slotted Weaver oval head gun screw",
+   "price_cents": 179,
+   "upc": "738287329438",
+   "upc_source": "read_from_label",
+   "location": "Machine 73, slot C",
+   "label_short": "6-48 x 1/4"
+  },
+  {
+   "sku": "32944",
+   "slot_letter": "D",
+   "name": "6-48 x 1/2 slotted Weaver oval head gun screw",
+   "price_cents": 179,
+   "upc": "738287329445",
+   "upc_source": "read_from_label",
+   "location": "Machine 73, slot D",
+   "label_short": "6-48 x 1/2"
+  },
+  {
+   "sku": "32945",
+   "slot_letter": "E",
+   "name": "8-40 x 1/4 slotted Weaver oval head gun screw",
+   "price_cents": 189,
+   "upc": "738287329452",
+   "upc_source": "read_from_label",
+   "location": "Machine 73, slot E",
+   "label_short": "8-40 x 1/4"
+  },
+  {
+   "sku": "32946",
+   "slot_letter": "F",
+   "name": "8-40 x 1/2 slotted Weaver oval head gun screw",
+   "price_cents": 195,
+   "upc": "738287329469",
+   "upc_source": "read_from_label",
+   "location": "Machine 73, slot F",
+   "label_short": "8-40 x 1/2"
+  },
+  {
+   "sku": "32947",
+   "slot_letter": "G",
+   "name": "#10 x 1-1/4 oval butt plate screw",
+   "price_cents": 145,
+   "upc": "738287329476",
+   "upc_source": "read_from_label",
+   "location": "Machine 73, slot G",
+   "label_short": "Butt plate"
+  },
+  {
+   "sku": "32948",
+   "slot_letter": "H",
+   "name": "6-48 x 1/8 plug screw",
+   "price_cents": 139,
+   "upc": "738287329483",
+   "upc_source": "read_from_label",
+   "location": "Machine 73, slot H",
+   "label_short": "6-48 x 1/8"
+  },
+  {
+   "sku": "32949",
+   "slot_letter": "J",
+   "name": "6-40 x 1/8 plug screw",
+   "price_cents": 139,
+   "upc": "738287329490",
+   "upc_source": "read_from_label",
+   "location": "Machine 73, slot J",
+   "label_short": "6-40 x 1/8"
+  },
+  {
+   "sku": "32951",
+   "slot_letter": "K",
+   "name": "8-40 x 1/8 plug screw",
+   "price_cents": 145,
+   "upc": "738287329513",
+   "upc_source": "read_from_label",
+   "location": "Machine 73, slot K",
+   "label_short": "8-40 x 1/8"
+  },
+  {
+   "sku": "32952",
+   "slot_letter": "L",
+   "name": "10-32 x 1/8 plug screw",
+   "price_cents": 145,
+   "upc": "738287329520",
+   "upc_source": "read_from_label",
+   "location": "Machine 73, slot L",
+   "label_short": "10-32 x 1/8"
+  },
+  {
+   "sku": "32953",
+   "slot_letter": "M",
+   "name": "Metal tweezers",
+   "price_cents": 329,
+   "upc": "738287329537",
+   "upc_source": "read_from_label",
+   "location": "Machine 73, slot M",
+   "label_short": "Metal"
+  },
+  {
+   "sku": "32954",
+   "slot_letter": "N",
+   "name": "Plastic tweezers",
+   "price_cents": 149,
+   "upc": "738287329544",
+   "upc_source": "read_from_label",
+   "location": "Machine 73, slot N",
+   "label_short": "Plastic"
+  }
+ ]
+}

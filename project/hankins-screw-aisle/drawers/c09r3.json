@@ -1,0 +1,479 @@
+{
+ "id": "c09r3",
+ "column": 9,
+ "row": 3,
+ "half": null,
+ "title": "Washers 6 and 7",
+ "description": "Internal and external tooth lock washers (62120) and safety lock washers (77220)",
+ "front_image": "images/fronts/d43.jpg",
+ "tray_image": "images/trays/tray46.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.025,
+   "y0": 0.0,
+   "x1": 0.1542,
+   "y1": 0.2537
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1542,
+   "y0": 0.0,
+   "x1": 0.275,
+   "y1": 0.2537
+  },
+  {
+   "item_index": 2,
+   "x0": 0.275,
+   "y0": 0.0,
+   "x1": 0.3933,
+   "y1": 0.2537
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3933,
+   "y0": 0.0,
+   "x1": 0.5125,
+   "y1": 0.2537
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5125,
+   "y0": 0.0,
+   "x1": 0.6308,
+   "y1": 0.2537
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6308,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.2537
+  },
+  {
+   "item_index": 6,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 0.8708,
+   "y1": 0.2537
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8708,
+   "y0": 0.0,
+   "x1": 0.9958,
+   "y1": 0.2537
+  },
+  {
+   "item_index": 8,
+   "x0": 0.025,
+   "y0": 0.2537,
+   "x1": 0.1542,
+   "y1": 0.5
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1542,
+   "y0": 0.2537,
+   "x1": 0.2775,
+   "y1": 0.5
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2775,
+   "y0": 0.2537,
+   "x1": 0.3983,
+   "y1": 0.5
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3983,
+   "y0": 0.2537,
+   "x1": 0.515,
+   "y1": 0.5
+  },
+  {
+   "item_index": 12,
+   "x0": 0.515,
+   "y0": 0.2537,
+   "x1": 0.635,
+   "y1": 0.5
+  },
+  {
+   "item_index": 13,
+   "x0": 0.635,
+   "y0": 0.2537,
+   "x1": 0.75,
+   "y1": 0.5
+  },
+  {
+   "item_index": 14,
+   "x0": 0.75,
+   "y0": 0.2537,
+   "x1": 0.8708,
+   "y1": 0.5
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8708,
+   "y0": 0.2537,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0183,
+   "y0": 0.5,
+   "x1": 0.1933,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1933,
+   "y0": 0.5,
+   "x1": 0.3583,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 18,
+   "x0": 0.3583,
+   "y0": 0.5,
+   "x1": 0.5233,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 19,
+   "x0": 0.5233,
+   "y0": 0.5,
+   "x1": 0.6817,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 20,
+   "x0": 0.6817,
+   "y0": 0.5,
+   "x1": 0.8375,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 21,
+   "x0": 0.8375,
+   "y0": 0.5,
+   "x1": 0.9958,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 22,
+   "x0": 0.0167,
+   "y0": 0.7562,
+   "x1": 0.1875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.1875,
+   "y0": 0.7562,
+   "x1": 0.35,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.35,
+   "y0": 0.7562,
+   "x1": 0.5567,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.5567,
+   "y0": 0.7562,
+   "x1": 0.7667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.7667,
+   "y0": 0.7562,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "62121",
+   "slot_letter": "A",
+   "name": "No. 2 internal tooth lock washer",
+   "price_cents": 23,
+   "upc": "738287621211",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot A",
+   "label_short": "No. 2"
+  },
+  {
+   "sku": "62122",
+   "slot_letter": "B",
+   "name": "No. 4 internal tooth lock washer",
+   "price_cents": 24,
+   "upc": "738287621228",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot B",
+   "label_short": "No. 4"
+  },
+  {
+   "sku": "62123",
+   "slot_letter": "C",
+   "name": "No. 6 internal tooth lock washer",
+   "price_cents": 26,
+   "upc": "738287621235",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot C",
+   "label_short": "No. 6"
+  },
+  {
+   "sku": "62124",
+   "slot_letter": "D",
+   "name": "No. 8 internal tooth lock washer",
+   "price_cents": 27,
+   "upc": "738287621242",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot D",
+   "label_short": "No. 8"
+  },
+  {
+   "sku": "62125",
+   "slot_letter": "E",
+   "name": "No. 10 internal tooth lock washer",
+   "price_cents": 28,
+   "upc": "738287621259",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot E",
+   "label_short": "No. 10"
+  },
+  {
+   "sku": "62126",
+   "slot_letter": "F",
+   "name": "1/4 internal tooth lock washer",
+   "price_cents": 30,
+   "upc": "738287621266",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot F",
+   "label_short": "1/4"
+  },
+  {
+   "sku": "62127",
+   "slot_letter": "G",
+   "name": "5/16 internal tooth lock washer",
+   "price_cents": 32,
+   "upc": "738287621273",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot G",
+   "label_short": "5/16"
+  },
+  {
+   "sku": "62128",
+   "slot_letter": "H",
+   "name": "3/8 internal tooth lock washer",
+   "price_cents": 34,
+   "upc": "738287621280",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot H",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "62131",
+   "slot_letter": "J",
+   "name": "No. 4 external tooth lock washer",
+   "price_cents": 23,
+   "upc": "738287621310",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot J",
+   "label_short": "No. 4"
+  },
+  {
+   "sku": "62132",
+   "slot_letter": "K",
+   "name": "No. 6 external tooth lock washer",
+   "price_cents": 24,
+   "upc": "738287621327",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot K",
+   "label_short": "No. 6"
+  },
+  {
+   "sku": "62133",
+   "slot_letter": "L",
+   "name": "No. 8 external tooth lock washer",
+   "price_cents": 26,
+   "upc": "738287621334",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot L",
+   "label_short": "No. 8"
+  },
+  {
+   "sku": "62134",
+   "slot_letter": "M",
+   "name": "No. 10 external tooth lock washer",
+   "price_cents": 27,
+   "upc": "738287621341",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot M",
+   "label_short": "No. 10"
+  },
+  {
+   "sku": "62135",
+   "slot_letter": "N",
+   "name": "1/4 external tooth lock washer",
+   "price_cents": 28,
+   "upc": "738287621358",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot N",
+   "label_short": "1/4"
+  },
+  {
+   "sku": "62136",
+   "slot_letter": "P",
+   "name": "5/16 external tooth lock washer",
+   "price_cents": 30,
+   "upc": "738287621365",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot P",
+   "label_short": "5/16"
+  },
+  {
+   "sku": "62137",
+   "slot_letter": "Q",
+   "name": "3/8 external tooth lock washer",
+   "price_cents": 32,
+   "upc": "738287621372",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot Q",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "62138",
+   "slot_letter": "R",
+   "name": "1/2 external tooth lock washer",
+   "price_cents": 40,
+   "upc": "738287621389",
+   "upc_source": "read_from_label",
+   "location": "Washers 6, slot R",
+   "label_short": "1/2"
+  },
+  {
+   "sku": "77221",
+   "slot_letter": "A",
+   "name": "3/16 safety lock washer",
+   "price_cents": 33,
+   "upc": "738287772210",
+   "upc_source": "read_from_label",
+   "location": "Washers 7, slot A",
+   "label_short": "3/16",
+   "note": "This compartment looked empty in the photo."
+  },
+  {
+   "sku": "77222",
+   "slot_letter": "B",
+   "name": "1/4 safety lock washer",
+   "price_cents": 44,
+   "upc": "738287772227",
+   "upc_source": "read_from_label",
+   "location": "Washers 7, slot B",
+   "label_short": "1/4"
+  },
+  {
+   "sku": "77223",
+   "slot_letter": "C",
+   "name": "5/16 safety lock washer",
+   "price_cents": 49,
+   "upc": "738287772234",
+   "upc_source": "read_from_label",
+   "location": "Washers 7, slot C",
+   "label_short": "5/16",
+   "note": "This compartment looked empty in the photo."
+  },
+  {
+   "sku": "77224",
+   "slot_letter": "D",
+   "name": "3/8 safety lock washer",
+   "price_cents": 61,
+   "upc": "738287772241",
+   "upc_source": "read_from_label",
+   "location": "Washers 7, slot D",
+   "label_short": "3/8"
+  },
+  {
+   "sku": "77225",
+   "slot_letter": "E",
+   "name": "7/16 safety lock washer",
+   "price_cents": 69,
+   "upc": "738287772258",
+   "upc_source": "read_from_label",
+   "location": "Washers 7, slot E",
+   "label_short": "7/16"
+  },
+  {
+   "sku": "77226",
+   "slot_letter": "F",
+   "name": "1/2 safety lock washer",
+   "price_cents": 89,
+   "upc": "738287772265",
+   "upc_source": "read_from_label",
+   "location": "Washers 7, slot F",
+   "label_short": "1/2"
+  },
+  {
+   "sku": "77227",
+   "slot_letter": "G",
+   "name": "9/16 safety lock washer",
+   "price_cents": 105,
+   "upc": "738287772272",
+   "upc_source": "read_from_label",
+   "location": "Washers 7, slot G",
+   "label_short": "9/16"
+  },
+  {
+   "sku": "77228",
+   "slot_letter": "H",
+   "name": "5/8 safety lock washer",
+   "price_cents": 135,
+   "upc": "738287772289",
+   "upc_source": "read_from_label",
+   "location": "Washers 7, slot H",
+   "label_short": "5/8"
+  },
+  {
+   "sku": "77231",
+   "slot_letter": "J",
+   "name": "3/4 safety lock washer",
+   "price_cents": 249,
+   "upc": "738287772319",
+   "upc_source": "read_from_label",
+   "location": "Washers 7, slot J",
+   "label_short": "3/4"
+  },
+  {
+   "sku": "77232",
+   "slot_letter": "K",
+   "name": "7/8 safety lock washer",
+   "price_cents": 319,
+   "upc": "738287772326",
+   "upc_source": "read_from_label",
+   "location": "Washers 7, slot K",
+   "label_short": "7/8"
+  },
+  {
+   "sku": "77233",
+   "slot_letter": "L",
+   "name": "1 safety lock washer",
+   "price_cents": 439,
+   "upc": "738287772333",
+   "upc_source": "read_from_label",
+   "location": "Washers 7, slot L",
+   "label_short": "1"
+  }
+ ]
+}

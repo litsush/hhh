@@ -1,0 +1,565 @@
+{
+ "id": "c07r4",
+ "column": 7,
+ "row": 4,
+ "half": null,
+ "title": "Nuts 20 and 21",
+ "description": "Speed nuts (61620) and push nuts for rods and axles (61140)",
+ "front_image": "images/fronts/d34.jpg",
+ "tray_image": "images/trays/tray35.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0167,
+   "y0": 0.0,
+   "x1": 0.15,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 1,
+   "x0": 0.15,
+   "y0": 0.0,
+   "x1": 0.275,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 2,
+   "x0": 0.275,
+   "y0": 0.0,
+   "x1": 0.3983,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3983,
+   "y0": 0.0,
+   "x1": 0.5183,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5183,
+   "y0": 0.0,
+   "x1": 0.6375,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6375,
+   "y0": 0.0,
+   "x1": 0.7542,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7542,
+   "y0": 0.0,
+   "x1": 0.8733,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8733,
+   "y0": 0.0,
+   "x1": 0.9958,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0208,
+   "y0": 0.2437,
+   "x1": 0.1542,
+   "y1": 0.5
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1542,
+   "y0": 0.2437,
+   "x1": 0.2792,
+   "y1": 0.5
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2792,
+   "y0": 0.2437,
+   "x1": 0.4042,
+   "y1": 0.5
+  },
+  {
+   "item_index": 11,
+   "x0": 0.4042,
+   "y0": 0.2437,
+   "x1": 0.5233,
+   "y1": 0.5
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5233,
+   "y0": 0.2437,
+   "x1": 0.6433,
+   "y1": 0.5
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6433,
+   "y0": 0.2437,
+   "x1": 0.76,
+   "y1": 0.5
+  },
+  {
+   "item_index": 14,
+   "x0": 0.76,
+   "y0": 0.2437,
+   "x1": 0.8792,
+   "y1": 0.5
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8792,
+   "y0": 0.2437,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0167,
+   "y0": 0.5,
+   "x1": 0.15,
+   "y1": 0.75
+  },
+  {
+   "item_index": 17,
+   "x0": 0.15,
+   "y0": 0.5,
+   "x1": 0.2767,
+   "y1": 0.75
+  },
+  {
+   "item_index": 18,
+   "x0": 0.2767,
+   "y0": 0.5,
+   "x1": 0.4,
+   "y1": 0.75
+  },
+  {
+   "item_index": 19,
+   "x0": 0.4,
+   "y0": 0.5,
+   "x1": 0.5208,
+   "y1": 0.75
+  },
+  {
+   "item_index": 20,
+   "x0": 0.5208,
+   "y0": 0.5,
+   "x1": 0.6433,
+   "y1": 0.75
+  },
+  {
+   "item_index": 21,
+   "x0": 0.6433,
+   "y0": 0.5,
+   "x1": 0.7667,
+   "y1": 0.75
+  },
+  {
+   "item_index": 22,
+   "x0": 0.7667,
+   "y0": 0.5,
+   "x1": 0.8875,
+   "y1": 0.75
+  },
+  {
+   "item_index": 23,
+   "x0": 0.8875,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.75
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0042,
+   "y0": 0.75,
+   "x1": 0.1375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.1375,
+   "y0": 0.75,
+   "x1": 0.2625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.2625,
+   "y0": 0.75,
+   "x1": 0.425,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.425,
+   "y0": 0.75,
+   "x1": 0.55,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.55,
+   "y0": 0.75,
+   "x1": 0.6708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.6708,
+   "y0": 0.75,
+   "x1": 0.7875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.7875,
+   "y0": 0.75,
+   "x1": 0.9167,
+   "y1": 1.0
+  },
+  {
+   "item_index": 31,
+   "x0": 0.9167,
+   "y0": 0.75,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "61621",
+   "slot_letter": "A",
+   "name": "4-40 speed nut, flat, machine screw",
+   "price_cents": 47,
+   "upc": "738287616217",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot A",
+   "label_short": "4-40 flat"
+  },
+  {
+   "sku": "61622",
+   "slot_letter": "B",
+   "name": "6-32 speed nut, flat, machine screw",
+   "price_cents": 51,
+   "upc": "738287616224",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot B",
+   "label_short": "6-32 flat"
+  },
+  {
+   "sku": "61623",
+   "slot_letter": "C",
+   "name": "8-32 speed nut, flat, machine screw",
+   "price_cents": 53,
+   "upc": "738287616231",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot C",
+   "label_short": "8-32 flat"
+  },
+  {
+   "sku": "61624",
+   "slot_letter": "D",
+   "name": "10-24 speed nut, flat, machine screw",
+   "price_cents": 60,
+   "upc": "738287616248",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot D",
+   "label_short": "10-24 flat"
+  },
+  {
+   "sku": "61625",
+   "slot_letter": "E",
+   "name": "1/4-20 speed nut, flat, machine screw",
+   "price_cents": 62,
+   "upc": "738287616255",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot E",
+   "label_short": "1/4-20 flat"
+  },
+  {
+   "sku": "61626",
+   "slot_letter": "F",
+   "name": "8-32 speed nut, U type, machine screw",
+   "price_cents": 79,
+   "upc": "738287616262",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot F",
+   "label_short": "8-32 U"
+  },
+  {
+   "sku": "61627",
+   "slot_letter": "G",
+   "name": "10-24 speed nut, U type, machine screw",
+   "price_cents": 89,
+   "upc": "738287616279",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot G",
+   "label_short": "10-24 U"
+  },
+  {
+   "sku": "61628",
+   "slot_letter": "H",
+   "name": "1/4-20 speed nut, U type, machine screw",
+   "price_cents": 89,
+   "upc": "738287616286",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot H",
+   "label_short": "1/4-20 U"
+  },
+  {
+   "sku": "61631",
+   "slot_letter": "J",
+   "name": "8-32 speed nut, J type, machine screw",
+   "price_cents": 79,
+   "upc": "738287616316",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot J",
+   "label_short": "8-32 J"
+  },
+  {
+   "sku": "61632",
+   "slot_letter": "K",
+   "name": "10-24 speed nut, J type, machine screw",
+   "price_cents": 99,
+   "upc": "738287616323",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot K",
+   "label_short": "10-24 J"
+  },
+  {
+   "sku": "61633",
+   "slot_letter": "L",
+   "name": "10-24 speed nut, angle type, machine screw",
+   "price_cents": 139,
+   "upc": "738287616330",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot L",
+   "label_short": "10-24 angle"
+  },
+  {
+   "sku": "61634",
+   "slot_letter": "M",
+   "name": "No. 4 speed nut, flat, sheet metal screw",
+   "price_cents": 46,
+   "upc": "738287616347",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot M",
+   "label_short": "No. 4 flat"
+  },
+  {
+   "sku": "61635",
+   "slot_letter": "N",
+   "name": "No. 6 speed nut, flat, sheet metal screw",
+   "price_cents": 48,
+   "upc": "738287616354",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot N",
+   "label_short": "No. 6 flat"
+  },
+  {
+   "sku": "61636",
+   "slot_letter": "P",
+   "name": "No. 8 speed nut, flat, sheet metal screw",
+   "price_cents": 59,
+   "upc": "738287616361",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot P",
+   "label_short": "No. 8 flat"
+  },
+  {
+   "sku": "61637",
+   "slot_letter": "Q",
+   "name": "No. 10 speed nut, flat, sheet metal screw",
+   "price_cents": 64,
+   "upc": "738287616378",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot Q",
+   "label_short": "No. 10 flat"
+  },
+  {
+   "sku": "61638",
+   "slot_letter": "R",
+   "name": "No. 14 speed nut, flat, sheet metal screw",
+   "price_cents": 89,
+   "upc": "738287616385",
+   "upc_source": "read_from_label",
+   "location": "Nuts 20, slot R",
+   "label_short": "No. 14 flat"
+  },
+  {
+   "sku": "61137",
+   "slot_letter": "A",
+   "name": "3/8 washer push nut, black",
+   "price_cents": 125,
+   "upc": "738287611373",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot A",
+   "label_short": "3/8 black",
+   "note": "The lid lists a black washer push nut here, but the photo shows small acorn nuts."
+  },
+  {
+   "sku": "61138",
+   "slot_letter": "B",
+   "name": "1/2 washer push nut, black",
+   "price_cents": 169,
+   "upc": "738287611380",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot B",
+   "label_short": "1/2 black"
+  },
+  {
+   "sku": "61139",
+   "slot_letter": "C",
+   "name": "5/8 washer push nut, black",
+   "price_cents": 289,
+   "upc": "738287611397",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot C",
+   "label_short": "5/8 black",
+   "note": "The lid lists a black washer push nut here, but the photo shows small acorn nuts."
+  },
+  {
+   "sku": "61145",
+   "slot_letter": "E",
+   "name": "3/16 washer cap push nut",
+   "price_cents": 63,
+   "upc": "738287611458",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot E",
+   "label_short": "3/16 cap"
+  },
+  {
+   "sku": "61146",
+   "slot_letter": "F",
+   "name": "1/4 washer cap push nut",
+   "price_cents": 66,
+   "upc": "738287611465",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot F",
+   "label_short": "1/4 cap"
+  },
+  {
+   "sku": "61147",
+   "slot_letter": "G",
+   "name": "5/16 washer cap push nut",
+   "price_cents": 67,
+   "upc": "738287611472",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot G",
+   "label_short": "5/16 cap"
+  },
+  {
+   "sku": "61148",
+   "slot_letter": "H",
+   "name": "3/8 washer cap push nut",
+   "price_cents": 69,
+   "upc": "738287611489",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot H",
+   "label_short": "3/8 cap"
+  },
+  {
+   "sku": "61151",
+   "slot_letter": "J",
+   "name": "7/16 washer cap push nut",
+   "price_cents": 89,
+   "upc": "738287611519",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot J",
+   "label_short": "7/16 cap"
+  },
+  {
+   "sku": "61152",
+   "slot_letter": "K",
+   "name": "1/2 washer cap push nut",
+   "price_cents": 105,
+   "upc": "738287611526",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot K",
+   "label_short": "1/2 cap"
+  },
+  {
+   "sku": "65975",
+   "slot_letter": null,
+   "name": "5/8 washer cap push nut",
+   "price_cents": 169,
+   "upc": "738287659757",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, front row (SKU 65975)",
+   "label_short": "5/8 cap"
+  },
+  {
+   "sku": "65976",
+   "slot_letter": null,
+   "name": "3/4 washer cap push nut",
+   "price_cents": 259,
+   "upc": "738287659764",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, front row (SKU 65976)",
+   "label_short": "3/4 cap"
+  },
+  {
+   "sku": "61153",
+   "slot_letter": "L",
+   "name": "3/32 rectangular push nut",
+   "price_cents": 44,
+   "upc": "738287611533",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot L",
+   "label_short": "3/32 rect"
+  },
+  {
+   "sku": "61154",
+   "slot_letter": "M",
+   "name": "1/8 rectangular push nut",
+   "price_cents": 46,
+   "upc": "738287611540",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot M",
+   "label_short": "1/8 rect"
+  },
+  {
+   "sku": "61155",
+   "slot_letter": "N",
+   "name": "3/16 rectangular push nut",
+   "price_cents": 50,
+   "upc": "738287611557",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot N",
+   "label_short": "3/16 rect"
+  },
+  {
+   "sku": "61156",
+   "slot_letter": "P",
+   "name": "3/16 open acorn push nut",
+   "price_cents": 99,
+   "upc": "738287611564",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot P",
+   "label_short": "3/16 acorn"
+  },
+  {
+   "sku": "61157",
+   "slot_letter": "Q",
+   "name": "Item 61157 (lid says not available)",
+   "price_cents": 109,
+   "upc": "738287611571",
+   "upc_source": "read_from_label",
+   "location": "Nuts 21, slot Q",
+   "label_short": "N/A",
+   "note": "The lid says NOT AVAILABLE, PUT IN EMPTY BOX, though this compartment holds nuts in the photo."
+  }
+ ]
+}

@@ -1,0 +1,477 @@
+{
+ "id": "c29r4",
+ "column": 29,
+ "row": 4,
+ "half": null,
+ "title": "Specialty 64 and Specialty 63.5",
+ "description": "Nickel plated snap fasteners 1/4 and 3/8 and brass grommets (64300), and aluminum pop rivets 1/8 to 3/16 with back-up plates (36260)",
+ "front_image": "images/fronts/c29r4.jpg",
+ "tray_image": "images/trays/c29r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1708,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1708,
+   "y0": 0.0,
+   "x1": 0.3417,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3417,
+   "y0": 0.0,
+   "x1": 0.5042,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5042,
+   "y0": 0.0,
+   "x1": 0.6667,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6667,
+   "y0": 0.0,
+   "x1": 0.8333,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 5,
+   "x0": 0.8333,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.2562,
+   "x1": 0.175,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 7,
+   "x0": 0.175,
+   "y0": 0.2562,
+   "x1": 0.3417,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 8,
+   "x0": 0.3417,
+   "y0": 0.2562,
+   "x1": 0.5042,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 9,
+   "x0": 0.5042,
+   "y0": 0.2562,
+   "x1": 0.6667,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 10,
+   "x0": 0.6667,
+   "y0": 0.2562,
+   "x1": 0.8292,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 11,
+   "x0": 0.8292,
+   "y0": 0.2562,
+   "x1": 1.0,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.5062,
+   "x1": 0.1292,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 13,
+   "x0": 0.1292,
+   "y0": 0.5062,
+   "x1": 0.2542,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 14,
+   "x0": 0.2542,
+   "y0": 0.5062,
+   "x1": 0.3833,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 15,
+   "x0": 0.3833,
+   "y0": 0.5062,
+   "x1": 0.5042,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 16,
+   "x0": 0.5042,
+   "y0": 0.5062,
+   "x1": 0.6292,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 17,
+   "x0": 0.6292,
+   "y0": 0.5062,
+   "x1": 0.7542,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 18,
+   "x0": 0.7542,
+   "y0": 0.5062,
+   "x1": 0.8792,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 19,
+   "x0": 0.8792,
+   "y0": 0.5062,
+   "x1": 1.0,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 20,
+   "x0": 0.0,
+   "y0": 0.7562,
+   "x1": 0.1333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.1333,
+   "y0": 0.7562,
+   "x1": 0.2625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.2625,
+   "y0": 0.7562,
+   "x1": 0.3917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.3917,
+   "y0": 0.7562,
+   "x1": 0.5542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.5542,
+   "y0": 0.7562,
+   "x1": 0.7167,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.7167,
+   "y0": 0.7562,
+   "x1": 0.8833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.8833,
+   "y0": 0.7562,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "64301",
+   "slot_letter": "A",
+   "name": "3/8 snap socket, nickel plated",
+   "price_cents": 79,
+   "upc": "738287643015",
+   "upc_source": "read_from_label",
+   "location": "Specialty 64, slot A",
+   "label_short": "3/8 socket"
+  },
+  {
+   "sku": "64302",
+   "slot_letter": "B",
+   "name": "3/8 snap post, nickel plated",
+   "price_cents": 58,
+   "upc": "738287643022",
+   "upc_source": "read_from_label",
+   "location": "Specialty 64, slot B",
+   "label_short": "3/8 post"
+  },
+  {
+   "sku": "64303",
+   "slot_letter": "C",
+   "name": "3/8 snap stud, nickel plated",
+   "price_cents": 54,
+   "upc": "738287643039",
+   "upc_source": "read_from_label",
+   "location": "Specialty 64, slot C",
+   "label_short": "3/8 stud"
+  },
+  {
+   "sku": "64304",
+   "slot_letter": "D",
+   "name": "3/8 snap cap, nickel plated",
+   "price_cents": 69,
+   "upc": "738287643046",
+   "upc_source": "read_from_label",
+   "location": "Specialty 64, slot D",
+   "label_short": "3/8 cap"
+  },
+  {
+   "sku": "64305",
+   "slot_letter": "E",
+   "name": "3/8 snap stud with screw, nickel plated",
+   "price_cents": 115,
+   "upc": "738287643053",
+   "upc_source": "read_from_label",
+   "location": "Specialty 64, slot E",
+   "label_short": "3/8 stud w/ screw"
+  },
+  {
+   "sku": "64306",
+   "slot_letter": "F",
+   "name": "3/8 snap stud with bolt, nickel plated",
+   "price_cents": 139,
+   "upc": "738287643060",
+   "upc_source": "read_from_label",
+   "location": "Specialty 64, slot F",
+   "label_short": "3/8 stud w/ bolt"
+  },
+  {
+   "sku": "64307",
+   "slot_letter": "G",
+   "name": "1/4 snap cap, nickel plated",
+   "price_cents": 69,
+   "upc": "738287643077",
+   "upc_source": "read_from_label",
+   "location": "Specialty 64, slot G",
+   "label_short": "1/4 cap"
+  },
+  {
+   "sku": "64308",
+   "slot_letter": "H",
+   "name": "1/4 snap socket, nickel plated",
+   "price_cents": 75,
+   "upc": "738287643084",
+   "upc_source": "read_from_label",
+   "location": "Specialty 64, slot H",
+   "label_short": "1/4 socket"
+  },
+  {
+   "sku": "64311",
+   "slot_letter": "J",
+   "name": "1/4 snap stud, nickel plated",
+   "price_cents": 52,
+   "upc": "738287643114",
+   "upc_source": "read_from_label",
+   "location": "Specialty 64, slot J",
+   "label_short": "1/4 stud"
+  },
+  {
+   "sku": "64312",
+   "slot_letter": "K",
+   "name": "1/4 snap post, nickel plated",
+   "price_cents": 52,
+   "upc": "738287643121",
+   "upc_source": "read_from_label",
+   "location": "Specialty 64, slot K",
+   "label_short": "1/4 post"
+  },
+  {
+   "sku": "64313",
+   "slot_letter": "L",
+   "name": "3/8 ID brass grommet",
+   "price_cents": 66,
+   "upc": "738287643138",
+   "upc_source": "read_from_label",
+   "location": "Specialty 64, slot L",
+   "label_short": "3/8 ID grommet"
+  },
+  {
+   "sku": "64314",
+   "slot_letter": "M",
+   "name": "1/2 ID brass grommet",
+   "price_cents": 119,
+   "upc": "738287643145",
+   "upc_source": "read_from_label",
+   "location": "Specialty 64, slot M",
+   "label_short": "1/2 ID grommet"
+  },
+  {
+   "sku": "36261",
+   "slot_letter": "A",
+   "name": "1/8 x 1/8 aluminum pop rivet",
+   "price_cents": 28,
+   "upc": "738287362619",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot A",
+   "label_short": "1/8 x 1/8"
+  },
+  {
+   "sku": "36262",
+   "slot_letter": "B",
+   "name": "1/8 x 1/4 aluminum pop rivet",
+   "price_cents": 29,
+   "upc": "738287362626",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot B",
+   "label_short": "1/8 x 1/4"
+  },
+  {
+   "sku": "36263",
+   "slot_letter": "C",
+   "name": "1/8 x 3/8 aluminum pop rivet",
+   "price_cents": 32,
+   "upc": "738287362633",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot C",
+   "label_short": "1/8 x 3/8"
+  },
+  {
+   "sku": "36264",
+   "slot_letter": "D",
+   "name": "1/8 x 1/2 aluminum pop rivet",
+   "price_cents": 35,
+   "upc": "738287362640",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot D",
+   "label_short": "1/8 x 1/2"
+  },
+  {
+   "sku": "36265",
+   "slot_letter": "E",
+   "name": "1/8 aluminum back-up plate",
+   "price_cents": 28,
+   "upc": "738287362657",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot E",
+   "label_short": "1/8 back-up plate"
+  },
+  {
+   "sku": "36266",
+   "slot_letter": "F",
+   "name": "5/32 x 1/8 aluminum pop rivet",
+   "price_cents": 35,
+   "upc": "738287362664",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot F",
+   "label_short": "5/32 x 1/8"
+  },
+  {
+   "sku": "36267",
+   "slot_letter": "G",
+   "name": "5/32 x 1/4 aluminum pop rivet",
+   "price_cents": 37,
+   "upc": "738287362671",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot G",
+   "label_short": "5/32 x 1/4"
+  },
+  {
+   "sku": "36268",
+   "slot_letter": "H",
+   "name": "5/32 x 3/8 aluminum pop rivet",
+   "price_cents": 42,
+   "upc": "738287362688",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot H",
+   "label_short": "5/32 x 3/8"
+  },
+  {
+   "sku": "36271",
+   "slot_letter": "J",
+   "name": "5/32 x 1/2 aluminum pop rivet",
+   "price_cents": 50,
+   "upc": "738287362718",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot J",
+   "label_short": "5/32 x 1/2"
+  },
+  {
+   "sku": "36272",
+   "slot_letter": "K",
+   "name": "5/32 aluminum back-up plate",
+   "price_cents": 32,
+   "upc": "738287362725",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot K",
+   "label_short": "5/32 back-up plate"
+  },
+  {
+   "sku": "36273",
+   "slot_letter": "L",
+   "name": "3/16 x 1/8 aluminum pop rivet",
+   "price_cents": 42,
+   "upc": "738287362732",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot L",
+   "label_short": "3/16 x 1/8"
+  },
+  {
+   "sku": "36274",
+   "slot_letter": "M",
+   "name": "3/16 x 1/4 aluminum pop rivet",
+   "price_cents": 47,
+   "upc": "738287362749",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot M",
+   "label_short": "3/16 x 1/4"
+  },
+  {
+   "sku": "36275",
+   "slot_letter": "N",
+   "name": "3/16 x 3/8 aluminum pop rivet",
+   "price_cents": 54,
+   "upc": "738287362756",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot N",
+   "label_short": "3/16 x 3/8"
+  },
+  {
+   "sku": "36276",
+   "slot_letter": "P",
+   "name": "3/16 x 1/2 aluminum pop rivet",
+   "price_cents": 60,
+   "upc": "738287362763",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot P",
+   "label_short": "3/16 x 1/2"
+  },
+  {
+   "sku": "36277",
+   "slot_letter": "Q",
+   "name": "3/16 aluminum back-up plate",
+   "price_cents": 42,
+   "upc": "738287362770",
+   "upc_source": "read_from_label",
+   "location": "Specialty 63.5, slot Q",
+   "label_short": "3/16 back-up plate"
+  }
+ ]
+}

@@ -1,0 +1,206 @@
+{
+ "id": "c27r5-right",
+ "column": 27,
+ "row": 5,
+ "half": "R",
+ "title": "Specialty 35.9",
+ "description": "Heavy machine bushings (steel spacers), 3/8 inch ID x 3/4 inch OD, 1/8 to 2-1/2 inch thick (931120).",
+ "front_image": "images/fronts/c27r5.jpg",
+ "tray_image": "images/trays/c27r5-right.jpg",
+ "tray_image_px": [
+  1200,
+  640
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1708,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1708,
+   "y0": 0.0,
+   "x1": 0.3375,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3375,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6625,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6625,
+   "y0": 0.0,
+   "x1": 0.8333,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 5,
+   "x0": 0.8333,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.4813,
+   "x1": 0.1625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.1625,
+   "y0": 0.4813,
+   "x1": 0.3792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.3792,
+   "y0": 0.4813,
+   "x1": 0.5917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.5917,
+   "y0": 0.4813,
+   "x1": 0.8125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.8125,
+   "y0": 0.4813,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "931121",
+   "slot_letter": "A",
+   "name": "3/8 ID x 3/4 OD x 1/8 thick heavy machine bushing (spacer), steel, zinc",
+   "price_cents": 195,
+   "upc": "719199311216",
+   "upc_source": "read_from_label",
+   "location": "Specialty 35.9, slot A",
+   "label_short": "1/8 thick"
+  },
+  {
+   "sku": "931122",
+   "slot_letter": "B",
+   "name": "3/8 ID x 3/4 OD x 1/4 thick heavy machine bushing (spacer), steel, zinc",
+   "price_cents": 209,
+   "upc": "719199311223",
+   "upc_source": "read_from_label",
+   "location": "Specialty 35.9, slot B",
+   "label_short": "1/4 thick",
+   "note": "Price sticker partly scratched; last digit read as 9 ($2.09) but not fully certain."
+  },
+  {
+   "sku": "931123",
+   "slot_letter": "C",
+   "name": "3/8 ID x 3/4 OD x 3/8 thick heavy machine bushing (spacer), steel, zinc",
+   "price_cents": 229,
+   "upc": "719199311230",
+   "upc_source": "read_from_label",
+   "location": "Specialty 35.9, slot C",
+   "label_short": "3/8 thick"
+  },
+  {
+   "sku": "931124",
+   "slot_letter": "D",
+   "name": "3/8 ID x 3/4 OD x 1/2 thick heavy machine bushing (spacer), steel, zinc",
+   "price_cents": 249,
+   "upc": "719199311247",
+   "upc_source": "read_from_label",
+   "location": "Specialty 35.9, slot D",
+   "label_short": "1/2 thick"
+  },
+  {
+   "sku": "931125",
+   "slot_letter": "E",
+   "name": "3/8 ID x 3/4 OD x 5/8 thick heavy machine bushing (spacer), steel, zinc",
+   "price_cents": 269,
+   "upc": "719199311254",
+   "upc_source": "read_from_label",
+   "location": "Specialty 35.9, slot E",
+   "label_short": "5/8 thick"
+  },
+  {
+   "sku": "931126",
+   "slot_letter": "F",
+   "name": "3/8 ID x 3/4 OD x 3/4 thick heavy machine bushing (spacer), steel, zinc",
+   "price_cents": 279,
+   "upc": "719199311261",
+   "upc_source": "read_from_label",
+   "location": "Specialty 35.9, slot F",
+   "label_short": "3/4 thick"
+  },
+  {
+   "sku": "931127",
+   "slot_letter": "G",
+   "name": "3/8 ID x 3/4 OD x 1\" thick heavy machine bushing (spacer), steel, zinc",
+   "price_cents": 319,
+   "upc": "719199311278",
+   "upc_source": "read_from_label",
+   "location": "Specialty 35.9, slot G",
+   "label_short": "1\" thick"
+  },
+  {
+   "sku": "931128",
+   "slot_letter": "H",
+   "name": "3/8 ID x 3/4 OD x 1-1/4 thick heavy machine bushing (spacer), steel, zinc",
+   "price_cents": 339,
+   "upc": "719199311285",
+   "upc_source": "read_from_label",
+   "location": "Specialty 35.9, slot H",
+   "label_short": "1-1/4 thick"
+  },
+  {
+   "sku": "931131",
+   "slot_letter": "J",
+   "name": "3/8 ID x 3/4 OD x 1-1/2 thick heavy machine bushing (spacer), steel, zinc",
+   "price_cents": 389,
+   "upc": "719199311315",
+   "upc_source": "read_from_label",
+   "location": "Specialty 35.9, slot J",
+   "label_short": "1-1/2 thick"
+  },
+  {
+   "sku": "931132",
+   "slot_letter": "K",
+   "name": "3/8 ID x 3/4 OD x 2\" thick heavy machine bushing (spacer), steel, zinc",
+   "price_cents": 659,
+   "upc": "719199311322",
+   "upc_source": "read_from_label",
+   "location": "Specialty 35.9, slot K",
+   "label_short": "2\" thick"
+  },
+  {
+   "sku": "931133",
+   "slot_letter": "L",
+   "name": "3/8 ID x 3/4 OD x 2-1/2 thick heavy machine bushing (spacer), steel, zinc",
+   "price_cents": 759,
+   "upc": "719199311339",
+   "upc_source": "read_from_label",
+   "location": "Specialty 35.9, slot L",
+   "label_short": "2-1/2 thick"
+  }
+ ]
+}

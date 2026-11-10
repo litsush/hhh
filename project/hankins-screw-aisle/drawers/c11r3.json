@@ -1,0 +1,137 @@
+{
+ "id": "c11r3",
+ "column": 11,
+ "row": 3,
+ "half": null,
+ "title": "Bolts 2",
+ "description": "Full thread hex tap bolts, coarse thread, 5/16-18 x 1-1/2 to 6 (63320)",
+ "front_image": "images/fronts/c11r3.jpg",
+ "tray_image": "images/trays/c11r3.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1667,
+   "y1": 0.715
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1667,
+   "y0": 0.0,
+   "x1": 0.3433,
+   "y1": 0.715
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3433,
+   "y0": 0.0,
+   "x1": 0.5042,
+   "y1": 0.715
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5042,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.3375
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5042,
+   "y0": 0.3375,
+   "x1": 1.0,
+   "y1": 0.715
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0,
+   "y0": 0.715,
+   "x1": 0.3958,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.3958,
+   "y0": 0.715,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "63322",
+   "slot_letter": "B",
+   "name": "5/16-18 x 2 full thread hex tap bolt, coarse thread, 1/2 wrench",
+   "price_cents": 69,
+   "upc": "738287633221",
+   "upc_source": "read_from_label",
+   "location": "Bolts 2, slot B",
+   "label_short": "5/16-18 x 2"
+  },
+  {
+   "sku": "63323",
+   "slot_letter": "C",
+   "name": "5/16-18 x 2-1/2 full thread hex tap bolt, coarse thread, 1/2 wrench",
+   "price_cents": 79,
+   "upc": "738287633238",
+   "upc_source": "read_from_label",
+   "location": "Bolts 2, slot C",
+   "label_short": "5/16-18 x 2-1/2"
+  },
+  {
+   "sku": "63324",
+   "slot_letter": "D",
+   "name": "5/16-18 x 3 full thread hex tap bolt, coarse thread, 1/2 wrench",
+   "price_cents": 95,
+   "upc": "738287633245",
+   "upc_source": "read_from_label",
+   "location": "Bolts 2, slot D",
+   "label_short": "5/16-18 x 3"
+  },
+  {
+   "sku": "63325",
+   "slot_letter": "E",
+   "name": "5/16-18 x 4 full thread hex tap bolt, coarse thread, 1/2 wrench",
+   "price_cents": 105,
+   "upc": "738287633252",
+   "upc_source": "read_from_label",
+   "location": "Bolts 2, slot E",
+   "label_short": "5/16-18 x 4"
+  },
+  {
+   "sku": "63326",
+   "slot_letter": "F",
+   "name": "5/16-18 x 5 full thread hex tap bolt, coarse thread, 1/2 wrench",
+   "price_cents": 139,
+   "upc": "738287633269",
+   "upc_source": "read_from_label",
+   "location": "Bolts 2, slot F",
+   "label_short": "5/16-18 x 5"
+  },
+  {
+   "sku": "63321",
+   "slot_letter": "A",
+   "name": "5/16-18 x 1-1/2 full thread hex tap bolt, coarse thread, 1/2 wrench",
+   "price_cents": 59,
+   "upc": "738287633214",
+   "upc_source": "read_from_label",
+   "location": "Bolts 2, slot A",
+   "label_short": "5/16-18 x 1-1/2"
+  },
+  {
+   "sku": "63327",
+   "slot_letter": "G",
+   "name": "5/16-18 x 6 full thread hex tap bolt, coarse thread, 1/2 wrench",
+   "price_cents": 159,
+   "upc": "738287633276",
+   "upc_source": "read_from_label",
+   "location": "Bolts 2, slot G",
+   "label_short": "5/16-18 x 6"
+  }
+ ]
+}

@@ -1,0 +1,358 @@
+{
+ "id": "c28r4",
+ "column": 28,
+ "row": 4,
+ "half": null,
+ "title": "Specialty 46 and Specialty 49",
+ "description": "Nylon flange bearings No. 6 to 1/4 (66420) and nylon spacers .115 to .194 ID (65780)",
+ "front_image": "images/fronts/c28r4.jpg",
+ "tray_image": "images/trays/c28r4.jpg",
+ "tray_image_px": [
+  1200,
+  900
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.175,
+   "y1": 0.2467
+  },
+  {
+   "item_index": 1,
+   "x0": 0.175,
+   "y0": 0.0,
+   "x1": 0.3458,
+   "y1": 0.2467
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3458,
+   "y0": 0.0,
+   "x1": 0.51,
+   "y1": 0.2467
+  },
+  {
+   "item_index": 3,
+   "x0": 0.51,
+   "y0": 0.0,
+   "x1": 0.6733,
+   "y1": 0.2467
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6733,
+   "y0": 0.0,
+   "x1": 0.8375,
+   "y1": 0.2467
+  },
+  {
+   "item_index": 5,
+   "x0": 0.8375,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2467
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.2467,
+   "x1": 0.175,
+   "y1": 0.4944
+  },
+  {
+   "item_index": 7,
+   "x0": 0.175,
+   "y0": 0.2467,
+   "x1": 0.3433,
+   "y1": 0.4944
+  },
+  {
+   "item_index": 8,
+   "x0": 0.3433,
+   "y0": 0.2467,
+   "x1": 0.5083,
+   "y1": 0.4944
+  },
+  {
+   "item_index": 9,
+   "x0": 0.5083,
+   "y0": 0.2467,
+   "x1": 0.6767,
+   "y1": 0.4944
+  },
+  {
+   "item_index": 10,
+   "x0": 0.6767,
+   "y0": 0.2467,
+   "x1": 0.8417,
+   "y1": 0.4944
+  },
+  {
+   "item_index": 11,
+   "x0": 0.8417,
+   "y0": 0.2467,
+   "x1": 1.0,
+   "y1": 0.4944
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.4944,
+   "x1": 0.2625,
+   "y1": 0.7444
+  },
+  {
+   "item_index": 13,
+   "x0": 0.2625,
+   "y0": 0.4944,
+   "x1": 0.5125,
+   "y1": 0.7444
+  },
+  {
+   "item_index": 14,
+   "x0": 0.5125,
+   "y0": 0.4944,
+   "x1": 0.765,
+   "y1": 0.7444
+  },
+  {
+   "item_index": 15,
+   "x0": 0.765,
+   "y0": 0.4944,
+   "x1": 1.0,
+   "y1": 0.7444
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.7444,
+   "x1": 0.2625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 17,
+   "x0": 0.2625,
+   "y0": 0.7444,
+   "x1": 0.5167,
+   "y1": 1.0
+  },
+  {
+   "item_index": 18,
+   "x0": 0.5167,
+   "y0": 0.7444,
+   "x1": 0.7667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 19,
+   "x0": 0.7667,
+   "y0": 0.7444,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "66421",
+   "slot_letter": "A",
+   "name": "Nylon flange bearing for No. 6 screw, 1/8 long, 3/64 flange",
+   "price_cents": 46,
+   "upc": "738287664218",
+   "upc_source": "read_from_label",
+   "location": "Specialty 46, slot A",
+   "label_short": "#6 x 1/8"
+  },
+  {
+   "sku": "66422",
+   "slot_letter": "B",
+   "name": "Nylon flange bearing for No. 6 screw, 1/4 long, 3/64 flange",
+   "price_cents": 47,
+   "upc": "738287664225",
+   "upc_source": "read_from_label",
+   "location": "Specialty 46, slot B",
+   "label_short": "#6 x 1/4"
+  },
+  {
+   "sku": "66423",
+   "slot_letter": "C",
+   "name": "Nylon flange bearing for No. 6 screw, 3/8 long, 3/64 flange",
+   "price_cents": 48,
+   "upc": "738287664232",
+   "upc_source": "read_from_label",
+   "location": "Specialty 46, slot C",
+   "label_short": "#6 x 3/8"
+  },
+  {
+   "sku": "66424",
+   "slot_letter": "D",
+   "name": "Nylon flange bearing for No. 8 screw, 1/4 long, 1/16 flange",
+   "price_cents": 50,
+   "upc": "738287664249",
+   "upc_source": "read_from_label",
+   "location": "Specialty 46, slot D",
+   "label_short": "#8 x 1/4"
+  },
+  {
+   "sku": "66425",
+   "slot_letter": "E",
+   "name": "Nylon flange bearing for No. 8 screw, 3/8 long, 1/16 flange",
+   "price_cents": 52,
+   "upc": "738287664256",
+   "upc_source": "read_from_label",
+   "location": "Specialty 46, slot E",
+   "label_short": "#8 x 3/8"
+  },
+  {
+   "sku": "66426",
+   "slot_letter": "F",
+   "name": "Nylon flange bearing for No. 8 screw, 1/2 long, 1/16 flange",
+   "price_cents": 54,
+   "upc": "738287664263",
+   "upc_source": "read_from_label",
+   "location": "Specialty 46, slot F",
+   "label_short": "#8 x 1/2"
+  },
+  {
+   "sku": "66427",
+   "slot_letter": "G",
+   "name": "Nylon flange bearing for No. 10 screw, 1/4 long, 1/16 flange",
+   "price_cents": 55,
+   "upc": "738287664270",
+   "upc_source": "read_from_label",
+   "location": "Specialty 46, slot G",
+   "label_short": "#10 x 1/4"
+  },
+  {
+   "sku": "66428",
+   "slot_letter": "H",
+   "name": "Nylon flange bearing for No. 10 screw, 3/8 long, 1/16 flange",
+   "price_cents": 57,
+   "upc": "738287664287",
+   "upc_source": "read_from_label",
+   "location": "Specialty 46, slot H",
+   "label_short": "#10 x 3/8"
+  },
+  {
+   "sku": "66431",
+   "slot_letter": "J",
+   "name": "Nylon flange bearing for No. 10 screw, 1/2 long, 1/16 flange",
+   "price_cents": 58,
+   "upc": "738287664317",
+   "upc_source": "read_from_label",
+   "location": "Specialty 46, slot J",
+   "label_short": "#10 x 1/2"
+  },
+  {
+   "sku": "66432",
+   "slot_letter": "K",
+   "name": "Nylon flange bearing for 1/4 screw, 1/4 long, 1/16 flange",
+   "price_cents": 58,
+   "upc": "738287664324",
+   "upc_source": "read_from_label",
+   "location": "Specialty 46, slot K",
+   "label_short": "1/4 x 1/4"
+  },
+  {
+   "sku": "66433",
+   "slot_letter": "L",
+   "name": "Nylon flange bearing for 1/4 screw, 1/2 long, 1/16 flange",
+   "price_cents": 60,
+   "upc": "738287664331",
+   "upc_source": "read_from_label",
+   "location": "Specialty 46, slot L",
+   "label_short": "1/4 x 1/2"
+  },
+  {
+   "sku": "66434",
+   "slot_letter": "M",
+   "name": "Nylon flange bearing for 1/4 screw, 3/4 long, 1/16 flange",
+   "price_cents": 62,
+   "upc": "738287664348",
+   "upc_source": "read_from_label",
+   "location": "Specialty 46, slot M",
+   "label_short": "1/4 x 3/4"
+  },
+  {
+   "sku": "65781",
+   "slot_letter": "A",
+   "name": "Nylon spacer, .115 ID x 3/16 OD x 1\" long",
+   "price_cents": 46,
+   "upc": "738287657814",
+   "upc_source": "read_from_label",
+   "location": "Specialty 49, slot A",
+   "label_short": ".115 x 3/16 x 1\""
+  },
+  {
+   "sku": "65782",
+   "slot_letter": "B",
+   "name": "Nylon spacer, .140 ID x 1/4 OD x 1/4 long",
+   "price_cents": 47,
+   "upc": "738287657821",
+   "upc_source": "read_from_label",
+   "location": "Specialty 49, slot B",
+   "label_short": ".140 x 1/4 x 1/4"
+  },
+  {
+   "sku": "65783",
+   "slot_letter": "C",
+   "name": "Nylon spacer, .140 ID x 1/4 OD x 1/2 long",
+   "price_cents": 48,
+   "upc": "738287657838",
+   "upc_source": "read_from_label",
+   "location": "Specialty 49, slot C",
+   "label_short": ".140 x 1/4 x 1/2"
+  },
+  {
+   "sku": "65784",
+   "slot_letter": "D",
+   "name": "Nylon spacer, .140 ID x 1/4 OD x 1\" long",
+   "price_cents": 51,
+   "upc": "738287657845",
+   "upc_source": "read_from_label",
+   "location": "Specialty 49, slot D",
+   "label_short": ".140 x 1/4 x 1\""
+  },
+  {
+   "sku": "65785",
+   "slot_letter": "E",
+   "name": "Nylon spacer, .171 ID x 3/8 OD x 1/4 long",
+   "price_cents": 48,
+   "upc": "738287657852",
+   "upc_source": "read_from_label",
+   "location": "Specialty 49, slot E",
+   "label_short": ".171 x 3/8 x 1/4"
+  },
+  {
+   "sku": "65786",
+   "slot_letter": "F",
+   "name": "Nylon spacer, .171 ID x 3/8 OD x 1/2 long",
+   "price_cents": 51,
+   "upc": "738287657869",
+   "upc_source": "read_from_label",
+   "location": "Specialty 49, slot F",
+   "label_short": ".171 x 3/8 x 1/2"
+  },
+  {
+   "sku": "65787",
+   "slot_letter": "G",
+   "name": "Nylon spacer, .171 ID x 3/8 OD x 1\" long",
+   "price_cents": 52,
+   "upc": "738287657876",
+   "upc_source": "read_from_label",
+   "location": "Specialty 49, slot G",
+   "label_short": ".171 x 3/8 x 1\""
+  },
+  {
+   "sku": "65788",
+   "slot_letter": "H",
+   "name": "Nylon spacer, .194 ID x 1/2 OD x 1/4 long",
+   "price_cents": 58,
+   "upc": "738287657883",
+   "upc_source": "read_from_label",
+   "location": "Specialty 49, slot H",
+   "label_short": ".194 x 1/2 x 1/4"
+  }
+ ]
+}

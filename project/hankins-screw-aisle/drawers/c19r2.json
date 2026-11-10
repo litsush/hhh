@@ -1,0 +1,240 @@
+{
+ "id": "c19r2",
+ "column": 19,
+ "row": 2,
+ "half": null,
+ "title": "Household 37 and Household 37.7",
+ "description": "Adjustable furniture glides with 1/4-20 studs and inserts: cushion, swivel and non-swivel (66900), and heavy-duty appliance leg levelers, 1/4-20 to 3/8-16 x 1-1/2 (31820)",
+ "front_image": "images/fronts/c19r2.jpg",
+ "tray_image": "images/trays/c19r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1292,
+   "y1": 0.25
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1292,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.25
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.4167,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.4167,
+   "y0": 0.0,
+   "x1": 0.5692,
+   "y1": 0.25
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5692,
+   "y0": 0.0,
+   "x1": 0.7708,
+   "y1": 0.25
+  },
+  {
+   "item_index": 5,
+   "x0": 0.7708,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.25
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.25,
+   "x1": 0.2625,
+   "y1": 0.5
+  },
+  {
+   "item_index": 7,
+   "x0": 0.2625,
+   "y0": 0.25,
+   "x1": 0.5,
+   "y1": 0.5
+  },
+  {
+   "item_index": 8,
+   "x0": 0.5,
+   "y0": 0.25,
+   "x1": 0.7375,
+   "y1": 0.5
+  },
+  {
+   "item_index": 9,
+   "x0": 0.7375,
+   "y0": 0.25,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 10,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.6625
+  },
+  {
+   "item_index": 11,
+   "x0": 0.0,
+   "y0": 0.6625,
+   "x1": 1.0,
+   "y1": 0.825
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.825,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "66901",
+   "slot_letter": "A",
+   "name": "3/8\" furniture glide insert, 1/4-20 thread",
+   "price_cents": 85,
+   "upc": "738287669015",
+   "upc_source": "read_from_label",
+   "location": "Household 37, slot A",
+   "label_short": "3/8 insert"
+  },
+  {
+   "sku": "66902",
+   "slot_letter": "B",
+   "name": "5/8\" furniture glide insert, 1/4-20 thread",
+   "price_cents": 115,
+   "upc": "738287669022",
+   "upc_source": "read_from_label",
+   "location": "Household 37, slot B",
+   "label_short": "5/8 insert"
+  },
+  {
+   "sku": "66903",
+   "slot_letter": "C",
+   "name": "7/8\" cushion furniture glide, 1/4-20 x 1/2 stud, nickel",
+   "price_cents": 169,
+   "upc": "738287669039",
+   "upc_source": "read_from_label",
+   "location": "Household 37, slot C",
+   "label_short": "7/8 cushion 1/2"
+  },
+  {
+   "sku": "66904",
+   "slot_letter": "D",
+   "name": "7/8\" cushion furniture glide, 1/4-20 x 1\" stud, nickel",
+   "price_cents": 179,
+   "upc": "738287669046",
+   "upc_source": "read_from_label",
+   "location": "Household 37, slot D",
+   "label_short": "7/8 cushion 1"
+  },
+  {
+   "sku": "66905",
+   "slot_letter": "E",
+   "name": "Swivel furniture glide, 1/4-20 x 1\" stud, nylon/nickel",
+   "price_cents": 299,
+   "upc": "738287669053",
+   "upc_source": "read_from_label",
+   "location": "Household 37, slot E",
+   "label_short": "Swivel nyl/nkl"
+  },
+  {
+   "sku": "66906",
+   "slot_letter": "F",
+   "name": "Swivel furniture glide, 1/4-20 x 1\" stud, black nylon",
+   "price_cents": 409,
+   "upc": "738287669060",
+   "upc_source": "read_from_label",
+   "location": "Household 37, slot F",
+   "label_short": "Swivel black"
+  },
+  {
+   "sku": "66907",
+   "slot_letter": "G",
+   "name": "Non-swivel furniture glide, 1/4-20 x 1\" stud, nylon/nickel",
+   "price_cents": 179,
+   "upc": "738287669077",
+   "upc_source": "read_from_label",
+   "location": "Household 37, slot G",
+   "label_short": "Non-swivel nyl/nkl"
+  },
+  {
+   "sku": "66908",
+   "slot_letter": "H",
+   "name": "Non-swivel furniture glide, 1/4-20 x 1\" stud, black nylon",
+   "price_cents": 189,
+   "upc": "738287669084",
+   "upc_source": "read_from_label",
+   "location": "Household 37, slot H",
+   "label_short": "Non-swivel black",
+   "note": "Compartment holds glides with white (natural-looking) nylon bases, not black as the label says"
+  },
+  {
+   "sku": "66911",
+   "slot_letter": "J",
+   "name": "Swivel furniture glide, 1/4-20 x 1\" stud, natural nylon",
+   "price_cents": 219,
+   "upc": "738287669114",
+   "upc_source": "read_from_label",
+   "location": "Household 37, slot J",
+   "label_short": "Swivel natural"
+  },
+  {
+   "sku": "66912",
+   "slot_letter": "K",
+   "name": "1-1/16\" cushion furniture glide, 1/4-20 x 1\" stud, nickel",
+   "price_cents": 249,
+   "upc": "738287669121",
+   "upc_source": "read_from_label",
+   "location": "Household 37, slot K",
+   "label_short": "1-1/16 cushion"
+  },
+  {
+   "sku": "31821",
+   "slot_letter": "A",
+   "name": "1/4-20 x 1-1/2 heavy-duty appliance leg leveler",
+   "price_cents": 369,
+   "upc": "738287318210",
+   "upc_source": "read_from_label",
+   "location": "Household 37.7, slot A",
+   "label_short": "1/4-20 x 1-1/2"
+  },
+  {
+   "sku": "31822",
+   "slot_letter": "B",
+   "name": "5/16-18 x 1-1/2 heavy-duty appliance leg leveler",
+   "price_cents": 369,
+   "upc": "738287318227",
+   "upc_source": "read_from_label",
+   "location": "Household 37.7, slot B",
+   "label_short": "5/16-18 x 1-1/2"
+  },
+  {
+   "sku": "31823",
+   "slot_letter": "C",
+   "name": "3/8-16 x 1-1/2 heavy-duty appliance leg leveler",
+   "price_cents": 379,
+   "upc": "738287318234",
+   "upc_source": "read_from_label",
+   "location": "Household 37.7, slot C",
+   "label_short": "3/8-16 x 1-1/2"
+  }
+ ]
+}

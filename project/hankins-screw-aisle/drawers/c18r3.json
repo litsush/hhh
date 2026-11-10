@@ -1,0 +1,171 @@
+{
+ "id": "c18r3",
+ "column": 18,
+ "row": 3,
+ "half": null,
+ "title": "Household 14",
+ "description": "Bi-fold door hardware: top and bottom pivots, guide wheels and an adjusting wrench (65980)",
+ "front_image": "images/fronts/c18r3.jpg",
+ "tray_image": "images/trays/c18r3.jpg",
+ "tray_image_px": [
+  1200,
+  540
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2125,
+   "y1": 0.4907
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2125,
+   "y0": 0.0,
+   "x1": 0.4208,
+   "y1": 0.4907
+  },
+  {
+   "item_index": 2,
+   "x0": 0.4208,
+   "y0": 0.0,
+   "x1": 0.6333,
+   "y1": 0.4907
+  },
+  {
+   "item_index": 3,
+   "x0": 0.6333,
+   "y0": 0.0,
+   "x1": 0.85,
+   "y1": 0.4907
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.4907,
+   "x1": 0.2125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 5,
+   "x0": 0.2125,
+   "y0": 0.4907,
+   "x1": 0.425,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.425,
+   "y0": 0.4907,
+   "x1": 0.6417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.6417,
+   "y0": 0.4907,
+   "x1": 0.85,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.85,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "65981",
+   "slot_letter": "A",
+   "name": "Bi-fold door bottom pivot for standard doors, adjustable, 3/8 hole",
+   "price_cents": 239,
+   "upc": "738287659818",
+   "upc_source": "read_from_label",
+   "location": "Household 14, slot A",
+   "label_short": "Bottom std adj"
+  },
+  {
+   "sku": "65982",
+   "slot_letter": "B",
+   "name": "Bi-fold door bottom pivot for heavy doors, adjustable, 7/16 hole",
+   "price_cents": 469,
+   "upc": "738287659825",
+   "upc_source": "read_from_label",
+   "location": "Household 14, slot B",
+   "label_short": "Bottom heavy adj"
+  },
+  {
+   "sku": "65983",
+   "slot_letter": "C",
+   "name": "Bi-fold door top pivot for standard doors, spring loaded, 3/8 hole",
+   "price_cents": 249,
+   "upc": "738287659832",
+   "upc_source": "read_from_label",
+   "location": "Household 14, slot C",
+   "label_short": "Top std spring"
+  },
+  {
+   "sku": "65984",
+   "slot_letter": "D",
+   "name": "Bi-fold door top pivot for standard doors, rigid, 3/8 hole",
+   "price_cents": 209,
+   "upc": "738287659849",
+   "upc_source": "read_from_label",
+   "location": "Household 14, slot D",
+   "label_short": "Top std rigid"
+  },
+  {
+   "sku": "65985",
+   "slot_letter": "E",
+   "name": "Bi-fold door top pivot for heavy duty doors, spring loaded, 7/16 hole",
+   "price_cents": 389,
+   "upc": "738287659856",
+   "upc_source": "read_from_label",
+   "location": "Household 14, slot E",
+   "label_short": "Top heavy spring"
+  },
+  {
+   "sku": "65986",
+   "slot_letter": "F",
+   "name": "Bi-fold door guide wheel, spring loaded, 3/8 hole, 7/8 wheel",
+   "price_cents": 389,
+   "upc": "738287659863",
+   "upc_source": "read_from_label",
+   "location": "Household 14, slot F",
+   "label_short": "Guide 3/8 hole"
+  },
+  {
+   "sku": "65987",
+   "slot_letter": "G",
+   "name": "Bi-fold door guide wheel, spring loaded, 7/16 hole, 7/8 wheel",
+   "price_cents": 399,
+   "upc": "738287659870",
+   "upc_source": "read_from_label",
+   "location": "Household 14, slot G",
+   "label_short": "Guide 7/16 hole"
+  },
+  {
+   "sku": "65988",
+   "slot_letter": "H",
+   "name": "Bi-fold door guide wheel, spring loaded, nail down, 3/4 wheel",
+   "price_cents": 579,
+   "upc": "738287659887",
+   "upc_source": "read_from_label",
+   "location": "Household 14, slot H",
+   "label_short": "Guide nail down"
+  },
+  {
+   "sku": "65991",
+   "slot_letter": "J",
+   "name": "Wrench for adjusting bi-fold doors",
+   "price_cents": 165,
+   "upc": "738287659917",
+   "upc_source": "read_from_label",
+   "location": "Household 14, slot J",
+   "label_short": "Wrench"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "id": "c30r5",
+ "column": 30,
+ "row": 5,
+ "half": null,
+ "title": "Plumbing 33",
+ "description": "Air fittings and bike repair parts: inflation needles and adaptors, patch kit, reflector, multi tool and hand pump (31400)",
+ "front_image": "images/fronts/c30r5.jpg",
+ "tray_image": "images/trays/c30r5.jpg",
+ "tray_image_px": [
+  1200,
+  560
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.175,
+   "y1": 0.2714
+  },
+  {
+   "item_index": 1,
+   "x0": 0.175,
+   "y0": 0.0,
+   "x1": 0.3417,
+   "y1": 0.2714
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3417,
+   "y0": 0.0,
+   "x1": 0.5042,
+   "y1": 0.2714
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5042,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.2286
+  },
+  {
+   "item_index": 6,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.6339
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.2714,
+   "x1": 0.5042,
+   "y1": 0.6286
+  },
+  {
+   "item_index": 5,
+   "x0": 0.5042,
+   "y0": 0.2286,
+   "x1": 0.75,
+   "y1": 0.6339
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.6339,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "31401",
+   "slot_letter": "A",
+   "name": "Ball inflation needle",
+   "price_cents": 165,
+   "upc": "738287314014",
+   "upc_source": "calculated_from_sku",
+   "location": "Plumbing 33, slot A",
+   "label_short": "Inflator needle",
+   "note": "Compartment empty in photo."
+  },
+  {
+   "sku": "31402",
+   "slot_letter": "B",
+   "name": "Presta valve adaptor",
+   "price_cents": 319,
+   "upc": "738287314021",
+   "upc_source": "calculated_from_sku",
+   "location": "Plumbing 33, slot B",
+   "label_short": "Presta adaptor",
+   "note": "Compartment empty in photo."
+  },
+  {
+   "sku": "31403",
+   "slot_letter": "C",
+   "name": "Low flow inflation adaptor",
+   "price_cents": 139,
+   "upc": "738287314038",
+   "upc_source": "calculated_from_sku",
+   "location": "Plumbing 33, slot C",
+   "label_short": "Low flow adaptor"
+  },
+  {
+   "sku": "31404",
+   "slot_letter": "D",
+   "name": "High flow inflation adaptor",
+   "price_cents": 139,
+   "upc": "738287314045",
+   "upc_source": "calculated_from_sku",
+   "location": "Plumbing 33, slot D",
+   "label_short": "High flow adaptor"
+  },
+  {
+   "sku": "31405",
+   "slot_letter": "E",
+   "name": "Bike tire patch kit",
+   "price_cents": 1039,
+   "upc": "738287314052",
+   "upc_source": "calculated_from_sku",
+   "location": "Plumbing 33, slot E",
+   "label_short": "Tire patch kit",
+   "note": "Compartment holds a plain white box; could not confirm from the photo that it is the patch kit."
+  },
+  {
+   "sku": "31406",
+   "slot_letter": "F",
+   "name": "Bike wheel reflector",
+   "price_cents": 209,
+   "upc": "738287314069",
+   "upc_source": "calculated_from_sku",
+   "location": "Plumbing 33, slot F",
+   "label_short": "Wheel reflector"
+  },
+  {
+   "sku": "31407",
+   "slot_letter": "G",
+   "name": "Bike multi tool",
+   "price_cents": 2549,
+   "upc": "738287314076",
+   "upc_source": "read_from_label",
+   "location": "Plumbing 33, slot G",
+   "label_short": "Multi tool",
+   "note": "Compartment empty; handwritten on the lid card: \"ASK AT FRONT DESK\"."
+  },
+  {
+   "sku": "31408",
+   "slot_letter": "H",
+   "name": "Hand air pump",
+   "price_cents": 2199,
+   "upc": "738287314083",
+   "upc_source": "calculated_from_sku",
+   "location": "Plumbing 33, slot H",
+   "label_short": "Hand air pump",
+   "note": "Pump in the tray is DUUTI brand."
+  }
+ ]
+}

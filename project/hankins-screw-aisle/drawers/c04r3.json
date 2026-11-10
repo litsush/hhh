@@ -1,0 +1,222 @@
+{
+ "id": "c04r3",
+ "column": 4,
+ "row": 3,
+ "half": null,
+ "title": "Machine 65",
+ "description": "One-way security machine screws, oval and round head, 6-32 to 1/4-20 (70940)",
+ "front_image": "images/fronts/d18.jpg",
+ "tray_image": "images/trays/tray18.jpg",
+ "tray_image_px": [
+  1200,
+  540
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1667,
+   "y1": 0.4537
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1667,
+   "y0": 0.0,
+   "x1": 0.3292,
+   "y1": 0.4537
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3292,
+   "y0": 0.0,
+   "x1": 0.4983,
+   "y1": 0.4537
+  },
+  {
+   "item_index": 3,
+   "x0": 0.4983,
+   "y0": 0.0,
+   "x1": 0.65,
+   "y1": 0.4537
+  },
+  {
+   "item_index": 4,
+   "x0": 0.65,
+   "y0": 0.0,
+   "x1": 0.8125,
+   "y1": 0.4537
+  },
+  {
+   "item_index": 5,
+   "x0": 0.8125,
+   "y0": 0.0,
+   "x1": 0.975,
+   "y1": 0.4537
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.4537,
+   "x1": 0.1792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.1792,
+   "y0": 0.4537,
+   "x1": 0.35,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.35,
+   "y0": 0.4537,
+   "x1": 0.51,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.51,
+   "y0": 0.4537,
+   "x1": 0.6708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.6708,
+   "y0": 0.4537,
+   "x1": 0.8333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.8333,
+   "y0": 0.4537,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "70941",
+   "slot_letter": "A",
+   "name": "6-32 x 1/2 one-way security oval head",
+   "price_cents": 56,
+   "upc": "738287709414",
+   "upc_source": "read_from_label",
+   "location": "Machine 65, slot A",
+   "label_short": "6-32 x 1/2"
+  },
+  {
+   "sku": "70942",
+   "slot_letter": "B",
+   "name": "6-32 x 1/2 one-way security round head",
+   "price_cents": 37,
+   "upc": "738287709421",
+   "upc_source": "read_from_label",
+   "location": "Machine 65, slot B",
+   "label_short": "6-32 x 1/2"
+  },
+  {
+   "sku": "70943",
+   "slot_letter": "C",
+   "name": "6-32 x 3/4 one-way security round head",
+   "price_cents": 43,
+   "upc": "738287709438",
+   "upc_source": "read_from_label",
+   "location": "Machine 65, slot C",
+   "label_short": "6-32 x 3/4"
+  },
+  {
+   "sku": "70944",
+   "slot_letter": "D",
+   "name": "8-32 x 1/2 one-way security round head",
+   "price_cents": 45,
+   "upc": "738287709445",
+   "upc_source": "read_from_label",
+   "location": "Machine 65, slot D",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "70945",
+   "slot_letter": "E",
+   "name": "8-32 x 3/4 one-way security round head",
+   "price_cents": 48,
+   "upc": "738287709452",
+   "upc_source": "read_from_label",
+   "location": "Machine 65, slot E",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "70946",
+   "slot_letter": "F",
+   "name": "8-32 x 1 one-way security round head",
+   "price_cents": 57,
+   "upc": "738287709469",
+   "upc_source": "read_from_label",
+   "location": "Machine 65, slot F",
+   "label_short": "8-32 x 1"
+  },
+  {
+   "sku": "70947",
+   "slot_letter": "G",
+   "name": "8-32 x 1-1/2 one-way security round head",
+   "price_cents": 66,
+   "upc": "738287709476",
+   "upc_source": "read_from_label",
+   "location": "Machine 65, slot G",
+   "label_short": "8-32 x 1-1/2"
+  },
+  {
+   "sku": "70948",
+   "slot_letter": "H",
+   "name": "10-24 x 3/4 one-way security round head",
+   "price_cents": 55,
+   "upc": "738287709483",
+   "upc_source": "read_from_label",
+   "location": "Machine 65, slot H",
+   "label_short": "10-24 x 3/4"
+  },
+  {
+   "sku": "70951",
+   "slot_letter": "J",
+   "name": "10-24 x 1 one-way security round head",
+   "price_cents": 66,
+   "upc": "738287709513",
+   "upc_source": "read_from_label",
+   "location": "Machine 65, slot J",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "70952",
+   "slot_letter": "K",
+   "name": "10-24 x 1-1/2 one-way security round head",
+   "price_cents": 75,
+   "upc": "738287709520",
+   "upc_source": "read_from_label",
+   "location": "Machine 65, slot K",
+   "label_short": "10-24 x 1-1/2"
+  },
+  {
+   "sku": "70953",
+   "slot_letter": "L",
+   "name": "1/4-20 x 1 one-way security round head",
+   "price_cents": 79,
+   "upc": "738287709537",
+   "upc_source": "read_from_label",
+   "location": "Machine 65, slot L",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "70954",
+   "slot_letter": "M",
+   "name": "1/4-20 x 1-1/2 one-way security round head",
+   "price_cents": 95,
+   "upc": "738287709544",
+   "upc_source": "read_from_label",
+   "location": "Machine 65, slot M",
+   "label_short": "1/4-20 x 1-1/2"
+  }
+ ]
+}

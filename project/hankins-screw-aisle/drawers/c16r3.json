@@ -1,0 +1,290 @@
+{
+ "id": "c16r3",
+ "column": 16,
+ "row": 3,
+ "half": null,
+ "title": "Socket 35",
+ "description": "Zinc-plated square head set screws, coarse thread, 1/4-20 to 1/2-13 (60580).",
+ "front_image": "images/fronts/c16r3.jpg",
+ "tray_image": "images/trays/c16r3.jpg",
+ "tray_image_px": [
+  1200,
+  580
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1267,
+   "y1": 0.5086
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1267,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.5086
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.3792,
+   "y1": 0.5086
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3792,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.5086
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6267,
+   "y1": 0.5086
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6267,
+   "y0": 0.0,
+   "x1": 0.7525,
+   "y1": 0.5086
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7525,
+   "y0": 0.0,
+   "x1": 0.8792,
+   "y1": 0.5086
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8792,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.5086
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.5086,
+   "x1": 0.125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.125,
+   "y0": 0.5086,
+   "x1": 0.2517,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2517,
+   "y0": 0.5086,
+   "x1": 0.3792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3792,
+   "y0": 0.5086,
+   "x1": 0.5025,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5025,
+   "y0": 0.5086,
+   "x1": 0.6333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6333,
+   "y0": 0.5086,
+   "x1": 0.76,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.76,
+   "y0": 0.5086,
+   "x1": 0.8875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8875,
+   "y0": 0.5086,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "60581",
+   "slot_letter": "A",
+   "name": "1/4-20 x 1/2 square head set screw, zinc, coarse thread",
+   "price_cents": 79,
+   "upc": "738287605815",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot A",
+   "label_short": "1/4-20 x 1/2"
+  },
+  {
+   "sku": "60582",
+   "slot_letter": "B",
+   "name": "1/4-20 x 3/4 square head set screw, zinc, coarse thread",
+   "price_cents": 85,
+   "upc": "738287605822",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot B",
+   "label_short": "1/4-20 x 3/4"
+  },
+  {
+   "sku": "60583",
+   "slot_letter": "C",
+   "name": "1/4-20 x 1 square head set screw, zinc, coarse thread",
+   "price_cents": 95,
+   "upc": "738287605839",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot C",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "60584",
+   "slot_letter": "D",
+   "name": "1/4-20 x 1-1/2 square head set screw, zinc, coarse thread",
+   "price_cents": 99,
+   "upc": "738287605846",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot D",
+   "label_short": "1/4-20 x 1-1/2"
+  },
+  {
+   "sku": "60585",
+   "slot_letter": "E",
+   "name": "5/16-18 x 1/2 square head set screw, zinc, coarse thread",
+   "price_cents": 85,
+   "upc": "738287605853",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot E",
+   "label_short": "5/16-18 x 1/2"
+  },
+  {
+   "sku": "60586",
+   "slot_letter": "F",
+   "name": "5/16-18 x 3/4 square head set screw, zinc, coarse thread",
+   "price_cents": 95,
+   "upc": "738287605860",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot F",
+   "label_short": "5/16-18 x 3/4"
+  },
+  {
+   "sku": "60587",
+   "slot_letter": "G",
+   "name": "5/16-18 x 1 square head set screw, zinc, coarse thread",
+   "price_cents": 99,
+   "upc": "738287605877",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot G",
+   "label_short": "5/16-18 x 1"
+  },
+  {
+   "sku": "60588",
+   "slot_letter": "H",
+   "name": "5/16-18 x 1-1/2 square head set screw, zinc, coarse thread",
+   "price_cents": 105,
+   "upc": "738287605884",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot H",
+   "label_short": "5/16-18 x 1-1/2"
+  },
+  {
+   "sku": "60591",
+   "slot_letter": "J",
+   "name": "3/8-16 x 1/2 square head set screw, zinc, coarse thread",
+   "price_cents": 99,
+   "upc": "738287605914",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot J",
+   "label_short": "3/8-16 x 1/2"
+  },
+  {
+   "sku": "60592",
+   "slot_letter": "K",
+   "name": "3/8-16 x 1 square head set screw, zinc, coarse thread",
+   "price_cents": 115,
+   "upc": "738287605921",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot K",
+   "label_short": "3/8-16 x 1"
+  },
+  {
+   "sku": "60593",
+   "slot_letter": "L",
+   "name": "3/8-16 x 1-1/2 square head set screw, zinc, coarse thread",
+   "price_cents": 125,
+   "upc": "738287605938",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot L",
+   "label_short": "3/8-16 x 1-1/2"
+  },
+  {
+   "sku": "60594",
+   "slot_letter": "M",
+   "name": "3/8-16 x 2 square head set screw, zinc, coarse thread",
+   "price_cents": 155,
+   "upc": "738287605945",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot M",
+   "label_short": "3/8-16 x 2"
+  },
+  {
+   "sku": "60595",
+   "slot_letter": "N",
+   "name": "7/16-14 x 1 square head set screw, zinc, coarse thread",
+   "price_cents": 155,
+   "upc": "738287605952",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot N",
+   "label_short": "7/16-14 x 1"
+  },
+  {
+   "sku": "60596",
+   "slot_letter": "P",
+   "name": "7/16-14 x 1-1/2 square head set screw, zinc, coarse thread",
+   "price_cents": 169,
+   "upc": "738287605969",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot P",
+   "label_short": "7/16-14 x 1-1/2"
+  },
+  {
+   "sku": "60597",
+   "slot_letter": "Q",
+   "name": "1/2-13 x 1 square head set screw, zinc, coarse thread",
+   "price_cents": 179,
+   "upc": "738287605976",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot Q",
+   "label_short": "1/2-13 x 1"
+  },
+  {
+   "sku": "60598",
+   "slot_letter": "R",
+   "name": "1/2-13 x 1-1/2 square head set screw, zinc, coarse thread",
+   "price_cents": 209,
+   "upc": "738287605983",
+   "upc_source": "read_from_label",
+   "location": "Socket 35, slot R",
+   "label_short": "1/2-13 x 1-1/2"
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "id": "c13r2",
+ "column": 13,
+ "row": 2,
+ "half": null,
+ "title": "Bolts 28",
+ "description": "Grade 8 hex cap screws, yellow zinc, 7/16-14 coarse thread, 3/4 to 4 inch (62900).",
+ "front_image": "images/fronts/c13r2.jpg",
+ "tray_image": "images/trays/c13r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.3225
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.3125
+  },
+  {
+   "item_index": 2,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.7458,
+   "y1": 0.3
+  },
+  {
+   "item_index": 3,
+   "x0": 0.7458,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 1.0
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.3225,
+   "x1": 0.2542,
+   "y1": 0.65
+  },
+  {
+   "item_index": 5,
+   "x0": 0.2542,
+   "y0": 0.3125,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.5,
+   "y0": 0.3,
+   "x1": 0.7458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.65,
+   "x1": 0.2542,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "62903",
+   "slot_letter": "C",
+   "name": "7/16-14 x 1-1/4 grade 8 hex cap screw, coarse thread, yellow zinc, 5/8 wrench",
+   "price_cents": 149,
+   "upc": "738287629033",
+   "upc_source": "read_from_label",
+   "location": "Bolts 28, slot C",
+   "label_short": "7/16-14 x 1-1/4"
+  },
+  {
+   "sku": "62904",
+   "slot_letter": "D",
+   "name": "7/16-14 x 1-1/2 grade 8 hex cap screw, coarse thread, yellow zinc, 5/8 wrench",
+   "price_cents": 159,
+   "upc": "738287629040",
+   "upc_source": "read_from_label",
+   "location": "Bolts 28, slot D",
+   "label_short": "7/16-14 x 1-1/2"
+  },
+  {
+   "sku": "62905",
+   "slot_letter": "E",
+   "name": "7/16-14 x 2 grade 8 hex cap screw, coarse thread, yellow zinc, 5/8 wrench",
+   "price_cents": 189,
+   "upc": "738287629057",
+   "upc_source": "read_from_label",
+   "location": "Bolts 28, slot E",
+   "label_short": "7/16-14 x 2"
+  },
+  {
+   "sku": "62908",
+   "slot_letter": "H",
+   "name": "7/16-14 x 4 grade 8 hex cap screw, coarse thread, yellow zinc, 5/8 wrench",
+   "price_cents": 329,
+   "upc": "738287629088",
+   "upc_source": "read_from_label",
+   "location": "Bolts 28, slot H",
+   "label_short": "7/16-14 x 4"
+  },
+  {
+   "sku": "62902",
+   "slot_letter": "B",
+   "name": "7/16-14 x 1 grade 8 hex cap screw, coarse thread, yellow zinc, 5/8 wrench",
+   "price_cents": 139,
+   "upc": "738287629026",
+   "upc_source": "read_from_label",
+   "location": "Bolts 28, slot B",
+   "label_short": "7/16-14 x 1"
+  },
+  {
+   "sku": "62906",
+   "slot_letter": "F",
+   "name": "7/16-14 x 2-1/2 grade 8 hex cap screw, coarse thread, yellow zinc, 5/8 wrench",
+   "price_cents": 229,
+   "upc": "738287629064",
+   "upc_source": "read_from_label",
+   "location": "Bolts 28, slot F",
+   "label_short": "7/16-14 x 2-1/2"
+  },
+  {
+   "sku": "62907",
+   "slot_letter": "G",
+   "name": "7/16-14 x 3 grade 8 hex cap screw, coarse thread, yellow zinc, 5/8 wrench",
+   "price_cents": 269,
+   "upc": "738287629071",
+   "upc_source": "read_from_label",
+   "location": "Bolts 28, slot G",
+   "label_short": "7/16-14 x 3"
+  },
+  {
+   "sku": "62901",
+   "slot_letter": "A",
+   "name": "7/16-14 x 3/4 grade 8 hex cap screw, coarse thread, yellow zinc, 5/8 wrench",
+   "price_cents": 129,
+   "upc": "738287629019",
+   "upc_source": "read_from_label",
+   "location": "Bolts 28, slot A",
+   "label_short": "7/16-14 x 3/4"
+  }
+ ]
+}

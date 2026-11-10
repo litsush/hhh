@@ -1,0 +1,291 @@
+{
+ "id": "c08r5-left",
+ "column": 8,
+ "row": 5,
+ "half": "L",
+ "title": "Nuts 36",
+ "description": "Solid brass cap and knurled nuts, plus nickel plated cap nuts (61060)",
+ "front_image": "images/fronts/d40.jpg",
+ "tray_image": "images/trays/tray42.jpg",
+ "tray_image_px": [
+  1200,
+  540
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1292,
+   "y1": 0.463
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1292,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.463
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.3833,
+   "y1": 0.463
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3833,
+   "y0": 0.0,
+   "x1": 0.5042,
+   "y1": 0.463
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5042,
+   "y0": 0.0,
+   "x1": 0.625,
+   "y1": 0.463
+  },
+  {
+   "item_index": 5,
+   "x0": 0.625,
+   "y0": 0.0,
+   "x1": 0.7458,
+   "y1": 0.463
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7458,
+   "y0": 0.0,
+   "x1": 0.8667,
+   "y1": 0.463
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8667,
+   "y0": 0.0,
+   "x1": 0.9833,
+   "y1": 0.463
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.463,
+   "x1": 0.1125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1125,
+   "y0": 0.463,
+   "x1": 0.2458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2458,
+   "y0": 0.463,
+   "x1": 0.3667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3667,
+   "y0": 0.463,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5,
+   "y0": 0.463,
+   "x1": 0.625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.625,
+   "y0": 0.463,
+   "x1": 0.75,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.75,
+   "y0": 0.463,
+   "x1": 0.8708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8708,
+   "y0": 0.463,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "61061",
+   "slot_letter": "A",
+   "name": "4-40 cap nut, brass",
+   "price_cents": 85,
+   "upc": "738287610611",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot A",
+   "label_short": "4-40"
+  },
+  {
+   "sku": "61062",
+   "slot_letter": "B",
+   "name": "6-32 cap nut, brass",
+   "price_cents": 89,
+   "upc": "738287610628",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot B",
+   "label_short": "6-32"
+  },
+  {
+   "sku": "61063",
+   "slot_letter": "C",
+   "name": "8-32 cap nut, brass",
+   "price_cents": 95,
+   "upc": "738287610635",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot C",
+   "label_short": "8-32"
+  },
+  {
+   "sku": "61064",
+   "slot_letter": "D",
+   "name": "10-24 cap nut, brass",
+   "price_cents": 105,
+   "upc": "738287610642",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot D",
+   "label_short": "10-24"
+  },
+  {
+   "sku": "61065",
+   "slot_letter": "E",
+   "name": "1/4-20 cap nut, brass",
+   "price_cents": 125,
+   "upc": "738287610659",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot E",
+   "label_short": "1/4-20"
+  },
+  {
+   "sku": "61066",
+   "slot_letter": "F",
+   "name": "5/16-18 cap nut, brass",
+   "price_cents": 159,
+   "upc": "738287610666",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot F",
+   "label_short": "5/16-18"
+  },
+  {
+   "sku": "61067",
+   "slot_letter": "G",
+   "name": "3/8-16 cap nut, brass",
+   "price_cents": 209,
+   "upc": "738287610673",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot G",
+   "label_short": "3/8-16"
+  },
+  {
+   "sku": "61068",
+   "slot_letter": "H",
+   "name": "10-32 cap nut, brass",
+   "price_cents": 115,
+   "upc": "738287610680",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot H",
+   "label_short": "10-32"
+  },
+  {
+   "sku": "61071",
+   "slot_letter": "J",
+   "name": "6-32 knurled nut, brass",
+   "price_cents": 115,
+   "upc": "738287610710",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot J",
+   "label_short": "6-32"
+  },
+  {
+   "sku": "61072",
+   "slot_letter": "K",
+   "name": "8-32 knurled nut, brass",
+   "price_cents": 125,
+   "upc": "738287610727",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot K",
+   "label_short": "8-32"
+  },
+  {
+   "sku": "61073",
+   "slot_letter": "L",
+   "name": "10-32 knurled nut, brass",
+   "price_cents": 135,
+   "upc": "738287610734",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot L",
+   "label_short": "10-32"
+  },
+  {
+   "sku": "61074",
+   "slot_letter": "M",
+   "name": "6-32 cap nut, nickel plated brass",
+   "price_cents": 89,
+   "upc": "738287610741",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot M",
+   "label_short": "6-32"
+  },
+  {
+   "sku": "61075",
+   "slot_letter": "N",
+   "name": "8-32 cap nut, nickel plated brass",
+   "price_cents": 95,
+   "upc": "738287610758",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot N",
+   "label_short": "8-32"
+  },
+  {
+   "sku": "61076",
+   "slot_letter": "P",
+   "name": "10-24 cap nut, nickel plated brass",
+   "price_cents": 115,
+   "upc": "738287610765",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot P",
+   "label_short": "10-24"
+  },
+  {
+   "sku": "61077",
+   "slot_letter": "Q",
+   "name": "1/4-20 cap nut, nickel plated brass",
+   "price_cents": 135,
+   "upc": "738287610772",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot Q",
+   "label_short": "1/4-20",
+   "note": "This compartment was empty in the photo."
+  },
+  {
+   "sku": "61078",
+   "slot_letter": "R",
+   "name": "10-32 cap nut, nickel plated brass",
+   "price_cents": 115,
+   "upc": "738287610789",
+   "upc_source": "read_from_label",
+   "location": "Nuts 36, slot R",
+   "label_short": "10-32"
+  }
+ ]
+}

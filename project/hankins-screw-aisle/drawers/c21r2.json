@@ -1,0 +1,273 @@
+{
+ "id": "c21r2",
+ "column": 21,
+ "row": 2,
+ "half": null,
+ "title": "Household 56 and Household 59",
+ "description": "Wood: birch dowel pins 1/4 to 1/2 x 1-1/2, fluted and spiral (66780) in the back two rows; Shaker pegs, axle pegs and wheels (66840) in the front two rows",
+ "front_image": "images/fronts/c21r2.jpg",
+ "tray_image": "images/trays/c21r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 1,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.4983,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 2,
+   "x0": 0.4983,
+   "y0": 0.0,
+   "x1": 0.74,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 3,
+   "x0": 0.74,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.2437,
+   "x1": 0.25,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 5,
+   "x0": 0.25,
+   "y0": 0.2437,
+   "x1": 0.5,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 6,
+   "x0": 0.5,
+   "y0": 0.2437,
+   "x1": 0.75,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 7,
+   "x0": 0.75,
+   "y0": 0.2437,
+   "x1": 1.0,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.4875,
+   "x1": 0.375,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 9,
+   "x0": 0.375,
+   "y0": 0.4875,
+   "x1": 0.7542,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 10,
+   "x0": 0.7542,
+   "y0": 0.4875,
+   "x1": 1.0,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 11,
+   "x0": 0.0,
+   "y0": 0.7438,
+   "x1": 0.3792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.3792,
+   "y0": 0.7438,
+   "x1": 0.5417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.5417,
+   "y0": 0.7438,
+   "x1": 0.7708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7708,
+   "y0": 0.7438,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "66781",
+   "slot_letter": "A",
+   "name": "1/4 x 1-1/2 fluted birch dowel pin",
+   "price_cents": 33,
+   "upc": "738287667813",
+   "upc_source": "read_from_label",
+   "location": "Household 56, slot A",
+   "label_short": "1/4 x 1-1/2 fluted"
+  },
+  {
+   "sku": "66782",
+   "slot_letter": "B",
+   "name": "5/16 x 1-1/2 fluted birch dowel pin",
+   "price_cents": 39,
+   "upc": "738287667820",
+   "upc_source": "read_from_label",
+   "location": "Household 56, slot B",
+   "label_short": "5/16 x 1-1/2 fluted"
+  },
+  {
+   "sku": "66783",
+   "slot_letter": "C",
+   "name": "3/8 x 1-1/2 fluted birch dowel pin",
+   "price_cents": 43,
+   "upc": "738287667837",
+   "upc_source": "read_from_label",
+   "location": "Household 56, slot C",
+   "label_short": "3/8 x 1-1/2 fluted"
+  },
+  {
+   "sku": "66784",
+   "slot_letter": "D",
+   "name": "1/2 x 1-1/2 fluted birch dowel pin",
+   "price_cents": 48,
+   "upc": "738287667844",
+   "upc_source": "read_from_label",
+   "location": "Household 56, slot D",
+   "label_short": "1/2 x 1-1/2 fluted"
+  },
+  {
+   "sku": "66785",
+   "slot_letter": "E",
+   "name": "1/4 x 1-1/2 spiral birch dowel pin",
+   "price_cents": 33,
+   "upc": "738287667851",
+   "upc_source": "read_from_label",
+   "location": "Household 56, slot E",
+   "label_short": "1/4 x 1-1/2 spiral"
+  },
+  {
+   "sku": "66786",
+   "slot_letter": "F",
+   "name": "5/16 x 1-1/2 spiral birch dowel pin",
+   "price_cents": 39,
+   "upc": "738287667868",
+   "upc_source": "read_from_label",
+   "location": "Household 56, slot F",
+   "label_short": "5/16 x 1-1/2 spiral"
+  },
+  {
+   "sku": "66787",
+   "slot_letter": "G",
+   "name": "3/8 x 1-1/2 spiral birch dowel pin",
+   "price_cents": 43,
+   "upc": "738287667875",
+   "upc_source": "read_from_label",
+   "location": "Household 56, slot G",
+   "label_short": "3/8 x 1-1/2 spiral"
+  },
+  {
+   "sku": "66788",
+   "slot_letter": "H",
+   "name": "1/2 x 1-1/2 spiral birch dowel pin",
+   "price_cents": 48,
+   "upc": "738287667882",
+   "upc_source": "read_from_label",
+   "location": "Household 56, slot H",
+   "label_short": "1/2 x 1-1/2 spiral"
+  },
+  {
+   "sku": "66841",
+   "slot_letter": "A",
+   "name": "2-1/2 birch Shaker peg for 3/8 hole",
+   "price_cents": 229,
+   "upc": "738287668414",
+   "upc_source": "read_from_label",
+   "location": "Household 59, slot A",
+   "label_short": "2-1/2 peg, birch"
+  },
+  {
+   "sku": "66842",
+   "slot_letter": "B",
+   "name": "3-1/2 birch Shaker peg for 1/2 hole",
+   "price_cents": 229,
+   "upc": "738287668421",
+   "upc_source": "read_from_label",
+   "location": "Household 59, slot B",
+   "label_short": "3-1/2 peg, birch"
+  },
+  {
+   "sku": "66847",
+   "slot_letter": "G",
+   "name": "2 in. birch wheel",
+   "price_cents": 199,
+   "upc": "738287668476",
+   "upc_source": "read_from_label",
+   "location": "Household 59, slot G",
+   "label_short": "2\" wheel"
+  },
+  {
+   "sku": "66843",
+   "slot_letter": "C",
+   "name": "3-1/2 oak Shaker peg for 1/2 hole",
+   "price_cents": 269,
+   "upc": "738287668438",
+   "upc_source": "read_from_label",
+   "location": "Household 59, slot C",
+   "label_short": "3-1/2 peg, oak"
+  },
+  {
+   "sku": "66844",
+   "slot_letter": "D",
+   "name": "7/32 diameter birch axle peg",
+   "price_cents": 51,
+   "upc": "738287668445",
+   "upc_source": "read_from_label",
+   "location": "Household 59, slot D",
+   "label_short": "7/32 axle peg"
+  },
+  {
+   "sku": "66845",
+   "slot_letter": "E",
+   "name": "1 in. birch wheel",
+   "price_cents": 99,
+   "upc": "738287668452",
+   "upc_source": "read_from_label",
+   "location": "Household 59, slot E",
+   "label_short": "1\" wheel"
+  },
+  {
+   "sku": "66846",
+   "slot_letter": "F",
+   "name": "1-1/2 in. birch wheel",
+   "price_cents": 115,
+   "upc": "738287668469",
+   "upc_source": "read_from_label",
+   "location": "Household 59, slot F",
+   "label_short": "1-1/2\" wheel"
+  }
+ ]
+}

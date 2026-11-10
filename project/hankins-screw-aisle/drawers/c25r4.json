@@ -1,0 +1,256 @@
+{
+ "id": "c25r4",
+ "column": 25,
+ "row": 4,
+ "half": null,
+ "title": "Specialty 12 and Specialty 13",
+ "description": "Cotterless hitch pins, 1/4 and 3/8 (67120), and 1/2 axle bolts with 3/8-16 thread and kep lock nuts (63260).",
+ "front_image": "images/fronts/c25r4.jpg",
+ "tray_image": "images/trays/c25r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.3417,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 1,
+   "x0": 0.3417,
+   "y0": 0.0,
+   "x1": 0.6583,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 2,
+   "x0": 0.6583,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 3,
+   "x0": 0.0,
+   "y0": 0.2437,
+   "x1": 0.3417,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 4,
+   "x0": 0.3417,
+   "y0": 0.2437,
+   "x1": 0.6625,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6625,
+   "y0": 0.2437,
+   "x1": 1.0,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.4875,
+   "x1": 0.2208,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 7,
+   "x0": 0.2208,
+   "y0": 0.4875,
+   "x1": 0.375,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 8,
+   "x0": 0.375,
+   "y0": 0.4875,
+   "x1": 0.5792,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 9,
+   "x0": 0.5792,
+   "y0": 0.4875,
+   "x1": 0.7875,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 10,
+   "x0": 0.7875,
+   "y0": 0.4875,
+   "x1": 1.0,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 11,
+   "x0": 0.0,
+   "y0": 0.7375,
+   "x1": 0.3417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.3417,
+   "y0": 0.7375,
+   "x1": 0.675,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.675,
+   "y0": 0.7375,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "67121",
+   "slot_letter": "A",
+   "name": "1/4 x 1-1/4 cotterless hitch pin (ring pin)",
+   "price_cents": 185,
+   "upc": "738287671216",
+   "upc_source": "read_from_label",
+   "location": "Specialty 12, slot A",
+   "label_short": "1/4 x 1-1/4"
+  },
+  {
+   "sku": "67122",
+   "slot_letter": "B",
+   "name": "1/4 x 1-3/4 cotterless hitch pin (ring pin)",
+   "price_cents": 199,
+   "upc": "738287671223",
+   "upc_source": "read_from_label",
+   "location": "Specialty 12, slot B",
+   "label_short": "1/4 x 1-3/4"
+  },
+  {
+   "sku": "67123",
+   "slot_letter": "C",
+   "name": "1/4 x 3 cotterless hitch pin (ring pin)",
+   "price_cents": 239,
+   "upc": "738287671230",
+   "upc_source": "read_from_label",
+   "location": "Specialty 12, slot C",
+   "label_short": "1/4 x 3"
+  },
+  {
+   "sku": "67124",
+   "slot_letter": "D",
+   "name": "3/8 x 1-1/8 cotterless hitch pin (ring pin)",
+   "price_cents": 299,
+   "upc": "738287671247",
+   "upc_source": "read_from_label",
+   "location": "Specialty 12, slot D",
+   "label_short": "3/8 x 1-1/8"
+  },
+  {
+   "sku": "67125",
+   "slot_letter": "E",
+   "name": "3/8 x 1-5/8 cotterless hitch pin (ring pin)",
+   "price_cents": 369,
+   "upc": "738287671254",
+   "upc_source": "read_from_label",
+   "location": "Specialty 12, slot E",
+   "label_short": "3/8 x 1-5/8"
+  },
+  {
+   "sku": "67126",
+   "slot_letter": "F",
+   "name": "3/8 x 2-1/8 cotterless hitch pin (ring pin)",
+   "price_cents": 389,
+   "upc": "738287671261",
+   "upc_source": "read_from_label",
+   "location": "Specialty 12, slot F",
+   "label_short": "3/8 x 2-1/8"
+  },
+  {
+   "sku": "63261",
+   "slot_letter": "A",
+   "name": "3/8-16 kep lock nut (for axle bolts)",
+   "price_cents": 69,
+   "upc": "738287632613",
+   "upc_source": "read_from_label",
+   "location": "Specialty 13, slot A",
+   "label_short": "3/8-16 kep nut"
+  },
+  {
+   "sku": "63262",
+   "slot_letter": "B",
+   "name": "1/2 x 1-5/16 axle bolt, 3/8-16 thread",
+   "price_cents": 209,
+   "upc": "738287632620",
+   "upc_source": "read_from_label",
+   "location": "Specialty 13, slot B",
+   "label_short": "1/2 x 1-5/16"
+  },
+  {
+   "sku": "63263",
+   "slot_letter": "C",
+   "name": "1/2 x 1-3/8 axle bolt, 3/8-16 thread",
+   "price_cents": 219,
+   "upc": "738287632637",
+   "upc_source": "read_from_label",
+   "location": "Specialty 13, slot C",
+   "label_short": "1/2 x 1-3/8"
+  },
+  {
+   "sku": "63264",
+   "slot_letter": "D",
+   "name": "1/2 x 1-7/16 axle bolt, 3/8-16 thread",
+   "price_cents": 239,
+   "upc": "738287632644",
+   "upc_source": "read_from_label",
+   "location": "Specialty 13, slot D",
+   "label_short": "1/2 x 1-7/16"
+  },
+  {
+   "sku": "63265",
+   "slot_letter": "E",
+   "name": "1/2 x 1-1/2 axle bolt, 3/8-16 thread",
+   "price_cents": 259,
+   "upc": "738287632651",
+   "upc_source": "read_from_label",
+   "location": "Specialty 13, slot E",
+   "label_short": "1/2 x 1-1/2"
+  },
+  {
+   "sku": "63266",
+   "slot_letter": "F",
+   "name": "1/2 x 1-5/8 axle bolt, 3/8-16 thread",
+   "price_cents": 269,
+   "upc": "738287632668",
+   "upc_source": "read_from_label",
+   "location": "Specialty 13, slot F",
+   "label_short": "1/2 x 1-5/8"
+  },
+  {
+   "sku": "63267",
+   "slot_letter": "G",
+   "name": "1/2 x 1-3/4 axle bolt, 3/8-16 thread",
+   "price_cents": 279,
+   "upc": "738287632675",
+   "upc_source": "read_from_label",
+   "location": "Specialty 13, slot G",
+   "label_short": "1/2 x 1-3/4"
+  },
+  {
+   "sku": "63268",
+   "slot_letter": "H",
+   "name": "1/2 x 1-7/8 axle bolt, 3/8-16 thread",
+   "price_cents": 289,
+   "upc": "738287632682",
+   "upc_source": "read_from_label",
+   "location": "Specialty 13, slot H",
+   "label_short": "1/2 x 1-7/8"
+  }
+ ]
+}

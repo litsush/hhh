@@ -1,0 +1,562 @@
+{
+ "id": "c26r3",
+ "column": 26,
+ "row": 3,
+ "half": null,
+ "title": "Specialty 25 and Specialty 26",
+ "description": "Hardened steel taper pins #3/0 to #6 (60460) and woodruff keys 1/16 to 5/16 thick (60920)",
+ "front_image": "images/fronts/c26r3.jpg",
+ "tray_image": "images/trays/c26r3.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.125,
+   "y1": 0.25
+  },
+  {
+   "item_index": 1,
+   "x0": 0.125,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.25
+  },
+  {
+   "item_index": 2,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.375,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.375,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.25
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.625,
+   "y1": 0.25
+  },
+  {
+   "item_index": 5,
+   "x0": 0.625,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.25
+  },
+  {
+   "item_index": 6,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 0.875,
+   "y1": 0.25
+  },
+  {
+   "item_index": 7,
+   "x0": 0.875,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.25
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.25,
+   "x1": 0.125,
+   "y1": 0.5
+  },
+  {
+   "item_index": 9,
+   "x0": 0.125,
+   "y0": 0.25,
+   "x1": 0.25,
+   "y1": 0.5
+  },
+  {
+   "item_index": 10,
+   "x0": 0.25,
+   "y0": 0.25,
+   "x1": 0.375,
+   "y1": 0.5
+  },
+  {
+   "item_index": 11,
+   "x0": 0.375,
+   "y0": 0.25,
+   "x1": 0.5,
+   "y1": 0.5
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5,
+   "y0": 0.25,
+   "x1": 0.625,
+   "y1": 0.5
+  },
+  {
+   "item_index": 13,
+   "x0": 0.625,
+   "y0": 0.25,
+   "x1": 0.75,
+   "y1": 0.5
+  },
+  {
+   "item_index": 14,
+   "x0": 0.75,
+   "y0": 0.25,
+   "x1": 0.875,
+   "y1": 0.5
+  },
+  {
+   "item_index": 15,
+   "x0": 0.875,
+   "y0": 0.25,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.125,
+   "y1": 0.75
+  },
+  {
+   "item_index": 17,
+   "x0": 0.125,
+   "y0": 0.5,
+   "x1": 0.25,
+   "y1": 0.75
+  },
+  {
+   "item_index": 18,
+   "x0": 0.25,
+   "y0": 0.5,
+   "x1": 0.375,
+   "y1": 0.75
+  },
+  {
+   "item_index": 19,
+   "x0": 0.375,
+   "y0": 0.5,
+   "x1": 0.5,
+   "y1": 0.75
+  },
+  {
+   "item_index": 20,
+   "x0": 0.5,
+   "y0": 0.5,
+   "x1": 0.625,
+   "y1": 0.75
+  },
+  {
+   "item_index": 21,
+   "x0": 0.625,
+   "y0": 0.5,
+   "x1": 0.75,
+   "y1": 0.75
+  },
+  {
+   "item_index": 22,
+   "x0": 0.75,
+   "y0": 0.5,
+   "x1": 0.875,
+   "y1": 0.75
+  },
+  {
+   "item_index": 23,
+   "x0": 0.875,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.75
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0,
+   "y0": 0.75,
+   "x1": 0.125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.125,
+   "y0": 0.75,
+   "x1": 0.25,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.25,
+   "y0": 0.75,
+   "x1": 0.375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.375,
+   "y0": 0.75,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.5,
+   "y0": 0.75,
+   "x1": 0.625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.625,
+   "y0": 0.75,
+   "x1": 0.75,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.75,
+   "y0": 0.75,
+   "x1": 0.875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 31,
+   "x0": 0.875,
+   "y0": 0.75,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "60461",
+   "slot_letter": "A",
+   "name": "#3/0 x 1 hardened steel taper pin",
+   "price_cents": 139,
+   "upc": "738287604610",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot A",
+   "label_short": "#3/0 x 1"
+  },
+  {
+   "sku": "60462",
+   "slot_letter": "B",
+   "name": "#2/0 x 1 hardened steel taper pin",
+   "price_cents": 145,
+   "upc": "738287604627",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot B",
+   "label_short": "#2/0 x 1"
+  },
+  {
+   "sku": "60463",
+   "slot_letter": "C",
+   "name": "#0 x 1 hardened steel taper pin",
+   "price_cents": 149,
+   "upc": "738287604634",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot C",
+   "label_short": "#0 x 1"
+  },
+  {
+   "sku": "60464",
+   "slot_letter": "D",
+   "name": "#0 x 1-1/2 hardened steel taper pin",
+   "price_cents": 165,
+   "upc": "738287604641",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot D",
+   "label_short": "#0 x 1-1/2"
+  },
+  {
+   "sku": "60465",
+   "slot_letter": "E",
+   "name": "#1 x 1 hardened steel taper pin",
+   "price_cents": 179,
+   "upc": "738287604658",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot E",
+   "label_short": "#1 x 1"
+  },
+  {
+   "sku": "60466",
+   "slot_letter": "F",
+   "name": "#1 x 1-1/2 hardened steel taper pin",
+   "price_cents": 179,
+   "upc": "738287604665",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot F",
+   "label_short": "#1 x 1-1/2"
+  },
+  {
+   "sku": "60467",
+   "slot_letter": "G",
+   "name": "#2 x 1 hardened steel taper pin",
+   "price_cents": 189,
+   "upc": "738287604672",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot G",
+   "label_short": "#2 x 1"
+  },
+  {
+   "sku": "60468",
+   "slot_letter": "H",
+   "name": "#2 x 1-1/2 hardened steel taper pin",
+   "price_cents": 199,
+   "upc": "738287604689",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot H",
+   "label_short": "#2 x 1-1/2"
+  },
+  {
+   "sku": "60471",
+   "slot_letter": "J",
+   "name": "#3 x 1 hardened steel taper pin",
+   "price_cents": 179,
+   "upc": "738287604719",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot J",
+   "label_short": "#3 x 1"
+  },
+  {
+   "sku": "60472",
+   "slot_letter": "K",
+   "name": "#3 x 1-1/2 hardened steel taper pin",
+   "price_cents": 199,
+   "upc": "738287604726",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot K",
+   "label_short": "#3 x 1-1/2"
+  },
+  {
+   "sku": "60473",
+   "slot_letter": "L",
+   "name": "#3 x 2 hardened steel taper pin",
+   "price_cents": 219,
+   "upc": "738287604733",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot L",
+   "label_short": "#3 x 2"
+  },
+  {
+   "sku": "60474",
+   "slot_letter": "M",
+   "name": "#4 x 1 hardened steel taper pin",
+   "price_cents": 185,
+   "upc": "738287604740",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot M",
+   "label_short": "#4 x 1"
+  },
+  {
+   "sku": "60475",
+   "slot_letter": "N",
+   "name": "#4 x 1-1/2 hardened steel taper pin",
+   "price_cents": 209,
+   "upc": "738287604757",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot N",
+   "label_short": "#4 x 1-1/2"
+  },
+  {
+   "sku": "60476",
+   "slot_letter": "P",
+   "name": "#4 x 2 hardened steel taper pin",
+   "price_cents": 219,
+   "upc": "738287604764",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot P",
+   "label_short": "#4 x 2"
+  },
+  {
+   "sku": "60477",
+   "slot_letter": "Q",
+   "name": "#5 x 2 hardened steel taper pin",
+   "price_cents": 219,
+   "upc": "738287604771",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot Q",
+   "label_short": "#5 x 2"
+  },
+  {
+   "sku": "60478",
+   "slot_letter": "R",
+   "name": "#6 x 2 hardened steel taper pin",
+   "price_cents": 269,
+   "upc": "738287604788",
+   "upc_source": "read_from_label",
+   "location": "Specialty 25, slot R",
+   "label_short": "#6 x 2"
+  },
+  {
+   "sku": "60921",
+   "slot_letter": "A",
+   "name": "#1 woodruff key, 1/16 x 1/2",
+   "price_cents": 75,
+   "upc": "738287609219",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot A",
+   "label_short": "#1 1/16 x 1/2"
+  },
+  {
+   "sku": "60922",
+   "slot_letter": "B",
+   "name": "#2 woodruff key, 3/32 x 1/2",
+   "price_cents": 79,
+   "upc": "738287609226",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot B",
+   "label_short": "#2 3/32 x 1/2"
+  },
+  {
+   "sku": "60923",
+   "slot_letter": "C",
+   "name": "#3 woodruff key, 1/8 x 1/2",
+   "price_cents": 85,
+   "upc": "738287609233",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot C",
+   "label_short": "#3 1/8 x 1/2"
+  },
+  {
+   "sku": "60924",
+   "slot_letter": "D",
+   "name": "#5 woodruff key, 1/8 x 5/8",
+   "price_cents": 85,
+   "upc": "738287609240",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot D",
+   "label_short": "#5 1/8 x 5/8"
+  },
+  {
+   "sku": "60925",
+   "slot_letter": "E",
+   "name": "#7 woodruff key, 1/8 x 3/4",
+   "price_cents": 99,
+   "upc": "738287609257",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot E",
+   "label_short": "#7 1/8 x 3/4"
+  },
+  {
+   "sku": "60926",
+   "slot_letter": "F",
+   "name": "#6 woodruff key, 5/32 x 5/8",
+   "price_cents": 105,
+   "upc": "738287609264",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot F",
+   "label_short": "#6 5/32 x 5/8"
+  },
+  {
+   "sku": "60927",
+   "slot_letter": "G",
+   "name": "#8 woodruff key, 5/32 x 3/4",
+   "price_cents": 115,
+   "upc": "738287609271",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot G",
+   "label_short": "#8 5/32 x 3/4"
+  },
+  {
+   "sku": "60928",
+   "slot_letter": "H",
+   "name": "#10 woodruff key, 5/32 x 7/8",
+   "price_cents": 115,
+   "upc": "738287609288",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot H",
+   "label_short": "#10 5/32 x 7/8"
+  },
+  {
+   "sku": "60931",
+   "slot_letter": "J",
+   "name": "#9 woodruff key, 3/16 x 3/4",
+   "price_cents": 125,
+   "upc": "738287609318",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot J",
+   "label_short": "#9 3/16 x 3/4"
+  },
+  {
+   "sku": "60932",
+   "slot_letter": "K",
+   "name": "#11 woodruff key, 3/16 x 7/8",
+   "price_cents": 135,
+   "upc": "738287609325",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot K",
+   "label_short": "#11 3/16 x 7/8"
+  },
+  {
+   "sku": "60933",
+   "slot_letter": "L",
+   "name": "#13 woodruff key, 3/16 x 1",
+   "price_cents": 149,
+   "upc": "738287609332",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot L",
+   "label_short": "#13 3/16 x 1"
+  },
+  {
+   "sku": "60934",
+   "slot_letter": "M",
+   "name": "#A woodruff key, 1/4 x 7/8",
+   "price_cents": 169,
+   "upc": "738287609349",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot M",
+   "label_short": "#A 1/4 x 7/8"
+  },
+  {
+   "sku": "60935",
+   "slot_letter": "N",
+   "name": "#15 woodruff key, 1/4 x 1",
+   "price_cents": 179,
+   "upc": "738287609356",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot N",
+   "label_short": "#15 1/4 x 1"
+  },
+  {
+   "sku": "60936",
+   "slot_letter": "P",
+   "name": "#18 woodruff key, 1/4 x 1-1/8",
+   "price_cents": 185,
+   "upc": "738287609363",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot P",
+   "label_short": "#18 1/4 x 1-1/8"
+  },
+  {
+   "sku": "60937",
+   "slot_letter": "Q",
+   "name": "#B woodruff key, 5/16 x 1",
+   "price_cents": 199,
+   "upc": "738287609370",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot Q",
+   "label_short": "#B 5/16 x 1"
+  },
+  {
+   "sku": "60938",
+   "slot_letter": "R",
+   "name": "#C woodruff key, 5/16 x 1-1/8",
+   "price_cents": 239,
+   "upc": "738287609387",
+   "upc_source": "read_from_label",
+   "location": "Specialty 26, slot R",
+   "label_short": "#C 5/16 x 1-1/8"
+  }
+ ]
+}

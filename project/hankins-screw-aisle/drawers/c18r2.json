@@ -1,0 +1,274 @@
+{
+ "id": "c18r2",
+ "column": 18,
+ "row": 2,
+ "half": null,
+ "title": "Household 12 and Household 13",
+ "description": "Glass and screen door rollers: sliding door rollers 1 to 1-1/2 and shower door rollers (66120), and spring-mounted screen door rollers in W, U, J and straight shapes (66140)",
+ "front_image": "images/fronts/c18r2.jpg",
+ "tray_image": "images/trays/c18r2.jpg",
+ "tray_image_px": [
+  1200,
+  850
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0375,
+   "y0": 0.0,
+   "x1": 0.1958,
+   "y1": 0.2176
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1958,
+   "y0": 0.0,
+   "x1": 0.3833,
+   "y1": 0.2176
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3833,
+   "y0": 0.0,
+   "x1": 0.5708,
+   "y1": 0.2176
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5708,
+   "y0": 0.0,
+   "x1": 0.7542,
+   "y1": 0.2176
+  },
+  {
+   "item_index": 4,
+   "x0": 0.7542,
+   "y0": 0.0,
+   "x1": 0.9542,
+   "y1": 0.2176
+  },
+  {
+   "item_index": 5,
+   "x0": 0.025,
+   "y0": 0.2176,
+   "x1": 0.1833,
+   "y1": 0.4529
+  },
+  {
+   "item_index": 6,
+   "x0": 0.1833,
+   "y0": 0.2176,
+   "x1": 0.3833,
+   "y1": 0.4529
+  },
+  {
+   "item_index": 7,
+   "x0": 0.3833,
+   "y0": 0.2176,
+   "x1": 0.5792,
+   "y1": 0.4529
+  },
+  {
+   "item_index": 8,
+   "x0": 0.5792,
+   "y0": 0.2176,
+   "x1": 0.775,
+   "y1": 0.4529
+  },
+  {
+   "item_index": 9,
+   "x0": 0.775,
+   "y0": 0.2176,
+   "x1": 0.9833,
+   "y1": 0.4529
+  },
+  {
+   "item_index": 10,
+   "x0": 0.0083,
+   "y0": 0.4529,
+   "x1": 0.5125,
+   "y1": 0.7118
+  },
+  {
+   "item_index": 11,
+   "x0": 0.5125,
+   "y0": 0.4529,
+   "x1": 0.9958,
+   "y1": 0.7118
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.7118,
+   "x1": 0.3458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.3458,
+   "y0": 0.7118,
+   "x1": 0.6875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.6875,
+   "y0": 0.7118,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "66121",
+   "slot_letter": "A",
+   "name": "1\" steel roller for sliding screen doors",
+   "price_cents": 639,
+   "upc": "738287661217",
+   "upc_source": "read_from_label",
+   "location": "Household 12, slot A",
+   "label_short": "1\" steel",
+   "note": "Compartment holds only an empty plastic bag; no rollers visible."
+  },
+  {
+   "sku": "66122",
+   "slot_letter": "B",
+   "name": "1-1/4 nylon roller for sliding screen or glass doors",
+   "price_cents": 619,
+   "upc": "738287661224",
+   "upc_source": "read_from_label",
+   "location": "Household 12, slot B",
+   "label_short": "1-1/4 nylon"
+  },
+  {
+   "sku": "66123",
+   "slot_letter": "C",
+   "name": "1-1/4 steel roller for sliding screen or glass doors",
+   "price_cents": 639,
+   "upc": "738287661231",
+   "upc_source": "read_from_label",
+   "location": "Household 12, slot C",
+   "label_short": "1-1/4 steel"
+  },
+  {
+   "sku": "66124",
+   "slot_letter": "D",
+   "name": "1-1/2 nylon roller for sliding glass doors",
+   "price_cents": 659,
+   "upc": "738287661248",
+   "upc_source": "read_from_label",
+   "location": "Household 12, slot D",
+   "label_short": "1-1/2 nylon"
+  },
+  {
+   "sku": "66125",
+   "slot_letter": "E",
+   "name": "1-1/2 steel roller for sliding glass doors",
+   "price_cents": 699,
+   "upc": "738287661255",
+   "upc_source": "read_from_label",
+   "location": "Household 12, slot E",
+   "label_short": "1-1/2 steel"
+  },
+  {
+   "sku": "66126",
+   "slot_letter": "F",
+   "name": "8-32 x 3/8 machine screw for 3/4\" shower door rollers",
+   "price_cents": 60,
+   "upc": "738287661262",
+   "upc_source": "read_from_label",
+   "location": "Household 12, slot F",
+   "label_short": "8-32 x 3/8 screw"
+  },
+  {
+   "sku": "66127",
+   "slot_letter": "G",
+   "name": "3/4 nylon flat roller for shower doors",
+   "price_cents": 269,
+   "upc": "738287661279",
+   "upc_source": "read_from_label",
+   "location": "Household 12, slot G",
+   "label_short": "3/4 flat"
+  },
+  {
+   "sku": "66128",
+   "slot_letter": "H",
+   "name": "7/8 nylon flat roller for shower doors",
+   "price_cents": 279,
+   "upc": "738287661286",
+   "upc_source": "read_from_label",
+   "location": "Household 12, slot H",
+   "label_short": "7/8 flat"
+  },
+  {
+   "sku": "66131",
+   "slot_letter": "J",
+   "name": "3/4 nylon oval roller for shower doors",
+   "price_cents": 269,
+   "upc": "738287661316",
+   "upc_source": "read_from_label",
+   "location": "Household 12, slot J",
+   "label_short": "3/4 oval"
+  },
+  {
+   "sku": "66132",
+   "slot_letter": "K",
+   "name": "7/8 nylon oval roller for shower doors",
+   "price_cents": 279,
+   "upc": "738287661323",
+   "upc_source": "read_from_label",
+   "location": "Household 12, slot K",
+   "label_short": "7/8 oval"
+  },
+  {
+   "sku": "66141",
+   "slot_letter": "A",
+   "name": "\"W\" shape steel spring screen door roller with 1\" nylon wheel",
+   "price_cents": 539,
+   "upc": "738287661415",
+   "upc_source": "read_from_label",
+   "location": "Household 13, slot A",
+   "label_short": "W nylon"
+  },
+  {
+   "sku": "66142",
+   "slot_letter": "B",
+   "name": "\"W\" shape steel spring screen door roller with 1\" steel wheel",
+   "price_cents": 679,
+   "upc": "738287661422",
+   "upc_source": "read_from_label",
+   "location": "Household 13, slot B",
+   "label_short": "W steel"
+  },
+  {
+   "sku": "66143",
+   "slot_letter": "C",
+   "name": "\"U\" shape steel spring screen door roller with 1\" nylon wheel",
+   "price_cents": 539,
+   "upc": "738287661439",
+   "upc_source": "read_from_label",
+   "location": "Household 13, slot C",
+   "label_short": "U nylon"
+  },
+  {
+   "sku": "66144",
+   "slot_letter": "D",
+   "name": "Straight steel spring screen door roller with 1\" nylon wheel",
+   "price_cents": 559,
+   "upc": "738287661446",
+   "upc_source": "read_from_label",
+   "location": "Household 13, slot D",
+   "label_short": "Straight nylon"
+  },
+  {
+   "sku": "66145",
+   "slot_letter": "E",
+   "name": "\"J\" shape steel spring screen door roller with 1\" nylon wheel",
+   "price_cents": 579,
+   "upc": "738287661453",
+   "upc_source": "read_from_label",
+   "location": "Household 13, slot E",
+   "label_short": "J nylon"
+  }
+ ]
+}

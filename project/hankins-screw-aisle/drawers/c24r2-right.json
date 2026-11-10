@@ -1,0 +1,121 @@
+{
+ "id": "c24r2-right",
+ "column": 24,
+ "row": 2,
+ "half": "R",
+ "title": "Nylon 9",
+ "description": "Mylar washers 1/64 thick, 3/16 to 15/32 ID, 7/16 to 59/64 OD (33540)",
+ "front_image": "images/fronts/c24r2.jpg",
+ "tray_image": "images/trays/c24r2-right.jpg",
+ "tray_image_px": [
+  1200,
+  720
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.3417,
+   "y1": 0.48
+  },
+  {
+   "item_index": 1,
+   "x0": 0.3417,
+   "y0": 0.0,
+   "x1": 0.6792,
+   "y1": 0.48
+  },
+  {
+   "item_index": 2,
+   "x0": 0.6792,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.48
+  },
+  {
+   "item_index": 3,
+   "x0": 0.0,
+   "y0": 0.48,
+   "x1": 0.3458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 4,
+   "x0": 0.3458,
+   "y0": 0.48,
+   "x1": 0.6875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6875,
+   "y0": 0.48,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "33541",
+   "slot_letter": "A",
+   "name": "3/16 ID x 7/16 OD x 1/64 thick Mylar washer",
+   "price_cents": 34,
+   "upc": "738287335415",
+   "upc_source": "read_from_label",
+   "location": "Nylon 9, slot A",
+   "label_short": "3/16 ID"
+  },
+  {
+   "sku": "33542",
+   "slot_letter": "B",
+   "name": "7/32 ID x 1/2 OD x 1/64 thick Mylar washer",
+   "price_cents": 36,
+   "upc": "738287335422",
+   "upc_source": "read_from_label",
+   "location": "Nylon 9, slot B",
+   "label_short": "7/32 ID",
+   "note": "Compartment holds only a plastic bag in the photo; no washers clearly visible."
+  },
+  {
+   "sku": "33543",
+   "slot_letter": "C",
+   "name": "9/32 ID x 5/8 OD x 1/64 thick Mylar washer",
+   "price_cents": 41,
+   "upc": "738287335439",
+   "upc_source": "read_from_label",
+   "location": "Nylon 9, slot C",
+   "label_short": "9/32 ID"
+  },
+  {
+   "sku": "33544",
+   "slot_letter": "D",
+   "name": "11/32 ID x 11/16 OD x 1/64 thick Mylar washer",
+   "price_cents": 42,
+   "upc": "738287335446",
+   "upc_source": "read_from_label",
+   "location": "Nylon 9, slot D",
+   "label_short": "11/32 ID"
+  },
+  {
+   "sku": "33545",
+   "slot_letter": "E",
+   "name": "13/32 ID x 13/16 OD x 1/64 thick Mylar washer",
+   "price_cents": 44,
+   "upc": "738287335453",
+   "upc_source": "read_from_label",
+   "location": "Nylon 9, slot E",
+   "label_short": "13/32 ID"
+  },
+  {
+   "sku": "33546",
+   "slot_letter": "F",
+   "name": "15/32 ID x 59/64 OD x 1/64 thick Mylar washer",
+   "price_cents": 45,
+   "upc": "738287335460",
+   "upc_source": "read_from_label",
+   "location": "Nylon 9, slot F",
+   "label_short": "15/32 ID"
+  }
+ ]
+}

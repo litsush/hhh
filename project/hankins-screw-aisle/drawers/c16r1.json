@@ -1,0 +1,494 @@
+{
+ "id": "c16r1",
+ "column": 16,
+ "row": 1,
+ "half": null,
+ "title": "Socket 12 and Socket 13",
+ "description": "Black button head socket cap screws: 6-32 to 10-32 coarse and fine (72300) and 1/4-20 to 1/2-13 coarse (72320).",
+ "front_image": "images/fronts/c16r1.jpg",
+ "tray_image": "images/trays/c16r1.jpg",
+ "tray_image_px": [
+  1200,
+  1150
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1267,
+   "y1": 0.2504
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1267,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.2504
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.3875,
+   "y1": 0.2504
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3875,
+   "y0": 0.0,
+   "x1": 0.5125,
+   "y1": 0.2504
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5125,
+   "y0": 0.0,
+   "x1": 0.6358,
+   "y1": 0.2504
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6358,
+   "y0": 0.0,
+   "x1": 0.7583,
+   "y1": 0.2504
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7583,
+   "y0": 0.0,
+   "x1": 0.8817,
+   "y1": 0.2504
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8817,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2504
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.2504,
+   "x1": 0.1267,
+   "y1": 0.5
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1267,
+   "y0": 0.2504,
+   "x1": 0.2583,
+   "y1": 0.5
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2583,
+   "y0": 0.2504,
+   "x1": 0.3875,
+   "y1": 0.5
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3875,
+   "y0": 0.2504,
+   "x1": 0.5142,
+   "y1": 0.5
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5142,
+   "y0": 0.2504,
+   "x1": 0.6358,
+   "y1": 0.5
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6358,
+   "y0": 0.2504,
+   "x1": 0.7567,
+   "y1": 0.5
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7567,
+   "y0": 0.2504,
+   "x1": 0.8817,
+   "y1": 0.5
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8817,
+   "y0": 0.2504,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.125,
+   "y1": 0.7609
+  },
+  {
+   "item_index": 17,
+   "x0": 0.125,
+   "y0": 0.5,
+   "x1": 0.2542,
+   "y1": 0.7609
+  },
+  {
+   "item_index": 18,
+   "x0": 0.2542,
+   "y0": 0.5,
+   "x1": 0.3792,
+   "y1": 0.7609
+  },
+  {
+   "item_index": 19,
+   "x0": 0.3792,
+   "y0": 0.5,
+   "x1": 0.54,
+   "y1": 0.7609
+  },
+  {
+   "item_index": 20,
+   "x0": 0.54,
+   "y0": 0.5,
+   "x1": 0.7,
+   "y1": 0.7609
+  },
+  {
+   "item_index": 21,
+   "x0": 0.7,
+   "y0": 0.5,
+   "x1": 0.8567,
+   "y1": 0.7609
+  },
+  {
+   "item_index": 22,
+   "x0": 0.8567,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.7609
+  },
+  {
+   "item_index": 23,
+   "x0": 0.0,
+   "y0": 0.7609,
+   "x1": 0.1708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.1708,
+   "y0": 0.7609,
+   "x1": 0.3417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.3417,
+   "y0": 0.7609,
+   "x1": 0.5567,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.5567,
+   "y0": 0.7609,
+   "x1": 0.7708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.7708,
+   "y0": 0.7609,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "72301",
+   "slot_letter": "A",
+   "name": "6-32 x 1/4 button head socket cap screw, black, coarse thread",
+   "price_cents": 41,
+   "upc": "738287723014",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot A",
+   "label_short": "6-32 x 1/4"
+  },
+  {
+   "sku": "72302",
+   "slot_letter": "B",
+   "name": "6-32 x 3/8 button head socket cap screw, black, coarse thread",
+   "price_cents": 45,
+   "upc": "738287723021",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot B",
+   "label_short": "6-32 x 3/8"
+  },
+  {
+   "sku": "72303",
+   "slot_letter": "C",
+   "name": "6-32 x 1/2 button head socket cap screw, black, coarse thread",
+   "price_cents": 46,
+   "upc": "738287723038",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot C",
+   "label_short": "6-32 x 1/2"
+  },
+  {
+   "sku": "72304",
+   "slot_letter": "D",
+   "name": "6-32 x 3/4 button head socket cap screw, black, coarse thread",
+   "price_cents": 48,
+   "upc": "738287723045",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot D",
+   "label_short": "6-32 x 3/4"
+  },
+  {
+   "sku": "72305",
+   "slot_letter": "E",
+   "name": "8-32 x 3/8 button head socket cap screw, black, coarse thread",
+   "price_cents": 46,
+   "upc": "738287723052",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot E",
+   "label_short": "8-32 x 3/8"
+  },
+  {
+   "sku": "72306",
+   "slot_letter": "F",
+   "name": "8-32 x 1/2 button head socket cap screw, black, coarse thread",
+   "price_cents": 47,
+   "upc": "738287723069",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot F",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "72307",
+   "slot_letter": "G",
+   "name": "8-32 x 5/8 button head socket cap screw, black, coarse thread",
+   "price_cents": 49,
+   "upc": "738287723076",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot G",
+   "label_short": "8-32 x 5/8"
+  },
+  {
+   "sku": "72308",
+   "slot_letter": "H",
+   "name": "8-32 x 3/4 button head socket cap screw, black, coarse thread",
+   "price_cents": 52,
+   "upc": "738287723083",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot H",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "72311",
+   "slot_letter": "J",
+   "name": "10-32 x 3/8 button head socket cap screw, black, fine thread",
+   "price_cents": 47,
+   "upc": "738287723113",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot J",
+   "label_short": "10-32 x 3/8"
+  },
+  {
+   "sku": "72312",
+   "slot_letter": "K",
+   "name": "10-32 x 1/2 button head socket cap screw, black, fine thread",
+   "price_cents": 49,
+   "upc": "738287723120",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot K",
+   "label_short": "10-32 x 1/2"
+  },
+  {
+   "sku": "72313",
+   "slot_letter": "L",
+   "name": "10-32 x 5/8 button head socket cap screw, black, fine thread",
+   "price_cents": 52,
+   "upc": "738287723137",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot L",
+   "label_short": "10-32 x 5/8"
+  },
+  {
+   "sku": "72314",
+   "slot_letter": "M",
+   "name": "10-32 x 3/4 button head socket cap screw, black, fine thread",
+   "price_cents": 53,
+   "upc": "738287723144",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot M",
+   "label_short": "10-32 x 3/4"
+  },
+  {
+   "sku": "72315",
+   "slot_letter": "N",
+   "name": "10-32 x 1 button head socket cap screw, black, fine thread",
+   "price_cents": 54,
+   "upc": "738287723151",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot N",
+   "label_short": "10-32 x 1"
+  },
+  {
+   "sku": "72316",
+   "slot_letter": "P",
+   "name": "10-24 x 1/2 button head socket cap screw, black, coarse thread",
+   "price_cents": 49,
+   "upc": "738287723168",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot P",
+   "label_short": "10-24 x 1/2"
+  },
+  {
+   "sku": "72317",
+   "slot_letter": "Q",
+   "name": "10-24 x 5/8 button head socket cap screw, black, coarse thread",
+   "price_cents": 52,
+   "upc": "738287723175",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot Q",
+   "label_short": "10-24 x 5/8"
+  },
+  {
+   "sku": "72318",
+   "slot_letter": "R",
+   "name": "10-24 x 3/4 button head socket cap screw, black, coarse thread",
+   "price_cents": 53,
+   "upc": "738287723182",
+   "upc_source": "read_from_label",
+   "location": "Socket 12, slot R",
+   "label_short": "10-24 x 3/4"
+  },
+  {
+   "sku": "72321",
+   "slot_letter": "A",
+   "name": "1/4-20 x 1/2 button head socket cap screw, black, coarse thread",
+   "price_cents": 61,
+   "upc": "738287723212",
+   "upc_source": "read_from_label",
+   "location": "Socket 13, slot A",
+   "label_short": "1/4-20 x 1/2"
+  },
+  {
+   "sku": "72322",
+   "slot_letter": "B",
+   "name": "1/4-20 x 5/8 button head socket cap screw, black, coarse thread",
+   "price_cents": 64,
+   "upc": "738287723229",
+   "upc_source": "read_from_label",
+   "location": "Socket 13, slot B",
+   "label_short": "1/4-20 x 5/8"
+  },
+  {
+   "sku": "72323",
+   "slot_letter": "C",
+   "name": "1/4-20 x 3/4 button head socket cap screw, black, coarse thread",
+   "price_cents": 69,
+   "upc": "738287723236",
+   "upc_source": "read_from_label",
+   "location": "Socket 13, slot C",
+   "label_short": "1/4-20 x 3/4"
+  },
+  {
+   "sku": "72324",
+   "slot_letter": "D",
+   "name": "1/4-20 x 1 button head socket cap screw, black, coarse thread",
+   "price_cents": 75,
+   "upc": "738287723243",
+   "upc_source": "read_from_label",
+   "location": "Socket 13, slot D",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "72325",
+   "slot_letter": "E",
+   "name": "5/16-18 x 1/2 button head socket cap screw, black, coarse thread",
+   "price_cents": 69,
+   "upc": "738287723250",
+   "upc_source": "read_from_label",
+   "location": "Socket 13, slot E",
+   "label_short": "5/16-18 x 1/2"
+  },
+  {
+   "sku": "72326",
+   "slot_letter": "F",
+   "name": "5/16-18 x 3/4 button head socket cap screw, black, coarse thread",
+   "price_cents": 75,
+   "upc": "738287723267",
+   "upc_source": "read_from_label",
+   "location": "Socket 13, slot F",
+   "label_short": "5/16-18 x 3/4"
+  },
+  {
+   "sku": "72327",
+   "slot_letter": "G",
+   "name": "5/16-18 x 1 button head socket cap screw, black, coarse thread",
+   "price_cents": 85,
+   "upc": "738287723274",
+   "upc_source": "read_from_label",
+   "location": "Socket 13, slot G",
+   "label_short": "5/16-18 x 1"
+  },
+  {
+   "sku": "72328",
+   "slot_letter": "H",
+   "name": "5/16-18 x 1-1/4 button head socket cap screw, black, coarse thread",
+   "price_cents": 89,
+   "upc": "738287723281",
+   "upc_source": "read_from_label",
+   "location": "Socket 13, slot H",
+   "label_short": "5/16-18 x 1-1/4"
+  },
+  {
+   "sku": "72331",
+   "slot_letter": "J",
+   "name": "3/8-16 x 3/4 button head socket cap screw, black, coarse thread",
+   "price_cents": 95,
+   "upc": "738287723311",
+   "upc_source": "read_from_label",
+   "location": "Socket 13, slot J",
+   "label_short": "3/8-16 x 3/4"
+  },
+  {
+   "sku": "72332",
+   "slot_letter": "K",
+   "name": "3/8-16 x 1 button head socket cap screw, black, coarse thread",
+   "price_cents": 105,
+   "upc": "738287723328",
+   "upc_source": "read_from_label",
+   "location": "Socket 13, slot K",
+   "label_short": "3/8-16 x 1"
+  },
+  {
+   "sku": "72333",
+   "slot_letter": "L",
+   "name": "3/8-16 x 1-1/4 button head socket cap screw, black, coarse thread",
+   "price_cents": 115,
+   "upc": "738287723335",
+   "upc_source": "read_from_label",
+   "location": "Socket 13, slot L",
+   "label_short": "3/8-16 x 1-1/4"
+  },
+  {
+   "sku": "72334",
+   "slot_letter": "M",
+   "name": "1/2-13 x 1 button head socket cap screw, black, coarse thread",
+   "price_cents": 179,
+   "upc": "738287723342",
+   "upc_source": "read_from_label",
+   "location": "Socket 13, slot M",
+   "label_short": "1/2-13 x 1"
+  }
+ ]
+}

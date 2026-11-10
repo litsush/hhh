@@ -1,0 +1,209 @@
+{
+ "note": "Photo-to-column map for batch 2 (columns 11-30). Converted from HEIC in ../../../screw_dump. Per-drawer assignment is in each drawers/*.json via the column workers.",
+ "columns": {
+  "11": {
+   "fronts": "IMG_7428.jpg",
+   "trays": [
+    "IMG_7429.jpg",
+    "IMG_7430.jpg",
+    "IMG_7431.jpg",
+    "IMG_7432.jpg",
+    "IMG_7433.jpg"
+   ]
+  },
+  "12": {
+   "fronts": "IMG_7434.jpg",
+   "trays": [
+    "IMG_7435.jpg",
+    "IMG_7437.jpg",
+    "IMG_7438.jpg",
+    "IMG_7439.jpg",
+    "IMG_7440.jpg"
+   ]
+  },
+  "13": {
+   "fronts": "IMG_7441.jpg",
+   "trays": [
+    "IMG_7442.jpg",
+    "IMG_7443.jpg",
+    "IMG_7444.jpg",
+    "IMG_7445.jpg",
+    "IMG_7446.jpg"
+   ]
+  },
+  "14": {
+   "fronts": "IMG_7447.jpg",
+   "trays": [
+    "IMG_7448.jpg",
+    "IMG_7449.jpg",
+    "IMG_7450.jpg",
+    "IMG_7451.jpg",
+    "IMG_7452.jpg"
+   ]
+  },
+  "15": {
+   "fronts": "IMG_7453.jpg",
+   "trays": [
+    "IMG_7454.jpg",
+    "IMG_7455.jpg",
+    "IMG_7456.jpg",
+    "IMG_7457.jpg",
+    "IMG_7458.jpg"
+   ]
+  },
+  "16": {
+   "fronts": "IMG_7459.jpg",
+   "trays": [
+    "IMG_7460.jpg",
+    "IMG_7461.jpg",
+    "IMG_7462.jpg",
+    "IMG_7463.jpg",
+    "IMG_7464.jpg"
+   ]
+  },
+  "17": {
+   "fronts": "IMG_7465.jpg",
+   "trays": [
+    "IMG_7466.jpg",
+    "IMG_7467.jpg",
+    "IMG_7468.jpg",
+    "IMG_7470.jpg",
+    "IMG_7471.jpg"
+   ]
+  },
+  "18": {
+   "fronts": "IMG_7472.jpg",
+   "trays": [
+    "IMG_7473.jpg",
+    "IMG_7474.jpg",
+    "IMG_7475.jpg",
+    "IMG_7476.jpg",
+    "IMG_7477.jpg"
+   ]
+  },
+  "19": {
+   "fronts": "IMG_7478.jpg",
+   "trays": [
+    "IMG_7479.jpg",
+    "IMG_7480.jpg",
+    "IMG_7481.jpg",
+    "IMG_7482.jpg",
+    "IMG_7483.jpg"
+   ]
+  },
+  "20": {
+   "fronts": "IMG_7484.jpg",
+   "trays": [
+    "IMG_7485.jpg",
+    "IMG_7487.jpg",
+    "IMG_7488.jpg",
+    "IMG_7489.jpg",
+    "IMG_7490.jpg"
+   ]
+  },
+  "21": {
+   "fronts": "IMG_7491.jpg",
+   "trays": [
+    "IMG_7492.jpg",
+    "IMG_7493.jpg",
+    "IMG_7494.jpg",
+    "IMG_7495.jpg",
+    "IMG_7496.jpg"
+   ]
+  },
+  "22": {
+   "fronts": "IMG_7497.jpg",
+   "trays": [
+    "IMG_7498.jpg",
+    "IMG_7499.jpg",
+    "IMG_7500.jpg",
+    "IMG_7501.jpg",
+    "IMG_7502.jpg"
+   ]
+  },
+  "23": {
+   "fronts": "IMG_7503.jpg",
+   "trays": [
+    "IMG_7504.jpg",
+    "IMG_7505.jpg",
+    "IMG_7506.jpg",
+    "IMG_7507.jpg",
+    "IMG_7508.jpg"
+   ]
+  },
+  "24": {
+   "fronts": "IMG_7509.jpg",
+   "trays": [
+    "IMG_7510.jpg",
+    "IMG_7511.jpg",
+    "IMG_7512.jpg",
+    "IMG_7513.jpg",
+    "IMG_7514.jpg",
+    "IMG_7515.jpg",
+    "IMG_7516.jpg"
+   ]
+  },
+  "25": {
+   "fronts": "IMG_7522.jpg",
+   "trays": [
+    "IMG_7517.jpg",
+    "IMG_7518.jpg",
+    "IMG_7519.jpg",
+    "IMG_7520.jpg",
+    "IMG_7521.jpg"
+   ]
+  },
+  "26": {
+   "fronts": "IMG_7523.jpg",
+   "trays": [
+    "IMG_7525.jpg",
+    "IMG_7526.jpg",
+    "IMG_7527.jpg",
+    "IMG_7528.jpg",
+    "IMG_7529.jpg"
+   ]
+  },
+  "27": {
+   "fronts": "IMG_7530.jpg",
+   "trays": [
+    "IMG_7531.jpg",
+    "IMG_7532.jpg",
+    "IMG_7533.jpg",
+    "IMG_7534.jpg",
+    "IMG_7535.jpg",
+    "IMG_7536.jpg",
+    "IMG_7537.jpg"
+   ]
+  },
+  "28": {
+   "fronts": "IMG_7538.jpg",
+   "trays": [
+    "IMG_7539.jpg",
+    "IMG_7540.jpg",
+    "IMG_7542.jpg",
+    "IMG_7543.jpg",
+    "IMG_7544.jpg"
+   ]
+  },
+  "29": {
+   "fronts": "IMG_7545.jpg",
+   "trays": [
+    "IMG_7546.jpg",
+    "IMG_7547.jpg",
+    "IMG_7548.jpg",
+    "IMG_7549.jpg",
+    "IMG_7550.jpg"
+   ]
+  },
+  "30": {
+   "fronts": "IMG_7551.jpg",
+   "trays": [
+    "IMG_7552.jpg",
+    "IMG_7553.jpg",
+    "IMG_7554.jpg",
+    "IMG_7555.jpg",
+    "IMG_7556.jpg"
+   ]
+  }
+ }
+}

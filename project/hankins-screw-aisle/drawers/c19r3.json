@@ -1,0 +1,327 @@
+{
+ "id": "c19r3",
+ "column": 19,
+ "row": 3,
+ "half": null,
+ "title": "Household 39 and Household 40",
+ "description": "Corner joints, keyhole fittings, flush mounts, anchors and rosette buds (70240), and joint connector cross dowels, 1/2 to 1-1/4 long (68660)",
+ "front_image": "images/fronts/c19r3.jpg",
+ "tray_image": "images/trays/c19r3.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1708,
+   "y1": 0.2275
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1708,
+   "y0": 0.0,
+   "x1": 0.3267,
+   "y1": 0.2275
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3267,
+   "y0": 0.0,
+   "x1": 0.4792,
+   "y1": 0.2275
+  },
+  {
+   "item_index": 3,
+   "x0": 0.4792,
+   "y0": 0.0,
+   "x1": 0.6333,
+   "y1": 0.2275
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6333,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2275
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0,
+   "y0": 0.2275,
+   "x1": 0.1333,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 6,
+   "x0": 0.1333,
+   "y0": 0.2275,
+   "x1": 0.2567,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 7,
+   "x0": 0.2567,
+   "y0": 0.2275,
+   "x1": 0.4625,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 8,
+   "x0": 0.4625,
+   "y0": 0.2275,
+   "x1": 0.5792,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 9,
+   "x0": 0.5792,
+   "y0": 0.2275,
+   "x1": 0.7417,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 10,
+   "x0": 0.7417,
+   "y0": 0.2275,
+   "x1": 0.8708,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 11,
+   "x0": 0.8708,
+   "y0": 0.2275,
+   "x1": 1.0,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.4625,
+   "x1": 0.3458,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 13,
+   "x0": 0.3458,
+   "y0": 0.4625,
+   "x1": 0.6733,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 14,
+   "x0": 0.6733,
+   "y0": 0.4625,
+   "x1": 1.0,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 15,
+   "x0": 0.0,
+   "y0": 0.7188,
+   "x1": 0.3542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 16,
+   "x0": 0.3542,
+   "y0": 0.7188,
+   "x1": 0.6958,
+   "y1": 1.0
+  },
+  {
+   "item_index": 17,
+   "x0": 0.6958,
+   "y0": 0.7188,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "70241",
+   "slot_letter": "A",
+   "name": "Corner joint (label marked not available)",
+   "price_cents": 779,
+   "upc": "738287702415",
+   "upc_source": "read_from_label",
+   "location": "Household 39, slot A",
+   "label_short": "Not available",
+   "note": "Label cell reads \"NOT AVAILABLE - PUT IN EMPTY BOX\"; the compartment still holds metal corner joints"
+  },
+  {
+   "sku": "70242",
+   "slot_letter": "B",
+   "name": "Corner joint (label marked not available)",
+   "price_cents": 779,
+   "upc": "738287702422",
+   "upc_source": "read_from_label",
+   "location": "Household 39, slot B",
+   "label_short": "Not available",
+   "note": "Label cell reads \"NOT AVAILABLE - PUT IN EMPTY BOX\"; the compartment still holds metal corner joints"
+  },
+  {
+   "sku": "70243",
+   "slot_letter": "C",
+   "name": "Plastic Snap-It corner joints",
+   "price_cents": 979,
+   "upc": "738287702439",
+   "upc_source": "read_from_label",
+   "location": "Household 39, slot C",
+   "label_short": "Snap-It corner"
+  },
+  {
+   "sku": "70244",
+   "slot_letter": "D",
+   "name": "Nylon locking corner joints",
+   "price_cents": 979,
+   "upc": "738287702446",
+   "upc_source": "read_from_label",
+   "location": "Household 39, slot D",
+   "label_short": "Locking corner"
+  },
+  {
+   "sku": "70252",
+   "slot_letter": "K",
+   "name": "#8 x 1-1/2 plastic anchor with screw",
+   "price_cents": 319,
+   "upc": "738287702521",
+   "upc_source": "read_from_label",
+   "location": "Household 39, slot K",
+   "label_short": "8 x 1-1/2 anchor",
+   "note": "Compartment appears to hold long screws with metal channel (toggle-style) anchors rather than plastic anchors"
+  },
+  {
+   "sku": "70245",
+   "slot_letter": "E",
+   "name": "Light keyhole fitting, one hole",
+   "price_cents": 209,
+   "upc": "738287702453",
+   "upc_source": "read_from_label",
+   "location": "Household 39, slot E",
+   "label_short": "Light keyhole"
+  },
+  {
+   "sku": "70246",
+   "slot_letter": "F",
+   "name": "Extra heavy keyhole fitting, one hole",
+   "price_cents": 195,
+   "upc": "738287702460",
+   "upc_source": "read_from_label",
+   "location": "Household 39, slot F",
+   "label_short": "X-heavy keyhole"
+  },
+  {
+   "sku": "70247",
+   "slot_letter": "G",
+   "name": "Keyhole fitting, two hole",
+   "price_cents": 249,
+   "upc": "738287702477",
+   "upc_source": "read_from_label",
+   "location": "Household 39, slot G",
+   "label_short": "Keyhole 2-hole"
+  },
+  {
+   "sku": "70248",
+   "slot_letter": "H",
+   "name": "Short flush mount (pairs)",
+   "price_cents": 399,
+   "upc": "738287702484",
+   "upc_source": "read_from_label",
+   "location": "Household 39, slot H",
+   "label_short": "Short flush mount"
+  },
+  {
+   "sku": "70251",
+   "slot_letter": "J",
+   "name": "Interlocking flush mount (pairs)",
+   "price_cents": 419,
+   "upc": "738287702514",
+   "upc_source": "read_from_label",
+   "location": "Household 39, slot J",
+   "label_short": "Interlock flush mt"
+  },
+  {
+   "sku": "70253",
+   "slot_letter": "L",
+   "name": "1/2\" rosette bud with stud, clear plastic",
+   "price_cents": 239,
+   "upc": "738287702538",
+   "upc_source": "read_from_label",
+   "location": "Household 39, slot L",
+   "label_short": "1/2 rosette clear"
+  },
+  {
+   "sku": "70254",
+   "slot_letter": "M",
+   "name": "3/4\" rosette bud with stud, chrometint",
+   "price_cents": 489,
+   "upc": "738287702545",
+   "upc_source": "read_from_label",
+   "location": "Household 39, slot M",
+   "label_short": "3/4 rosette chrome"
+  },
+  {
+   "sku": "68661",
+   "slot_letter": "A",
+   "name": "3/4\" long joint connector cross dowel, 1/2\" diameter, 5/16-18 hole",
+   "price_cents": 175,
+   "upc": "738287686616",
+   "upc_source": "read_from_label",
+   "location": "Household 40, slot A",
+   "label_short": "3/4 L 1/2 dia"
+  },
+  {
+   "sku": "68662",
+   "slot_letter": "B",
+   "name": "5/8\" long joint connector cross dowel, 3/8\" diameter, 1/4-20 hole",
+   "price_cents": 135,
+   "upc": "738287686623",
+   "upc_source": "read_from_label",
+   "location": "Household 40, slot B",
+   "label_short": "5/8 L 3/8 dia"
+  },
+  {
+   "sku": "68663",
+   "slot_letter": "C",
+   "name": "3/4\" long joint connector cross dowel, 3/8\" diameter, 1/4-20 hole",
+   "price_cents": 139,
+   "upc": "738287686630",
+   "upc_source": "read_from_label",
+   "location": "Household 40, slot C",
+   "label_short": "3/4 L 3/8 dia"
+  },
+  {
+   "sku": "68664",
+   "slot_letter": "D",
+   "name": "1/2\" long joint connector cross dowel, 3/8\" diameter, 1/4-20 hole",
+   "price_cents": 115,
+   "upc": "738287686647",
+   "upc_source": "read_from_label",
+   "location": "Household 40, slot D",
+   "label_short": "1/2 L 3/8 dia"
+  },
+  {
+   "sku": "68665",
+   "slot_letter": "E",
+   "name": "20mm long joint connector cross dowel, 10mm diameter, M6-1.00 hole",
+   "price_cents": 135,
+   "upc": "738287686654",
+   "upc_source": "read_from_label",
+   "location": "Household 40, slot E",
+   "label_short": "20mm M6"
+  },
+  {
+   "sku": "68666",
+   "slot_letter": "F",
+   "name": "1-1/4\" long joint connector cross dowel, 3/8\" diameter, 1/4-20 hole",
+   "price_cents": 175,
+   "upc": "738287686661",
+   "upc_source": "read_from_label",
+   "location": "Household 40, slot F",
+   "label_short": "1-1/4 L 3/8 dia"
+  }
+ ]
+}

@@ -1,0 +1,241 @@
+{
+ "id": "c18r4",
+ "column": 18,
+ "row": 4,
+ "half": null,
+ "title": "Household 19 and Household 20",
+ "description": "Door knob spindles and set screws in assorted types (66160), and satin brass door hinge pins for 3, 3-1/2 and 4 inch National and Stanley hinges (69900)",
+ "front_image": "images/fronts/c18r4.jpg",
+ "tray_image": "images/trays/c18r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0083,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.1187
+  },
+  {
+   "item_index": 1,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.6042,
+   "y1": 0.1187
+  },
+  {
+   "item_index": 2,
+   "x0": 0.0,
+   "y0": 0.1187,
+   "x1": 0.6042,
+   "y1": 0.225
+  },
+  {
+   "item_index": 3,
+   "x0": 0.0,
+   "y0": 0.225,
+   "x1": 0.6042,
+   "y1": 0.3375
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.3375,
+   "x1": 0.6042,
+   "y1": 0.4562
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6042,
+   "y0": 0.0,
+   "x1": 0.9708,
+   "y1": 0.225
+  },
+  {
+   "item_index": 6,
+   "x0": 0.6042,
+   "y0": 0.225,
+   "x1": 0.9792,
+   "y1": 0.4562
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.4562,
+   "x1": 0.4083,
+   "y1": 0.6312
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.6312,
+   "x1": 0.4083,
+   "y1": 0.8187
+  },
+  {
+   "item_index": 9,
+   "x0": 0.0,
+   "y0": 0.8187,
+   "x1": 0.4083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.4083,
+   "y0": 0.4562,
+   "x1": 0.5958,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.5958,
+   "y0": 0.4562,
+   "x1": 0.7708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.7708,
+   "y0": 0.4562,
+   "x1": 0.975,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "66161",
+   "slot_letter": "A",
+   "name": "1/4-20 set screw for door knobs",
+   "price_cents": 69,
+   "upc": "738287661613",
+   "upc_source": "read_from_label",
+   "location": "Household 19, slot A",
+   "label_short": "1/4-20 set screw",
+   "note": "Compartment looks empty in the photo."
+  },
+  {
+   "sku": "66162",
+   "slot_letter": "B",
+   "name": "2-5/8 two-piece door knob spindle",
+   "price_cents": 919,
+   "upc": "738287661620",
+   "upc_source": "read_from_label",
+   "location": "Household 19, slot B",
+   "label_short": "2-5/8 two piece"
+  },
+  {
+   "sku": "66163",
+   "slot_letter": "C",
+   "name": "4-3/4 universal door knob spindle, threaded with holes at both ends",
+   "price_cents": 1159,
+   "upc": "738287661637",
+   "upc_source": "read_from_label",
+   "location": "Household 19, slot C",
+   "label_short": "4-3/4 universal",
+   "note": "Compartment looks empty in the photo."
+  },
+  {
+   "sku": "66164",
+   "slot_letter": "D",
+   "name": "4-3/4 National door knob spindle, threaded",
+   "price_cents": 1159,
+   "upc": "738287661644",
+   "upc_source": "read_from_label",
+   "location": "Household 19, slot D",
+   "label_short": "4-3/4 National"
+  },
+  {
+   "sku": "66165",
+   "slot_letter": "E",
+   "name": "4-3/4 Norwalk swivel door knob spindle, threaded sides",
+   "price_cents": 1599,
+   "upc": "738287661651",
+   "upc_source": "read_from_label",
+   "location": "Household 19, slot E",
+   "label_short": "4-3/4 Norwalk swivel"
+  },
+  {
+   "sku": "66166",
+   "slot_letter": "F",
+   "name": "4\" straight threaded door knob spindle with holes",
+   "price_cents": 1099,
+   "upc": "738287661668",
+   "upc_source": "read_from_label",
+   "location": "Household 19, slot F",
+   "label_short": "4\" threaded w/ holes"
+  },
+  {
+   "sku": "66167",
+   "slot_letter": "G",
+   "name": "4\" straight threaded door knob spindle",
+   "price_cents": 679,
+   "upc": "738287661675",
+   "upc_source": "read_from_label",
+   "location": "Household 19, slot G",
+   "label_short": "4\" threaded"
+  },
+  {
+   "sku": "69901",
+   "slot_letter": "A",
+   "name": "Door hinge pin, satin brass, fits 3\" National hinge",
+   "price_cents": 259,
+   "upc": "738287699012",
+   "upc_source": "read_from_label",
+   "location": "Household 20, slot A",
+   "label_short": "3\" National"
+  },
+  {
+   "sku": "69902",
+   "slot_letter": "B",
+   "name": "Door hinge pin, satin brass, fits 3\" Stanley hinge",
+   "price_cents": 259,
+   "upc": "738287699029",
+   "upc_source": "read_from_label",
+   "location": "Household 20, slot B",
+   "label_short": "3\" Stanley"
+  },
+  {
+   "sku": "69903",
+   "slot_letter": "C",
+   "name": "Door hinge pin, satin brass, fits 3-1/2\" National hinge",
+   "price_cents": 259,
+   "upc": "738287699036",
+   "upc_source": "read_from_label",
+   "location": "Household 20, slot C",
+   "label_short": "3-1/2\" National"
+  },
+  {
+   "sku": "69904",
+   "slot_letter": "D",
+   "name": "Door hinge pin, satin brass, fits 3-1/2\" Stanley hinge",
+   "price_cents": 269,
+   "upc": "738287699043",
+   "upc_source": "read_from_label",
+   "location": "Household 20, slot D",
+   "label_short": "3-1/2\" Stanley"
+  },
+  {
+   "sku": "69905",
+   "slot_letter": "E",
+   "name": "Door hinge pin, satin brass, fits 4\" National hinge",
+   "price_cents": 279,
+   "upc": "738287699050",
+   "upc_source": "read_from_label",
+   "location": "Household 20, slot E",
+   "label_short": "4\" National"
+  },
+  {
+   "sku": "69906",
+   "slot_letter": "F",
+   "name": "Door hinge pin, satin brass, fits 4\" Stanley hinge",
+   "price_cents": 279,
+   "upc": "738287699067",
+   "upc_source": "read_from_label",
+   "location": "Household 20, slot F",
+   "label_short": "4\" Stanley"
+  }
+ ]
+}

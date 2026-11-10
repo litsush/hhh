@@ -1,0 +1,122 @@
+{
+ "id": "c03r5",
+ "column": 3,
+ "row": 5,
+ "half": null,
+ "title": "Machine 60",
+ "description": "Longer phillips flat head machine screws, 10-24 and 1/4-20 (77400)",
+ "front_image": "images/fronts/d15.jpg",
+ "tray_image": "images/trays/tray15.jpg",
+ "tray_image_px": [
+  1200,
+  560
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1958,
+   "y1": 1.0
+  },
+  {
+   "item_index": 3,
+   "x0": 0.1958,
+   "y0": 0.0,
+   "x1": 0.3792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 1,
+   "x0": 0.3792,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2321
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3792,
+   "y0": 0.2321,
+   "x1": 1.0,
+   "y1": 0.4732
+  },
+  {
+   "item_index": 4,
+   "x0": 0.3792,
+   "y0": 0.4732,
+   "x1": 1.0,
+   "y1": 0.7143
+  },
+  {
+   "item_index": 5,
+   "x0": 0.3792,
+   "y0": 0.7143,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "77401",
+   "slot_letter": "A",
+   "name": "10-24 x 4 zinc phillips flat head",
+   "price_cents": 59,
+   "upc": "738287774016",
+   "upc_source": "read_from_label",
+   "location": "Machine 60, slot A",
+   "label_short": "10 x 4",
+   "note": "Covered by a card marked EMPTY in this drawer."
+  },
+  {
+   "sku": "77402",
+   "slot_letter": "B",
+   "name": "10-24 x 5 zinc phillips flat head",
+   "price_cents": 79,
+   "upc": "738287774023",
+   "upc_source": "read_from_label",
+   "location": "Machine 60, slot B",
+   "label_short": "10 x 5"
+  },
+  {
+   "sku": "77403",
+   "slot_letter": "C",
+   "name": "10-24 x 6 zinc phillips flat head",
+   "price_cents": 119,
+   "upc": "738287774030",
+   "upc_source": "read_from_label",
+   "location": "Machine 60, slot C",
+   "label_short": "10 x 6"
+  },
+  {
+   "sku": "77404",
+   "slot_letter": "D",
+   "name": "1/4-20 x 4 zinc phillips flat head",
+   "price_cents": 75,
+   "upc": "738287774047",
+   "upc_source": "read_from_label",
+   "location": "Machine 60, slot D",
+   "label_short": "1/4 x 4",
+   "note": "Covered by a card marked EMPTY in this drawer."
+  },
+  {
+   "sku": "77405",
+   "slot_letter": "E",
+   "name": "1/4-20 x 5 zinc phillips flat head",
+   "price_cents": 105,
+   "upc": "738287774054",
+   "upc_source": "read_from_label",
+   "location": "Machine 60, slot E",
+   "label_short": "1/4 x 5"
+  },
+  {
+   "sku": "77406",
+   "slot_letter": "F",
+   "name": "1/4-20 x 6 zinc phillips flat head",
+   "price_cents": 129,
+   "upc": "738287774061",
+   "upc_source": "read_from_label",
+   "location": "Machine 60, slot F",
+   "label_short": "1/4 x 6"
+  }
+ ]
+}

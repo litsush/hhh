@@ -1,0 +1,291 @@
+{
+ "id": "c20r1",
+ "column": 20,
+ "row": 1,
+ "half": null,
+ "title": "Household 43.8 and Household 44",
+ "description": "Metric 6mm joint connector bolts, caps and insert nuts, 40-100mm (31620), plus solid brass wood inserts, 4-40 to 3/8-16 (66360).",
+ "front_image": "images/fronts/c20r1.jpg",
+ "tray_image": "images/trays/c20r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2583,
+   "y1": 0.125
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2583,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.125
+  },
+  {
+   "item_index": 2,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.7417,
+   "y1": 0.125
+  },
+  {
+   "item_index": 3,
+   "x0": 0.7417,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.125
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.125,
+   "x1": 0.2583,
+   "y1": 0.3
+  },
+  {
+   "item_index": 5,
+   "x0": 0.2583,
+   "y0": 0.125,
+   "x1": 0.625,
+   "y1": 0.3
+  },
+  {
+   "item_index": 6,
+   "x0": 0.625,
+   "y0": 0.125,
+   "x1": 1.0,
+   "y1": 0.3
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.3,
+   "x1": 0.4958,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 8,
+   "x0": 0.4958,
+   "y0": 0.3,
+   "x1": 1.0,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 9,
+   "x0": 0.0,
+   "y0": 0.4813,
+   "x1": 0.2583,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2583,
+   "y0": 0.4813,
+   "x1": 0.5,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 11,
+   "x0": 0.5,
+   "y0": 0.4813,
+   "x1": 0.7458,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 12,
+   "x0": 0.7458,
+   "y0": 0.4813,
+   "x1": 1.0,
+   "y1": 0.7312
+  },
+  {
+   "item_index": 13,
+   "x0": 0.0,
+   "y0": 0.7312,
+   "x1": 0.3375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.3375,
+   "y0": 0.7312,
+   "x1": 0.6708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.6708,
+   "y0": 0.7312,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "31621",
+   "slot_letter": "A",
+   "name": "6mm joint connector cap, 1.00 pitch, yellow zinc",
+   "price_cents": 209,
+   "upc": "738287316216",
+   "upc_source": "read_from_label",
+   "location": "Household 43.8, slot A",
+   "label_short": "6mm cap"
+  },
+  {
+   "sku": "31622",
+   "slot_letter": "B",
+   "name": "6mm insert nut, 1.00 pitch",
+   "price_cents": 85,
+   "upc": "738287316223",
+   "upc_source": "read_from_label",
+   "location": "Household 43.8, slot B",
+   "label_short": "6mm insert nut"
+  },
+  {
+   "sku": "31623",
+   "slot_letter": "C",
+   "name": "6mm x 40mm joint connector bolt, 1.00 pitch, yellow zinc",
+   "price_cents": 189,
+   "upc": "738287316230",
+   "upc_source": "read_from_label",
+   "location": "Household 43.8, slot C",
+   "label_short": "6mm x 40mm"
+  },
+  {
+   "sku": "31624",
+   "slot_letter": "D",
+   "name": "6mm x 50mm joint connector bolt, 1.00 pitch, yellow zinc",
+   "price_cents": 209,
+   "upc": "738287316247",
+   "upc_source": "read_from_label",
+   "location": "Household 43.8, slot D",
+   "label_short": "6mm x 50mm",
+   "note": "Compartment looked empty in the tray photo."
+  },
+  {
+   "sku": "31625",
+   "slot_letter": "E",
+   "name": "6mm x 60mm joint connector bolt, 1.00 pitch, yellow zinc",
+   "price_cents": 219,
+   "upc": "738287316254",
+   "upc_source": "read_from_label",
+   "location": "Household 43.8, slot E",
+   "label_short": "6mm x 60mm"
+  },
+  {
+   "sku": "31626",
+   "slot_letter": "F",
+   "name": "6mm x 70mm joint connector bolt, 1.00 pitch, yellow zinc",
+   "price_cents": 219,
+   "upc": "738287316261",
+   "upc_source": "read_from_label",
+   "location": "Household 43.8, slot F",
+   "label_short": "6mm x 70mm"
+  },
+  {
+   "sku": "31627",
+   "slot_letter": "G",
+   "name": "6mm x 80mm joint connector bolt, 1.00 pitch, yellow zinc",
+   "price_cents": 239,
+   "upc": "738287316278",
+   "upc_source": "read_from_label",
+   "location": "Household 43.8, slot G",
+   "label_short": "6mm x 80mm"
+  },
+  {
+   "sku": "31628",
+   "slot_letter": "H",
+   "name": "6mm x 95mm joint connector bolt, 1.00 pitch, yellow zinc",
+   "price_cents": 269,
+   "upc": "738287316285",
+   "upc_source": "read_from_label",
+   "location": "Household 43.8, slot H",
+   "label_short": "6mm x 95mm"
+  },
+  {
+   "sku": "31631",
+   "slot_letter": "J",
+   "name": "6mm x 100mm joint connector bolt, 1.00 pitch, yellow zinc",
+   "price_cents": 279,
+   "upc": "738287316315",
+   "upc_source": "read_from_label",
+   "location": "Household 43.8, slot J",
+   "label_short": "6mm x 100mm"
+  },
+  {
+   "sku": "66361",
+   "slot_letter": "A",
+   "name": "4-40 solid brass threaded wood insert, use 3/16 drill",
+   "price_cents": 89,
+   "upc": "738287663617",
+   "upc_source": "read_from_label",
+   "location": "Household 44, slot A",
+   "label_short": "4-40"
+  },
+  {
+   "sku": "66362",
+   "slot_letter": "B",
+   "name": "6-32 solid brass threaded wood insert, use 1/4 drill",
+   "price_cents": 99,
+   "upc": "738287663624",
+   "upc_source": "read_from_label",
+   "location": "Household 44, slot B",
+   "label_short": "6-32"
+  },
+  {
+   "sku": "66363",
+   "slot_letter": "C",
+   "name": "8-32 solid brass threaded wood insert, use 1/4 drill",
+   "price_cents": 109,
+   "upc": "738287663631",
+   "upc_source": "read_from_label",
+   "location": "Household 44, slot C",
+   "label_short": "8-32"
+  },
+  {
+   "sku": "66364",
+   "slot_letter": "D",
+   "name": "10-32 solid brass threaded wood insert, use 3/8 drill",
+   "price_cents": 129,
+   "upc": "738287663648",
+   "upc_source": "read_from_label",
+   "location": "Household 44, slot D",
+   "label_short": "10-32"
+  },
+  {
+   "sku": "66365",
+   "slot_letter": "E",
+   "name": "1/4-20 solid brass threaded wood insert, use 3/8 drill",
+   "price_cents": 145,
+   "upc": "738287663655",
+   "upc_source": "read_from_label",
+   "location": "Household 44, slot E",
+   "label_short": "1/4-20"
+  },
+  {
+   "sku": "66366",
+   "slot_letter": "F",
+   "name": "5/16-18 solid brass threaded wood insert, use 1/2 drill",
+   "price_cents": 209,
+   "upc": "738287663662",
+   "upc_source": "read_from_label",
+   "location": "Household 44, slot F",
+   "label_short": "5/16-18"
+  },
+  {
+   "sku": "66367",
+   "slot_letter": "G",
+   "name": "3/8-16 solid brass threaded wood insert, use 1/2 drill",
+   "price_cents": 269,
+   "upc": "738287663679",
+   "upc_source": "read_from_label",
+   "location": "Household 44, slot G",
+   "label_short": "3/8-16"
+  }
+ ]
+}

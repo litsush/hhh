@@ -1,0 +1,256 @@
+{
+ "id": "c02r2",
+ "column": 2,
+ "row": 2,
+ "half": null,
+ "title": "Machines 12 and 18",
+ "description": "5/16-18 slotted stove bolts: round head (60340), flat head (60320)",
+ "front_image": "images/fronts/d7.jpg",
+ "tray_image": "images/trays/tray7.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.5042,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 2,
+   "x0": 0.5042,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 3,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.2562,
+   "x1": 0.3375,
+   "y1": 0.5125
+  },
+  {
+   "item_index": 5,
+   "x0": 0.3375,
+   "y0": 0.2562,
+   "x1": 0.6667,
+   "y1": 0.5125
+  },
+  {
+   "item_index": 6,
+   "x0": 0.6667,
+   "y0": 0.2562,
+   "x1": 1.0,
+   "y1": 0.5125
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.5125,
+   "x1": 0.2542,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 8,
+   "x0": 0.2542,
+   "y0": 0.5125,
+   "x1": 0.5025,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 9,
+   "x0": 0.5025,
+   "y0": 0.5125,
+   "x1": 0.7458,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 10,
+   "x0": 0.7458,
+   "y0": 0.5125,
+   "x1": 1.0,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 11,
+   "x0": 0.0,
+   "y0": 0.7562,
+   "x1": 0.3308,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.3308,
+   "y0": 0.7562,
+   "x1": 0.6642,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6642,
+   "y0": 0.7562,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "60341",
+   "slot_letter": "A",
+   "name": "5/16-18 x 3/4 round head stove bolt",
+   "price_cents": 75,
+   "upc": "738287603415",
+   "upc_source": "read_from_label",
+   "location": "Machine 12, slot A",
+   "label_short": "3/4"
+  },
+  {
+   "sku": "60342",
+   "slot_letter": "B",
+   "name": "5/16-18 x 1 round head stove bolt",
+   "price_cents": 89,
+   "upc": "738287603422",
+   "upc_source": "read_from_label",
+   "location": "Machine 12, slot B",
+   "label_short": "1"
+  },
+  {
+   "sku": "60343",
+   "slot_letter": "C",
+   "name": "5/16-18 x 1-1/4 round head stove bolt",
+   "price_cents": 95,
+   "upc": "738287603439",
+   "upc_source": "read_from_label",
+   "location": "Machine 12, slot C",
+   "label_short": "1-1/4"
+  },
+  {
+   "sku": "60344",
+   "slot_letter": "D",
+   "name": "5/16-18 x 1-1/2 round head stove bolt",
+   "price_cents": 95,
+   "upc": "738287603446",
+   "upc_source": "read_from_label",
+   "location": "Machine 12, slot D",
+   "label_short": "1-1/2"
+  },
+  {
+   "sku": "60345",
+   "slot_letter": "E",
+   "name": "5/16-18 x 2 round head stove bolt",
+   "price_cents": 109,
+   "upc": "738287603453",
+   "upc_source": "read_from_label",
+   "location": "Machine 12, slot E",
+   "label_short": "2"
+  },
+  {
+   "sku": "60346",
+   "slot_letter": "F",
+   "name": "5/16-18 x 2-1/2 round head stove bolt",
+   "price_cents": 109,
+   "upc": "738287603460",
+   "upc_source": "read_from_label",
+   "location": "Machine 12, slot F",
+   "label_short": "2-1/2"
+  },
+  {
+   "sku": "60347",
+   "slot_letter": "G",
+   "name": "5/16-18 x 3 round head stove bolt",
+   "price_cents": 119,
+   "upc": "738287603477",
+   "upc_source": "read_from_label",
+   "location": "Machine 12, slot G",
+   "label_short": "3"
+  },
+  {
+   "sku": "60321",
+   "slot_letter": "A",
+   "name": "5/16-18 x 3/4 flat head stove bolt",
+   "price_cents": 75,
+   "upc": "738287603217",
+   "upc_source": "read_from_label",
+   "location": "Machine 18, slot A",
+   "label_short": "3/4"
+  },
+  {
+   "sku": "60322",
+   "slot_letter": "B",
+   "name": "5/16-18 x 1 flat head stove bolt",
+   "price_cents": 89,
+   "upc": "738287603224",
+   "upc_source": "read_from_label",
+   "location": "Machine 18, slot B",
+   "label_short": "1"
+  },
+  {
+   "sku": "60323",
+   "slot_letter": "C",
+   "name": "5/16-18 x 1-1/4 flat head stove bolt",
+   "price_cents": 89,
+   "upc": "738287603231",
+   "upc_source": "read_from_label",
+   "location": "Machine 18, slot C",
+   "label_short": "1-1/4"
+  },
+  {
+   "sku": "60324",
+   "slot_letter": "D",
+   "name": "5/16-18 x 1-1/2 flat head stove bolt",
+   "price_cents": 95,
+   "upc": "738287603248",
+   "upc_source": "read_from_label",
+   "location": "Machine 18, slot D",
+   "label_short": "1-1/2"
+  },
+  {
+   "sku": "60325",
+   "slot_letter": "E",
+   "name": "5/16-18 x 2 flat head stove bolt",
+   "price_cents": 109,
+   "upc": "738287603255",
+   "upc_source": "read_from_label",
+   "location": "Machine 18, slot E",
+   "label_short": "2"
+  },
+  {
+   "sku": "60326",
+   "slot_letter": "F",
+   "name": "5/16-18 x 2-1/2 flat head stove bolt",
+   "price_cents": 109,
+   "upc": "738287603262",
+   "upc_source": "read_from_label",
+   "location": "Machine 18, slot F",
+   "label_short": "2-1/2"
+  },
+  {
+   "sku": "60327",
+   "slot_letter": "G",
+   "name": "5/16-18 x 3 flat head stove bolt",
+   "price_cents": 119,
+   "upc": "738287603279",
+   "upc_source": "read_from_label",
+   "location": "Machine 18, slot G",
+   "label_short": "3"
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "id": "c06r2",
+ "column": 6,
+ "row": 2,
+ "half": null,
+ "title": "Nuts 6",
+ "description": "Type C metal lock nuts, coarse and fine, 1/4-20 to 3/4-16 (64520)",
+ "front_image": "images/fronts/d27.jpg",
+ "tray_image": "images/trays/tray27.jpg",
+ "tray_image_px": [
+  1200,
+  540
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.125,
+   "y1": 0.4852
+  },
+  {
+   "item_index": 1,
+   "x0": 0.125,
+   "y0": 0.0,
+   "x1": 0.2517,
+   "y1": 0.4852
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2517,
+   "y0": 0.0,
+   "x1": 0.3792,
+   "y1": 0.4852
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3792,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.4852
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.625,
+   "y1": 0.4852
+  },
+  {
+   "item_index": 5,
+   "x0": 0.625,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.4852
+  },
+  {
+   "item_index": 6,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 0.875,
+   "y1": 0.4852
+  },
+  {
+   "item_index": 7,
+   "x0": 0.875,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4852
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.4852,
+   "x1": 0.1167,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1167,
+   "y0": 0.4852,
+   "x1": 0.25,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.25,
+   "y0": 0.4852,
+   "x1": 0.3767,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3767,
+   "y0": 0.4852,
+   "x1": 0.5025,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5025,
+   "y0": 0.4852,
+   "x1": 0.6267,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6267,
+   "y0": 0.4852,
+   "x1": 0.7542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7542,
+   "y0": 0.4852,
+   "x1": 0.8792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8792,
+   "y0": 0.4852,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "64521",
+   "slot_letter": "A",
+   "name": "1/4-20 type C lock nut, coarse",
+   "price_cents": 55,
+   "upc": "738287645217",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot A",
+   "label_short": "1/4-20"
+  },
+  {
+   "sku": "64522",
+   "slot_letter": "B",
+   "name": "5/16-18 type C lock nut, coarse",
+   "price_cents": 67,
+   "upc": "738287645224",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot B",
+   "label_short": "5/16-18"
+  },
+  {
+   "sku": "64523",
+   "slot_letter": "C",
+   "name": "3/8-16 type C lock nut, coarse",
+   "price_cents": 79,
+   "upc": "738287645231",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot C",
+   "label_short": "3/8-16"
+  },
+  {
+   "sku": "64524",
+   "slot_letter": "D",
+   "name": "7/16-14 type C lock nut, coarse",
+   "price_cents": 105,
+   "upc": "738287645248",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot D",
+   "label_short": "7/16-14"
+  },
+  {
+   "sku": "64528",
+   "slot_letter": "H",
+   "name": "1/4-28 type C lock nut, fine",
+   "price_cents": 59,
+   "upc": "738287645286",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot H",
+   "label_short": "1/4-28"
+  },
+  {
+   "sku": "64531",
+   "slot_letter": "J",
+   "name": "5/16-24 type C lock nut, fine",
+   "price_cents": 69,
+   "upc": "738287645316",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot J",
+   "label_short": "5/16-24"
+  },
+  {
+   "sku": "64532",
+   "slot_letter": "K",
+   "name": "3/8-24 type C lock nut, fine",
+   "price_cents": 85,
+   "upc": "738287645323",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot K",
+   "label_short": "3/8-24"
+  },
+  {
+   "sku": "64533",
+   "slot_letter": "L",
+   "name": "7/16-20 type C lock nut, fine",
+   "price_cents": 115,
+   "upc": "738287645330",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot L",
+   "label_short": "7/16-20"
+  },
+  {
+   "sku": "64525",
+   "slot_letter": "E",
+   "name": "1/2-13 type C lock nut, coarse",
+   "price_cents": 135,
+   "upc": "738287645255",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot E",
+   "label_short": "1/2-13"
+  },
+  {
+   "sku": "64537",
+   "slot_letter": "Q",
+   "name": "9/16-12 type C lock nut, coarse",
+   "price_cents": 159,
+   "upc": "738287645378",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot Q",
+   "label_short": "9/16-12"
+  },
+  {
+   "sku": "64526",
+   "slot_letter": "F",
+   "name": "5/8-11 type C lock nut, coarse",
+   "price_cents": 179,
+   "upc": "738287645262",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot F",
+   "label_short": "5/8-11"
+  },
+  {
+   "sku": "64527",
+   "slot_letter": "G",
+   "name": "3/4-10 type C lock nut, coarse",
+   "price_cents": 239,
+   "upc": "738287645279",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot G",
+   "label_short": "3/4-10"
+  },
+  {
+   "sku": "64534",
+   "slot_letter": "M",
+   "name": "1/2-20 type C lock nut, fine",
+   "price_cents": 139,
+   "upc": "738287645347",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot M",
+   "label_short": "1/2-20"
+  },
+  {
+   "sku": "64538",
+   "slot_letter": "R",
+   "name": "9/16-18 type C lock nut, fine",
+   "price_cents": 179,
+   "upc": "738287645385",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot R",
+   "label_short": "9/16-18"
+  },
+  {
+   "sku": "64535",
+   "slot_letter": "N",
+   "name": "5/8-18 type C lock nut, fine",
+   "price_cents": 195,
+   "upc": "738287645354",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot N",
+   "label_short": "5/8-18"
+  },
+  {
+   "sku": "64536",
+   "slot_letter": "P",
+   "name": "3/4-16 type C lock nut, fine",
+   "price_cents": 259,
+   "upc": "738287645361",
+   "upc_source": "read_from_label",
+   "location": "Nuts 6, slot P",
+   "label_short": "3/4-16"
+  }
+ ]
+}

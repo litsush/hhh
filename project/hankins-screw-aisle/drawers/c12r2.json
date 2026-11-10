@@ -1,0 +1,291 @@
+{
+ "id": "c12r2",
+ "column": 12,
+ "row": 2,
+ "half": null,
+ "title": "Bolts 16 and Bolts 36",
+ "description": "5/16-24 fine thread hex cap screws, 3/4 to 4 long: grade 8 yellow zinc (62960) in the back half of the tray and grade 5 zinc (60380) in the front half.",
+ "front_image": "images/fronts/c12r2.jpg",
+ "tray_image": "images/trays/c12r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2483,
+   "y1": 0.1663
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2483,
+   "y0": 0.0,
+   "x1": 0.4958,
+   "y1": 0.1663
+  },
+  {
+   "item_index": 2,
+   "x0": 0.4958,
+   "y0": 0.0,
+   "x1": 0.7417,
+   "y1": 0.1663
+  },
+  {
+   "item_index": 3,
+   "x0": 0.7417,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.1663,
+   "x1": 0.2483,
+   "y1": 0.3438
+  },
+  {
+   "item_index": 5,
+   "x0": 0.2483,
+   "y0": 0.1663,
+   "x1": 0.4958,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 6,
+   "x0": 0.4958,
+   "y0": 0.1663,
+   "x1": 0.7417,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.3438,
+   "x1": 0.2483,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.5062,
+   "x1": 0.2483,
+   "y1": 0.675
+  },
+  {
+   "item_index": 9,
+   "x0": 0.2483,
+   "y0": 0.5062,
+   "x1": 0.4958,
+   "y1": 0.6687
+  },
+  {
+   "item_index": 10,
+   "x0": 0.4958,
+   "y0": 0.5062,
+   "x1": 0.7375,
+   "y1": 0.6687
+  },
+  {
+   "item_index": 11,
+   "x0": 0.7375,
+   "y0": 0.5062,
+   "x1": 1.0,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.675,
+   "x1": 0.2483,
+   "y1": 0.8438
+  },
+  {
+   "item_index": 13,
+   "x0": 0.2483,
+   "y0": 0.6687,
+   "x1": 0.4958,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.4958,
+   "y0": 0.6687,
+   "x1": 0.7375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.0,
+   "y0": 0.8438,
+   "x1": 0.2483,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "62963",
+   "slot_letter": "C",
+   "name": "5/16-24 x 1-1/4 grade 8 hex cap screw, fine thread, yellow zinc, 1/2 wrench",
+   "price_cents": 105,
+   "upc": "738287629637",
+   "upc_source": "read_from_label",
+   "location": "Bolts 36, slot C",
+   "label_short": "5/16-24 x 1-1/4"
+  },
+  {
+   "sku": "62964",
+   "slot_letter": "D",
+   "name": "5/16-24 x 1-1/2 grade 8 hex cap screw, fine thread, yellow zinc, 1/2 wrench",
+   "price_cents": 115,
+   "upc": "738287629644",
+   "upc_source": "read_from_label",
+   "location": "Bolts 36, slot D",
+   "label_short": "5/16-24 x 1-1/2"
+  },
+  {
+   "sku": "62965",
+   "slot_letter": "E",
+   "name": "5/16-24 x 2 grade 8 hex cap screw, fine thread, yellow zinc, 1/2 wrench",
+   "price_cents": 125,
+   "upc": "738287629651",
+   "upc_source": "read_from_label",
+   "location": "Bolts 36, slot E",
+   "label_short": "5/16-24 x 2"
+  },
+  {
+   "sku": "62968",
+   "slot_letter": "H",
+   "name": "5/16-24 x 4 grade 8 hex cap screw, fine thread, yellow zinc, 1/2 wrench",
+   "price_cents": 195,
+   "upc": "738287629682",
+   "upc_source": "read_from_label",
+   "location": "Bolts 36, slot H",
+   "label_short": "5/16-24 x 4"
+  },
+  {
+   "sku": "62962",
+   "slot_letter": "B",
+   "name": "5/16-24 x 1 grade 8 hex cap screw, fine thread, yellow zinc, 1/2 wrench",
+   "price_cents": 85,
+   "upc": "738287629620",
+   "upc_source": "read_from_label",
+   "location": "Bolts 36, slot B",
+   "label_short": "5/16-24 x 1"
+  },
+  {
+   "sku": "62966",
+   "slot_letter": "F",
+   "name": "5/16-24 x 2-1/2 grade 8 hex cap screw, fine thread, yellow zinc, 1/2 wrench",
+   "price_cents": 135,
+   "upc": "738287629668",
+   "upc_source": "read_from_label",
+   "location": "Bolts 36, slot F",
+   "label_short": "5/16-24 x 2-1/2"
+  },
+  {
+   "sku": "62967",
+   "slot_letter": "G",
+   "name": "5/16-24 x 3 grade 8 hex cap screw, fine thread, yellow zinc, 1/2 wrench",
+   "price_cents": 165,
+   "upc": "738287629675",
+   "upc_source": "read_from_label",
+   "location": "Bolts 36, slot G",
+   "label_short": "5/16-24 x 3",
+   "note": "One plain-zinc-looking (grade 5 looking) bolt is mixed in with the yellow grade 8 bolts in this compartment."
+  },
+  {
+   "sku": "62961",
+   "slot_letter": "A",
+   "name": "5/16-24 x 3/4 grade 8 hex cap screw, fine thread, yellow zinc, 1/2 wrench",
+   "price_cents": 75,
+   "upc": "738287629613",
+   "upc_source": "read_from_label",
+   "location": "Bolts 36, slot A",
+   "label_short": "5/16-24 x 3/4"
+  },
+  {
+   "sku": "60383",
+   "slot_letter": "C",
+   "name": "5/16-24 x 1-1/4 grade 5 hex cap screw, fine thread, zinc, 1/2 wrench",
+   "price_cents": 75,
+   "upc": "738287603835",
+   "upc_source": "read_from_label",
+   "location": "Bolts 16, slot C",
+   "label_short": "5/16-24 x 1-1/4"
+  },
+  {
+   "sku": "60384",
+   "slot_letter": "D",
+   "name": "5/16-24 x 1-1/2 grade 5 hex cap screw, fine thread, zinc, 1/2 wrench",
+   "price_cents": 85,
+   "upc": "738287603842",
+   "upc_source": "read_from_label",
+   "location": "Bolts 16, slot D",
+   "label_short": "5/16-24 x 1-1/2"
+  },
+  {
+   "sku": "60385",
+   "slot_letter": "E",
+   "name": "5/16-24 x 2 grade 5 hex cap screw, fine thread, zinc, 1/2 wrench",
+   "price_cents": 89,
+   "upc": "738287603859",
+   "upc_source": "read_from_label",
+   "location": "Bolts 16, slot E",
+   "label_short": "5/16-24 x 2"
+  },
+  {
+   "sku": "60388",
+   "slot_letter": "H",
+   "name": "5/16-24 x 4 grade 5 hex cap screw, fine thread, zinc, 1/2 wrench",
+   "price_cents": 165,
+   "upc": "738287603880",
+   "upc_source": "read_from_label",
+   "location": "Bolts 16, slot H",
+   "label_short": "5/16-24 x 4"
+  },
+  {
+   "sku": "60382",
+   "slot_letter": "B",
+   "name": "5/16-24 x 1 grade 5 hex cap screw, fine thread, zinc, 1/2 wrench",
+   "price_cents": 69,
+   "upc": "738287603828",
+   "upc_source": "read_from_label",
+   "location": "Bolts 16, slot B",
+   "label_short": "5/16-24 x 1"
+  },
+  {
+   "sku": "60386",
+   "slot_letter": "F",
+   "name": "5/16-24 x 2-1/2 grade 5 hex cap screw, fine thread, zinc, 1/2 wrench",
+   "price_cents": 125,
+   "upc": "738287603866",
+   "upc_source": "read_from_label",
+   "location": "Bolts 16, slot F",
+   "label_short": "5/16-24 x 2-1/2"
+  },
+  {
+   "sku": "60387",
+   "slot_letter": "G",
+   "name": "5/16-24 x 3 grade 5 hex cap screw, fine thread, zinc, 1/2 wrench",
+   "price_cents": 145,
+   "upc": "738287603873",
+   "upc_source": "read_from_label",
+   "location": "Bolts 16, slot G",
+   "label_short": "5/16-24 x 3"
+  },
+  {
+   "sku": "60381",
+   "slot_letter": "A",
+   "name": "5/16-24 x 3/4 grade 5 hex cap screw, fine thread, zinc, 1/2 wrench",
+   "price_cents": 62,
+   "upc": "738287603811",
+   "upc_source": "read_from_label",
+   "location": "Bolts 16, slot A",
+   "label_short": "5/16-24 x 3/4"
+  }
+ ]
+}
