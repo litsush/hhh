@@ -1,0 +1,512 @@
+{
+ "id": "Rc05r4",
+ "wall": "right",
+ "column": 5,
+ "row": 4,
+ "half": null,
+ "title": "Metric 71 and Metric 72",
+ "description": "Long metric Phillips pan head machine screws, 4mm to 6mm x 40mm to 80mm (78300), plus short metric Phillips pan head machine screws, 3mm to 6mm x 6mm to 30mm (63120).",
+ "front_image": "images/fronts/Rc05r4.jpg",
+ "tray_image": "images/trays/Rc05r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1375,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1375,
+   "y0": 0.0,
+   "x1": 0.2583,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2583,
+   "y0": 0.0,
+   "x1": 0.3792,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3792,
+   "y0": 0.0,
+   "x1": 0.7333,
+   "y1": 0.1187
+  },
+  {
+   "item_index": 4,
+   "x0": 0.3792,
+   "y0": 0.1187,
+   "x1": 0.7333,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 5,
+   "x0": 0.7333,
+   "y0": 0.0,
+   "x1": 0.85,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 6,
+   "x0": 0.85,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.2437,
+   "x1": 0.3792,
+   "y1": 0.3688
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.3688,
+   "x1": 0.3792,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 9,
+   "x0": 0.3792,
+   "y0": 0.2437,
+   "x1": 0.5,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 10,
+   "x0": 0.5,
+   "y0": 0.2437,
+   "x1": 0.6167,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 11,
+   "x0": 0.6167,
+   "y0": 0.2437,
+   "x1": 1.0,
+   "y1": 0.3563
+  },
+  {
+   "item_index": 12,
+   "x0": 0.6167,
+   "y0": 0.3563,
+   "x1": 1.0,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 13,
+   "x0": 0.0,
+   "y0": 0.4938,
+   "x1": 0.1333,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 14,
+   "x0": 0.1333,
+   "y0": 0.4938,
+   "x1": 0.2583,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 15,
+   "x0": 0.2583,
+   "y0": 0.4938,
+   "x1": 0.3792,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 16,
+   "x0": 0.3792,
+   "y0": 0.4938,
+   "x1": 0.5,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 17,
+   "x0": 0.5,
+   "y0": 0.4938,
+   "x1": 0.6208,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 18,
+   "x0": 0.6208,
+   "y0": 0.4938,
+   "x1": 0.7442,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 19,
+   "x0": 0.7442,
+   "y0": 0.4938,
+   "x1": 0.8625,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 20,
+   "x0": 0.8625,
+   "y0": 0.4938,
+   "x1": 1.0,
+   "y1": 0.7438
+  },
+  {
+   "item_index": 21,
+   "x0": 0.0,
+   "y0": 0.7438,
+   "x1": 0.1292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.1292,
+   "y0": 0.7438,
+   "x1": 0.2542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.2542,
+   "y0": 0.7438,
+   "x1": 0.3792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.3792,
+   "y0": 0.7438,
+   "x1": 0.5042,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.5042,
+   "y0": 0.7438,
+   "x1": 0.625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.625,
+   "y0": 0.7438,
+   "x1": 0.7458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.7458,
+   "y0": 0.7438,
+   "x1": 0.8708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.8708,
+   "y0": 0.7438,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "78301",
+   "slot_letter": "A",
+   "name": "4mm x 40mm metric Phillips pan head machine screw, 0.70 pitch",
+   "price_cents": 75,
+   "upc": "738287783018",
+   "upc_source": "read_from_label",
+   "location": "Metric 71, slot A",
+   "label_short": "4mm x 40mm"
+  },
+  {
+   "sku": "78302",
+   "slot_letter": "B",
+   "name": "4mm x 50mm metric Phillips pan head machine screw, 0.70 pitch",
+   "price_cents": 85,
+   "upc": "738287783025",
+   "upc_source": "read_from_label",
+   "location": "Metric 71, slot B",
+   "label_short": "4mm x 50mm"
+  },
+  {
+   "sku": "78303",
+   "slot_letter": "C",
+   "name": "4mm x 60mm metric Phillips pan head machine screw, 0.70 pitch",
+   "price_cents": 109,
+   "upc": "738287783032",
+   "upc_source": "read_from_label",
+   "location": "Metric 71, slot C",
+   "label_short": "4mm x 60mm"
+  },
+  {
+   "sku": "78304",
+   "slot_letter": "D",
+   "name": "4mm x 70mm metric Phillips pan head machine screw, 0.70 pitch",
+   "price_cents": 135,
+   "upc": "738287783049",
+   "upc_source": "read_from_label",
+   "location": "Metric 71, slot D",
+   "label_short": "4mm x 70mm"
+  },
+  {
+   "sku": "78305",
+   "slot_letter": "E",
+   "name": "4mm x 80mm metric Phillips pan head machine screw, 0.70 pitch",
+   "price_cents": 155,
+   "upc": "738287783056",
+   "upc_source": "read_from_label",
+   "location": "Metric 71, slot E",
+   "label_short": "4mm x 80mm"
+  },
+  {
+   "sku": "78306",
+   "slot_letter": "F",
+   "name": "5mm x 50mm metric Phillips pan head machine screw, 0.80 pitch",
+   "price_cents": 109,
+   "upc": "738287783063",
+   "upc_source": "read_from_label",
+   "location": "Metric 71, slot F",
+   "label_short": "5mm x 50mm"
+  },
+  {
+   "sku": "78307",
+   "slot_letter": "G",
+   "name": "5mm x 60mm metric Phillips pan head machine screw, 0.80 pitch",
+   "price_cents": 125,
+   "upc": "738287783070",
+   "upc_source": "read_from_label",
+   "location": "Metric 71, slot G",
+   "label_short": "5mm x 60mm"
+  },
+  {
+   "sku": "78308",
+   "slot_letter": "H",
+   "name": "5mm x 70mm metric Phillips pan head machine screw, 0.80 pitch",
+   "price_cents": 139,
+   "upc": "738287783087",
+   "upc_source": "read_from_label",
+   "location": "Metric 71, slot H",
+   "label_short": "5mm x 70mm"
+  },
+  {
+   "sku": "78311",
+   "slot_letter": "J",
+   "name": "5mm x 80mm metric Phillips pan head machine screw, 0.80 pitch",
+   "price_cents": 189,
+   "upc": "738287783117",
+   "upc_source": "read_from_label",
+   "location": "Metric 71, slot J",
+   "label_short": "5mm x 80mm"
+  },
+  {
+   "sku": "78312",
+   "slot_letter": "K",
+   "name": "6mm x 50mm metric Phillips pan head machine screw, 1.00 pitch",
+   "price_cents": 125,
+   "upc": "738287783124",
+   "upc_source": "read_from_label",
+   "location": "Metric 71, slot K",
+   "label_short": "6mm x 50mm"
+  },
+  {
+   "sku": "78313",
+   "slot_letter": "L",
+   "name": "6mm x 60mm metric Phillips pan head machine screw, 1.00 pitch",
+   "price_cents": 149,
+   "upc": "738287783131",
+   "upc_source": "read_from_label",
+   "location": "Metric 71, slot L",
+   "label_short": "6mm x 60mm"
+  },
+  {
+   "sku": "78314",
+   "slot_letter": "M",
+   "name": "6mm x 70mm metric Phillips pan head machine screw, 1.00 pitch",
+   "price_cents": 179,
+   "upc": "738287783148",
+   "upc_source": "read_from_label",
+   "location": "Metric 71, slot M",
+   "label_short": "6mm x 70mm"
+  },
+  {
+   "sku": "78315",
+   "slot_letter": "N",
+   "name": "6mm x 80mm metric Phillips pan head machine screw, 1.00 pitch",
+   "price_cents": 209,
+   "upc": "738287783155",
+   "upc_source": "read_from_label",
+   "location": "Metric 71, slot N",
+   "label_short": "6mm x 80mm"
+  },
+  {
+   "sku": "63121",
+   "slot_letter": "A",
+   "name": "3mm x 6mm metric Phillips pan head machine screw, 0.50 pitch",
+   "price_cents": 35,
+   "upc": "738287631210",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot A",
+   "label_short": "3mm x 6mm"
+  },
+  {
+   "sku": "63122",
+   "slot_letter": "B",
+   "name": "3mm x 10mm metric Phillips pan head machine screw, 0.50 pitch",
+   "price_cents": 38,
+   "upc": "738287631227",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot B",
+   "label_short": "3mm x 10mm"
+  },
+  {
+   "sku": "63123",
+   "slot_letter": "C",
+   "name": "3mm x 20mm metric Phillips pan head machine screw, 0.50 pitch",
+   "price_cents": 43,
+   "upc": "738287631234",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot C",
+   "label_short": "3mm x 20mm"
+  },
+  {
+   "sku": "63124",
+   "slot_letter": "D",
+   "name": "4mm x 6mm metric Phillips pan head machine screw, 0.70 pitch",
+   "price_cents": 38,
+   "upc": "738287631241",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot D",
+   "label_short": "4mm x 6mm"
+  },
+  {
+   "sku": "63125",
+   "slot_letter": "E",
+   "name": "4mm x 12mm metric Phillips pan head machine screw, 0.70 pitch",
+   "price_cents": 44,
+   "upc": "738287631258",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot E",
+   "label_short": "4mm x 12mm"
+  },
+  {
+   "sku": "63126",
+   "slot_letter": "F",
+   "name": "4mm x 20mm metric Phillips pan head machine screw, 0.70 pitch",
+   "price_cents": 51,
+   "upc": "738287631265",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot F",
+   "label_short": "4mm x 20mm"
+  },
+  {
+   "sku": "63127",
+   "slot_letter": "G",
+   "name": "4mm x 25mm metric Phillips pan head machine screw, 0.70 pitch",
+   "price_cents": 54,
+   "upc": "738287631272",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot G",
+   "label_short": "4mm x 25mm"
+  },
+  {
+   "sku": "63128",
+   "slot_letter": "H",
+   "name": "5mm x 10mm metric Phillips pan head machine screw, 0.80 pitch",
+   "price_cents": 51,
+   "upc": "738287631289",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot H",
+   "label_short": "5mm x 10mm"
+  },
+  {
+   "sku": "63131",
+   "slot_letter": "J",
+   "name": "5mm x 16mm metric Phillips pan head machine screw, 0.80 pitch",
+   "price_cents": 54,
+   "upc": "738287631319",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot J",
+   "label_short": "5mm x 16mm"
+  },
+  {
+   "sku": "63132",
+   "slot_letter": "K",
+   "name": "5mm x 20mm metric Phillips pan head machine screw, 0.80 pitch",
+   "price_cents": 57,
+   "upc": "738287631326",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot K",
+   "label_short": "5mm x 20mm"
+  },
+  {
+   "sku": "63133",
+   "slot_letter": "L",
+   "name": "5mm x 25mm metric Phillips pan head machine screw, 0.80 pitch",
+   "price_cents": 64,
+   "upc": "738287631333",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot L",
+   "label_short": "5mm x 25mm"
+  },
+  {
+   "sku": "63134",
+   "slot_letter": "M",
+   "name": "5mm x 30mm metric Phillips pan head machine screw, 0.80 pitch",
+   "price_cents": 69,
+   "upc": "738287631340",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot M",
+   "label_short": "5mm x 30mm"
+  },
+  {
+   "sku": "63135",
+   "slot_letter": "N",
+   "name": "6mm x 12mm metric Phillips pan head machine screw, 1.00 pitch",
+   "price_cents": 63,
+   "upc": "738287631357",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot N",
+   "label_short": "6mm x 12mm"
+  },
+  {
+   "sku": "63136",
+   "slot_letter": "P",
+   "name": "6mm x 16mm metric Phillips pan head machine screw, 1.00 pitch",
+   "price_cents": 66,
+   "upc": "738287631364",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot P",
+   "label_short": "6mm x 16mm"
+  },
+  {
+   "sku": "63137",
+   "slot_letter": "Q",
+   "name": "6mm x 20mm metric Phillips pan head machine screw, 1.00 pitch",
+   "price_cents": 69,
+   "upc": "738287631371",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot Q",
+   "label_short": "6mm x 20mm"
+  },
+  {
+   "sku": "63138",
+   "slot_letter": "R",
+   "name": "6mm x 25mm metric Phillips pan head machine screw, 1.00 pitch",
+   "price_cents": 75,
+   "upc": "738287631388",
+   "upc_source": "read_from_label",
+   "location": "Metric 72, slot R",
+   "label_short": "6mm x 25mm"
+  }
+ ]
+}

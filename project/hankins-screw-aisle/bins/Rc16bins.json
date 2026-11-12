@@ -1,0 +1,365 @@
+{
+  "id": "Rc16bins",
+  "wall": "right",
+  "kind": "bins",
+  "column": 16,
+  "row": 6,
+  "half": null,
+  "title": "Bins under right-wall column 16",
+  "description": "Galvanized USS flat washers, lock washers, pronged washers, square washers and 1/4 hex lag screws from 1 to 3 inch.",
+  "front_image": null,
+  "tray_image": "images/bins/Rc16.jpg",
+  "tray_image_px": [
+    500,
+    1500
+  ],
+  "photo": "IMG_7741.jpg",
+  "compartments": [
+    {
+      "item_index": 0,
+      "x0": 0.05,
+      "y0": 0.0,
+      "x1": 0.492,
+      "y1": 0.1
+    },
+    {
+      "item_index": 1,
+      "x0": 0.492,
+      "y0": 0.0,
+      "x1": 0.972,
+      "y1": 0.1
+    },
+    {
+      "item_index": 2,
+      "x0": 0.05,
+      "y0": 0.1,
+      "x1": 0.492,
+      "y1": 0.2053
+    },
+    {
+      "item_index": 3,
+      "x0": 0.492,
+      "y0": 0.1,
+      "x1": 0.972,
+      "y1": 0.2053
+    },
+    {
+      "item_index": 4,
+      "x0": 0.05,
+      "y0": 0.2053,
+      "x1": 0.492,
+      "y1": 0.3133
+    },
+    {
+      "item_index": 5,
+      "x0": 0.492,
+      "y0": 0.2053,
+      "x1": 0.972,
+      "y1": 0.3133
+    },
+    {
+      "item_index": 6,
+      "x0": 0.05,
+      "y0": 0.3133,
+      "x1": 0.492,
+      "y1": 0.4413
+    },
+    {
+      "item_index": 7,
+      "x0": 0.492,
+      "y0": 0.3133,
+      "x1": 0.972,
+      "y1": 0.4413
+    },
+    {
+      "item_index": 8,
+      "x0": 0.05,
+      "y0": 0.4413,
+      "x1": 0.492,
+      "y1": 0.5467
+    },
+    {
+      "item_index": 9,
+      "x0": 0.492,
+      "y0": 0.4413,
+      "x1": 0.972,
+      "y1": 0.5467
+    },
+    {
+      "item_index": 10,
+      "x0": 0.05,
+      "y0": 0.5467,
+      "x1": 0.492,
+      "y1": 0.6667
+    },
+    {
+      "item_index": 11,
+      "x0": 0.492,
+      "y0": 0.5467,
+      "x1": 0.972,
+      "y1": 0.6667
+    },
+    {
+      "item_index": 12,
+      "x0": 0.05,
+      "y0": 0.6667,
+      "x1": 0.492,
+      "y1": 0.7933
+    },
+    {
+      "item_index": 13,
+      "x0": 0.492,
+      "y0": 0.6667,
+      "x1": 0.972,
+      "y1": 0.7933
+    },
+    {
+      "item_index": 14,
+      "x0": 0.05,
+      "y0": 0.7933,
+      "x1": 0.492,
+      "y1": 0.898
+    },
+    {
+      "item_index": 15,
+      "x0": 0.492,
+      "y0": 0.7933,
+      "x1": 0.972,
+      "y1": 0.898
+    },
+    {
+      "item_index": 16,
+      "x0": 0.05,
+      "y0": 0.898,
+      "x1": 0.492,
+      "y1": 1.0
+    },
+    {
+      "item_index": 17,
+      "x0": 0.492,
+      "y0": 0.898,
+      "x1": 0.972,
+      "y1": 1.0
+    }
+  ],
+  "items": [
+    {
+      "sku": "09142",
+      "slot_letter": null,
+      "name": "3/8 USS flat washer, galvanized",
+      "label_short": "3/8",
+      "price_cents": 40,
+      "box_price_cents": 1949,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 09142"
+    },
+    {
+      "sku": "05635",
+      "slot_letter": null,
+      "name": "1/4 lock washer, galvanized",
+      "label_short": "1/4",
+      "price_cents": 24,
+      "box_price_cents": 819,
+      "box_qty": null,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05635",
+      "note": "Box price blurred (read as 8.19) and box count unreadable."
+    },
+    {
+      "sku": "09143",
+      "slot_letter": null,
+      "name": "1/2 USS flat washer, galvanized",
+      "label_short": "1/2",
+      "price_cents": 75,
+      "box_price_cents": 2399,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 09143"
+    },
+    {
+      "sku": "05636",
+      "slot_letter": null,
+      "name": "5/16 lock washer, galvanized",
+      "label_short": "5/16",
+      "price_cents": 29,
+      "box_price_cents": 1259,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05636"
+    },
+    {
+      "sku": "05637",
+      "slot_letter": null,
+      "name": "3/8 lock washer, galvanized",
+      "label_short": "3/8",
+      "price_cents": 35,
+      "box_price_cents": 1649,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05637"
+    },
+    {
+      "sku": "05638",
+      "slot_letter": null,
+      "name": "1/2 lock washer, galvanized",
+      "label_short": "1/2",
+      "price_cents": 47,
+      "box_price_cents": 2599,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05638"
+    },
+    {
+      "sku": "08227",
+      "slot_letter": null,
+      "name": "1/4 pronged washer",
+      "label_short": "1/4",
+      "price_cents": 46,
+      "box_price_cents": 1299,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 08227"
+    },
+    {
+      "sku": "05555",
+      "slot_letter": null,
+      "name": "1/4 x 1 hex lag screw, galvanized",
+      "label_short": "1/4 x 1",
+      "price_cents": 43,
+      "box_price_cents": 2299,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05555"
+    },
+    {
+      "sku": "08228",
+      "slot_letter": null,
+      "name": "5/16 pronged washer",
+      "label_short": "5/16",
+      "price_cents": 50,
+      "box_price_cents": 1459,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 08228"
+    },
+    {
+      "sku": "50268",
+      "slot_letter": null,
+      "name": "1/4 x 1-1/4 hex lag screw, galvanized",
+      "label_short": "1/4 x 1-1/4",
+      "price_cents": 46,
+      "box_price_cents": 2699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 50268",
+      "note": "SKU printed as 50268, out of sequence with neighbouring 0555x bins."
+    },
+    {
+      "sku": "08229",
+      "slot_letter": null,
+      "name": "3/8 pronged washer",
+      "label_short": "3/8",
+      "price_cents": 55,
+      "box_price_cents": 1649,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 08229"
+    },
+    {
+      "sku": "05556",
+      "slot_letter": null,
+      "name": "1/4 x 1-1/2 hex lag screw, galvanized",
+      "label_short": "1/4 x 1-1/2",
+      "price_cents": 48,
+      "box_price_cents": 2699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05556"
+    },
+    {
+      "sku": "08230",
+      "slot_letter": null,
+      "name": "1/2 pronged washer",
+      "label_short": "1/2",
+      "price_cents": 99,
+      "box_price_cents": 1599,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 08230"
+    },
+    {
+      "sku": "05557",
+      "slot_letter": null,
+      "name": "1/4 x 2 hex lag screw, galvanized",
+      "label_short": "1/4 x 2",
+      "price_cents": 57,
+      "box_price_cents": 3199,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05557"
+    },
+    {
+      "sku": "50263",
+      "slot_letter": null,
+      "name": "3 x 1/4 square washer, galvanized, for 1/2 bolt hole",
+      "label_short": "3 x 1/4",
+      "price_cents": 539,
+      "box_price_cents": 6299,
+      "box_qty": 16,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 50263"
+    },
+    {
+      "sku": "05558",
+      "slot_letter": null,
+      "name": "1/4 x 2-1/2 hex lag screw, galvanized",
+      "label_short": "1/4 x 2-1/2",
+      "price_cents": 67,
+      "box_price_cents": 3699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05558"
+    },
+    {
+      "sku": "50265",
+      "slot_letter": null,
+      "name": "5/8 x 3 x 3 x 1/4 square washer, galvanized, for 5/8 bolt hole",
+      "label_short": "5/8 x 3 x 3 x 1/4",
+      "price_cents": 539,
+      "box_price_cents": 6299,
+      "box_qty": 16,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 50265"
+    },
+    {
+      "sku": "05559",
+      "slot_letter": null,
+      "name": "1/4 x 3 hex lag screw, galvanized",
+      "label_short": "1/4 x 3",
+      "price_cents": 75,
+      "box_price_cents": 4399,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05559"
+    }
+  ]
+}

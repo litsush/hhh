@@ -1,0 +1,173 @@
+{
+ "id": "Rc13r1-right",
+ "wall": "right",
+ "column": 13,
+ "row": 1,
+ "half": "R",
+ "title": "Wood Screw 39.6",
+ "description": "Phillips flat head Twinfast (twin thread) wood screws, black, #8 x 1/2 to #8 x 3 (935420).",
+ "front_image": "images/fronts/Rc13r1.jpg",
+ "tray_image": "images/trays/Rc13r1-right.jpg",
+ "tray_image_px": [
+  1200,
+  720
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1167,
+   "y1": 0.4792
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1167,
+   "y0": 0.0,
+   "x1": 0.2833,
+   "y1": 0.4792
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2833,
+   "y0": 0.0,
+   "x1": 0.4458,
+   "y1": 0.4792
+  },
+  {
+   "item_index": 3,
+   "x0": 0.4458,
+   "y0": 0.0,
+   "x1": 0.5917,
+   "y1": 0.4792
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5917,
+   "y0": 0.0,
+   "x1": 0.7542,
+   "y1": 0.4792
+  },
+  {
+   "item_index": 5,
+   "x0": 0.7542,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4792
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.4792,
+   "x1": 0.3292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.3292,
+   "y0": 0.4792,
+   "x1": 0.675,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.675,
+   "y0": 0.4792,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "935421",
+   "slot_letter": "A",
+   "name": "#8 x 1/2 Phillips flat head Twinfast wood screw, black",
+   "price_cents": 24,
+   "upc": "719199354213",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 39.6, slot A",
+   "label_short": "#8 x 1/2"
+  },
+  {
+   "sku": "935422",
+   "slot_letter": "B",
+   "name": "#8 x 3/4 Phillips flat head Twinfast wood screw, black",
+   "price_cents": 25,
+   "upc": "719199354220",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 39.6, slot B",
+   "label_short": "#8 x 3/4"
+  },
+  {
+   "sku": "935423",
+   "slot_letter": "C",
+   "name": "#8 x 1-1/4 Phillips flat head Twinfast wood screw, black",
+   "price_cents": 26,
+   "upc": "719199354237",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 39.6, slot C",
+   "label_short": "#8 x 1-1/4"
+  },
+  {
+   "sku": "935424",
+   "slot_letter": "D",
+   "name": "#8 x 1-1/2 Phillips flat head Twinfast wood screw, black",
+   "price_cents": 28,
+   "upc": "719199354244",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 39.6, slot D",
+   "label_short": "#8 x 1-1/2"
+  },
+  {
+   "sku": "935425",
+   "slot_letter": "E",
+   "name": "#8 x 1-3/4 Phillips flat head Twinfast wood screw, black",
+   "price_cents": 30,
+   "upc": "719199354251",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 39.6, slot E",
+   "label_short": "#8 x 1-3/4"
+  },
+  {
+   "sku": "935426",
+   "slot_letter": "F",
+   "name": "#8 x 2 Phillips flat head Twinfast wood screw, black",
+   "price_cents": 32,
+   "upc": "719199354268",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 39.6, slot F",
+   "label_short": "#8 x 2"
+  },
+  {
+   "sku": "935427",
+   "slot_letter": "G",
+   "name": "#8 x 2-1/4 Phillips flat head Twinfast wood screw, black",
+   "price_cents": 37,
+   "upc": "719199354275",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 39.6, slot G",
+   "label_short": "#8 x 2-1/4"
+  },
+  {
+   "sku": "935428",
+   "slot_letter": "H",
+   "name": "#8 x 2-1/2 Phillips flat head Twinfast wood screw, black",
+   "price_cents": 42,
+   "upc": "719199354282",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 39.6, slot H",
+   "label_short": "#8 x 2-1/2"
+  },
+  {
+   "sku": "935431",
+   "slot_letter": null,
+   "name": "#8 x 3 Phillips flat head Twinfast wood screw, black",
+   "price_cents": 50,
+   "upc": "719199354312",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 39.6, slot I",
+   "label_short": "#8 x 3",
+   "note": "Label prints the slot letter as 'I' (935431 - I), which is outside the A-R letter scheme (no I/O), so slot_letter is left null; location uses 'slot I' as printed."
+  }
+ ]
+}

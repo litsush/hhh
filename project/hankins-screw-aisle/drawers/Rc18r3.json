@@ -1,0 +1,344 @@
+{
+ "id": "Rc18r3",
+ "wall": "right",
+ "column": 18,
+ "row": 3,
+ "half": null,
+ "title": "Stainless 67 and Stainless 67.3",
+ "description": "Stainless steel Phillips pan head machine screws and hex nuts: 10-24 coarse thread, 1/2 to 3 inch (63740), and 10-32 fine thread, 3/8 to 3 inch (34520).",
+ "front_image": "images/fronts/Rc18r3.jpg",
+ "tray_image": "images/trays/Rc18r3.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1875,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1875,
+   "y0": 0.0,
+   "x1": 0.35,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 2,
+   "x0": 0.35,
+   "y0": 0.0,
+   "x1": 0.5125,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5125,
+   "y0": 0.0,
+   "x1": 0.6708,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6708,
+   "y0": 0.0,
+   "x1": 0.8292,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 5,
+   "x0": 0.8292,
+   "y0": 0.0,
+   "x1": 0.9917,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0167,
+   "y0": 0.2562,
+   "x1": 0.35,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 7,
+   "x0": 0.35,
+   "y0": 0.2562,
+   "x1": 0.675,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 8,
+   "x0": 0.675,
+   "y0": 0.2562,
+   "x1": 0.9958,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 9,
+   "x0": 0.0167,
+   "y0": 0.5062,
+   "x1": 0.2667,
+   "y1": 0.6312
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2667,
+   "y0": 0.5062,
+   "x1": 0.6375,
+   "y1": 0.6312
+  },
+  {
+   "item_index": 11,
+   "x0": 0.6375,
+   "y0": 0.5062,
+   "x1": 1.0,
+   "y1": 0.6312
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0125,
+   "y0": 0.6312,
+   "x1": 0.1458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.1458,
+   "y0": 0.6312,
+   "x1": 0.275,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.275,
+   "y0": 0.6312,
+   "x1": 0.4,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.4,
+   "y0": 0.6312,
+   "x1": 0.5583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 16,
+   "x0": 0.5583,
+   "y0": 0.6312,
+   "x1": 0.7208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 17,
+   "x0": 0.7208,
+   "y0": 0.6312,
+   "x1": 0.8833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 18,
+   "x0": 0.8833,
+   "y0": 0.6312,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "63741",
+   "slot_letter": "A",
+   "name": "10-24 hex nut, stainless steel",
+   "price_cents": 46,
+   "upc": "738287637410",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67, slot A",
+   "label_short": "10-24 nut",
+   "note": "Empty: the compartment holds a white filler box hand-marked \"Empty, see box #63800\"."
+  },
+  {
+   "sku": "63742",
+   "slot_letter": "B",
+   "name": "10-24 x 1/2 Phillips pan head machine screw, stainless steel",
+   "price_cents": 51,
+   "upc": "738287637427",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67, slot B",
+   "label_short": "10-24 x 1/2"
+  },
+  {
+   "sku": "63743",
+   "slot_letter": "C",
+   "name": "10-24 x 3/4 Phillips pan head machine screw, stainless steel",
+   "price_cents": 59,
+   "upc": "738287637434",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67, slot C",
+   "label_short": "10-24 x 3/4"
+  },
+  {
+   "sku": "63744",
+   "slot_letter": "D",
+   "name": "10-24 x 1 Phillips pan head machine screw, stainless steel",
+   "price_cents": 69,
+   "upc": "738287637441",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67, slot D",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "63745",
+   "slot_letter": "E",
+   "name": "10-24 x 1-1/4 Phillips pan head machine screw, stainless steel",
+   "price_cents": 69,
+   "upc": "738287637458",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67, slot E",
+   "label_short": "10-24 x 1-1/4"
+  },
+  {
+   "sku": "63746",
+   "slot_letter": "F",
+   "name": "10-24 x 1-1/2 Phillips pan head machine screw, stainless steel",
+   "price_cents": 75,
+   "upc": "738287637465",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67, slot F",
+   "label_short": "10-24 x 1-1/2"
+  },
+  {
+   "sku": "63747",
+   "slot_letter": "G",
+   "name": "10-24 x 2 Phillips pan head machine screw, stainless steel",
+   "price_cents": 89,
+   "upc": "738287637472",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67, slot G",
+   "label_short": "10-24 x 2"
+  },
+  {
+   "sku": "63748",
+   "slot_letter": "H",
+   "name": "10-24 x 2-1/2 Phillips pan head machine screw, stainless steel",
+   "price_cents": 109,
+   "upc": "738287637489",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67, slot H",
+   "label_short": "10-24 x 2-1/2"
+  },
+  {
+   "sku": "63751",
+   "slot_letter": "J",
+   "name": "10-24 x 3 Phillips pan head machine screw, stainless steel",
+   "price_cents": 135,
+   "upc": "738287637519",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67, slot J",
+   "label_short": "10-24 x 3"
+  },
+  {
+   "sku": "34521",
+   "slot_letter": "A",
+   "name": "10-32 x 3/8 Phillips pan head machine screw, stainless steel",
+   "price_cents": 49,
+   "upc": "738287345216",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67.3, slot A",
+   "label_short": "10-32 x 3/8"
+  },
+  {
+   "sku": "34522",
+   "slot_letter": "B",
+   "name": "10-32 x 1/2 Phillips pan head machine screw, stainless steel",
+   "price_cents": 53,
+   "upc": "738287345223",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67.3, slot B",
+   "label_short": "10-32 x 1/2"
+  },
+  {
+   "sku": "34523",
+   "slot_letter": "C",
+   "name": "10-32 x 3/4 Phillips pan head machine screw, stainless steel",
+   "price_cents": 89,
+   "upc": "738287345230",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67.3, slot C",
+   "label_short": "10-32 x 3/4",
+   "note": "Price read clearly as 89 cents, higher than the 1 inch and 1-1/4 inch sizes (69 cents); recorded as printed."
+  },
+  {
+   "sku": "34524",
+   "slot_letter": "D",
+   "name": "10-32 x 1 Phillips pan head machine screw, stainless steel",
+   "price_cents": 69,
+   "upc": "738287345247",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67.3, slot D",
+   "label_short": "10-32 x 1"
+  },
+  {
+   "sku": "34525",
+   "slot_letter": "E",
+   "name": "10-32 x 1-1/4 Phillips pan head machine screw, stainless steel",
+   "price_cents": 69,
+   "upc": "738287345254",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67.3, slot E",
+   "label_short": "10-32 x 1-1/4"
+  },
+  {
+   "sku": "34526",
+   "slot_letter": "F",
+   "name": "10-32 x 1-1/2 Phillips pan head machine screw, stainless steel",
+   "price_cents": 75,
+   "upc": "738287345261",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67.3, slot F",
+   "label_short": "10-32 x 1-1/2"
+  },
+  {
+   "sku": "34527",
+   "slot_letter": "G",
+   "name": "10-32 x 2 Phillips pan head machine screw, stainless steel",
+   "price_cents": 89,
+   "upc": "738287345278",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67.3, slot G",
+   "label_short": "10-32 x 2"
+  },
+  {
+   "sku": "34528",
+   "slot_letter": "H",
+   "name": "10-32 x 2-1/2 Phillips pan head machine screw, stainless steel",
+   "price_cents": 109,
+   "upc": "738287345285",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67.3, slot H",
+   "label_short": "10-32 x 2-1/2"
+  },
+  {
+   "sku": "34531",
+   "slot_letter": "J",
+   "name": "10-32 x 3 Phillips pan head machine screw, stainless steel",
+   "price_cents": 135,
+   "upc": "738287345315",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67.3, slot J",
+   "label_short": "10-32 x 3"
+  },
+  {
+   "sku": "34532",
+   "slot_letter": "K",
+   "name": "10-32 hex nut, stainless steel",
+   "price_cents": 47,
+   "upc": "738287345322",
+   "upc_source": "read_from_label",
+   "location": "Stainless 67.3, slot K",
+   "label_short": "10-32 nut"
+  }
+ ]
+}

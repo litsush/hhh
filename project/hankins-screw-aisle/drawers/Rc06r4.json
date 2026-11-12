@@ -1,0 +1,435 @@
+{
+ "id": "Rc06r4",
+ "wall": "right",
+ "column": 6,
+ "row": 4,
+ "half": null,
+ "title": "Metric 78 and Metric 79",
+ "description": "Black class 12.9 metric socket cap screws, 6mm x 1.00 pitch, 10mm to 100mm long (71380), plus 8mm x 1.25 pitch, 16mm to 70mm long (71400).",
+ "front_image": "images/fronts/Rc06r4.jpg",
+ "tray_image": "images/trays/Rc06r4.jpg",
+ "tray_image_px": [
+  1200,
+  1050
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1708,
+   "y1": 0.1333
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1708,
+   "y0": 0.0,
+   "x1": 0.3333,
+   "y1": 0.1333
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3333,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.1333
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6625,
+   "y1": 0.1333
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6625,
+   "y0": 0.0,
+   "x1": 0.8208,
+   "y1": 0.1333
+  },
+  {
+   "item_index": 5,
+   "x0": 0.8208,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.1333
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.1333,
+   "x1": 0.1083,
+   "y1": 0.381
+  },
+  {
+   "item_index": 7,
+   "x0": 0.1083,
+   "y0": 0.1333,
+   "x1": 0.2083,
+   "y1": 0.381
+  },
+  {
+   "item_index": 8,
+   "x0": 0.2083,
+   "y0": 0.1333,
+   "x1": 0.3083,
+   "y1": 0.381
+  },
+  {
+   "item_index": 9,
+   "x0": 0.3083,
+   "y0": 0.1333,
+   "x1": 0.4042,
+   "y1": 0.381
+  },
+  {
+   "item_index": 10,
+   "x0": 0.4042,
+   "y0": 0.1333,
+   "x1": 0.5,
+   "y1": 0.381
+  },
+  {
+   "item_index": 11,
+   "x0": 0.5,
+   "y0": 0.1238,
+   "x1": 0.625,
+   "y1": 0.4952
+  },
+  {
+   "item_index": 12,
+   "x0": 0.625,
+   "y0": 0.1238,
+   "x1": 0.7417,
+   "y1": 0.4952
+  },
+  {
+   "item_index": 13,
+   "x0": 0.7417,
+   "y0": 0.1238,
+   "x1": 0.8625,
+   "y1": 0.4952
+  },
+  {
+   "item_index": 14,
+   "x0": 0.8625,
+   "y0": 0.1238,
+   "x1": 1.0,
+   "y1": 0.4952
+  },
+  {
+   "item_index": 15,
+   "x0": 0.0,
+   "y0": 0.381,
+   "x1": 0.5,
+   "y1": 0.5048
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.5048,
+   "x1": 0.15,
+   "y1": 0.7524
+  },
+  {
+   "item_index": 17,
+   "x0": 0.15,
+   "y0": 0.5048,
+   "x1": 0.3125,
+   "y1": 0.7524
+  },
+  {
+   "item_index": 18,
+   "x0": 0.3125,
+   "y0": 0.5048,
+   "x1": 0.5417,
+   "y1": 0.7524
+  },
+  {
+   "item_index": 19,
+   "x0": 0.5417,
+   "y0": 0.5048,
+   "x1": 0.75,
+   "y1": 0.7524
+  },
+  {
+   "item_index": 20,
+   "x0": 0.75,
+   "y0": 0.5048,
+   "x1": 1.0,
+   "y1": 0.7524
+  },
+  {
+   "item_index": 21,
+   "x0": 0.0,
+   "y0": 0.7524,
+   "x1": 0.3333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.3333,
+   "y0": 0.7524,
+   "x1": 0.6583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.6583,
+   "y0": 0.7524,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "71381",
+   "slot_letter": "A",
+   "name": "6mm x 10mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 115,
+   "upc": "738287713817",
+   "upc_source": "calculated_from_sku",
+   "location": "Metric 78, slot A",
+   "label_short": "6mm x 10mm",
+   "note": "Label shows the barcode without printed UPC digits; UPC calculated from SKU."
+  },
+  {
+   "sku": "71382",
+   "slot_letter": "B",
+   "name": "6mm x 12mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 115,
+   "upc": "738287713824",
+   "upc_source": "calculated_from_sku",
+   "location": "Metric 78, slot B",
+   "label_short": "6mm x 12mm",
+   "note": "Label shows the barcode without printed UPC digits; UPC calculated from SKU."
+  },
+  {
+   "sku": "71383",
+   "slot_letter": "C",
+   "name": "6mm x 16mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 125,
+   "upc": "738287713831",
+   "upc_source": "calculated_from_sku",
+   "location": "Metric 78, slot C",
+   "label_short": "6mm x 16mm",
+   "note": "Label shows the barcode without printed UPC digits; UPC calculated from SKU."
+  },
+  {
+   "sku": "71384",
+   "slot_letter": "D",
+   "name": "6mm x 20mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 135,
+   "upc": "738287713848",
+   "upc_source": "calculated_from_sku",
+   "location": "Metric 78, slot D",
+   "label_short": "6mm x 20mm",
+   "note": "Label shows the barcode without printed UPC digits; UPC calculated from SKU."
+  },
+  {
+   "sku": "71385",
+   "slot_letter": "E",
+   "name": "6mm x 25mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 135,
+   "upc": "738287713855",
+   "upc_source": "calculated_from_sku",
+   "location": "Metric 78, slot E",
+   "label_short": "6mm x 25mm",
+   "note": "Label shows the barcode without printed UPC digits; UPC calculated from SKU."
+  },
+  {
+   "sku": "71386",
+   "slot_letter": "F",
+   "name": "6mm x 30mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 145,
+   "upc": "738287713862",
+   "upc_source": "calculated_from_sku",
+   "location": "Metric 78, slot F",
+   "label_short": "6mm x 30mm",
+   "note": "Label shows the barcode without printed UPC digits; UPC calculated from SKU."
+  },
+  {
+   "sku": "71387",
+   "slot_letter": "G",
+   "name": "6mm x 35mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 155,
+   "upc": "738287713879",
+   "upc_source": "read_from_label",
+   "location": "Metric 78, slot G",
+   "label_short": "6mm x 35mm"
+  },
+  {
+   "sku": "71388",
+   "slot_letter": "H",
+   "name": "6mm x 40mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 159,
+   "upc": "738287713886",
+   "upc_source": "read_from_label",
+   "location": "Metric 78, slot H",
+   "label_short": "6mm x 40mm"
+  },
+  {
+   "sku": "71391",
+   "slot_letter": "J",
+   "name": "6mm x 45mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 179,
+   "upc": "738287713916",
+   "upc_source": "read_from_label",
+   "location": "Metric 78, slot J",
+   "label_short": "6mm x 45mm"
+  },
+  {
+   "sku": "71392",
+   "slot_letter": "K",
+   "name": "6mm x 50mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 179,
+   "upc": "738287713923",
+   "upc_source": "read_from_label",
+   "location": "Metric 78, slot K",
+   "label_short": "6mm x 50mm"
+  },
+  {
+   "sku": "71393",
+   "slot_letter": "L",
+   "name": "6mm x 55mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 189,
+   "upc": "738287713930",
+   "upc_source": "read_from_label",
+   "location": "Metric 78, slot L",
+   "label_short": "6mm x 55mm"
+  },
+  {
+   "sku": "71394",
+   "slot_letter": "M",
+   "name": "6mm x 60mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 199,
+   "upc": "738287713947",
+   "upc_source": "read_from_label",
+   "location": "Metric 78, slot M",
+   "label_short": "6mm x 60mm"
+  },
+  {
+   "sku": "71395",
+   "slot_letter": "N",
+   "name": "6mm x 70mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 239,
+   "upc": "738287713954",
+   "upc_source": "read_from_label",
+   "location": "Metric 78, slot N",
+   "label_short": "6mm x 70mm"
+  },
+  {
+   "sku": "71396",
+   "slot_letter": "P",
+   "name": "6mm x 80mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 259,
+   "upc": "738287713961",
+   "upc_source": "read_from_label",
+   "location": "Metric 78, slot P",
+   "label_short": "6mm x 80mm"
+  },
+  {
+   "sku": "71397",
+   "slot_letter": "Q",
+   "name": "6mm x 90mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 279,
+   "upc": "738287713978",
+   "upc_source": "read_from_label",
+   "location": "Metric 78, slot Q",
+   "label_short": "6mm x 90mm"
+  },
+  {
+   "sku": "71398",
+   "slot_letter": "R",
+   "name": "6mm x 100mm metric socket cap screw, class 12.9, black, 1.00 pitch",
+   "price_cents": 309,
+   "upc": "738287713985",
+   "upc_source": "calculated_from_sku",
+   "location": "Metric 78, slot R",
+   "label_short": "6mm x 100mm",
+   "note": "Label shows the barcode without printed UPC digits; UPC calculated from SKU."
+  },
+  {
+   "sku": "71401",
+   "slot_letter": "A",
+   "name": "8mm x 16mm metric socket cap screw, class 12.9, black, 1.25 pitch",
+   "price_cents": 149,
+   "upc": "738287714012",
+   "upc_source": "read_from_label",
+   "location": "Metric 79, slot A",
+   "label_short": "8mm x 16mm"
+  },
+  {
+   "sku": "71402",
+   "slot_letter": "B",
+   "name": "8mm x 20mm metric socket cap screw, class 12.9, black, 1.25 pitch",
+   "price_cents": 159,
+   "upc": "738287714029",
+   "upc_source": "read_from_label",
+   "location": "Metric 79, slot B",
+   "label_short": "8mm x 20mm"
+  },
+  {
+   "sku": "71403",
+   "slot_letter": "C",
+   "name": "8mm x 25mm metric socket cap screw, class 12.9, black, 1.25 pitch",
+   "price_cents": 165,
+   "upc": "738287714036",
+   "upc_source": "read_from_label",
+   "location": "Metric 79, slot C",
+   "label_short": "8mm x 25mm"
+  },
+  {
+   "sku": "71404",
+   "slot_letter": "D",
+   "name": "8mm x 30mm metric socket cap screw, class 12.9, black, 1.25 pitch",
+   "price_cents": 179,
+   "upc": "738287714043",
+   "upc_source": "read_from_label",
+   "location": "Metric 79, slot D",
+   "label_short": "8mm x 30mm"
+  },
+  {
+   "sku": "71405",
+   "slot_letter": "E",
+   "name": "8mm x 40mm metric socket cap screw, class 12.9, black, 1.25 pitch",
+   "price_cents": 179,
+   "upc": "738287714050",
+   "upc_source": "read_from_label",
+   "location": "Metric 79, slot E",
+   "label_short": "8mm x 40mm"
+  },
+  {
+   "sku": "71406",
+   "slot_letter": "F",
+   "name": "8mm x 50mm metric socket cap screw, class 12.9, black, 1.25 pitch",
+   "price_cents": 189,
+   "upc": "738287714067",
+   "upc_source": "read_from_label",
+   "location": "Metric 79, slot F",
+   "label_short": "8mm x 50mm"
+  },
+  {
+   "sku": "71407",
+   "slot_letter": "G",
+   "name": "8mm x 60mm metric socket cap screw, class 12.9, black, 1.25 pitch",
+   "price_cents": null,
+   "upc": "738287714074",
+   "upc_source": "read_from_label",
+   "location": "Metric 79, slot G",
+   "label_short": "8mm x 60mm",
+   "note": "Price is obscured by sticker residue on the label (reads $2.?9); left null."
+  },
+  {
+   "sku": "71408",
+   "slot_letter": "H",
+   "name": "8mm x 70mm metric socket cap screw, class 12.9, black, 1.25 pitch",
+   "price_cents": 259,
+   "upc": "738287714081",
+   "upc_source": "read_from_label",
+   "location": "Metric 79, slot H",
+   "label_short": "8mm x 70mm"
+  }
+ ]
+}

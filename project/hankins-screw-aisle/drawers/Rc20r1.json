@@ -1,0 +1,496 @@
+{
+ "id": "Rc20r1",
+ "wall": "right",
+ "column": 20,
+ "row": 1,
+ "half": null,
+ "title": "Stainless 72.4 and Stainless 72.5",
+ "description": "Stainless steel Phillips oval head machine screws, coarse thread: 6-32 and 8-32, 3/8 to 2 inch (79580), plus 10-24 and 1/4-20, 1/2 to 2 inch (79600).",
+ "front_image": "images/fronts/Rc20r1.jpg",
+ "tray_image": "images/trays/Rc20r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0125,
+   "y0": 0.0,
+   "x1": 0.15,
+   "y1": 0.225
+  },
+  {
+   "item_index": 1,
+   "x0": 0.15,
+   "y0": 0.0,
+   "x1": 0.275,
+   "y1": 0.225
+  },
+  {
+   "item_index": 2,
+   "x0": 0.275,
+   "y0": 0.0,
+   "x1": 0.3958,
+   "y1": 0.225
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3958,
+   "y0": 0.0,
+   "x1": 0.5125,
+   "y1": 0.225
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5125,
+   "y0": 0.0,
+   "x1": 0.6292,
+   "y1": 0.225
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6292,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.225
+  },
+  {
+   "item_index": 6,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 0.8708,
+   "y1": 0.225
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8708,
+   "y0": 0.0,
+   "x1": 0.9917,
+   "y1": 0.225
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0083,
+   "y0": 0.225,
+   "x1": 0.15,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 9,
+   "x0": 0.15,
+   "y0": 0.225,
+   "x1": 0.275,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 10,
+   "x0": 0.275,
+   "y0": 0.225,
+   "x1": 0.4,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 11,
+   "x0": 0.4,
+   "y0": 0.225,
+   "x1": 0.5167,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5167,
+   "y0": 0.225,
+   "x1": 0.6417,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6417,
+   "y0": 0.225,
+   "x1": 0.7625,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7625,
+   "y0": 0.225,
+   "x1": 0.8833,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8833,
+   "y0": 0.225,
+   "x1": 0.9958,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0042,
+   "y0": 0.4625,
+   "x1": 0.1458,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1458,
+   "y0": 0.4625,
+   "x1": 0.325,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 18,
+   "x0": 0.325,
+   "y0": 0.4625,
+   "x1": 0.4875,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 19,
+   "x0": 0.4875,
+   "y0": 0.4625,
+   "x1": 0.6625,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 20,
+   "x0": 0.6625,
+   "y0": 0.4625,
+   "x1": 0.8333,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 21,
+   "x0": 0.8333,
+   "y0": 0.4625,
+   "x1": 0.9958,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 22,
+   "x0": 0.0042,
+   "y0": 0.7188,
+   "x1": 0.15,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.15,
+   "y0": 0.7188,
+   "x1": 0.3292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.3292,
+   "y0": 0.7188,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.5,
+   "y0": 0.7188,
+   "x1": 0.6667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.6667,
+   "y0": 0.7188,
+   "x1": 0.8333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.8333,
+   "y0": 0.7188,
+   "x1": 0.9958,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "79581",
+   "slot_letter": "A",
+   "name": "6-32 x 3/8 Phillips oval head machine screw, stainless steel",
+   "price_cents": 36,
+   "upc": "738287795813",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot A",
+   "label_short": "6-32 x 3/8"
+  },
+  {
+   "sku": "79582",
+   "slot_letter": "B",
+   "name": "6-32 x 1/2 Phillips oval head machine screw, stainless steel",
+   "price_cents": 37,
+   "upc": "738287795820",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot B",
+   "label_short": "6-32 x 1/2"
+  },
+  {
+   "sku": "79583",
+   "slot_letter": "C",
+   "name": "6-32 x 5/8 Phillips oval head machine screw, stainless steel",
+   "price_cents": 38,
+   "upc": "738287795837",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot C",
+   "label_short": "6-32 x 5/8"
+  },
+  {
+   "sku": "79584",
+   "slot_letter": "D",
+   "name": "6-32 x 3/4 Phillips oval head machine screw, stainless steel",
+   "price_cents": 43,
+   "upc": "738287795844",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot D",
+   "label_short": "6-32 x 3/4"
+  },
+  {
+   "sku": "79585",
+   "slot_letter": "E",
+   "name": "6-32 x 1 Phillips oval head machine screw, stainless steel",
+   "price_cents": 52,
+   "upc": "738287795851",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot E",
+   "label_short": "6-32 x 1"
+  },
+  {
+   "sku": "79586",
+   "slot_letter": "F",
+   "name": "6-32 x 1-1/4 Phillips oval head machine screw, stainless steel",
+   "price_cents": 55,
+   "upc": "738287795868",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot F",
+   "label_short": "6-32 x 1-1/4"
+  },
+  {
+   "sku": "79587",
+   "slot_letter": "G",
+   "name": "6-32 x 1-1/2 Phillips oval head machine screw, stainless steel",
+   "price_cents": 62,
+   "upc": "738287795875",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot G",
+   "label_short": "6-32 x 1-1/2"
+  },
+  {
+   "sku": "79588",
+   "slot_letter": "H",
+   "name": "6-32 x 2 Phillips oval head machine screw, stainless steel",
+   "price_cents": 69,
+   "upc": "738287795882",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot H",
+   "label_short": "6-32 x 2"
+  },
+  {
+   "sku": "79591",
+   "slot_letter": "J",
+   "name": "8-32 x 3/8 Phillips oval head machine screw, stainless steel",
+   "price_cents": 38,
+   "upc": "738287795912",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot J",
+   "label_short": "8-32 x 3/8"
+  },
+  {
+   "sku": "79592",
+   "slot_letter": "K",
+   "name": "8-32 x 1/2 Phillips oval head machine screw, stainless steel",
+   "price_cents": 38,
+   "upc": "738287795929",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot K",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "79593",
+   "slot_letter": "L",
+   "name": "8-32 x 5/8 Phillips oval head machine screw, stainless steel",
+   "price_cents": 47,
+   "upc": "738287795936",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot L",
+   "label_short": "8-32 x 5/8"
+  },
+  {
+   "sku": "79594",
+   "slot_letter": "M",
+   "name": "8-32 x 3/4 Phillips oval head machine screw, stainless steel",
+   "price_cents": 50,
+   "upc": "738287795943",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot M",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "79595",
+   "slot_letter": "N",
+   "name": "8-32 x 1 Phillips oval head machine screw, stainless steel",
+   "price_cents": 61,
+   "upc": "738287795950",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot N",
+   "label_short": "8-32 x 1"
+  },
+  {
+   "sku": "79596",
+   "slot_letter": "P",
+   "name": "8-32 x 1-1/4 Phillips oval head machine screw, stainless steel",
+   "price_cents": 68,
+   "upc": "738287795967",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot P",
+   "label_short": "8-32 x 1-1/4"
+  },
+  {
+   "sku": "79597",
+   "slot_letter": "Q",
+   "name": "8-32 x 1-1/2 Phillips oval head machine screw, stainless steel",
+   "price_cents": 69,
+   "upc": "738287795974",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot Q",
+   "label_short": "8-32 x 1-1/2"
+  },
+  {
+   "sku": "79598",
+   "slot_letter": "R",
+   "name": "8-32 x 2 Phillips oval head machine screw, stainless steel",
+   "price_cents": 85,
+   "upc": "738287795981",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.4, slot R",
+   "label_short": "8-32 x 2"
+  },
+  {
+   "sku": "79601",
+   "slot_letter": "A",
+   "name": "10-24 x 1/2 Phillips oval head machine screw, stainless steel",
+   "price_cents": 52,
+   "upc": "738287796018",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.5, slot A",
+   "label_short": "10-24 x 1/2"
+  },
+  {
+   "sku": "79602",
+   "slot_letter": "B",
+   "name": "10-24 x 3/4 Phillips oval head machine screw, stainless steel",
+   "price_cents": 62,
+   "upc": "738287796025",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.5, slot B",
+   "label_short": "10-24 x 3/4"
+  },
+  {
+   "sku": "79603",
+   "slot_letter": "C",
+   "name": "10-24 x 1 Phillips oval head machine screw, stainless steel",
+   "price_cents": 69,
+   "upc": "738287796032",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.5, slot C",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "79604",
+   "slot_letter": "D",
+   "name": "10-24 x 1-1/4 Phillips oval head machine screw, stainless steel",
+   "price_cents": 75,
+   "upc": "738287796049",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.5, slot D",
+   "label_short": "10-24 x 1-1/4"
+  },
+  {
+   "sku": "79605",
+   "slot_letter": "E",
+   "name": "10-24 x 1-1/2 Phillips oval head machine screw, stainless steel",
+   "price_cents": 85,
+   "upc": "738287796056",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.5, slot E",
+   "label_short": "10-24 x 1-1/2"
+  },
+  {
+   "sku": "79606",
+   "slot_letter": "F",
+   "name": "10-24 x 2 Phillips oval head machine screw, stainless steel",
+   "price_cents": 89,
+   "upc": "738287796063",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.5, slot F",
+   "label_short": "10-24 x 2"
+  },
+  {
+   "sku": "79607",
+   "slot_letter": "G",
+   "name": "1/4-20 x 1/2 Phillips oval head machine screw, stainless steel",
+   "price_cents": 75,
+   "upc": "738287796070",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.5, slot G",
+   "label_short": "1/4-20 x 1/2"
+  },
+  {
+   "sku": "79608",
+   "slot_letter": "H",
+   "name": "1/4-20 x 3/4 Phillips oval head machine screw, stainless steel",
+   "price_cents": 85,
+   "upc": "738287796087",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.5, slot H",
+   "label_short": "1/4-20 x 3/4"
+  },
+  {
+   "sku": "79611",
+   "slot_letter": "J",
+   "name": "1/4-20 x 1 Phillips oval head machine screw, stainless steel",
+   "price_cents": 89,
+   "upc": "738287796117",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.5, slot J",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "79612",
+   "slot_letter": "K",
+   "name": "1/4-20 x 1-1/4 Phillips oval head machine screw, stainless steel",
+   "price_cents": 99,
+   "upc": "738287796124",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.5, slot K",
+   "label_short": "1/4-20 x 1-1/4"
+  },
+  {
+   "sku": "79613",
+   "slot_letter": "L",
+   "name": "1/4-20 x 1-1/2 Phillips oval head machine screw, stainless steel",
+   "price_cents": 99,
+   "upc": "738287796131",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.5, slot L",
+   "label_short": "1/4-20 x 1-1/2"
+  },
+  {
+   "sku": "79614",
+   "slot_letter": "M",
+   "name": "1/4-20 x 2 Phillips oval head machine screw, stainless steel",
+   "price_cents": 145,
+   "upc": "738287796148",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.5, slot M",
+   "label_short": "1/4-20 x 2",
+   "note": "Compartment is empty in the photo."
+  }
+ ]
+}

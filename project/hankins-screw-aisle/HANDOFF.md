@@ -92,3 +92,19 @@ Shoot straight down over the open drawer with the whole tray and the whole lid l
 - One file per unit: `bins/cNNbins.json` (`"kind": "bins"`, same shape as a drawer file, but items add `box_price_cents` and `box_qty` and have no UPC). The straightened unit photo is `images/bins/cNN.jpg` (500×1500). `tools/BIN_BRIEF.md` is the step-by-step brief.
 - Totals: 32 units, 576 physical bins, 659 products (many bins hold two products under one label strip). `REVIEW_bins.md` lists the 168 flagged values, mostly blurry cents on the bottom rows.
 - 3D: `stitch.py` has `BIN_POSTS`, `BIN_TOP`, `BIN_BOTTOM` and `BIN_DEPTH`. `scan/wall_layout.json` has `bin_slots`. `export_splat.py` removes splats in front of the bin photos.
+
+## Update 2026-11-11: right-hand wall, both endcaps, hinges aisle
+
+- **Right wall data:** 24 columns, 123 drawers, 2,291 products, plus 24 red bin units under it.
+  - Files are `drawers/Rc*.json` and `bins/Rc*bins.json`. Every id starts with `R`, and each file has `"wall": "right"`.
+  - Columns count left to right as you face the right wall, so right column 1 is across the aisle from left column 30.
+  - The photos are in `originals/right/` (`_map.json`) and `originals/right_bottom/`. The brief changes for this wall are in `tools/RIGHT_WALL.md`.
+  - 220 flagged notes are listed in `REVIEW_right.md`.
+- **Pages:** `build_wall.py` now handles both walls (the `WALLS` list). `data.json` has a `walls` list, and every drawer has a `wall` field.
+- **3D:** the new scans are `Screw right 1/2`, `Endcap`, `AnimalEndcap`, `Hinges1` and `Hinges2` in `/home/litsush/hhh/plys`.
+  - `tools/register.py` finds overlaps between scans automatically. It renders 24 straight-on views of each scan, matches them with SIFT, and fits a 3D similarity. The results are in `scan/reg/pair_*.json`.
+  - The scans form three groups that don't overlap each other: the left wall, the right wall with both endcaps, and the animal endcap with the hinges aisle (the back side of the right wall).
+  - `tools/place_all.py` ties the groups together using measurements in `scan/place.json`; its docstring explains how. Note that the long right scan drifted (it bowed and tilted), so it is straightened there.
+  - The scans put the aisle about 2.0 units wide, front to front. Blake guessed about 5 feet.
+  - `tools/export_splat.py` now writes three files: `aisle.splat` (left), `right.splat` and `back.splat`. The viewer loads them in that order.
+- **Full rebuild of the 3D:** run `stitch.py`, then `register.py` (render + match, only if the scans change), then `place_all.py`, then `export_splat.py`, then `build_wall.py`.

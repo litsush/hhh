@@ -1,0 +1,172 @@
+{
+ "id": "Rc09r1",
+ "wall": "right",
+ "column": 9,
+ "row": 1,
+ "half": null,
+ "title": "Metric 97",
+ "description": "Stainless steel metric hex nuts, coarse thread, 3mm to 16mm (69620).",
+ "front_image": "images/fronts/Rc09r1.jpg",
+ "tray_image": "images/trays/Rc09r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1625,
+   "y1": 0.4375
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1625,
+   "y0": 0.0,
+   "x1": 0.3333,
+   "y1": 0.4375
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3333,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.4375
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.7458,
+   "y1": 0.4375
+  },
+  {
+   "item_index": 4,
+   "x0": 0.7458,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4375
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0,
+   "y0": 0.4375,
+   "x1": 0.2417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.2417,
+   "y0": 0.4375,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.5,
+   "y0": 0.4375,
+   "x1": 0.7567,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.7567,
+   "y0": 0.4375,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "69621",
+   "slot_letter": "A",
+   "name": "M3 x 0.50 stainless steel hex nut, coarse thread",
+   "price_cents": 41,
+   "upc": "738287696219",
+   "upc_source": "read_from_label",
+   "location": "Metric 97, slot A",
+   "label_short": "3mm"
+  },
+  {
+   "sku": "69622",
+   "slot_letter": "B",
+   "name": "M4 x 0.70 stainless steel hex nut, coarse thread",
+   "price_cents": 46,
+   "upc": "738287696226",
+   "upc_source": "read_from_label",
+   "location": "Metric 97, slot B",
+   "label_short": "4mm"
+  },
+  {
+   "sku": "69623",
+   "slot_letter": "C",
+   "name": "M5 x 0.80 stainless steel hex nut, coarse thread",
+   "price_cents": 52,
+   "upc": "738287696233",
+   "upc_source": "read_from_label",
+   "location": "Metric 97, slot C",
+   "label_short": "5mm"
+  },
+  {
+   "sku": "69624",
+   "slot_letter": "D",
+   "name": "M6 x 1.00 stainless steel hex nut, coarse thread",
+   "price_cents": 58,
+   "upc": "738287696240",
+   "upc_source": "read_from_label",
+   "location": "Metric 97, slot D",
+   "label_short": "6mm"
+  },
+  {
+   "sku": "69625",
+   "slot_letter": "E",
+   "name": "M8 x 1.25 stainless steel hex nut, coarse thread",
+   "price_cents": 75,
+   "upc": "738287696257",
+   "upc_source": "read_from_label",
+   "location": "Metric 97, slot E",
+   "label_short": "8mm"
+  },
+  {
+   "sku": "69626",
+   "slot_letter": "F",
+   "name": "M10 x 1.50 stainless steel hex nut, coarse thread",
+   "price_cents": 135,
+   "upc": "738287696264",
+   "upc_source": "read_from_label",
+   "location": "Metric 97, slot F",
+   "label_short": "10mm"
+  },
+  {
+   "sku": "69627",
+   "slot_letter": "G",
+   "name": "M12 x 1.75 stainless steel hex nut, coarse thread",
+   "price_cents": 179,
+   "upc": "738287696271",
+   "upc_source": "read_from_label",
+   "location": "Metric 97, slot G",
+   "label_short": "12mm"
+  },
+  {
+   "sku": "69628",
+   "slot_letter": "H",
+   "name": "M14 x 2.00 stainless steel hex nut, coarse thread",
+   "price_cents": 259,
+   "upc": "738287696288",
+   "upc_source": "read_from_label",
+   "location": "Metric 97, slot H",
+   "label_short": "14mm"
+  },
+  {
+   "sku": "69631",
+   "slot_letter": "J",
+   "name": "M16 x 2.00 stainless steel hex nut, coarse thread",
+   "price_cents": 349,
+   "upc": "738287696318",
+   "upc_source": "read_from_label",
+   "location": "Metric 97, slot J",
+   "label_short": "16mm"
+  }
+ ]
+}

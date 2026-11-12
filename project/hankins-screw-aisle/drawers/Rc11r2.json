@@ -1,0 +1,257 @@
+{
+ "id": "Rc11r2",
+ "wall": "right",
+ "column": 11,
+ "row": 2,
+ "half": null,
+ "title": "Sheet Metal 18.6",
+ "description": "Phillips flat head self-drilling sheet metal screws, #10 and #12, 1/2 to 3 long (931420)",
+ "front_image": "images/fronts/Rc11r2.jpg",
+ "tray_image": "images/trays/Rc11r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2417,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2417,
+   "y0": 0.0,
+   "x1": 0.3625,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3625,
+   "y0": 0.0,
+   "x1": 0.4917,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 3,
+   "x0": 0.4917,
+   "y0": 0.0,
+   "x1": 0.6208,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6208,
+   "y0": 0.0,
+   "x1": 0.7458,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 5,
+   "x0": 0.7458,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.2313,
+   "x1": 0.1125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.1125,
+   "y0": 0.2313,
+   "x1": 0.2333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.2333,
+   "y0": 0.4813,
+   "x1": 0.3583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.3583,
+   "y0": 0.4813,
+   "x1": 0.4917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.4917,
+   "y0": 0.4813,
+   "x1": 0.625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.625,
+   "y0": 0.4813,
+   "x1": 0.7542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.7542,
+   "y0": 0.2,
+   "x1": 0.8833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.8833,
+   "y0": 0.2,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "931421",
+   "slot_letter": "A",
+   "name": "#10 x 1/2 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 41,
+   "upc": "719199314217",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot A",
+   "label_short": "10 x 1/2"
+  },
+  {
+   "sku": "931422",
+   "slot_letter": "B",
+   "name": "#10 x 3/4 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 44,
+   "upc": "719199314224",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot B",
+   "label_short": "10 x 3/4"
+  },
+  {
+   "sku": "931423",
+   "slot_letter": "C",
+   "name": "#10 x 1 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 45,
+   "upc": "719199314231",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot C",
+   "label_short": "10 x 1"
+  },
+  {
+   "sku": "931424",
+   "slot_letter": "D",
+   "name": "#10 x 1-1/4 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 48,
+   "upc": "719199314248",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot D",
+   "label_short": "10 x 1-1/4"
+  },
+  {
+   "sku": "931425",
+   "slot_letter": "E",
+   "name": "#10 x 1-1/2 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 49,
+   "upc": "719199314255",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot E",
+   "label_short": "10 x 1-1/2"
+  },
+  {
+   "sku": "931426",
+   "slot_letter": "F",
+   "name": "#10 x 2 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 53,
+   "upc": "719199314262",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot F",
+   "label_short": "10 x 2"
+  },
+  {
+   "sku": "931427",
+   "slot_letter": "G",
+   "name": "#10 x 2-1/2 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 58,
+   "upc": "719199314279",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot G",
+   "label_short": "10 x 2-1/2"
+  },
+  {
+   "sku": "931428",
+   "slot_letter": "H",
+   "name": "#10 x 3 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 62,
+   "upc": "719199314286",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot H",
+   "label_short": "10 x 3"
+  },
+  {
+   "sku": "931431",
+   "slot_letter": "J",
+   "name": "#12 x 1 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 56,
+   "upc": "719199314316",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot J",
+   "label_short": "12 x 1"
+  },
+  {
+   "sku": "931432",
+   "slot_letter": "K",
+   "name": "#12 x 1-1/4 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 58,
+   "upc": "719199314323",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot K",
+   "label_short": "12 x 1-1/4"
+  },
+  {
+   "sku": "931433",
+   "slot_letter": "L",
+   "name": "#12 x 1-1/2 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 60,
+   "upc": "719199314330",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot L",
+   "label_short": "12 x 1-1/2"
+  },
+  {
+   "sku": "931434",
+   "slot_letter": "M",
+   "name": "#12 x 2 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 63,
+   "upc": "719199314347",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot M",
+   "label_short": "12 x 2"
+  },
+  {
+   "sku": "931435",
+   "slot_letter": "N",
+   "name": "#12 x 2-1/2 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 69,
+   "upc": "719199314354",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot N",
+   "label_short": "12 x 2-1/2"
+  },
+  {
+   "sku": "931436",
+   "slot_letter": "P",
+   "name": "#12 x 3 Phillips flat head self-drilling screw, zinc",
+   "price_cents": 69,
+   "upc": "719199314361",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 18.6, slot P",
+   "label_short": "12 x 3"
+  }
+ ]
+}

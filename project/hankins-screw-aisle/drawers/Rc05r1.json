@@ -1,0 +1,564 @@
+{
+ "id": "Rc05r1",
+ "wall": "right",
+ "column": 5,
+ "row": 1,
+ "half": null,
+ "title": "Metric 66 and Metric 67",
+ "description": "Metric miniature slotted pan head machine screws with matching flat washers and hex nuts, 1.6mm to 3mm (66940), plus metric slotted flat head machine screws, 3mm to 6mm (67920).",
+ "front_image": "images/fronts/Rc05r1.jpg",
+ "tray_image": "images/trays/Rc05r1.jpg",
+ "tray_image_px": [
+  1200,
+  760
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1458,
+   "y1": 0.2434
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1458,
+   "y0": 0.0,
+   "x1": 0.2708,
+   "y1": 0.2434
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2708,
+   "y0": 0.0,
+   "x1": 0.3958,
+   "y1": 0.2434
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3958,
+   "y0": 0.0,
+   "x1": 0.5083,
+   "y1": 0.2434
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5083,
+   "y0": 0.0,
+   "x1": 0.625,
+   "y1": 0.2434
+  },
+  {
+   "item_index": 5,
+   "x0": 0.625,
+   "y0": 0.0,
+   "x1": 0.7375,
+   "y1": 0.2434
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7375,
+   "y0": 0.0,
+   "x1": 0.85,
+   "y1": 0.2434
+  },
+  {
+   "item_index": 7,
+   "x0": 0.85,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2434
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.2434,
+   "x1": 0.1375,
+   "y1": 0.4934
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1375,
+   "y0": 0.2434,
+   "x1": 0.2667,
+   "y1": 0.4934
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2667,
+   "y0": 0.2434,
+   "x1": 0.3917,
+   "y1": 0.4934
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3917,
+   "y0": 0.2434,
+   "x1": 0.5083,
+   "y1": 0.4934
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5083,
+   "y0": 0.2434,
+   "x1": 0.625,
+   "y1": 0.4934
+  },
+  {
+   "item_index": 13,
+   "x0": 0.625,
+   "y0": 0.2434,
+   "x1": 0.7417,
+   "y1": 0.4934
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7417,
+   "y0": 0.2434,
+   "x1": 0.8583,
+   "y1": 0.4934
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8583,
+   "y0": 0.2434,
+   "x1": 1.0,
+   "y1": 0.4934
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.4934,
+   "x1": 0.125,
+   "y1": 0.7697
+  },
+  {
+   "item_index": 17,
+   "x0": 0.125,
+   "y0": 0.4934,
+   "x1": 0.25,
+   "y1": 0.7697
+  },
+  {
+   "item_index": 18,
+   "x0": 0.25,
+   "y0": 0.4934,
+   "x1": 0.3792,
+   "y1": 0.7697
+  },
+  {
+   "item_index": 19,
+   "x0": 0.3792,
+   "y0": 0.4934,
+   "x1": 0.5042,
+   "y1": 0.7697
+  },
+  {
+   "item_index": 20,
+   "x0": 0.5042,
+   "y0": 0.4934,
+   "x1": 0.6292,
+   "y1": 0.7697
+  },
+  {
+   "item_index": 21,
+   "x0": 0.6292,
+   "y0": 0.4934,
+   "x1": 0.75,
+   "y1": 0.7697
+  },
+  {
+   "item_index": 22,
+   "x0": 0.75,
+   "y0": 0.4934,
+   "x1": 0.8708,
+   "y1": 0.7697
+  },
+  {
+   "item_index": 23,
+   "x0": 0.8708,
+   "y0": 0.4934,
+   "x1": 1.0,
+   "y1": 0.7697
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0,
+   "y0": 0.7697,
+   "x1": 0.1208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.1208,
+   "y0": 0.7697,
+   "x1": 0.25,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.25,
+   "y0": 0.7697,
+   "x1": 0.3792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.3792,
+   "y0": 0.7697,
+   "x1": 0.5042,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.5042,
+   "y0": 0.7697,
+   "x1": 0.6333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.6333,
+   "y0": 0.7697,
+   "x1": 0.7542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.7542,
+   "y0": 0.7697,
+   "x1": 0.875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 31,
+   "x0": 0.875,
+   "y0": 0.7697,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "66941",
+   "slot_letter": "A",
+   "name": "1.6mm metric flat washer",
+   "price_cents": 41,
+   "upc": "738287669411",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot A",
+   "label_short": "1.6mm washer"
+  },
+  {
+   "sku": "66942",
+   "slot_letter": "B",
+   "name": "1.6mm (0.35 pitch) metric hex nut",
+   "price_cents": 56,
+   "upc": "738287669428",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot B",
+   "label_short": "1.6mm nut"
+  },
+  {
+   "sku": "66943",
+   "slot_letter": "C",
+   "name": "1.6mm x 6mm metric slotted pan head machine screw, 0.35 pitch",
+   "price_cents": 69,
+   "upc": "738287669435",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot C",
+   "label_short": "1.6mm x 6mm"
+  },
+  {
+   "sku": "66944",
+   "slot_letter": "D",
+   "name": "1.6mm x 12mm metric slotted pan head machine screw, 0.35 pitch",
+   "price_cents": 75,
+   "upc": "738287669442",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot D",
+   "label_short": "1.6mm x 12mm"
+  },
+  {
+   "sku": "66945",
+   "slot_letter": "E",
+   "name": "2mm metric flat washer",
+   "price_cents": 40,
+   "upc": "738287669459",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot E",
+   "label_short": "2mm washer"
+  },
+  {
+   "sku": "66946",
+   "slot_letter": "F",
+   "name": "2mm (0.40 pitch) metric hex nut",
+   "price_cents": 39,
+   "upc": "738287669466",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot F",
+   "label_short": "2mm nut"
+  },
+  {
+   "sku": "66947",
+   "slot_letter": "G",
+   "name": "2mm x 12mm metric slotted pan head machine screw, 0.40 pitch",
+   "price_cents": 45,
+   "upc": "738287669473",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot G",
+   "label_short": "2mm x 12mm"
+  },
+  {
+   "sku": "66948",
+   "slot_letter": "H",
+   "name": "2mm x 20mm metric slotted pan head machine screw, 0.40 pitch",
+   "price_cents": 48,
+   "upc": "738287669480",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot H",
+   "label_short": "2mm x 20mm"
+  },
+  {
+   "sku": "66951",
+   "slot_letter": "J",
+   "name": "2.5mm metric flat washer",
+   "price_cents": 40,
+   "upc": "738287669510",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot J",
+   "label_short": "2.5mm washer"
+  },
+  {
+   "sku": "66952",
+   "slot_letter": "K",
+   "name": "2.5mm (0.45 pitch) metric hex nut",
+   "price_cents": 39,
+   "upc": "738287669527",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot K",
+   "label_short": "2.5mm nut"
+  },
+  {
+   "sku": "66953",
+   "slot_letter": "L",
+   "name": "2.5mm x 12mm metric slotted pan head machine screw, 0.45 pitch",
+   "price_cents": 45,
+   "upc": "738287669534",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot L",
+   "label_short": "2.5mm x 12mm"
+  },
+  {
+   "sku": "66954",
+   "slot_letter": "M",
+   "name": "2.5mm x 20mm metric slotted pan head machine screw, 0.45 pitch",
+   "price_cents": 48,
+   "upc": "738287669541",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot M",
+   "label_short": "2.5mm x 20mm",
+   "note": "Compartment looked nearly empty in the photo (only a stray small hex nut visible)."
+  },
+  {
+   "sku": "66955",
+   "slot_letter": "N",
+   "name": "3mm metric flat washer",
+   "price_cents": 40,
+   "upc": "738287669558",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot N",
+   "label_short": "3mm washer"
+  },
+  {
+   "sku": "66956",
+   "slot_letter": "P",
+   "name": "3mm (0.50 pitch) metric hex nut",
+   "price_cents": 39,
+   "upc": "738287669565",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot P",
+   "label_short": "3mm nut"
+  },
+  {
+   "sku": "66957",
+   "slot_letter": "Q",
+   "name": "3mm x 12mm metric slotted pan head machine screw, 0.50 pitch",
+   "price_cents": 45,
+   "upc": "738287669572",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot Q",
+   "label_short": "3mm x 12mm"
+  },
+  {
+   "sku": "66958",
+   "slot_letter": "R",
+   "name": "3mm x 20mm metric slotted pan head machine screw, 0.50 pitch",
+   "price_cents": 48,
+   "upc": "738287669589",
+   "upc_source": "read_from_label",
+   "location": "Metric 66, slot R",
+   "label_short": "3mm x 20mm"
+  },
+  {
+   "sku": "67921",
+   "slot_letter": "A",
+   "name": "3mm x 6mm metric slotted flat head machine screw, 0.50 pitch",
+   "price_cents": 36,
+   "upc": "738287679212",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot A",
+   "label_short": "3mm x 6mm"
+  },
+  {
+   "sku": "67922",
+   "slot_letter": "B",
+   "name": "3mm x 10mm metric slotted flat head machine screw, 0.50 pitch",
+   "price_cents": 41,
+   "upc": "738287679229",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot B",
+   "label_short": "3mm x 10mm"
+  },
+  {
+   "sku": "67923",
+   "slot_letter": "C",
+   "name": "3mm x 20mm metric slotted flat head machine screw, 0.50 pitch",
+   "price_cents": 43,
+   "upc": "738287679236",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot C",
+   "label_short": "3mm x 20mm"
+  },
+  {
+   "sku": "67924",
+   "slot_letter": "D",
+   "name": "4mm x 6mm metric slotted flat head machine screw, 0.70 pitch",
+   "price_cents": 39,
+   "upc": "738287679243",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot D",
+   "label_short": "4mm x 6mm"
+  },
+  {
+   "sku": "67925",
+   "slot_letter": "E",
+   "name": "4mm x 12mm metric slotted flat head machine screw, 0.70 pitch",
+   "price_cents": 43,
+   "upc": "738287679250",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot E",
+   "label_short": "4mm x 12mm"
+  },
+  {
+   "sku": "67926",
+   "slot_letter": "F",
+   "name": "4mm x 20mm metric slotted flat head machine screw, 0.70 pitch",
+   "price_cents": 48,
+   "upc": "738287679267",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot F",
+   "label_short": "4mm x 20mm"
+  },
+  {
+   "sku": "67927",
+   "slot_letter": "G",
+   "name": "4mm x 25mm metric slotted flat head machine screw, 0.70 pitch",
+   "price_cents": 52,
+   "upc": "738287679274",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot G",
+   "label_short": "4mm x 25mm"
+  },
+  {
+   "sku": "67928",
+   "slot_letter": "H",
+   "name": "5mm x 10mm metric slotted flat head machine screw, 0.80 pitch",
+   "price_cents": 41,
+   "upc": "738287679281",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot H",
+   "label_short": "5mm x 10mm"
+  },
+  {
+   "sku": "67931",
+   "slot_letter": "J",
+   "name": "5mm x 16mm metric slotted flat head machine screw, 0.80 pitch",
+   "price_cents": 45,
+   "upc": "738287679311",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot J",
+   "label_short": "5mm x 16mm"
+  },
+  {
+   "sku": "67932",
+   "slot_letter": "K",
+   "name": "5mm x 20mm metric slotted flat head machine screw, 0.80 pitch",
+   "price_cents": 50,
+   "upc": "738287679328",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot K",
+   "label_short": "5mm x 20mm"
+  },
+  {
+   "sku": "67933",
+   "slot_letter": "L",
+   "name": "5mm x 25mm metric slotted flat head machine screw, 0.80 pitch",
+   "price_cents": 57,
+   "upc": "738287679335",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot L",
+   "label_short": "5mm x 25mm"
+  },
+  {
+   "sku": "67934",
+   "slot_letter": "M",
+   "name": "5mm x 30mm metric slotted flat head machine screw, 0.80 pitch",
+   "price_cents": 69,
+   "upc": "738287679342",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot M",
+   "label_short": "5mm x 30mm"
+  },
+  {
+   "sku": "67935",
+   "slot_letter": "N",
+   "name": "6mm x 12mm metric slotted flat head machine screw, 1.00 pitch",
+   "price_cents": 57,
+   "upc": "738287679359",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot N",
+   "label_short": "6mm x 12mm"
+  },
+  {
+   "sku": "67936",
+   "slot_letter": "P",
+   "name": "6mm x 16mm metric slotted flat head machine screw, 1.00 pitch",
+   "price_cents": 64,
+   "upc": "738287679366",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot P",
+   "label_short": "6mm x 16mm"
+  },
+  {
+   "sku": "67937",
+   "slot_letter": "Q",
+   "name": "6mm x 20mm metric slotted flat head machine screw, 1.00 pitch",
+   "price_cents": 68,
+   "upc": "738287679373",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot Q",
+   "label_short": "6mm x 20mm"
+  },
+  {
+   "sku": "67938",
+   "slot_letter": "R",
+   "name": "6mm x 25mm metric slotted flat head machine screw, 1.00 pitch",
+   "price_cents": 75,
+   "upc": "738287679380",
+   "upc_source": "read_from_label",
+   "location": "Metric 67, slot R",
+   "label_short": "6mm x 25mm"
+  }
+ ]
+}

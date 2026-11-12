@@ -1,0 +1,263 @@
+{
+ "note": "Right-hand wall of the screw aisle (photographed 2026-11-11). Columns numbered in photo order; ids are prefixed R (e.g. Rc01r1). Bottom = red bin shelving photos, 2 units each, in photo order.",
+ "columns": {
+  "1": {
+   "fronts": "IMG_7575.jpg",
+   "trays": [
+    "IMG_7576.jpg",
+    "IMG_7579.jpg",
+    "IMG_7580.jpg",
+    "IMG_7581.jpg",
+    "IMG_7582.jpg",
+    "IMG_7583.jpg"
+   ]
+  },
+  "2": {
+   "fronts": "IMG_7584.jpg",
+   "trays": [
+    "IMG_7585.jpg",
+    "IMG_7587.jpg",
+    "IMG_7588.jpg",
+    "IMG_7589.jpg",
+    "IMG_7590.jpg"
+   ]
+  },
+  "3": {
+   "fronts": "IMG_7591.jpg",
+   "trays": [
+    "IMG_7592.jpg",
+    "IMG_7593.jpg",
+    "IMG_7594.jpg",
+    "IMG_7595.jpg",
+    "IMG_7596.jpg"
+   ]
+  },
+  "4": {
+   "fronts": "IMG_7597.jpg",
+   "trays": [
+    "IMG_7598.jpg",
+    "IMG_7599.jpg",
+    "IMG_7600.jpg",
+    "IMG_7601.jpg",
+    "IMG_7602.jpg"
+   ]
+  },
+  "5": {
+   "fronts": "IMG_7603.jpg",
+   "trays": [
+    "IMG_7604.jpg",
+    "IMG_7605.jpg",
+    "IMG_7606.jpg",
+    "IMG_7607.jpg",
+    "IMG_7608.jpg"
+   ]
+  },
+  "6": {
+   "fronts": "IMG_7609.jpg",
+   "trays": [
+    "IMG_7610.jpg",
+    "IMG_7611.jpg",
+    "IMG_7612.jpg",
+    "IMG_7613.jpg",
+    "IMG_7614.jpg",
+    "IMG_7615.jpg"
+   ]
+  },
+  "7": {
+   "fronts": "IMG_7616.jpg",
+   "trays": [
+    "IMG_7617.jpg",
+    "IMG_7618.jpg",
+    "IMG_7619.jpg",
+    "IMG_7620.jpg",
+    "IMG_7621.jpg"
+   ]
+  },
+  "8": {
+   "fronts": "IMG_7622.jpg",
+   "trays": [
+    "IMG_7623.jpg",
+    "IMG_7624.jpg",
+    "IMG_7625.jpg",
+    "IMG_7626.jpg",
+    "IMG_7627.jpg"
+   ]
+  },
+  "9": {
+   "fronts": "IMG_7628.jpg",
+   "trays": [
+    "IMG_7629.jpg",
+    "IMG_7630.jpg",
+    "IMG_7631.jpg",
+    "IMG_7632.jpg",
+    "IMG_7633.jpg"
+   ]
+  },
+  "10": {
+   "fronts": "IMG_7634.jpg",
+   "trays": [
+    "IMG_7635.jpg",
+    "IMG_7636.jpg",
+    "IMG_7637.jpg",
+    "IMG_7638.jpg",
+    "IMG_7639.jpg"
+   ]
+  },
+  "11": {
+   "fronts": "IMG_7640.jpg",
+   "trays": [
+    "IMG_7641.jpg",
+    "IMG_7642.jpg",
+    "IMG_7643.jpg",
+    "IMG_7644.jpg",
+    "IMG_7645.jpg"
+   ]
+  },
+  "12": {
+   "fronts": "IMG_7646.jpg",
+   "trays": [
+    "IMG_7647.jpg",
+    "IMG_7648.jpg",
+    "IMG_7649.jpg",
+    "IMG_7650.jpg",
+    "IMG_7652.jpg"
+   ]
+  },
+  "13": {
+   "fronts": "IMG_7653.jpg",
+   "trays": [
+    "IMG_7656.jpg",
+    "IMG_7657.jpg",
+    "IMG_7658.jpg",
+    "IMG_7659.jpg",
+    "IMG_7660.jpg",
+    "IMG_7661.jpg"
+   ]
+  },
+  "14": {
+   "fronts": "IMG_7662.jpg",
+   "trays": [
+    "IMG_7663.jpg",
+    "IMG_7664.jpg",
+    "IMG_7665.jpg",
+    "IMG_7666.jpg",
+    "IMG_7667.jpg"
+   ]
+  },
+  "15": {
+   "fronts": "IMG_7669.jpg",
+   "trays": [
+    "IMG_7670.jpg",
+    "IMG_7671.jpg",
+    "IMG_7672.jpg",
+    "IMG_7673.jpg",
+    "IMG_7674.jpg"
+   ]
+  },
+  "16": {
+   "fronts": "IMG_7675.jpg",
+   "trays": [
+    "IMG_7676.jpg",
+    "IMG_7677.jpg",
+    "IMG_7678.jpg",
+    "IMG_7679.jpg",
+    "IMG_7680.jpg"
+   ]
+  },
+  "17": {
+   "fronts": "IMG_7681.jpg",
+   "trays": [
+    "IMG_7682.jpg",
+    "IMG_7683.jpg",
+    "IMG_7684.jpg",
+    "IMG_7685.jpg",
+    "IMG_7686.jpg"
+   ]
+  },
+  "18": {
+   "fronts": "IMG_7687.jpg",
+   "trays": [
+    "IMG_7688.jpg",
+    "IMG_7689.jpg",
+    "IMG_7690.jpg",
+    "IMG_7691.jpg",
+    "IMG_7694.jpg"
+   ]
+  },
+  "19": {
+   "fronts": "IMG_7695.jpg",
+   "trays": [
+    "IMG_7696.jpg",
+    "IMG_7697.jpg",
+    "IMG_7698.jpg",
+    "IMG_7699.jpg",
+    "IMG_7700.jpg"
+   ]
+  },
+  "20": {
+   "fronts": "IMG_7701.jpg",
+   "trays": [
+    "IMG_7702.jpg",
+    "IMG_7703.jpg",
+    "IMG_7704.jpg",
+    "IMG_7705.jpg",
+    "IMG_7706.jpg"
+   ]
+  },
+  "21": {
+   "fronts": "IMG_7707.jpg",
+   "trays": [
+    "IMG_7708.jpg",
+    "IMG_7709.jpg",
+    "IMG_7711.jpg",
+    "IMG_7712.jpg",
+    "IMG_7713.jpg",
+    "IMG_7714.jpg"
+   ]
+  },
+  "22": {
+   "fronts": "IMG_7715.jpg",
+   "trays": [
+    "IMG_7716.jpg",
+    "IMG_7717.jpg",
+    "IMG_7718.jpg",
+    "IMG_7719.jpg",
+    "IMG_7720.jpg"
+   ]
+  },
+  "23": {
+   "fronts": "IMG_7721.jpg",
+   "trays": [
+    "IMG_7722.jpg",
+    "IMG_7723.jpg",
+    "IMG_7724.jpg",
+    "IMG_7725.jpg",
+    "IMG_7726.jpg"
+   ]
+  },
+  "24": {
+   "fronts": "IMG_7727.jpg",
+   "trays": [
+    "IMG_7728.jpg",
+    "IMG_7729.jpg",
+    "IMG_7730.jpg",
+    "IMG_7731.jpg",
+    "IMG_7732.jpg"
+   ]
+  }
+ },
+ "bottom": [
+  "IMG_7734.jpg",
+  "IMG_7735.jpg",
+  "IMG_7736.jpg",
+  "IMG_7737.jpg",
+  "IMG_7738.jpg",
+  "IMG_7739.jpg",
+  "IMG_7740.jpg",
+  "IMG_7741.jpg",
+  "IMG_7742.jpg",
+  "IMG_7743.jpg",
+  "IMG_7744.jpg",
+  "IMG_7745.jpg"
+ ]
+}

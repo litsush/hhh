@@ -1,0 +1,563 @@
+{
+ "id": "Rc09r3",
+ "wall": "right",
+ "column": 9,
+ "row": 3,
+ "half": null,
+ "title": "Metric 101 and Metric 102",
+ "description": "Stainless steel metric Phillips pan head (69560) and flat head (69540) machine screws, 3mm to 6mm diameter, coarse thread.",
+ "front_image": "images/fronts/Rc09r3.jpg",
+ "tray_image": "images/trays/Rc09r3.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.15,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 1,
+   "x0": 0.15,
+   "y0": 0.0,
+   "x1": 0.2708,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2708,
+   "y0": 0.0,
+   "x1": 0.3917,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3917,
+   "y0": 0.0,
+   "x1": 0.5083,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5083,
+   "y0": 0.0,
+   "x1": 0.6292,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6292,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 6,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 0.8708,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8708,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.2437,
+   "x1": 0.1417,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1417,
+   "y0": 0.2437,
+   "x1": 0.2667,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2667,
+   "y0": 0.2437,
+   "x1": 0.3875,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3875,
+   "y0": 0.2437,
+   "x1": 0.5083,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5083,
+   "y0": 0.2437,
+   "x1": 0.6292,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6292,
+   "y0": 0.2437,
+   "x1": 0.75,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 14,
+   "x0": 0.75,
+   "y0": 0.2437,
+   "x1": 0.8708,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8708,
+   "y0": 0.2437,
+   "x1": 1.0,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.4875,
+   "x1": 0.1292,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1292,
+   "y0": 0.4875,
+   "x1": 0.2542,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 18,
+   "x0": 0.2542,
+   "y0": 0.4875,
+   "x1": 0.3833,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 19,
+   "x0": 0.3833,
+   "y0": 0.4875,
+   "x1": 0.5083,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 20,
+   "x0": 0.5083,
+   "y0": 0.4875,
+   "x1": 0.6292,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 21,
+   "x0": 0.6292,
+   "y0": 0.4875,
+   "x1": 0.7542,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 22,
+   "x0": 0.7542,
+   "y0": 0.4875,
+   "x1": 0.875,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 23,
+   "x0": 0.875,
+   "y0": 0.4875,
+   "x1": 1.0,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0,
+   "y0": 0.7375,
+   "x1": 0.125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.125,
+   "y0": 0.7375,
+   "x1": 0.2542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.2542,
+   "y0": 0.7375,
+   "x1": 0.3833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.3833,
+   "y0": 0.7375,
+   "x1": 0.5083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.5083,
+   "y0": 0.7375,
+   "x1": 0.6333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.6333,
+   "y0": 0.7375,
+   "x1": 0.7583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.7583,
+   "y0": 0.7375,
+   "x1": 0.8833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 31,
+   "x0": 0.8833,
+   "y0": 0.7375,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "69561",
+   "slot_letter": "A",
+   "name": "M3 x 0.50 x 6mm stainless steel Phillips pan head machine screw",
+   "price_cents": 38,
+   "upc": "738287695618",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot A",
+   "label_short": "3x6 pan"
+  },
+  {
+   "sku": "69562",
+   "slot_letter": "B",
+   "name": "M3 x 0.50 x 10mm stainless steel Phillips pan head machine screw",
+   "price_cents": 43,
+   "upc": "738287695625",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot B",
+   "label_short": "3x10 pan"
+  },
+  {
+   "sku": "69563",
+   "slot_letter": "C",
+   "name": "M3 x 0.50 x 20mm stainless steel Phillips pan head machine screw",
+   "price_cents": 50,
+   "upc": "738287695632",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot C",
+   "label_short": "3x20 pan"
+  },
+  {
+   "sku": "69564",
+   "slot_letter": "D",
+   "name": "M4 x 0.70 x 6mm stainless steel Phillips pan head machine screw",
+   "price_cents": 54,
+   "upc": "738287695649",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot D",
+   "label_short": "4x6 pan"
+  },
+  {
+   "sku": "69565",
+   "slot_letter": "E",
+   "name": "M4 x 0.70 x 12mm stainless steel Phillips pan head machine screw",
+   "price_cents": 57,
+   "upc": "738287695656",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot E",
+   "label_short": "4x12 pan"
+  },
+  {
+   "sku": "69566",
+   "slot_letter": "F",
+   "name": "M4 x 0.70 x 20mm stainless steel Phillips pan head machine screw",
+   "price_cents": 65,
+   "upc": "738287695663",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot F",
+   "label_short": "4x20 pan"
+  },
+  {
+   "sku": "69567",
+   "slot_letter": "G",
+   "name": "M4 x 0.70 x 25mm stainless steel Phillips pan head machine screw",
+   "price_cents": 69,
+   "upc": "738287695670",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot G",
+   "label_short": "4x25 pan"
+  },
+  {
+   "sku": "69568",
+   "slot_letter": "H",
+   "name": "M5 x 0.80 x 10mm stainless steel Phillips pan head machine screw",
+   "price_cents": 75,
+   "upc": "738287695687",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot H",
+   "label_short": "5x10 pan"
+  },
+  {
+   "sku": "69571",
+   "slot_letter": "J",
+   "name": "M5 x 0.80 x 16mm stainless steel Phillips pan head machine screw",
+   "price_cents": 79,
+   "upc": "738287695717",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot J",
+   "label_short": "5x16 pan"
+  },
+  {
+   "sku": "69572",
+   "slot_letter": "K",
+   "name": "M5 x 0.80 x 20mm stainless steel Phillips pan head machine screw",
+   "price_cents": 89,
+   "upc": "738287695724",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot K",
+   "label_short": "5x20 pan"
+  },
+  {
+   "sku": "69573",
+   "slot_letter": "L",
+   "name": "M5 x 0.80 x 25mm stainless steel Phillips pan head machine screw",
+   "price_cents": 95,
+   "upc": "738287695731",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot L",
+   "label_short": "5x25 pan"
+  },
+  {
+   "sku": "69574",
+   "slot_letter": "M",
+   "name": "M5 x 0.80 x 30mm stainless steel Phillips pan head machine screw",
+   "price_cents": 99,
+   "upc": "738287695748",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot M",
+   "label_short": "5x30 pan"
+  },
+  {
+   "sku": "69575",
+   "slot_letter": "N",
+   "name": "M6 x 1.00 x 12mm stainless steel Phillips pan head machine screw",
+   "price_cents": 95,
+   "upc": "738287695755",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot N",
+   "label_short": "6x12 pan"
+  },
+  {
+   "sku": "69576",
+   "slot_letter": "P",
+   "name": "M6 x 1.00 x 16mm stainless steel Phillips pan head machine screw",
+   "price_cents": 99,
+   "upc": "738287695762",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot P",
+   "label_short": "6x16 pan"
+  },
+  {
+   "sku": "69577",
+   "slot_letter": "Q",
+   "name": "M6 x 1.00 x 20mm stainless steel Phillips pan head machine screw",
+   "price_cents": 115,
+   "upc": "738287695779",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot Q",
+   "label_short": "6x20 pan"
+  },
+  {
+   "sku": "69578",
+   "slot_letter": "R",
+   "name": "M6 x 1.00 x 25mm stainless steel Phillips pan head machine screw",
+   "price_cents": 115,
+   "upc": "738287695786",
+   "upc_source": "read_from_label",
+   "location": "Metric 101, slot R",
+   "label_short": "6x25 pan"
+  },
+  {
+   "sku": "69541",
+   "slot_letter": "A",
+   "name": "M3 x 0.50 x 6mm stainless steel Phillips flat head machine screw",
+   "price_cents": 38,
+   "upc": "738287695410",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot A",
+   "label_short": "3x6 flat"
+  },
+  {
+   "sku": "69542",
+   "slot_letter": "B",
+   "name": "M3 x 0.50 x 10mm stainless steel Phillips flat head machine screw",
+   "price_cents": 43,
+   "upc": "738287695427",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot B",
+   "label_short": "3x10 flat"
+  },
+  {
+   "sku": "69543",
+   "slot_letter": "C",
+   "name": "M3 x 0.50 x 20mm stainless steel Phillips flat head machine screw",
+   "price_cents": 50,
+   "upc": "738287695434",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot C",
+   "label_short": "3x20 flat"
+  },
+  {
+   "sku": "69544",
+   "slot_letter": "D",
+   "name": "M4 x 0.70 x 6mm stainless steel Phillips flat head machine screw",
+   "price_cents": 54,
+   "upc": "738287695441",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot D",
+   "label_short": "4x6 flat"
+  },
+  {
+   "sku": "69545",
+   "slot_letter": "E",
+   "name": "M4 x 0.70 x 12mm stainless steel Phillips flat head machine screw",
+   "price_cents": 57,
+   "upc": "738287695458",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot E",
+   "label_short": "4x12 flat"
+  },
+  {
+   "sku": "69546",
+   "slot_letter": "F",
+   "name": "M4 x 0.70 x 20mm stainless steel Phillips flat head machine screw",
+   "price_cents": 65,
+   "upc": "738287695465",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot F",
+   "label_short": "4x20 flat"
+  },
+  {
+   "sku": "69547",
+   "slot_letter": "G",
+   "name": "M4 x 0.70 x 25mm stainless steel Phillips flat head machine screw",
+   "price_cents": 69,
+   "upc": "738287695472",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot G",
+   "label_short": "4x25 flat"
+  },
+  {
+   "sku": "69548",
+   "slot_letter": "H",
+   "name": "M5 x 0.80 x 10mm stainless steel Phillips flat head machine screw",
+   "price_cents": 75,
+   "upc": "738287695489",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot H",
+   "label_short": "5x10 flat"
+  },
+  {
+   "sku": "69551",
+   "slot_letter": "J",
+   "name": "M5 x 0.80 x 16mm stainless steel Phillips flat head machine screw",
+   "price_cents": 79,
+   "upc": "738287695519",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot J",
+   "label_short": "5x16 flat"
+  },
+  {
+   "sku": "69552",
+   "slot_letter": "K",
+   "name": "M5 x 0.80 x 20mm stainless steel Phillips flat head machine screw",
+   "price_cents": 89,
+   "upc": "738287695526",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot K",
+   "label_short": "5x20 flat"
+  },
+  {
+   "sku": "69553",
+   "slot_letter": "L",
+   "name": "M5 x 0.80 x 25mm stainless steel Phillips flat head machine screw",
+   "price_cents": 95,
+   "upc": "738287695533",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot L",
+   "label_short": "5x25 flat"
+  },
+  {
+   "sku": "69554",
+   "slot_letter": "M",
+   "name": "M5 x 0.80 x 30mm stainless steel Phillips flat head machine screw",
+   "price_cents": 99,
+   "upc": "738287695540",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot M",
+   "label_short": "5x30 flat"
+  },
+  {
+   "sku": "69555",
+   "slot_letter": "N",
+   "name": "M6 x 1.00 x 12mm stainless steel Phillips flat head machine screw",
+   "price_cents": 89,
+   "upc": "738287695557",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot N",
+   "label_short": "6x12 flat"
+  },
+  {
+   "sku": "69556",
+   "slot_letter": "P",
+   "name": "M6 x 1.00 x 16mm stainless steel Phillips flat head machine screw",
+   "price_cents": 99,
+   "upc": "738287695564",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot P",
+   "label_short": "6x16 flat"
+  },
+  {
+   "sku": "69557",
+   "slot_letter": "Q",
+   "name": "M6 x 1.00 x 20mm stainless steel Phillips flat head machine screw",
+   "price_cents": 105,
+   "upc": "738287695571",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot Q",
+   "label_short": "6x20 flat"
+  },
+  {
+   "sku": "69558",
+   "slot_letter": "R",
+   "name": "M6 x 1.00 x 25mm stainless steel Phillips flat head machine screw",
+   "price_cents": 115,
+   "upc": "738287695588",
+   "upc_source": "read_from_label",
+   "location": "Metric 102, slot R",
+   "label_short": "6x25 flat"
+  }
+ ]
+}

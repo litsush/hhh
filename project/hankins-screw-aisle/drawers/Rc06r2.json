@@ -1,0 +1,155 @@
+{
+ "id": "Rc06r2",
+ "wall": "right",
+ "column": 6,
+ "row": 2,
+ "half": null,
+ "title": "Metric 74.9",
+ "description": "Metric Phillips truss head machine screws, 6mm x 1.00 pitch, 12mm to 50mm long (31320).",
+ "front_image": "images/fronts/Rc06r2.jpg",
+ "tray_image": "images/trays/Rc06r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.475
+  },
+  {
+   "item_index": 1,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.5042,
+   "y1": 0.475
+  },
+  {
+   "item_index": 2,
+   "x0": 0.5042,
+   "y0": 0.0,
+   "x1": 0.7583,
+   "y1": 0.475
+  },
+  {
+   "item_index": 3,
+   "x0": 0.7583,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.475
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.475,
+   "x1": 0.25,
+   "y1": 1.0
+  },
+  {
+   "item_index": 5,
+   "x0": 0.25,
+   "y0": 0.475,
+   "x1": 0.5083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.5083,
+   "y0": 0.475,
+   "x1": 0.7667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.7667,
+   "y0": 0.475,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "31321",
+   "slot_letter": "A",
+   "name": "6mm x 12mm metric Phillips truss head machine screw, zinc, 1.00 pitch",
+   "price_cents": 58,
+   "upc": "738287313215",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.9, slot A",
+   "label_short": "6mm x 12mm"
+  },
+  {
+   "sku": "31322",
+   "slot_letter": "B",
+   "name": "6mm x 16mm metric Phillips truss head machine screw, zinc, 1.00 pitch",
+   "price_cents": 64,
+   "upc": "738287313222",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.9, slot B",
+   "label_short": "6mm x 16mm"
+  },
+  {
+   "sku": "31323",
+   "slot_letter": "C",
+   "name": "6mm x 20mm metric Phillips truss head machine screw, zinc, 1.00 pitch",
+   "price_cents": 69,
+   "upc": "738287313239",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.9, slot C",
+   "label_short": "6mm x 20mm"
+  },
+  {
+   "sku": "31324",
+   "slot_letter": "D",
+   "name": "6mm x 25mm metric Phillips truss head machine screw, zinc, 1.00 pitch",
+   "price_cents": 69,
+   "upc": "738287313246",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.9, slot D",
+   "label_short": "6mm x 25mm"
+  },
+  {
+   "sku": "31325",
+   "slot_letter": "E",
+   "name": "6mm x 30mm metric Phillips truss head machine screw, zinc, 1.00 pitch",
+   "price_cents": 85,
+   "upc": "738287313253",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.9, slot E",
+   "label_short": "6mm x 30mm"
+  },
+  {
+   "sku": "31326",
+   "slot_letter": "F",
+   "name": "6mm x 35mm metric Phillips truss head machine screw, zinc, 1.00 pitch",
+   "price_cents": 95,
+   "upc": "738287313260",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.9, slot F",
+   "label_short": "6mm x 35mm"
+  },
+  {
+   "sku": "31327",
+   "slot_letter": "G",
+   "name": "6mm x 40mm metric Phillips truss head machine screw, zinc, 1.00 pitch",
+   "price_cents": 109,
+   "upc": "738287313277",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.9, slot G",
+   "label_short": "6mm x 40mm"
+  },
+  {
+   "sku": "31328",
+   "slot_letter": "H",
+   "name": "6mm x 50mm metric Phillips truss head machine screw, zinc, 1.00 pitch",
+   "price_cents": 125,
+   "upc": "738287313284",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.9, slot H",
+   "label_short": "6mm x 50mm"
+  }
+ ]
+}

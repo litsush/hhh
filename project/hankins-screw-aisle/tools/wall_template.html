@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Screw aisle drawer wall</title>
+<title>Screw aisle drawers</title>
 <style>
 :root{--ink:#16233f;--mute:#5d6880;--paper:#f3f1ea;--line:#d8d4c8;--blue:#14389a;--tag:#c8203a}
 *{box-sizing:border-box}html,body{margin:0}
 body{background:var(--paper);color:var(--ink);font:16px/1.4 system-ui,-apple-system,"Segoe UI",sans-serif}
 header{padding:20px 16px 12px;max-width:900px}
-h1{font-size:22px;margin:0 0 2px}header p{margin:0;color:var(--mute);font-size:14px}
+h1{font-size:22px;margin:0 0 2px}h2{font-size:17px;margin:14px 16px 4px}h2 small{font-weight:400;color:var(--mute);font-size:13px}header p{margin:0;color:var(--mute);font-size:14px}
 .wall{overflow-x:auto;padding:4px 16px 18px;-webkit-overflow-scrolling:touch}
 .grid{display:grid;grid-auto-flow:column;grid-template-rows:repeat(5,auto);grid-auto-columns:clamp(210px,62vw,300px);gap:3px;width:max-content;background:var(--blue);padding:6px;border-radius:6px}
 .tile{display:block;aspect-ratio:720/150;border:0;padding:0;margin:0;width:100%;background:#0e2a78;cursor:pointer;position:relative;border-radius:2px;overflow:hidden}
@@ -21,24 +21,29 @@ h1{font-size:22px;margin:0 0 2px}header p{margin:0;color:var(--mute);font-size:1
 .note{padding:0 16px 28px;color:var(--mute);font-size:14px;max-width:640px}
 .key{display:inline-block;width:9px;height:9px;border-radius:50%;background:#ffc53d;box-shadow:0 0 0 2px #14389a;margin:0 5px 0 2px}
 </style><link rel="stylesheet" href="drawer.css"></head><body>
-<header><h1>Screw aisle drawer wall</h1><p><a href="3d.html">See it in 3D</a> · 5 drawers high, 30 wide. __DRAWERS__ drawers with __ITEMS__ products, plus __BINPRODUCTS__ products in the bins below. Tap a drawer to pull it out, or a red bin shelf below it.</p></header>
-<div class="wall"><div class="grid" id="grid"></div><div class="bins" id="bins" hidden></div></div>
-<p class="note"><span class="key"></span>marks a drawer with its inside photographed. Columns done: __DONE__ of __COLS__. Scroll sideways to see the whole wall.</p>
+<header><h1>Screw aisle drawers</h1><p><a href="3d.html">See it in 3D</a> · Both sides of the aisle: __DRAWERS__ drawers with __ITEMS__ products, plus __BINPRODUCTS__ products in the red bins below them. Tap a drawer to pull it out, or a red bin shelf.</p></header>
+<div id="walls"></div>
+<p class="note"><span class="key"></span>marks a drawer with its inside photographed. Scroll each wall sideways to see all of it.</p>
 <script src="drawer.js"></script>
 <script>
-const D=__DATA__, B=__BINS__, COLS=__COLS__;
-const $=id=>document.getElementById(id), grid=$('grid');
-const by={};D.forEach(d=>{(by[d.c+'.'+d.r]=by[d.c+'.'+d.r]||[]).push(d)});
-for(let c=1;c<=COLS;c++)for(let r=1;r<=5;r++){
- const ds=by[c+'.'+r];
- if(!ds){const e=document.createElement('div');e.className='empty';e.textContent='Column '+c+', row '+r;grid.appendChild(e);continue}
- const box=ds.length>1||ds[0].h?document.createElement('div'):grid;if(box!==grid){box.className='pair';grid.appendChild(box)}
- ds.forEach(d=>{const b=document.createElement('button');b.className='tile'+(d.items.length?' has':'')+(d.h?' half '+d.h:'');
-  b.setAttribute('aria-label','Open drawer: '+d.t+' (column '+c+', row '+r+')');b.title=d.t;
-  b.innerHTML='<img alt="" loading="lazy" src="'+d.f+'">';b.onclick=()=>DrawerView.open(d,b);b.dataset.id=d.id;box.appendChild(b)})}
-if(B.length){const bx=$('bins');bx.hidden=false;
- for(let c=1;c<=Math.max(COLS,...B.map(b=>b.c));c++){const b=B.find(x=>x.c===c);const e=document.createElement(b?'button':'div');e.className='btile';
-  if(b){e.style.backgroundImage='url('+b.i+')';e.innerHTML='<span>Column '+c+' bins \u00b7 '+b.items.length+'</span>';e.setAttribute('aria-label','Open bins under column '+c);e.dataset.id=b.id;e.onclick=()=>DrawerView.open(b,e)}
-  bx.appendChild(e)}}
+const D=__DATA__, B=__BINS__, WALLS=__WALLS__;
+const $=id=>document.getElementById(id);
+for(const W of WALLS){
+ const sec=document.createElement('section');sec.className='wallsec';
+ const Dw=D.filter(d=>d.wl===W.key),Bw=B.filter(b=>b.wl===W.key);
+ sec.innerHTML='<h2>'+W.name+' <small>'+W.cols+' columns \u00b7 '+Dw.length+' drawers</small></h2><div class="wall"><div class="grid"></div><div class="bins" hidden></div></div>';
+ $('walls').appendChild(sec);const grid=sec.querySelector('.grid'),bx=sec.querySelector('.bins');
+ const by={};Dw.forEach(d=>{(by[d.c+'.'+d.r]=by[d.c+'.'+d.r]||[]).push(d)});
+ for(let c=1;c<=W.cols;c++)for(let r=1;r<=5;r++){
+  const ds=by[c+'.'+r];
+  if(!ds){const e=document.createElement('div');e.className='empty';e.textContent='Column '+c+', row '+r;grid.appendChild(e);continue}
+  const box=ds.length>1||ds[0].h?document.createElement('div'):grid;if(box!==grid){box.className='pair';grid.appendChild(box)}
+  ds.forEach(d=>{const b=document.createElement('button');b.className='tile'+(d.items.length?' has':'')+(d.h?' half '+d.h:'');
+   b.setAttribute('aria-label','Open drawer: '+d.t+' ('+W.name+', column '+c+', row '+r+')');b.title=d.t;
+   b.innerHTML='<img alt="" loading="lazy" src="'+d.f+'">';b.onclick=()=>DrawerView.open(d,b);b.dataset.id=d.id;box.appendChild(b)})}
+ if(Bw.length){bx.hidden=false;
+  for(let c=1;c<=Math.max(W.cols,...Bw.map(b=>b.c));c++){const b=Bw.find(x=>x.c===c);const e=document.createElement(b?'button':'div');e.className='btile';
+   if(b){e.style.backgroundImage='url('+b.i+')';e.innerHTML='<span>Column '+c+' bins \u00b7 '+b.items.length+'</span>';e.setAttribute('aria-label','Open bins under column '+c+', '+W.name);e.dataset.id=b.id;e.onclick=()=>DrawerView.open(b,e)}
+   bx.appendChild(e)}}}
 {const id=decodeURIComponent(location.hash.slice(1)),d=D.find(x=>x.id===id)||B.find(x=>x.id===id);if(d)setTimeout(()=>DrawerView.open(d,document.querySelector('[data-id="'+id+'"]')),50)}
 </script></body></html>

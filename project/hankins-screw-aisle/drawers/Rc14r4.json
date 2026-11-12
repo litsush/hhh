@@ -1,0 +1,563 @@
+{
+ "id": "Rc14r4",
+ "wall": "right",
+ "column": 14,
+ "row": 4,
+ "half": null,
+ "title": "Wood Screw 40 and Wood Screw 41",
+ "description": "Slotted chrometint wood screws: round and oval head steel, #4 x 3/8 to #8 x 2 (62180), and flat, round and oval head brass, #4 x 1/2 to #10 x 1-1/2 (61700).",
+ "front_image": "images/fronts/Rc14r4.jpg",
+ "tray_image": "images/trays/Rc14r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1433,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1433,
+   "y0": 0.0,
+   "x1": 0.2667,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2667,
+   "y0": 0.0,
+   "x1": 0.385,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 3,
+   "x0": 0.385,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6183,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6183,
+   "y0": 0.0,
+   "x1": 0.735,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 6,
+   "x0": 0.735,
+   "y0": 0.0,
+   "x1": 0.8583,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8583,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2475
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.2475,
+   "x1": 0.1375,
+   "y1": 0.4975
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1375,
+   "y0": 0.2475,
+   "x1": 0.2625,
+   "y1": 0.4975
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2625,
+   "y0": 0.2475,
+   "x1": 0.3833,
+   "y1": 0.4975
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3833,
+   "y0": 0.2475,
+   "x1": 0.5,
+   "y1": 0.4975
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5,
+   "y0": 0.2475,
+   "x1": 0.6208,
+   "y1": 0.4975
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6208,
+   "y0": 0.2475,
+   "x1": 0.7417,
+   "y1": 0.4975
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7417,
+   "y0": 0.2475,
+   "x1": 0.8625,
+   "y1": 0.4975
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8625,
+   "y0": 0.2475,
+   "x1": 1.0,
+   "y1": 0.4975
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.4975,
+   "x1": 0.1375,
+   "y1": 0.75
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1375,
+   "y0": 0.4975,
+   "x1": 0.2625,
+   "y1": 0.75
+  },
+  {
+   "item_index": 18,
+   "x0": 0.2625,
+   "y0": 0.4975,
+   "x1": 0.385,
+   "y1": 0.75
+  },
+  {
+   "item_index": 19,
+   "x0": 0.385,
+   "y0": 0.4975,
+   "x1": 0.5042,
+   "y1": 0.75
+  },
+  {
+   "item_index": 20,
+   "x0": 0.5042,
+   "y0": 0.4975,
+   "x1": 0.6267,
+   "y1": 0.75
+  },
+  {
+   "item_index": 21,
+   "x0": 0.6267,
+   "y0": 0.4975,
+   "x1": 0.75,
+   "y1": 0.75
+  },
+  {
+   "item_index": 22,
+   "x0": 0.75,
+   "y0": 0.4975,
+   "x1": 0.8733,
+   "y1": 0.75
+  },
+  {
+   "item_index": 23,
+   "x0": 0.8733,
+   "y0": 0.4975,
+   "x1": 1.0,
+   "y1": 0.75
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0,
+   "y0": 0.75,
+   "x1": 0.1292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.1292,
+   "y0": 0.75,
+   "x1": 0.2583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.2583,
+   "y0": 0.75,
+   "x1": 0.385,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.385,
+   "y0": 0.75,
+   "x1": 0.5083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.5083,
+   "y0": 0.75,
+   "x1": 0.6292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.6292,
+   "y0": 0.75,
+   "x1": 0.7542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.7542,
+   "y0": 0.75,
+   "x1": 0.875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 31,
+   "x0": 0.875,
+   "y0": 0.75,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "62181",
+   "slot_letter": "A",
+   "name": "#4 x 1/2 slotted round head wood screw, chrometint steel",
+   "price_cents": 34,
+   "upc": "738287621815",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot A",
+   "label_short": "#4 x 1/2 round"
+  },
+  {
+   "sku": "62182",
+   "slot_letter": "B",
+   "name": "#6 x 5/8 slotted round head wood screw, chrometint steel",
+   "price_cents": 35,
+   "upc": "738287621822",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot B",
+   "label_short": "#6 x 5/8 round"
+  },
+  {
+   "sku": "62183",
+   "slot_letter": "C",
+   "name": "#4 x 3/4 slotted round head wood screw, chrometint steel",
+   "price_cents": 35,
+   "upc": "738287621839",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot C",
+   "label_short": "#4 x 3/4 round"
+  },
+  {
+   "sku": "62184",
+   "slot_letter": "D",
+   "name": "#6 x 3/4 slotted round head wood screw, chrometint steel",
+   "price_cents": 38,
+   "upc": "738287621846",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot D",
+   "label_short": "#6 x 3/4 round"
+  },
+  {
+   "sku": "62185",
+   "slot_letter": "E",
+   "name": "#6 x 1 slotted round head wood screw, chrometint steel",
+   "price_cents": 44,
+   "upc": "738287621853",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot E",
+   "label_short": "#6 x 1 round"
+  },
+  {
+   "sku": "62186",
+   "slot_letter": "F",
+   "name": "#6 x 1-1/4 slotted round head wood screw, chrometint steel",
+   "price_cents": 54,
+   "upc": "738287621860",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot F",
+   "label_short": "#6 x 1-1/4 round"
+  },
+  {
+   "sku": "62187",
+   "slot_letter": "G",
+   "name": "#6 x 1-1/2 slotted round head wood screw, chrometint steel",
+   "price_cents": 64,
+   "upc": "738287621877",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot G",
+   "label_short": "#6 x 1-1/2 round"
+  },
+  {
+   "sku": "62188",
+   "slot_letter": "H",
+   "name": "#8 x 2 slotted round head wood screw, chrometint steel",
+   "price_cents": 69,
+   "upc": "738287621884",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot H",
+   "label_short": "#8 x 2 round"
+  },
+  {
+   "sku": "62191",
+   "slot_letter": "J",
+   "name": "#4 x 3/8 slotted oval head wood screw, chrometint steel",
+   "price_cents": 34,
+   "upc": "738287621914",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot J",
+   "label_short": "#4 x 3/8 oval"
+  },
+  {
+   "sku": "62192",
+   "slot_letter": "K",
+   "name": "#4 x 1/2 slotted oval head wood screw, chrometint steel",
+   "price_cents": 35,
+   "upc": "738287621921",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot K",
+   "label_short": "#4 x 1/2 oval"
+  },
+  {
+   "sku": "62193",
+   "slot_letter": "L",
+   "name": "#6 x 5/8 slotted oval head wood screw, chrometint steel",
+   "price_cents": 36,
+   "upc": "738287621938",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot L",
+   "label_short": "#6 x 5/8 oval"
+  },
+  {
+   "sku": "62194",
+   "slot_letter": "M",
+   "name": "#4 x 3/4 slotted oval head wood screw, chrometint steel",
+   "price_cents": 36,
+   "upc": "738287621945",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot M",
+   "label_short": "#4 x 3/4 oval"
+  },
+  {
+   "sku": "62195",
+   "slot_letter": "N",
+   "name": "#5 x 3/4 slotted oval head wood screw, chrometint steel",
+   "price_cents": 38,
+   "upc": "738287621952",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot N",
+   "label_short": "#5 x 3/4 oval"
+  },
+  {
+   "sku": "62196",
+   "slot_letter": "P",
+   "name": "#6 x 3/4 slotted oval head wood screw, chrometint steel",
+   "price_cents": 43,
+   "upc": "738287621969",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot P",
+   "label_short": "#6 x 3/4 oval"
+  },
+  {
+   "sku": "62197",
+   "slot_letter": "Q",
+   "name": "#6 x 1 slotted oval head wood screw, chrometint steel",
+   "price_cents": 48,
+   "upc": "738287621976",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot Q",
+   "label_short": "#6 x 1 oval"
+  },
+  {
+   "sku": "62198",
+   "slot_letter": "R",
+   "name": "#6 x 1-1/4 slotted oval head wood screw, chrometint steel",
+   "price_cents": 57,
+   "upc": "738287621983",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 40, slot R",
+   "label_short": "#6 x 1-1/4 oval"
+  },
+  {
+   "sku": "61701",
+   "slot_letter": "A",
+   "name": "#6 x 3/4 slotted flat head wood screw, chrometint brass",
+   "price_cents": 51,
+   "upc": "738287617016",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot A",
+   "label_short": "#6 x 3/4 flat"
+  },
+  {
+   "sku": "61702",
+   "slot_letter": "B",
+   "name": "#4 x 1/2 slotted round head wood screw, chrometint brass",
+   "price_cents": 47,
+   "upc": "738287617023",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot B",
+   "label_short": "#4 x 1/2 round"
+  },
+  {
+   "sku": "61703",
+   "slot_letter": "C",
+   "name": "#6 x 3/4 slotted round head wood screw, chrometint brass",
+   "price_cents": 51,
+   "upc": "738287617030",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot C",
+   "label_short": "#6 x 3/4 round"
+  },
+  {
+   "sku": "61704",
+   "slot_letter": "D",
+   "name": "#8 x 1 slotted round head wood screw, chrometint brass",
+   "price_cents": 61,
+   "upc": "738287617047",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot D",
+   "label_short": "#8 x 1 round"
+  },
+  {
+   "sku": "61705",
+   "slot_letter": "E",
+   "name": "#4 x 1/2 slotted oval head wood screw, chrometint brass",
+   "price_cents": 44,
+   "upc": "738287617054",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot E",
+   "label_short": "#4 x 1/2 oval"
+  },
+  {
+   "sku": "61706",
+   "slot_letter": "F",
+   "name": "#4 x 5/8 slotted oval head wood screw, chrometint brass",
+   "price_cents": 46,
+   "upc": "738287617061",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot F",
+   "label_short": "#4 x 5/8 oval"
+  },
+  {
+   "sku": "61707",
+   "slot_letter": "G",
+   "name": "#5 x 3/4 slotted oval head wood screw, chrometint brass",
+   "price_cents": 48,
+   "upc": "738287617078",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot G",
+   "label_short": "#5 x 3/4 oval"
+  },
+  {
+   "sku": "61708",
+   "slot_letter": "H",
+   "name": "#6 x 5/8 slotted oval head wood screw, chrometint brass",
+   "price_cents": 49,
+   "upc": "738287617085",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot H",
+   "label_short": "#6 x 5/8 oval"
+  },
+  {
+   "sku": "61711",
+   "slot_letter": "J",
+   "name": "#6 x 3/4 slotted oval head wood screw, chrometint brass",
+   "price_cents": 51,
+   "upc": "738287617115",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot J",
+   "label_short": "#6 x 3/4 oval"
+  },
+  {
+   "sku": "61712",
+   "slot_letter": "K",
+   "name": "#6 x 1 slotted oval head wood screw, chrometint brass",
+   "price_cents": 58,
+   "upc": "738287617122",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot K",
+   "label_short": "#6 x 1 oval"
+  },
+  {
+   "sku": "61713",
+   "slot_letter": "L",
+   "name": "#8 x 3/4 slotted oval head wood screw, chrometint brass",
+   "price_cents": 59,
+   "upc": "738287617139",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot L",
+   "label_short": "#8 x 3/4 oval"
+  },
+  {
+   "sku": "61714",
+   "slot_letter": "M",
+   "name": "#8 x 1 slotted oval head wood screw, chrometint brass",
+   "price_cents": 68,
+   "upc": "738287617146",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot M",
+   "label_short": "#8 x 1 oval"
+  },
+  {
+   "sku": "61715",
+   "slot_letter": "N",
+   "name": "#8 x 1-1/4 slotted oval head wood screw, chrometint brass",
+   "price_cents": 75,
+   "upc": "738287617153",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot N",
+   "label_short": "#8 x 1-1/4 oval"
+  },
+  {
+   "sku": "61716",
+   "slot_letter": "P",
+   "name": "#10 x 1 slotted oval head wood screw, chrometint brass",
+   "price_cents": 89,
+   "upc": "738287617160",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot P",
+   "label_short": "#10 x 1 oval"
+  },
+  {
+   "sku": "61717",
+   "slot_letter": "Q",
+   "name": "#10 x 1-1/4 slotted oval head wood screw, chrometint brass",
+   "price_cents": 95,
+   "upc": "738287617177",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot Q",
+   "label_short": "#10 x 1-1/4 oval"
+  },
+  {
+   "sku": "61718",
+   "slot_letter": "R",
+   "name": "#10 x 1-1/2 slotted oval head wood screw, chrometint brass",
+   "price_cents": 105,
+   "upc": "738287617184",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 41, slot R",
+   "label_short": "#10 x 1-1/2 oval"
+  }
+ ]
+}

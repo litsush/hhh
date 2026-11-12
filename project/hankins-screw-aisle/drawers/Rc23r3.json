@@ -1,0 +1,394 @@
+{
+ "id": "Rc23r3",
+ "wall": "right",
+ "column": 23,
+ "row": 3,
+ "half": null,
+ "title": "Stainless 105 and Stainless 106",
+ "description": "Stainless steel star drive security pan head sheet metal screws: #6 and #8, 1/2 to 2 (77720), and #10 and #14, 1/2 to 2 (77740).",
+ "front_image": "images/fronts/Rc23r3.jpg",
+ "tray_image": "images/trays/Rc23r3.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1708,
+   "y1": 0.25
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1708,
+   "y0": 0.0,
+   "x1": 0.3375,
+   "y1": 0.25
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3375,
+   "y0": 0.0,
+   "x1": 0.55,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.55,
+   "y0": 0.0,
+   "x1": 0.7625,
+   "y1": 0.25
+  },
+  {
+   "item_index": 4,
+   "x0": 0.7625,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.25
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0,
+   "y0": 0.25,
+   "x1": 0.1667,
+   "y1": 0.5
+  },
+  {
+   "item_index": 6,
+   "x0": 0.1667,
+   "y0": 0.25,
+   "x1": 0.3375,
+   "y1": 0.5
+  },
+  {
+   "item_index": 7,
+   "x0": 0.3375,
+   "y0": 0.25,
+   "x1": 0.5542,
+   "y1": 0.5
+  },
+  {
+   "item_index": 8,
+   "x0": 0.5542,
+   "y0": 0.25,
+   "x1": 0.7667,
+   "y1": 0.5
+  },
+  {
+   "item_index": 9,
+   "x0": 0.7667,
+   "y0": 0.25,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 10,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.1667,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 11,
+   "x0": 0.1667,
+   "y0": 0.5,
+   "x1": 0.3375,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 12,
+   "x0": 0.3375,
+   "y0": 0.5,
+   "x1": 0.5,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 13,
+   "x0": 0.5,
+   "y0": 0.5,
+   "x1": 0.6625,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 14,
+   "x0": 0.6625,
+   "y0": 0.5,
+   "x1": 0.825,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 15,
+   "x0": 0.825,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.7562,
+   "x1": 0.1667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1667,
+   "y0": 0.7562,
+   "x1": 0.3333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 18,
+   "x0": 0.3333,
+   "y0": 0.7562,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 19,
+   "x0": 0.5,
+   "y0": 0.7562,
+   "x1": 0.6625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 20,
+   "x0": 0.6625,
+   "y0": 0.7562,
+   "x1": 0.8292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.8292,
+   "y0": 0.7562,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "77721",
+   "slot_letter": "A",
+   "name": "#6 x 1/2 stainless steel star drive security (pin-in T-10) pan head sheet metal screw",
+   "price_cents": 145,
+   "upc": "738287777215",
+   "upc_source": "read_from_label",
+   "location": "Stainless 105, slot A",
+   "label_short": "6 x 1/2"
+  },
+  {
+   "sku": "77722",
+   "slot_letter": "B",
+   "name": "#6 x 3/4 stainless steel star drive security (pin-in T-10) pan head sheet metal screw",
+   "price_cents": 155,
+   "upc": "738287777222",
+   "upc_source": "read_from_label",
+   "location": "Stainless 105, slot B",
+   "label_short": "6 x 3/4"
+  },
+  {
+   "sku": "77723",
+   "slot_letter": "C",
+   "name": "#6 x 1 stainless steel star drive security (pin-in T-10) pan head sheet metal screw",
+   "price_cents": 195,
+   "upc": "738287777239",
+   "upc_source": "read_from_label",
+   "location": "Stainless 105, slot C",
+   "label_short": "6 x 1"
+  },
+  {
+   "sku": "77724",
+   "slot_letter": "D",
+   "name": "#6 x 1-1/2 stainless steel star drive security (pin-in T-10) pan head sheet metal screw",
+   "price_cents": 229,
+   "upc": "738287777246",
+   "upc_source": "read_from_label",
+   "location": "Stainless 105, slot D",
+   "label_short": "6 x 1-1/2"
+  },
+  {
+   "sku": "77725",
+   "slot_letter": "E",
+   "name": "#6 x 2 stainless steel star drive security (pin-in T-10) pan head sheet metal screw",
+   "price_cents": 289,
+   "upc": "738287777253",
+   "upc_source": "read_from_label",
+   "location": "Stainless 105, slot E",
+   "label_short": "6 x 2"
+  },
+  {
+   "sku": "77726",
+   "slot_letter": "F",
+   "name": "#8 x 1/2 stainless steel star drive security (pin-in T-15) pan head sheet metal screw",
+   "price_cents": 159,
+   "upc": "738287777260",
+   "upc_source": "read_from_label",
+   "location": "Stainless 105, slot F",
+   "label_short": "8 x 1/2"
+  },
+  {
+   "sku": "77727",
+   "slot_letter": "G",
+   "name": "#8 x 3/4 stainless steel star drive security (pin-in T-15) pan head sheet metal screw",
+   "price_cents": 169,
+   "upc": "738287777277",
+   "upc_source": "read_from_label",
+   "location": "Stainless 105, slot G",
+   "label_short": "8 x 3/4"
+  },
+  {
+   "sku": "77728",
+   "slot_letter": "H",
+   "name": "#8 x 1 stainless steel star drive security (pin-in T-15) pan head sheet metal screw",
+   "price_cents": 179,
+   "upc": "738287777284",
+   "upc_source": "read_from_label",
+   "location": "Stainless 105, slot H",
+   "label_short": "8 x 1"
+  },
+  {
+   "sku": "77731",
+   "slot_letter": "J",
+   "name": "#8 x 1-1/4 stainless steel star drive security (pin-in T-15) pan head sheet metal screw",
+   "price_cents": 219,
+   "upc": "738287777314",
+   "upc_source": "read_from_label",
+   "location": "Stainless 105, slot J",
+   "label_short": "8 x 1-1/4"
+  },
+  {
+   "sku": "77732",
+   "slot_letter": "K",
+   "name": "#8 x 1-1/2 stainless steel star drive security (pin-in T-15) pan head sheet metal screw",
+   "price_cents": 249,
+   "upc": "738287777321",
+   "upc_source": "read_from_label",
+   "location": "Stainless 105, slot K",
+   "label_short": "8 x 1-1/2"
+  },
+  {
+   "sku": "77741",
+   "slot_letter": "A",
+   "name": "#10 x 1/2 stainless steel star drive security (pin-in T-25) pan head sheet metal screw",
+   "price_cents": 145,
+   "upc": "738287777413",
+   "upc_source": "read_from_label",
+   "location": "Stainless 106, slot A",
+   "label_short": "10 x 1/2"
+  },
+  {
+   "sku": "77742",
+   "slot_letter": "B",
+   "name": "#10 x 5/8 stainless steel star drive security (pin-in T-25) pan head sheet metal screw",
+   "price_cents": 229,
+   "upc": "738287777420",
+   "upc_source": "read_from_label",
+   "location": "Stainless 106, slot B",
+   "label_short": "10 x 5/8",
+   "note": "Label price for 10 x 5/8 ($2.29) is higher than 10 x 3/4 ($2.09); both read clearly."
+  },
+  {
+   "sku": "77743",
+   "slot_letter": "C",
+   "name": "#10 x 3/4 stainless steel star drive security (pin-in T-25) pan head sheet metal screw",
+   "price_cents": 209,
+   "upc": "738287777437",
+   "upc_source": "read_from_label",
+   "location": "Stainless 106, slot C",
+   "label_short": "10 x 3/4"
+  },
+  {
+   "sku": "77744",
+   "slot_letter": "D",
+   "name": "#10 x 1 stainless steel star drive security (pin-in T-25) pan head sheet metal screw",
+   "price_cents": 219,
+   "upc": "738287777444",
+   "upc_source": "read_from_label",
+   "location": "Stainless 106, slot D",
+   "label_short": "10 x 1"
+  },
+  {
+   "sku": "77745",
+   "slot_letter": "E",
+   "name": "#10 x 1-1/4 stainless steel star drive security (pin-in T-25) pan head sheet metal screw",
+   "price_cents": 239,
+   "upc": "738287777451",
+   "upc_source": "read_from_label",
+   "location": "Stainless 106, slot E",
+   "label_short": "10 x 1-1/4"
+  },
+  {
+   "sku": "77746",
+   "slot_letter": "F",
+   "name": "#10 x 1-1/2 stainless steel star drive security (pin-in T-25) pan head sheet metal screw",
+   "price_cents": 259,
+   "upc": "738287777468",
+   "upc_source": "read_from_label",
+   "location": "Stainless 106, slot F",
+   "label_short": "10 x 1-1/2"
+  },
+  {
+   "sku": "77747",
+   "slot_letter": "G",
+   "name": "#14 x 1/2 stainless steel star drive security (pin-in T-27) pan head sheet metal screw",
+   "price_cents": 269,
+   "upc": "738287777475",
+   "upc_source": "read_from_label",
+   "location": "Stainless 106, slot G",
+   "label_short": "14 x 1/2"
+  },
+  {
+   "sku": "77748",
+   "slot_letter": "H",
+   "name": "#14 x 3/4 stainless steel star drive security (pin-in T-27) pan head sheet metal screw",
+   "price_cents": 289,
+   "upc": "738287777482",
+   "upc_source": "read_from_label",
+   "location": "Stainless 106, slot H",
+   "label_short": "14 x 3/4"
+  },
+  {
+   "sku": "77751",
+   "slot_letter": "J",
+   "name": "#14 x 1 stainless steel star drive security (pin-in T-27) pan head sheet metal screw",
+   "price_cents": 309,
+   "upc": "738287777512",
+   "upc_source": "read_from_label",
+   "location": "Stainless 106, slot J",
+   "label_short": "14 x 1"
+  },
+  {
+   "sku": "77752",
+   "slot_letter": "K",
+   "name": "#14 x 1-1/4 stainless steel star drive security (pin-in T-27) pan head sheet metal screw",
+   "price_cents": 329,
+   "upc": "738287777529",
+   "upc_source": "read_from_label",
+   "location": "Stainless 106, slot K",
+   "label_short": "14 x 1-1/4"
+  },
+  {
+   "sku": "77753",
+   "slot_letter": "L",
+   "name": "#14 x 1-1/2 stainless steel star drive security (pin-in T-27) pan head sheet metal screw",
+   "price_cents": 339,
+   "upc": "738287777536",
+   "upc_source": "read_from_label",
+   "location": "Stainless 106, slot L",
+   "label_short": "14 x 1-1/2"
+  },
+  {
+   "sku": "77754",
+   "slot_letter": "M",
+   "name": "#14 x 2 stainless steel star drive security (pin-in T-27) pan head sheet metal screw",
+   "price_cents": 399,
+   "upc": "738287777543",
+   "upc_source": "read_from_label",
+   "location": "Stainless 106, slot M",
+   "label_short": "14 x 2"
+  }
+ ]
+}

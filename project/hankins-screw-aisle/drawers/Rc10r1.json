@@ -1,0 +1,206 @@
+{
+ "id": "Rc10r1",
+ "wall": "right",
+ "column": 10,
+ "row": 1,
+ "half": null,
+ "title": "Metric 105",
+ "description": "Stainless steel metric socket head cap screws, 8mm and 10mm diameter, 16mm to 60mm long (69660).",
+ "front_image": "images/fronts/Rc10r1.jpg",
+ "tray_image": "images/trays/Rc10r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1208,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1208,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 2,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.375,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 3,
+   "x0": 0.375,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6667,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6667,
+   "y0": 0.0,
+   "x1": 0.8375,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 6,
+   "x0": 0.8375,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.4688,
+   "x1": 0.2375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.2375,
+   "y0": 0.4688,
+   "x1": 0.4958,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.4958,
+   "y0": 0.4688,
+   "x1": 0.7458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.7458,
+   "y0": 0.4688,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "69661",
+   "slot_letter": "A",
+   "name": "M8 x 1.25 x 16mm stainless steel socket head cap screw",
+   "price_cents": 195,
+   "upc": "738287696615",
+   "upc_source": "read_from_label",
+   "location": "Metric 105, slot A",
+   "label_short": "8x16"
+  },
+  {
+   "sku": "69662",
+   "slot_letter": "B",
+   "name": "M8 x 1.25 x 20mm stainless steel socket head cap screw",
+   "price_cents": 199,
+   "upc": "738287696622",
+   "upc_source": "read_from_label",
+   "location": "Metric 105, slot B",
+   "label_short": "8x20"
+  },
+  {
+   "sku": "69663",
+   "slot_letter": "C",
+   "name": "M8 x 1.25 x 25mm stainless steel socket head cap screw",
+   "price_cents": 219,
+   "upc": "738287696639",
+   "upc_source": "read_from_label",
+   "location": "Metric 105, slot C",
+   "label_short": "8x25"
+  },
+  {
+   "sku": "69664",
+   "slot_letter": "D",
+   "name": "M8 x 1.25 x 30mm stainless steel socket head cap screw",
+   "price_cents": 239,
+   "upc": "738287696646",
+   "upc_source": "read_from_label",
+   "location": "Metric 105, slot D",
+   "label_short": "8x30"
+  },
+  {
+   "sku": "69665",
+   "slot_letter": "E",
+   "name": "M8 x 1.25 x 40mm stainless steel socket head cap screw",
+   "price_cents": 279,
+   "upc": "738287696653",
+   "upc_source": "read_from_label",
+   "location": "Metric 105, slot E",
+   "label_short": "8x40"
+  },
+  {
+   "sku": "69666",
+   "slot_letter": "F",
+   "name": "M10 x 1.50 x 20mm stainless steel socket head cap screw",
+   "price_cents": 289,
+   "upc": "738287696660",
+   "upc_source": "read_from_label",
+   "location": "Metric 105, slot F",
+   "label_short": "10x20"
+  },
+  {
+   "sku": "69667",
+   "slot_letter": "G",
+   "name": "M10 x 1.50 x 25mm stainless steel socket head cap screw",
+   "price_cents": 299,
+   "upc": "738287696677",
+   "upc_source": "read_from_label",
+   "location": "Metric 105, slot G",
+   "label_short": "10x25"
+  },
+  {
+   "sku": "69668",
+   "slot_letter": "H",
+   "name": "M10 x 1.50 x 30mm stainless steel socket head cap screw",
+   "price_cents": 349,
+   "upc": "738287696684",
+   "upc_source": "read_from_label",
+   "location": "Metric 105, slot H",
+   "label_short": "10x30"
+  },
+  {
+   "sku": "69671",
+   "slot_letter": "J",
+   "name": "M10 x 1.50 x 40mm stainless steel socket head cap screw",
+   "price_cents": 419,
+   "upc": "738287696714",
+   "upc_source": "read_from_label",
+   "location": "Metric 105, slot J",
+   "label_short": "10x40"
+  },
+  {
+   "sku": "69672",
+   "slot_letter": "K",
+   "name": "M10 x 1.50 x 50mm stainless steel socket head cap screw",
+   "price_cents": 489,
+   "upc": "738287696721",
+   "upc_source": "read_from_label",
+   "location": "Metric 105, slot K",
+   "label_short": "10x50"
+  },
+  {
+   "sku": "69673",
+   "slot_letter": "L",
+   "name": "M10 x 1.50 x 60mm stainless steel socket head cap screw",
+   "price_cents": 539,
+   "upc": "738287696738",
+   "upc_source": "read_from_label",
+   "location": "Metric 105, slot L",
+   "label_short": "10x60"
+  }
+ ]
+}

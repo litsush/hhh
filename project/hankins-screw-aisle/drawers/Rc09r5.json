@@ -1,0 +1,563 @@
+{
+ "id": "Rc09r5",
+ "wall": "right",
+ "column": 9,
+ "row": 5,
+ "half": null,
+ "title": "Metric 103 and Metric 104",
+ "description": "Stainless steel metric socket head cap screws, coarse thread: 3mm and 4mm (75600) and 5mm and 6mm (75620), 6mm to 40mm long.",
+ "front_image": "images/fronts/Rc09r5.jpg",
+ "tray_image": "images/trays/Rc09r5.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.125,
+   "y1": 0.25
+  },
+  {
+   "item_index": 1,
+   "x0": 0.125,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.25
+  },
+  {
+   "item_index": 2,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.375,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.375,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.25
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6208,
+   "y1": 0.25
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6208,
+   "y0": 0.0,
+   "x1": 0.7458,
+   "y1": 0.25
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7458,
+   "y0": 0.0,
+   "x1": 0.8708,
+   "y1": 0.25
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8708,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.25
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.25,
+   "x1": 0.125,
+   "y1": 0.5
+  },
+  {
+   "item_index": 9,
+   "x0": 0.125,
+   "y0": 0.25,
+   "x1": 0.25,
+   "y1": 0.5
+  },
+  {
+   "item_index": 10,
+   "x0": 0.25,
+   "y0": 0.25,
+   "x1": 0.375,
+   "y1": 0.5
+  },
+  {
+   "item_index": 11,
+   "x0": 0.375,
+   "y0": 0.25,
+   "x1": 0.5,
+   "y1": 0.5
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5,
+   "y0": 0.25,
+   "x1": 0.6208,
+   "y1": 0.5
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6208,
+   "y0": 0.25,
+   "x1": 0.7458,
+   "y1": 0.5
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7458,
+   "y0": 0.25,
+   "x1": 0.8667,
+   "y1": 0.5
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8667,
+   "y0": 0.25,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.125,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 17,
+   "x0": 0.125,
+   "y0": 0.5,
+   "x1": 0.25,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 18,
+   "x0": 0.25,
+   "y0": 0.5,
+   "x1": 0.375,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 19,
+   "x0": 0.375,
+   "y0": 0.5,
+   "x1": 0.5,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 20,
+   "x0": 0.5,
+   "y0": 0.5,
+   "x1": 0.625,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 21,
+   "x0": 0.625,
+   "y0": 0.5,
+   "x1": 0.75,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 22,
+   "x0": 0.75,
+   "y0": 0.5,
+   "x1": 0.8708,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 23,
+   "x0": 0.8708,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0,
+   "y0": 0.7562,
+   "x1": 0.125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.125,
+   "y0": 0.7562,
+   "x1": 0.25,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.25,
+   "y0": 0.7562,
+   "x1": 0.3792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.3792,
+   "y0": 0.7562,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.5,
+   "y0": 0.7562,
+   "x1": 0.625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.625,
+   "y0": 0.7562,
+   "x1": 0.75,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.75,
+   "y0": 0.7562,
+   "x1": 0.8708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 31,
+   "x0": 0.8708,
+   "y0": 0.7562,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "75601",
+   "slot_letter": "A",
+   "name": "M3 x 0.50 x 6mm stainless steel socket head cap screw",
+   "price_cents": 58,
+   "upc": "738287756012",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot A",
+   "label_short": "3x6"
+  },
+  {
+   "sku": "75602",
+   "slot_letter": "B",
+   "name": "M3 x 0.50 x 8mm stainless steel socket head cap screw",
+   "price_cents": 68,
+   "upc": "738287756029",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot B",
+   "label_short": "3x8"
+  },
+  {
+   "sku": "75603",
+   "slot_letter": "C",
+   "name": "M3 x 0.50 x 10mm stainless steel socket head cap screw",
+   "price_cents": 75,
+   "upc": "738287756036",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot C",
+   "label_short": "3x10"
+  },
+  {
+   "sku": "75604",
+   "slot_letter": "D",
+   "name": "M3 x 0.50 x 12mm stainless steel socket head cap screw",
+   "price_cents": 79,
+   "upc": "738287756043",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot D",
+   "label_short": "3x12"
+  },
+  {
+   "sku": "75605",
+   "slot_letter": "E",
+   "name": "M3 x 0.50 x 16mm stainless steel socket head cap screw",
+   "price_cents": 89,
+   "upc": "738287756050",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot E",
+   "label_short": "3x16"
+  },
+  {
+   "sku": "75606",
+   "slot_letter": "F",
+   "name": "M3 x 0.50 x 20mm stainless steel socket head cap screw",
+   "price_cents": 95,
+   "upc": "738287756067",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot F",
+   "label_short": "3x20"
+  },
+  {
+   "sku": "75607",
+   "slot_letter": "G",
+   "name": "M3 x 0.50 x 25mm stainless steel socket head cap screw",
+   "price_cents": 115,
+   "upc": "738287756074",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot G",
+   "label_short": "3x25"
+  },
+  {
+   "sku": "75608",
+   "slot_letter": "H",
+   "name": "M4 x 0.70 x 6mm stainless steel socket head cap screw",
+   "price_cents": 85,
+   "upc": "738287756081",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot H",
+   "label_short": "4x6"
+  },
+  {
+   "sku": "75611",
+   "slot_letter": "J",
+   "name": "M4 x 0.70 x 8mm stainless steel socket head cap screw",
+   "price_cents": 89,
+   "upc": "738287756111",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot J",
+   "label_short": "4x8"
+  },
+  {
+   "sku": "75612",
+   "slot_letter": "K",
+   "name": "M4 x 0.70 x 10mm stainless steel socket head cap screw",
+   "price_cents": 99,
+   "upc": "738287756128",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot K",
+   "label_short": "4x10"
+  },
+  {
+   "sku": "75613",
+   "slot_letter": "L",
+   "name": "M4 x 0.70 x 12mm stainless steel socket head cap screw",
+   "price_cents": 105,
+   "upc": "738287756135",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot L",
+   "label_short": "4x12"
+  },
+  {
+   "sku": "75614",
+   "slot_letter": "M",
+   "name": "M4 x 0.70 x 16mm stainless steel socket head cap screw",
+   "price_cents": 115,
+   "upc": "738287756142",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot M",
+   "label_short": "4x16"
+  },
+  {
+   "sku": "75615",
+   "slot_letter": "N",
+   "name": "M4 x 0.70 x 20mm stainless steel socket head cap screw",
+   "price_cents": 115,
+   "upc": "738287756159",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot N",
+   "label_short": "4x20"
+  },
+  {
+   "sku": "75616",
+   "slot_letter": "P",
+   "name": "M4 x 0.70 x 25mm stainless steel socket head cap screw",
+   "price_cents": 125,
+   "upc": "738287756166",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot P",
+   "label_short": "4x25"
+  },
+  {
+   "sku": "75617",
+   "slot_letter": "Q",
+   "name": "M4 x 0.70 x 30mm stainless steel socket head cap screw",
+   "price_cents": 135,
+   "upc": "738287756173",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot Q",
+   "label_short": "4x30"
+  },
+  {
+   "sku": "75618",
+   "slot_letter": "R",
+   "name": "M4 x 0.70 x 35mm stainless steel socket head cap screw",
+   "price_cents": 135,
+   "upc": "738287756180",
+   "upc_source": "read_from_label",
+   "location": "Metric 103, slot R",
+   "label_short": "4x35"
+  },
+  {
+   "sku": "75621",
+   "slot_letter": "A",
+   "name": "M5 x 0.80 x 10mm stainless steel socket head cap screw",
+   "price_cents": 115,
+   "upc": "738287756210",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot A",
+   "label_short": "5x10"
+  },
+  {
+   "sku": "75622",
+   "slot_letter": "B",
+   "name": "M5 x 0.80 x 12mm stainless steel socket head cap screw",
+   "price_cents": 125,
+   "upc": "738287756227",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot B",
+   "label_short": "5x12"
+  },
+  {
+   "sku": "75623",
+   "slot_letter": "C",
+   "name": "M5 x 0.80 x 16mm stainless steel socket head cap screw",
+   "price_cents": 135,
+   "upc": "738287756234",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot C",
+   "label_short": "5x16"
+  },
+  {
+   "sku": "75624",
+   "slot_letter": "D",
+   "name": "M5 x 0.80 x 20mm stainless steel socket head cap screw",
+   "price_cents": 135,
+   "upc": "738287756241",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot D",
+   "label_short": "5x20"
+  },
+  {
+   "sku": "75625",
+   "slot_letter": "E",
+   "name": "M5 x 0.80 x 25mm stainless steel socket head cap screw",
+   "price_cents": 149,
+   "upc": "738287756258",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot E",
+   "label_short": "5x25"
+  },
+  {
+   "sku": "75626",
+   "slot_letter": "F",
+   "name": "M5 x 0.80 x 30mm stainless steel socket head cap screw",
+   "price_cents": 149,
+   "upc": "738287756265",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot F",
+   "label_short": "5x30"
+  },
+  {
+   "sku": "75627",
+   "slot_letter": "G",
+   "name": "M5 x 0.80 x 35mm stainless steel socket head cap screw",
+   "price_cents": 169,
+   "upc": "738287756272",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot G",
+   "label_short": "5x35"
+  },
+  {
+   "sku": "75628",
+   "slot_letter": "H",
+   "name": "M5 x 0.80 x 40mm stainless steel socket head cap screw",
+   "price_cents": 179,
+   "upc": "738287756289",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot H",
+   "label_short": "5x40"
+  },
+  {
+   "sku": "75631",
+   "slot_letter": "J",
+   "name": "M6 x 1.00 x 10mm stainless steel socket head cap screw",
+   "price_cents": 139,
+   "upc": "738287756319",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot J",
+   "label_short": "6x10"
+  },
+  {
+   "sku": "75632",
+   "slot_letter": "K",
+   "name": "M6 x 1.00 x 12mm stainless steel socket head cap screw",
+   "price_cents": 149,
+   "upc": "738287756326",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot K",
+   "label_short": "6x12"
+  },
+  {
+   "sku": "75633",
+   "slot_letter": "L",
+   "name": "M6 x 1.00 x 16mm stainless steel socket head cap screw",
+   "price_cents": 155,
+   "upc": "738287756333",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot L",
+   "label_short": "6x16"
+  },
+  {
+   "sku": "75634",
+   "slot_letter": "M",
+   "name": "M6 x 1.00 x 20mm stainless steel socket head cap screw",
+   "price_cents": 159,
+   "upc": "738287756340",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot M",
+   "label_short": "6x20"
+  },
+  {
+   "sku": "75635",
+   "slot_letter": "N",
+   "name": "M6 x 1.00 x 25mm stainless steel socket head cap screw",
+   "price_cents": 169,
+   "upc": "738287756357",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot N",
+   "label_short": "6x25"
+  },
+  {
+   "sku": "75636",
+   "slot_letter": "P",
+   "name": "M6 x 1.00 x 30mm stainless steel socket head cap screw",
+   "price_cents": 179,
+   "upc": "738287756364",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot P",
+   "label_short": "6x30"
+  },
+  {
+   "sku": "75637",
+   "slot_letter": "Q",
+   "name": "M6 x 1.00 x 35mm stainless steel socket head cap screw",
+   "price_cents": 179,
+   "upc": "738287756371",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot Q",
+   "label_short": "6x35"
+  },
+  {
+   "sku": "75638",
+   "slot_letter": "R",
+   "name": "M6 x 1.00 x 40mm stainless steel socket head cap screw",
+   "price_cents": 189,
+   "upc": "738287756388",
+   "upc_source": "read_from_label",
+   "location": "Metric 104, slot R",
+   "label_short": "6x40"
+  }
+ ]
+}

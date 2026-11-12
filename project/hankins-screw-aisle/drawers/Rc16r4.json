@@ -1,0 +1,155 @@
+{
+ "id": "Rc16r4",
+ "wall": "right",
+ "column": 16,
+ "row": 4,
+ "half": null,
+ "title": "Bolts 62.85",
+ "description": "Black coated 3/8-16 carriage bolts, 3/4 to 3-1/2 inches long, SKUs 932781-932788.",
+ "front_image": "images/fronts/Rc16r4.jpg",
+ "tray_image": "images/trays/Rc16r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1667,
+   "y1": 0.6813
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1667,
+   "y0": 0.0,
+   "x1": 0.3333,
+   "y1": 0.6813
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3333,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.6813
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.665,
+   "y1": 0.6813
+  },
+  {
+   "item_index": 4,
+   "x0": 0.665,
+   "y0": 0.0,
+   "x1": 0.8292,
+   "y1": 0.6813
+  },
+  {
+   "item_index": 5,
+   "x0": 0.8292,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.6813
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.6813,
+   "x1": 0.5042,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.5042,
+   "y0": 0.6813,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "932781",
+   "slot_letter": "A",
+   "name": "3/8-16 x 3/4 black coated carriage bolt",
+   "price_cents": 85,
+   "upc": "719199327811",
+   "upc_source": "read_from_label",
+   "location": "Bolts 62.85, slot A",
+   "label_short": "3/8-16 x 3/4"
+  },
+  {
+   "sku": "932782",
+   "slot_letter": "B",
+   "name": "3/8-16 x 1 black coated carriage bolt",
+   "price_cents": 89,
+   "upc": "719199327828",
+   "upc_source": "read_from_label",
+   "location": "Bolts 62.85, slot B",
+   "label_short": "3/8-16 x 1"
+  },
+  {
+   "sku": "932783",
+   "slot_letter": "C",
+   "name": "3/8-16 x 1-1/4 black coated carriage bolt",
+   "price_cents": 105,
+   "upc": "719199327835",
+   "upc_source": "read_from_label",
+   "location": "Bolts 62.85, slot C",
+   "label_short": "3/8-16 x 1-1/4"
+  },
+  {
+   "sku": "932784",
+   "slot_letter": "D",
+   "name": "3/8-16 x 1-1/2 black coated carriage bolt",
+   "price_cents": 115,
+   "upc": "719199327842",
+   "upc_source": "read_from_label",
+   "location": "Bolts 62.85, slot D",
+   "label_short": "3/8-16 x 1-1/2"
+  },
+  {
+   "sku": "932785",
+   "slot_letter": "E",
+   "name": "3/8-16 x 2 black coated carriage bolt",
+   "price_cents": 139,
+   "upc": "719199327859",
+   "upc_source": "read_from_label",
+   "location": "Bolts 62.85, slot E",
+   "label_short": "3/8-16 x 2"
+  },
+  {
+   "sku": "932786",
+   "slot_letter": "F",
+   "name": "3/8-16 x 2-1/2 black coated carriage bolt",
+   "price_cents": 149,
+   "upc": "719199327866",
+   "upc_source": "read_from_label",
+   "location": "Bolts 62.85, slot F",
+   "label_short": "3/8-16 x 2-1/2"
+  },
+  {
+   "sku": "932787",
+   "slot_letter": "G",
+   "name": "3/8-16 x 3 black coated carriage bolt",
+   "price_cents": 175,
+   "upc": "719199327873",
+   "upc_source": "read_from_label",
+   "location": "Bolts 62.85, slot G",
+   "label_short": "3/8-16 x 3"
+  },
+  {
+   "sku": "932788",
+   "slot_letter": "H",
+   "name": "3/8-16 x 3-1/2 black coated carriage bolt",
+   "price_cents": 199,
+   "upc": "719199327880",
+   "upc_source": "read_from_label",
+   "location": "Bolts 62.85, slot H",
+   "label_short": "3/8-16 x 3-1/2"
+  }
+ ]
+}

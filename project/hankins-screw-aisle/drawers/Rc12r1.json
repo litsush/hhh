@@ -1,0 +1,512 @@
+{
+ "id": "Rc12r1",
+ "wall": "right",
+ "column": 12,
+ "row": 1,
+ "half": null,
+ "title": "Sheet Metal 17 and Sheet Metal 21",
+ "description": "Slotted pan and oval head type F thread cutting screws, 6-32 to 1/4-20 (61500), and square drive pan head sheet metal screws, #6 and #8, 1/2 to 2 long (64020), in one tray",
+ "front_image": "images/fronts/Rc12r1.jpg",
+ "tray_image": "images/trays/Rc12r1.jpg",
+ "tray_image_px": [
+  1200,
+  1000
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.125,
+   "y1": 0.245
+  },
+  {
+   "item_index": 1,
+   "x0": 0.125,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.245
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.3792,
+   "y1": 0.245
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3792,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.245
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.625,
+   "y1": 0.245
+  },
+  {
+   "item_index": 5,
+   "x0": 0.625,
+   "y0": 0.0,
+   "x1": 0.7458,
+   "y1": 0.245
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7458,
+   "y0": 0.0,
+   "x1": 0.8708,
+   "y1": 0.245
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8708,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.245
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.245,
+   "x1": 0.125,
+   "y1": 0.49
+  },
+  {
+   "item_index": 9,
+   "x0": 0.125,
+   "y0": 0.245,
+   "x1": 0.2542,
+   "y1": 0.49
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2542,
+   "y0": 0.245,
+   "x1": 0.3792,
+   "y1": 0.49
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3792,
+   "y0": 0.245,
+   "x1": 0.5,
+   "y1": 0.49
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5,
+   "y0": 0.245,
+   "x1": 0.625,
+   "y1": 0.49
+  },
+  {
+   "item_index": 13,
+   "x0": 0.625,
+   "y0": 0.245,
+   "x1": 0.7458,
+   "y1": 0.49
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7458,
+   "y0": 0.245,
+   "x1": 0.8708,
+   "y1": 0.49
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8708,
+   "y0": 0.245,
+   "x1": 1.0,
+   "y1": 0.49
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.49,
+   "x1": 0.1208,
+   "y1": 0.745
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1208,
+   "y0": 0.49,
+   "x1": 0.25,
+   "y1": 0.745
+  },
+  {
+   "item_index": 18,
+   "x0": 0.25,
+   "y0": 0.49,
+   "x1": 0.3833,
+   "y1": 0.745
+  },
+  {
+   "item_index": 19,
+   "x0": 0.3833,
+   "y0": 0.49,
+   "x1": 0.5542,
+   "y1": 0.745
+  },
+  {
+   "item_index": 20,
+   "x0": 0.5542,
+   "y0": 0.49,
+   "x1": 0.7167,
+   "y1": 0.745
+  },
+  {
+   "item_index": 21,
+   "x0": 0.7167,
+   "y0": 0.49,
+   "x1": 0.8833,
+   "y1": 0.745
+  },
+  {
+   "item_index": 22,
+   "x0": 0.8833,
+   "y0": 0.49,
+   "x1": 1.0,
+   "y1": 0.745
+  },
+  {
+   "item_index": 23,
+   "x0": 0.0,
+   "y0": 0.745,
+   "x1": 0.0917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0917,
+   "y0": 0.745,
+   "x1": 0.2833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.2833,
+   "y0": 0.745,
+   "x1": 0.4542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.4542,
+   "y0": 0.745,
+   "x1": 0.625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.625,
+   "y0": 0.745,
+   "x1": 0.8,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.8,
+   "y0": 0.745,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "61501",
+   "slot_letter": "A",
+   "name": "6-32 x 3/8 slotted pan head thread cutting screw, type F, zinc",
+   "price_cents": 30,
+   "upc": "738287615012",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot A",
+   "label_short": "6-32 x 3/8"
+  },
+  {
+   "sku": "61502",
+   "slot_letter": "B",
+   "name": "6-32 x 1/2 slotted pan head thread cutting screw, type F, zinc",
+   "price_cents": 31,
+   "upc": "738287615029",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot B",
+   "label_short": "6-32 x 1/2"
+  },
+  {
+   "sku": "61503",
+   "slot_letter": "C",
+   "name": "6-32 x 3/4 slotted pan head thread cutting screw, type F, zinc",
+   "price_cents": 34,
+   "upc": "738287615036",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot C",
+   "label_short": "6-32 x 3/4"
+  },
+  {
+   "sku": "61504",
+   "slot_letter": "D",
+   "name": "8-32 x 3/8 slotted pan head thread cutting screw, type F, zinc",
+   "price_cents": 36,
+   "upc": "738287615043",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot D",
+   "label_short": "8-32 x 3/8"
+  },
+  {
+   "sku": "61505",
+   "slot_letter": "E",
+   "name": "8-32 x 1/2 slotted pan head thread cutting screw, type F, zinc",
+   "price_cents": 37,
+   "upc": "738287615050",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot E",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "61506",
+   "slot_letter": "F",
+   "name": "8-32 x 3/4 slotted pan head thread cutting screw, type F, zinc",
+   "price_cents": 41,
+   "upc": "738287615067",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot F",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "61507",
+   "slot_letter": "G",
+   "name": "10-24 x 1/2 slotted pan head thread cutting screw, type F, zinc",
+   "price_cents": 43,
+   "upc": "738287615074",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot G",
+   "label_short": "10-24 x 1/2"
+  },
+  {
+   "sku": "61508",
+   "slot_letter": "H",
+   "name": "10-24 x 3/4 slotted pan head thread cutting screw, type F, zinc",
+   "price_cents": 46,
+   "upc": "738287615081",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot H",
+   "label_short": "10-24 x 3/4"
+  },
+  {
+   "sku": "61511",
+   "slot_letter": "J",
+   "name": "10-24 x 1 slotted pan head thread cutting screw, type F, zinc",
+   "price_cents": 47,
+   "upc": "738287615111",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot J",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "61512",
+   "slot_letter": "K",
+   "name": "1/4-20 x 1/2 slotted pan head thread cutting screw, type F, zinc",
+   "price_cents": 59,
+   "upc": "738287615128",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot K",
+   "label_short": "1/4-20 x 1/2"
+  },
+  {
+   "sku": "61513",
+   "slot_letter": "L",
+   "name": "1/4-20 x 3/4 slotted pan head thread cutting screw, type F, zinc",
+   "price_cents": 62,
+   "upc": "738287615135",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot L",
+   "label_short": "1/4-20 x 3/4"
+  },
+  {
+   "sku": "61514",
+   "slot_letter": "M",
+   "name": "1/4-20 x 1 slotted pan head thread cutting screw, type F, zinc",
+   "price_cents": 67,
+   "upc": "738287615142",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot M",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "61515",
+   "slot_letter": "N",
+   "name": "6-32 x 1/2 slotted oval head thread cutting screw, type F, zinc",
+   "price_cents": 46,
+   "upc": "738287615159",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot N",
+   "label_short": "6-32 x 1/2 oval"
+  },
+  {
+   "sku": "61516",
+   "slot_letter": "P",
+   "name": "8-32 x 3/4 slotted oval head thread cutting screw, type F, zinc",
+   "price_cents": 51,
+   "upc": "738287615166",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot P",
+   "label_short": "8-32 x 3/4 oval"
+  },
+  {
+   "sku": "61517",
+   "slot_letter": "Q",
+   "name": "10-24 x 1 slotted oval head thread cutting screw, type F, zinc",
+   "price_cents": 56,
+   "upc": "738287615173",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot Q",
+   "label_short": "10-24 x 1 oval"
+  },
+  {
+   "sku": "61518",
+   "slot_letter": "R",
+   "name": "1/4-20 x 1 slotted oval head thread cutting screw, type F, zinc",
+   "price_cents": 67,
+   "upc": "738287615180",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 17, slot R",
+   "label_short": "1/4-20 x 1 oval"
+  },
+  {
+   "sku": "64021",
+   "slot_letter": "A",
+   "name": "#6 x 1/2 square drive pan head sheet metal screw, zinc",
+   "price_cents": 24,
+   "upc": "738287640212",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 21, slot A",
+   "label_short": "6 x 1/2"
+  },
+  {
+   "sku": "64022",
+   "slot_letter": "B",
+   "name": "#6 x 5/8 square drive pan head sheet metal screw, zinc",
+   "price_cents": 25,
+   "upc": "738287640229",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 21, slot B",
+   "label_short": "6 x 5/8"
+  },
+  {
+   "sku": "64023",
+   "slot_letter": "C",
+   "name": "#6 x 3/4 square drive pan head sheet metal screw, zinc",
+   "price_cents": 28,
+   "upc": "738287640236",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 21, slot C",
+   "label_short": "6 x 3/4"
+  },
+  {
+   "sku": "64024",
+   "slot_letter": "D",
+   "name": "#6 x 1 square drive pan head sheet metal screw, zinc",
+   "price_cents": 29,
+   "upc": "738287640243",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 21, slot D",
+   "label_short": "6 x 1"
+  },
+  {
+   "sku": "64025",
+   "slot_letter": "E",
+   "name": "#6 x 1-1/4 square drive pan head sheet metal screw, zinc",
+   "price_cents": 29,
+   "upc": "738287640250",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 21, slot E",
+   "label_short": "6 x 1-1/4"
+  },
+  {
+   "sku": "64026",
+   "slot_letter": "F",
+   "name": "#6 x 1-1/2 square drive pan head sheet metal screw, zinc",
+   "price_cents": 30,
+   "upc": "738287640267",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 21, slot F",
+   "label_short": "6 x 1-1/2"
+  },
+  {
+   "sku": "64027",
+   "slot_letter": "G",
+   "name": "#8 x 1/2 square drive pan head sheet metal screw, zinc",
+   "price_cents": 25,
+   "upc": "738287640274",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 21, slot G",
+   "label_short": "8 x 1/2"
+  },
+  {
+   "sku": "64028",
+   "slot_letter": "H",
+   "name": "#8 x 5/8 square drive pan head sheet metal screw, zinc",
+   "price_cents": 28,
+   "upc": "738287640281",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 21, slot H",
+   "label_short": "8 x 5/8"
+  },
+  {
+   "sku": "64031",
+   "slot_letter": "J",
+   "name": "#8 x 3/4 square drive pan head sheet metal screw, zinc",
+   "price_cents": 29,
+   "upc": "738287640311",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 21, slot J",
+   "label_short": "8 x 3/4"
+  },
+  {
+   "sku": "64032",
+   "slot_letter": "K",
+   "name": "#8 x 1 square drive pan head sheet metal screw, zinc",
+   "price_cents": 30,
+   "upc": "738287640328",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 21, slot K",
+   "label_short": "8 x 1"
+  },
+  {
+   "sku": "64033",
+   "slot_letter": "L",
+   "name": "#8 x 1-1/4 square drive pan head sheet metal screw, zinc",
+   "price_cents": 32,
+   "upc": "738287640335",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 21, slot L",
+   "label_short": "8 x 1-1/4"
+  },
+  {
+   "sku": "64034",
+   "slot_letter": "M",
+   "name": "#8 x 1-1/2 square drive pan head sheet metal screw, zinc",
+   "price_cents": 36,
+   "upc": "738287640342",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 21, slot M",
+   "label_short": "8 x 1-1/2"
+  },
+  {
+   "sku": "64035",
+   "slot_letter": "N",
+   "name": "#8 x 2 square drive pan head sheet metal screw, zinc",
+   "price_cents": 37,
+   "upc": "738287640359",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 21, slot N",
+   "label_short": "8 x 2"
+  }
+ ]
+}

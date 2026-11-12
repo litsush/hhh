@@ -1,0 +1,567 @@
+{
+ "id": "Rc13r2",
+ "wall": "right",
+ "column": 13,
+ "row": 2,
+ "half": null,
+ "title": "Wood Screw 1 and Wood Screw 7",
+ "description": "Slotted wood screws, zinc plated and brass, #2 and #4 x 1/4 to #4 x 1: flat head (62040) and round head (62060).",
+ "front_image": "images/fronts/Rc13r2.jpg",
+ "tray_image": "images/trays/Rc13r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.125,
+   "y1": 0.25
+  },
+  {
+   "item_index": 1,
+   "x0": 0.125,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.25
+  },
+  {
+   "item_index": 2,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.3767,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3767,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.25
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6233,
+   "y1": 0.25
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6233,
+   "y0": 0.0,
+   "x1": 0.7442,
+   "y1": 0.25
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7442,
+   "y0": 0.0,
+   "x1": 0.8708,
+   "y1": 0.25
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8708,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.25
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.25,
+   "x1": 0.125,
+   "y1": 0.5
+  },
+  {
+   "item_index": 9,
+   "x0": 0.125,
+   "y0": 0.25,
+   "x1": 0.25,
+   "y1": 0.5
+  },
+  {
+   "item_index": 10,
+   "x0": 0.25,
+   "y0": 0.25,
+   "x1": 0.3767,
+   "y1": 0.5
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3767,
+   "y0": 0.25,
+   "x1": 0.5,
+   "y1": 0.5
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5,
+   "y0": 0.25,
+   "x1": 0.6233,
+   "y1": 0.5
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6233,
+   "y0": 0.25,
+   "x1": 0.7442,
+   "y1": 0.5
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7442,
+   "y0": 0.25,
+   "x1": 0.8708,
+   "y1": 0.5
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8708,
+   "y0": 0.25,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.125,
+   "y1": 0.75
+  },
+  {
+   "item_index": 17,
+   "x0": 0.125,
+   "y0": 0.5,
+   "x1": 0.25,
+   "y1": 0.75
+  },
+  {
+   "item_index": 18,
+   "x0": 0.25,
+   "y0": 0.5,
+   "x1": 0.3767,
+   "y1": 0.75
+  },
+  {
+   "item_index": 19,
+   "x0": 0.3767,
+   "y0": 0.5,
+   "x1": 0.5,
+   "y1": 0.75
+  },
+  {
+   "item_index": 20,
+   "x0": 0.5,
+   "y0": 0.5,
+   "x1": 0.6233,
+   "y1": 0.75
+  },
+  {
+   "item_index": 21,
+   "x0": 0.6233,
+   "y0": 0.5,
+   "x1": 0.7442,
+   "y1": 0.75
+  },
+  {
+   "item_index": 22,
+   "x0": 0.7442,
+   "y0": 0.5,
+   "x1": 0.8708,
+   "y1": 0.75
+  },
+  {
+   "item_index": 23,
+   "x0": 0.8708,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.75
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0,
+   "y0": 0.75,
+   "x1": 0.125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.125,
+   "y0": 0.75,
+   "x1": 0.25,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.25,
+   "y0": 0.75,
+   "x1": 0.3767,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.3767,
+   "y0": 0.75,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.5,
+   "y0": 0.75,
+   "x1": 0.6233,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.6233,
+   "y0": 0.75,
+   "x1": 0.7442,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.7442,
+   "y0": 0.75,
+   "x1": 0.8708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 31,
+   "x0": 0.8708,
+   "y0": 0.75,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "62041",
+   "slot_letter": "A",
+   "name": "#2 x 1/4 slotted flat head wood screw, zinc plated",
+   "price_cents": 24,
+   "upc": "738287620412",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot A",
+   "label_short": "#2 x 1/4 zinc"
+  },
+  {
+   "sku": "62042",
+   "slot_letter": "B",
+   "name": "#4 x 1/4 slotted flat head wood screw, zinc plated",
+   "price_cents": 27,
+   "upc": "738287620429",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot B",
+   "label_short": "#4 x 1/4 zinc"
+  },
+  {
+   "sku": "62043",
+   "slot_letter": "C",
+   "name": "#2 x 1/2 slotted flat head wood screw, zinc plated",
+   "price_cents": 27,
+   "upc": "738287620436",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot C",
+   "label_short": "#2 x 1/2 zinc"
+  },
+  {
+   "sku": "62044",
+   "slot_letter": "D",
+   "name": "#4 x 1/2 slotted flat head wood screw, zinc plated",
+   "price_cents": 26,
+   "upc": "738287620443",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot D",
+   "label_short": "#4 x 1/2 zinc"
+  },
+  {
+   "sku": "62045",
+   "slot_letter": "E",
+   "name": "#4 x 5/8 slotted flat head wood screw, zinc plated",
+   "price_cents": 29,
+   "upc": "738287620450",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot E",
+   "label_short": "#4 x 5/8 zinc"
+  },
+  {
+   "sku": "62046",
+   "slot_letter": "F",
+   "name": "#4 x 3/4 slotted flat head wood screw, zinc plated",
+   "price_cents": 29,
+   "upc": "738287620467",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot F",
+   "label_short": "#4 x 3/4 zinc"
+  },
+  {
+   "sku": "62047",
+   "slot_letter": "G",
+   "name": "#4 x 7/8 slotted flat head wood screw, zinc plated",
+   "price_cents": 33,
+   "upc": "738287620474",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot G",
+   "label_short": "#4 x 7/8 zinc"
+  },
+  {
+   "sku": "62048",
+   "slot_letter": "H",
+   "name": "#4 x 1 slotted flat head wood screw, zinc plated",
+   "price_cents": 34,
+   "upc": "738287620481",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot H",
+   "label_short": "#4 x 1 zinc"
+  },
+  {
+   "sku": "62051",
+   "slot_letter": "J",
+   "name": "#2 x 1/4 slotted flat head wood screw, brass",
+   "price_cents": 28,
+   "upc": "738287620511",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot J",
+   "label_short": "#2 x 1/4 brass"
+  },
+  {
+   "sku": "62052",
+   "slot_letter": "K",
+   "name": "#4 x 1/4 slotted flat head wood screw, brass",
+   "price_cents": 30,
+   "upc": "738287620528",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot K",
+   "label_short": "#4 x 1/4 brass"
+  },
+  {
+   "sku": "62053",
+   "slot_letter": "L",
+   "name": "#2 x 1/2 slotted flat head wood screw, brass",
+   "price_cents": 30,
+   "upc": "738287620535",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot L",
+   "label_short": "#2 x 1/2 brass"
+  },
+  {
+   "sku": "62054",
+   "slot_letter": "M",
+   "name": "#4 x 1/2 slotted flat head wood screw, brass",
+   "price_cents": 32,
+   "upc": "738287620542",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot M",
+   "label_short": "#4 x 1/2 brass"
+  },
+  {
+   "sku": "62055",
+   "slot_letter": "N",
+   "name": "#4 x 5/8 slotted flat head wood screw, brass",
+   "price_cents": 34,
+   "upc": "738287620559",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot N",
+   "label_short": "#4 x 5/8 brass"
+  },
+  {
+   "sku": "62056",
+   "slot_letter": "P",
+   "name": "#4 x 3/4 slotted flat head wood screw, brass",
+   "price_cents": 39,
+   "upc": "738287620566",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot P",
+   "label_short": "#4 x 3/4 brass",
+   "note": "Compartment nearly empty (a few screws, including one zinc screw)."
+  },
+  {
+   "sku": "62057",
+   "slot_letter": "Q",
+   "name": "#4 x 7/8 slotted flat head wood screw, brass",
+   "price_cents": 44,
+   "upc": "738287620573",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot Q",
+   "label_short": "#4 x 7/8 brass"
+  },
+  {
+   "sku": "62058",
+   "slot_letter": "R",
+   "name": "#4 x 1 slotted flat head wood screw, brass",
+   "price_cents": 48,
+   "upc": "738287620580",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 1, slot R",
+   "label_short": "#4 x 1 brass"
+  },
+  {
+   "sku": "62061",
+   "slot_letter": "A",
+   "name": "#2 x 1/4 slotted round head wood screw, zinc plated",
+   "price_cents": 23,
+   "upc": "738287620610",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot A",
+   "label_short": "#2 x 1/4 zinc",
+   "note": "Compartment nearly empty (only a few screws)."
+  },
+  {
+   "sku": "62062",
+   "slot_letter": "B",
+   "name": "#4 x 1/4 slotted round head wood screw, zinc plated",
+   "price_cents": 24,
+   "upc": "738287620627",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot B",
+   "label_short": "#4 x 1/4 zinc"
+  },
+  {
+   "sku": "62063",
+   "slot_letter": "C",
+   "name": "#2 x 1/2 slotted round head wood screw, zinc plated",
+   "price_cents": 24,
+   "upc": "738287620634",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot C",
+   "label_short": "#2 x 1/2 zinc"
+  },
+  {
+   "sku": "62064",
+   "slot_letter": "D",
+   "name": "#4 x 1/2 slotted round head wood screw, zinc plated",
+   "price_cents": 26,
+   "upc": "738287620641",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot D",
+   "label_short": "#4 x 1/2 zinc"
+  },
+  {
+   "sku": "62065",
+   "slot_letter": "E",
+   "name": "#4 x 5/8 slotted round head wood screw, zinc plated",
+   "price_cents": 29,
+   "upc": "738287620658",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot E",
+   "label_short": "#4 x 5/8 zinc"
+  },
+  {
+   "sku": "62066",
+   "slot_letter": "F",
+   "name": "#4 x 3/4 slotted round head wood screw, zinc plated",
+   "price_cents": 29,
+   "upc": "738287620665",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot F",
+   "label_short": "#4 x 3/4 zinc"
+  },
+  {
+   "sku": "62067",
+   "slot_letter": "G",
+   "name": "#4 x 7/8 slotted round head wood screw, zinc plated",
+   "price_cents": 32,
+   "upc": "738287620672",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot G",
+   "label_short": "#4 x 7/8 zinc"
+  },
+  {
+   "sku": "62068",
+   "slot_letter": "H",
+   "name": "#4 x 1 slotted round head wood screw, zinc plated",
+   "price_cents": 34,
+   "upc": "738287620689",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot H",
+   "label_short": "#4 x 1 zinc"
+  },
+  {
+   "sku": "62071",
+   "slot_letter": "J",
+   "name": "#2 x 1/4 slotted round head wood screw, brass",
+   "price_cents": 28,
+   "upc": "738287620719",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot J",
+   "label_short": "#2 x 1/4 brass",
+   "note": "Compartment holds a closed plastic bag; loose contents not visible."
+  },
+  {
+   "sku": "62072",
+   "slot_letter": "K",
+   "name": "#4 x 1/4 slotted round head wood screw, brass",
+   "price_cents": 30,
+   "upc": "738287620726",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot K",
+   "label_short": "#4 x 1/4 brass"
+  },
+  {
+   "sku": "62073",
+   "slot_letter": "L",
+   "name": "#2 x 1/2 slotted round head wood screw, brass",
+   "price_cents": 30,
+   "upc": "738287620733",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot L",
+   "label_short": "#2 x 1/2 brass"
+  },
+  {
+   "sku": "62074",
+   "slot_letter": "M",
+   "name": "#4 x 1/2 slotted round head wood screw, brass",
+   "price_cents": 32,
+   "upc": "738287620740",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot M",
+   "label_short": "#4 x 1/2 brass",
+   "note": "Compartment nearly empty (only a few screws)."
+  },
+  {
+   "sku": "62075",
+   "slot_letter": "N",
+   "name": "#4 x 5/8 slotted round head wood screw, brass",
+   "price_cents": 34,
+   "upc": "738287620757",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot N",
+   "label_short": "#4 x 5/8 brass"
+  },
+  {
+   "sku": "62076",
+   "slot_letter": "P",
+   "name": "#4 x 3/4 slotted round head wood screw, brass",
+   "price_cents": 40,
+   "upc": "738287620764",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot P",
+   "label_short": "#4 x 3/4 brass"
+  },
+  {
+   "sku": "62077",
+   "slot_letter": "Q",
+   "name": "#4 x 7/8 slotted round head wood screw, brass",
+   "price_cents": 44,
+   "upc": "738287620771",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot Q",
+   "label_short": "#4 x 7/8 brass"
+  },
+  {
+   "sku": "62078",
+   "slot_letter": "R",
+   "name": "#4 x 1 slotted round head wood screw, brass",
+   "price_cents": 48,
+   "upc": "738287620788",
+   "upc_source": "read_from_label",
+   "location": "Wood Screw 7, slot R",
+   "label_short": "#4 x 1 brass"
+  }
+ ]
+}

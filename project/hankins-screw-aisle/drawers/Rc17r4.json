@@ -1,0 +1,564 @@
+{
+ "id": "Rc17r4",
+ "wall": "right",
+ "column": 17,
+ "row": 4,
+ "half": null,
+ "title": "Stainless 73 and Stainless 74",
+ "description": "Miniature stainless steel machine screws (slotted pan head and Phillips flat head), nuts and washers: 0-80 and 1-72 (64080), 2-56 and 3-48 (64100).",
+ "front_image": "images/fronts/Rc17r4.jpg",
+ "tray_image": "images/trays/Rc17r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1292,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1292,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.3792,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3792,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.625,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 5,
+   "x0": 0.625,
+   "y0": 0.0,
+   "x1": 0.7458,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7458,
+   "y0": 0.0,
+   "x1": 0.8708,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8708,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.2437,
+   "x1": 0.1292,
+   "y1": 0.5
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1292,
+   "y0": 0.2437,
+   "x1": 0.2542,
+   "y1": 0.5
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2542,
+   "y0": 0.2437,
+   "x1": 0.3792,
+   "y1": 0.5
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3792,
+   "y0": 0.2437,
+   "x1": 0.5,
+   "y1": 0.5
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5,
+   "y0": 0.2437,
+   "x1": 0.625,
+   "y1": 0.5
+  },
+  {
+   "item_index": 13,
+   "x0": 0.625,
+   "y0": 0.2437,
+   "x1": 0.75,
+   "y1": 0.5
+  },
+  {
+   "item_index": 14,
+   "x0": 0.75,
+   "y0": 0.2437,
+   "x1": 0.875,
+   "y1": 0.5
+  },
+  {
+   "item_index": 15,
+   "x0": 0.875,
+   "y0": 0.2437,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.1125,
+   "y1": 0.75
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1125,
+   "y0": 0.5,
+   "x1": 0.2417,
+   "y1": 0.75
+  },
+  {
+   "item_index": 18,
+   "x0": 0.2417,
+   "y0": 0.5,
+   "x1": 0.3667,
+   "y1": 0.75
+  },
+  {
+   "item_index": 19,
+   "x0": 0.3667,
+   "y0": 0.5,
+   "x1": 0.4917,
+   "y1": 0.75
+  },
+  {
+   "item_index": 20,
+   "x0": 0.4917,
+   "y0": 0.5,
+   "x1": 0.6208,
+   "y1": 0.75
+  },
+  {
+   "item_index": 21,
+   "x0": 0.6208,
+   "y0": 0.5,
+   "x1": 0.75,
+   "y1": 0.75
+  },
+  {
+   "item_index": 22,
+   "x0": 0.75,
+   "y0": 0.5,
+   "x1": 0.875,
+   "y1": 0.75
+  },
+  {
+   "item_index": 23,
+   "x0": 0.875,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.75
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0,
+   "y0": 0.75,
+   "x1": 0.1083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.1083,
+   "y0": 0.75,
+   "x1": 0.2417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.2417,
+   "y0": 0.75,
+   "x1": 0.3625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.3625,
+   "y0": 0.75,
+   "x1": 0.4875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.4875,
+   "y0": 0.75,
+   "x1": 0.6167,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.6167,
+   "y0": 0.75,
+   "x1": 0.7417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.7417,
+   "y0": 0.75,
+   "x1": 0.8708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 31,
+   "x0": 0.8708,
+   "y0": 0.75,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "64081",
+   "slot_letter": "A",
+   "name": "0-80 x 1/8 slotted pan head machine screw, stainless steel",
+   "price_cents": 38,
+   "upc": "738287640816",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot A",
+   "label_short": "0-80 x 1/8"
+  },
+  {
+   "sku": "64082",
+   "slot_letter": "B",
+   "name": "0-80 x 1/4 slotted pan head machine screw, stainless steel",
+   "price_cents": 43,
+   "upc": "738287640823",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot B",
+   "label_short": "0-80 x 1/4"
+  },
+  {
+   "sku": "64083",
+   "slot_letter": "C",
+   "name": "0-80 x 1/2 slotted pan head machine screw, stainless steel",
+   "price_cents": 47,
+   "upc": "738287640830",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot C",
+   "label_short": "0-80 x 1/2"
+  },
+  {
+   "sku": "64084",
+   "slot_letter": "D",
+   "name": "0-80 x 1/8 Phillips flat head machine screw, stainless steel",
+   "price_cents": 41,
+   "upc": "738287640847",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot D",
+   "label_short": "0-80 x 1/8 FH"
+  },
+  {
+   "sku": "64085",
+   "slot_letter": "E",
+   "name": "0-80 x 1/4 Phillips flat head machine screw, stainless steel",
+   "price_cents": 43,
+   "upc": "738287640854",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot E",
+   "label_short": "0-80 x 1/4 FH"
+  },
+  {
+   "sku": "64086",
+   "slot_letter": "F",
+   "name": "0-80 x 1/2 Phillips flat head machine screw, stainless steel",
+   "price_cents": 47,
+   "upc": "738287640861",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot F",
+   "label_short": "0-80 x 1/2 FH"
+  },
+  {
+   "sku": "64087",
+   "slot_letter": "G",
+   "name": "No. 0 flat washer, stainless steel",
+   "price_cents": 29,
+   "upc": "738287640878",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot G",
+   "label_short": "No. 0 washer"
+  },
+  {
+   "sku": "64088",
+   "slot_letter": "H",
+   "name": "0-80 hex nut, stainless steel",
+   "price_cents": 47,
+   "upc": "738287640885",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot H",
+   "label_short": "0-80 nut"
+  },
+  {
+   "sku": "64091",
+   "slot_letter": "J",
+   "name": "1-72 x 1/8 slotted pan head machine screw, stainless steel",
+   "price_cents": 37,
+   "upc": "738287640915",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot J",
+   "label_short": "1-72 x 1/8"
+  },
+  {
+   "sku": "64092",
+   "slot_letter": "K",
+   "name": "1-72 x 1/4 slotted pan head machine screw, stainless steel",
+   "price_cents": 38,
+   "upc": "738287640922",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot K",
+   "label_short": "1-72 x 1/4"
+  },
+  {
+   "sku": "64093",
+   "slot_letter": "L",
+   "name": "1-72 x 1/2 slotted pan head machine screw, stainless steel",
+   "price_cents": 42,
+   "upc": "738287640939",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot L",
+   "label_short": "1-72 x 1/2"
+  },
+  {
+   "sku": "64094",
+   "slot_letter": "M",
+   "name": "1-72 x 1/8 Phillips flat head machine screw, stainless steel",
+   "price_cents": 37,
+   "upc": "738287640946",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot M",
+   "label_short": "1-72 x 1/8 FH"
+  },
+  {
+   "sku": "64095",
+   "slot_letter": "N",
+   "name": "1-72 x 1/4 Phillips flat head machine screw, stainless steel",
+   "price_cents": 38,
+   "upc": "738287640953",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot N",
+   "label_short": "1-72 x 1/4 FH"
+  },
+  {
+   "sku": "64096",
+   "slot_letter": "P",
+   "name": "1-72 x 1/2 Phillips flat head machine screw, stainless steel",
+   "price_cents": 42,
+   "upc": "738287640960",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot P",
+   "label_short": "1-72 x 1/2 FH"
+  },
+  {
+   "sku": "64097",
+   "slot_letter": "Q",
+   "name": "No. 1 flat washer, stainless steel",
+   "price_cents": 29,
+   "upc": "738287640977",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot Q",
+   "label_short": "No. 1 washer"
+  },
+  {
+   "sku": "64098",
+   "slot_letter": "R",
+   "name": "1-72 hex nut, stainless steel",
+   "price_cents": 47,
+   "upc": "738287640984",
+   "upc_source": "read_from_label",
+   "location": "Stainless 73, slot R",
+   "label_short": "1-72 nut"
+  },
+  {
+   "sku": "64101",
+   "slot_letter": "A",
+   "name": "2-56 x 3/16 slotted pan head machine screw, stainless steel",
+   "price_cents": 35,
+   "upc": "738287641011",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot A",
+   "label_short": "2-56 x 3/16",
+   "note": "This compartment looked empty in the photo."
+  },
+  {
+   "sku": "64102",
+   "slot_letter": "B",
+   "name": "2-56 x 1/2 slotted pan head machine screw, stainless steel",
+   "price_cents": 38,
+   "upc": "738287641028",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot B",
+   "label_short": "2-56 x 1/2"
+  },
+  {
+   "sku": "64103",
+   "slot_letter": "C",
+   "name": "2-56 x 3/4 slotted pan head machine screw, stainless steel",
+   "price_cents": 41,
+   "upc": "738287641035",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot C",
+   "label_short": "2-56 x 3/4"
+  },
+  {
+   "sku": "64104",
+   "slot_letter": "D",
+   "name": "2-56 x 3/16 Phillips flat head machine screw, stainless steel",
+   "price_cents": 35,
+   "upc": "738287641042",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot D",
+   "label_short": "2-56 x 3/16 FH"
+  },
+  {
+   "sku": "64105",
+   "slot_letter": "E",
+   "name": "2-56 x 1/2 Phillips flat head machine screw, stainless steel",
+   "price_cents": 38,
+   "upc": "738287641059",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot E",
+   "label_short": "2-56 x 1/2 FH"
+  },
+  {
+   "sku": "64106",
+   "slot_letter": "F",
+   "name": "2-56 x 3/4 Phillips flat head machine screw, stainless steel",
+   "price_cents": 41,
+   "upc": "738287641066",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot F",
+   "label_short": "2-56 x 3/4 FH"
+  },
+  {
+   "sku": "64107",
+   "slot_letter": "G",
+   "name": "No. 2 flat washer, stainless steel",
+   "price_cents": 30,
+   "upc": "738287641073",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot G",
+   "label_short": "No. 2 washer"
+  },
+  {
+   "sku": "64108",
+   "slot_letter": "H",
+   "name": "2-56 hex nut, stainless steel",
+   "price_cents": 35,
+   "upc": "738287641080",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot H",
+   "label_short": "2-56 nut"
+  },
+  {
+   "sku": "64111",
+   "slot_letter": "J",
+   "name": "3-48 x 3/16 slotted pan head machine screw, stainless steel",
+   "price_cents": 35,
+   "upc": "738287641110",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot J",
+   "label_short": "3-48 x 3/16"
+  },
+  {
+   "sku": "64112",
+   "slot_letter": "K",
+   "name": "3-48 x 1/2 slotted pan head machine screw, stainless steel",
+   "price_cents": 41,
+   "upc": "738287641127",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot K",
+   "label_short": "3-48 x 1/2"
+  },
+  {
+   "sku": "64113",
+   "slot_letter": "L",
+   "name": "3-48 x 3/4 slotted pan head machine screw, stainless steel",
+   "price_cents": 44,
+   "upc": "738287641134",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot L",
+   "label_short": "3-48 x 3/4"
+  },
+  {
+   "sku": "64114",
+   "slot_letter": "M",
+   "name": "3-48 x 3/16 Phillips flat head machine screw, stainless steel",
+   "price_cents": 35,
+   "upc": "738287641141",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot M",
+   "label_short": "3-48 x 3/16 FH"
+  },
+  {
+   "sku": "64115",
+   "slot_letter": "N",
+   "name": "3-48 x 1/2 Phillips flat head machine screw, stainless steel",
+   "price_cents": 41,
+   "upc": "738287641158",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot N",
+   "label_short": "3-48 x 1/2 FH"
+  },
+  {
+   "sku": "64116",
+   "slot_letter": "P",
+   "name": "3-48 x 3/4 Phillips flat head machine screw, stainless steel",
+   "price_cents": 44,
+   "upc": "738287641165",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot P",
+   "label_short": "3-48 x 3/4 FH"
+  },
+  {
+   "sku": "64117",
+   "slot_letter": "Q",
+   "name": "No. 3 flat washer, stainless steel",
+   "price_cents": 32,
+   "upc": "738287641172",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot Q",
+   "label_short": "No. 3 washer"
+  },
+  {
+   "sku": "64118",
+   "slot_letter": "R",
+   "name": "3-48 hex nut, stainless steel",
+   "price_cents": 36,
+   "upc": "738287641189",
+   "upc_source": "read_from_label",
+   "location": "Stainless 74, slot R",
+   "label_short": "3-48 nut"
+  }
+ ]
+}

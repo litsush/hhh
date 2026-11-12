@@ -1,0 +1,138 @@
+{
+ "id": "Rc08r5",
+ "wall": "right",
+ "column": 8,
+ "row": 5,
+ "half": null,
+ "title": "Metric 96.85",
+ "description": "Stainless steel serrated hex flange bolts, M10-1.50 x 20mm to 50mm, with matching serrated flange nuts (935760)",
+ "front_image": "images/fronts/Rc08r5.jpg",
+ "tray_image": "images/trays/Rc08r5.jpg",
+ "tray_image_px": [
+  1200,
+  600
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2458,
+   "y1": 0.5
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2458,
+   "y0": 0.0,
+   "x1": 0.4817,
+   "y1": 0.5
+  },
+  {
+   "item_index": 2,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.24,
+   "y1": 1.0
+  },
+  {
+   "item_index": 3,
+   "x0": 0.24,
+   "y0": 0.5,
+   "x1": 0.4817,
+   "y1": 1.0
+  },
+  {
+   "item_index": 4,
+   "x0": 0.4817,
+   "y0": 0.0,
+   "x1": 0.6483,
+   "y1": 1.0
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6483,
+   "y0": 0.0,
+   "x1": 0.81,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.81,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "935761",
+   "slot_letter": "A",
+   "name": "M10-1.50 serrated flange nut, stainless steel",
+   "price_cents": 69,
+   "upc": "719199357610",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.85, slot A",
+   "label_short": "10mm nut"
+  },
+  {
+   "sku": "935762",
+   "slot_letter": "B",
+   "name": "M10-1.50 x 20mm serrated hex flange bolt, stainless steel",
+   "price_cents": 139,
+   "upc": "719199357627",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.85, slot B",
+   "label_short": "10mm x 20mm"
+  },
+  {
+   "sku": "935763",
+   "slot_letter": "C",
+   "name": "M10-1.50 x 25mm serrated hex flange bolt, stainless steel",
+   "price_cents": 169,
+   "upc": "719199357634",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.85, slot C",
+   "label_short": "10mm x 25mm"
+  },
+  {
+   "sku": "935764",
+   "slot_letter": "D",
+   "name": "M10-1.50 x 30mm serrated hex flange bolt, stainless steel",
+   "price_cents": 199,
+   "upc": "719199357641",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.85, slot D",
+   "label_short": "10mm x 30mm"
+  },
+  {
+   "sku": "935765",
+   "slot_letter": "E",
+   "name": "M10-1.50 x 35mm serrated hex flange bolt, stainless steel",
+   "price_cents": 269,
+   "upc": "719199357658",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.85, slot E",
+   "label_short": "10mm x 35mm"
+  },
+  {
+   "sku": "935766",
+   "slot_letter": "F",
+   "name": "M10-1.50 x 40mm serrated hex flange bolt, stainless steel",
+   "price_cents": 309,
+   "upc": "719199357665",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.85, slot F",
+   "label_short": "10mm x 40mm"
+  },
+  {
+   "sku": "935767",
+   "slot_letter": "G",
+   "name": "M10-1.50 x 50mm serrated hex flange bolt, stainless steel",
+   "price_cents": 369,
+   "upc": "719199357672",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.85, slot G",
+   "label_short": "10mm x 50mm"
+  }
+ ]
+}

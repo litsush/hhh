@@ -1,0 +1,189 @@
+{
+ "id": "Rc06r1-left",
+ "wall": "right",
+ "column": 6,
+ "row": 1,
+ "half": "L",
+ "title": "Metric 74.7",
+ "description": "Metric Phillips truss head machine screws, 4mm x 0.70 pitch, 8mm to 45mm long (31300).",
+ "front_image": "images/fronts/Rc06r1.jpg",
+ "tray_image": "images/trays/Rc06r1-left.jpg",
+ "tray_image_px": [
+  1200,
+  680
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1667,
+   "y1": 0.4559
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1667,
+   "y0": 0.0,
+   "x1": 0.3333,
+   "y1": 0.4559
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3333,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.4559
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6667,
+   "y1": 0.4559
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6667,
+   "y0": 0.0,
+   "x1": 0.8292,
+   "y1": 0.4559
+  },
+  {
+   "item_index": 5,
+   "x0": 0.8292,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4559
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.4559,
+   "x1": 0.2208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.2208,
+   "y0": 0.4559,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.5,
+   "y0": 0.4559,
+   "x1": 0.7542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.7542,
+   "y0": 0.4559,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "31301",
+   "slot_letter": "A",
+   "name": "4mm x 8mm metric Phillips truss head machine screw, zinc, 0.70 pitch",
+   "price_cents": 38,
+   "upc": "738287313017",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.7, slot A",
+   "label_short": "4mm x 8mm"
+  },
+  {
+   "sku": "31302",
+   "slot_letter": "B",
+   "name": "4mm x 10mm metric Phillips truss head machine screw, zinc, 0.70 pitch",
+   "price_cents": 41,
+   "upc": "738287313024",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.7, slot B",
+   "label_short": "4mm x 10mm"
+  },
+  {
+   "sku": "31303",
+   "slot_letter": "C",
+   "name": "4mm x 12mm metric Phillips truss head machine screw, zinc, 0.70 pitch",
+   "price_cents": 44,
+   "upc": "738287313031",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.7, slot C",
+   "label_short": "4mm x 12mm"
+  },
+  {
+   "sku": "31304",
+   "slot_letter": "D",
+   "name": "4mm x 16mm metric Phillips truss head machine screw, zinc, 0.70 pitch",
+   "price_cents": 48,
+   "upc": "738287313048",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.7, slot D",
+   "label_short": "4mm x 16mm"
+  },
+  {
+   "sku": "31305",
+   "slot_letter": "E",
+   "name": "4mm x 20mm metric Phillips truss head machine screw, zinc, 0.70 pitch",
+   "price_cents": 54,
+   "upc": "738287313055",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.7, slot E",
+   "label_short": "4mm x 20mm"
+  },
+  {
+   "sku": "31306",
+   "slot_letter": "F",
+   "name": "4mm x 25mm metric Phillips truss head machine screw, zinc, 0.70 pitch",
+   "price_cents": 58,
+   "upc": "738287313062",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.7, slot F",
+   "label_short": "4mm x 25mm"
+  },
+  {
+   "sku": "31307",
+   "slot_letter": "G",
+   "name": "4mm x 30mm metric Phillips truss head machine screw, zinc, 0.70 pitch",
+   "price_cents": 63,
+   "upc": "738287313079",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.7, slot G",
+   "label_short": "4mm x 30mm"
+  },
+  {
+   "sku": "31308",
+   "slot_letter": "H",
+   "name": "4mm x 35mm metric Phillips truss head machine screw, zinc, 0.70 pitch",
+   "price_cents": 69,
+   "upc": "738287313086",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.7, slot H",
+   "label_short": "4mm x 35mm"
+  },
+  {
+   "sku": "31311",
+   "slot_letter": "J",
+   "name": "4mm x 40mm metric Phillips truss head machine screw, zinc, 0.70 pitch",
+   "price_cents": 69,
+   "upc": "738287313116",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.7, slot J",
+   "label_short": "4mm x 40mm"
+  },
+  {
+   "sku": "31312",
+   "slot_letter": "K",
+   "name": "4mm x 45mm metric Phillips truss head machine screw, zinc, 0.70 pitch",
+   "price_cents": 75,
+   "upc": "738287313123",
+   "upc_source": "read_from_label",
+   "location": "Metric 74.7, slot K",
+   "label_short": "4mm x 45mm"
+  }
+ ]
+}

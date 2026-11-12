@@ -1,0 +1,304 @@
+{
+ "id": "Rc22r1",
+ "wall": "right",
+ "column": 22,
+ "row": 1,
+ "half": null,
+ "title": "Stainless 62",
+ "description": "Stainless steel socket set screws, coarse thread, 1/4-20 to 3/8-16 x 1/4 to 1-1/4 (79260).",
+ "front_image": "images/fronts/Rc22r1.jpg",
+ "tray_image": "images/trays/Rc22r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.125,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 1,
+   "x0": 0.125,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 2,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.375,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 3,
+   "x0": 0.375,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.625,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 5,
+   "x0": 0.625,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 6,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 0.875,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 7,
+   "x0": 0.875,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.4813,
+   "x1": 0.1292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1292,
+   "y0": 0.4813,
+   "x1": 0.2583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2583,
+   "y0": 0.4813,
+   "x1": 0.3917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3917,
+   "y0": 0.4813,
+   "x1": 0.5208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5208,
+   "y0": 0.4813,
+   "x1": 0.6458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6458,
+   "y0": 0.4813,
+   "x1": 0.775,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.775,
+   "y0": 0.4813,
+   "x1": 0.9,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.9,
+   "y0": 0.4813,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "67574",
+   "slot_letter": null,
+   "name": "1/4-20 x 1/4 coarse thread stainless steel socket set screw",
+   "price_cents": 105,
+   "upc": "738287675740",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, back row (SKU 67574)",
+   "label_short": "1/4-20 x 1/4",
+   "note": "No slot letter on the label (SKU only)."
+  },
+  {
+   "sku": "67575",
+   "slot_letter": null,
+   "name": "1/4-20 x 3/8 coarse thread stainless steel socket set screw",
+   "price_cents": 115,
+   "upc": "738287675757",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, back row (SKU 67575)",
+   "label_short": "1/4-20 x 3/8",
+   "note": "No slot letter on the label (SKU only)."
+  },
+  {
+   "sku": "67576",
+   "slot_letter": null,
+   "name": "1/4-20 x 1/2 coarse thread stainless steel socket set screw",
+   "price_cents": 119,
+   "upc": "738287675764",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, back row (SKU 67576)",
+   "label_short": "1/4-20 x 1/2",
+   "note": "No slot letter on the label (SKU only)."
+  },
+  {
+   "sku": "75021",
+   "slot_letter": null,
+   "name": "1/4-20 x 5/8 coarse thread stainless steel socket set screw",
+   "price_cents": 105,
+   "upc": "738287750218",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, back row (SKU 75021)",
+   "label_short": "1/4-20 x 5/8",
+   "note": "No slot letter on the label (SKU only)."
+  },
+  {
+   "sku": "75022",
+   "slot_letter": null,
+   "name": "1/4-20 x 3/4 coarse thread stainless steel socket set screw",
+   "price_cents": 109,
+   "upc": "738287750225",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, back row (SKU 75022)",
+   "label_short": "1/4-20 x 3/4",
+   "note": "No slot letter on the label (SKU only)."
+  },
+  {
+   "sku": "79261",
+   "slot_letter": "A",
+   "name": "5/16-18 x 5/16 coarse thread stainless steel socket set screw",
+   "price_cents": 129,
+   "upc": "738287792614",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, slot A",
+   "label_short": "5/16-18 x 5/16"
+  },
+  {
+   "sku": "67577",
+   "slot_letter": null,
+   "name": "5/16-18 x 3/8 coarse thread stainless steel socket set screw",
+   "price_cents": 145,
+   "upc": "738287675771",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, back row (SKU 67577)",
+   "label_short": "5/16-18 x 3/8",
+   "note": "No slot letter on the label (SKU only)."
+  },
+  {
+   "sku": "67578",
+   "slot_letter": null,
+   "name": "5/16-18 x 1/2 coarse thread stainless steel socket set screw",
+   "price_cents": 175,
+   "upc": "738287675788",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, back row (SKU 67578)",
+   "label_short": "5/16-18 x 1/2",
+   "note": "No slot letter on the label (SKU only)."
+  },
+  {
+   "sku": "79262",
+   "slot_letter": "B",
+   "name": "5/16-18 x 5/8 coarse thread stainless steel socket set screw",
+   "price_cents": 145,
+   "upc": "738287792621",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, slot B",
+   "label_short": "5/16-18 x 5/8"
+  },
+  {
+   "sku": "75023",
+   "slot_letter": null,
+   "name": "5/16-18 x 3/4 coarse thread stainless steel socket set screw",
+   "price_cents": 125,
+   "upc": "738287750232",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, front row (SKU 75023)",
+   "label_short": "5/16-18 x 3/4",
+   "note": "No slot letter on the label (SKU only)."
+  },
+  {
+   "sku": "75024",
+   "slot_letter": null,
+   "name": "5/16-18 x 1 coarse thread stainless steel socket set screw",
+   "price_cents": 129,
+   "upc": "738287750249",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, front row (SKU 75024)",
+   "label_short": "5/16-18 x 1",
+   "note": "No slot letter on the label (SKU only)."
+  },
+  {
+   "sku": "79263",
+   "slot_letter": "C",
+   "name": "3/8-16 x 3/8 coarse thread stainless steel socket set screw",
+   "price_cents": 145,
+   "upc": "738287792638",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, slot C",
+   "label_short": "3/8-16 x 3/8"
+  },
+  {
+   "sku": "75025",
+   "slot_letter": null,
+   "name": "3/8-16 x 1/2 coarse thread stainless steel socket set screw",
+   "price_cents": 139,
+   "upc": "738287750256",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, front row (SKU 75025)",
+   "label_short": "3/8-16 x 1/2",
+   "note": "No slot letter on the label (SKU only)."
+  },
+  {
+   "sku": "75026",
+   "slot_letter": null,
+   "name": "3/8-16 x 3/4 coarse thread stainless steel socket set screw",
+   "price_cents": 145,
+   "upc": "738287750263",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, front row (SKU 75026)",
+   "label_short": "3/8-16 x 3/4",
+   "note": "No slot letter on the label (SKU only)."
+  },
+  {
+   "sku": "75027",
+   "slot_letter": null,
+   "name": "3/8-16 x 1 coarse thread stainless steel socket set screw",
+   "price_cents": 175,
+   "upc": "738287750270",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, front row (SKU 75027)",
+   "label_short": "3/8-16 x 1",
+   "note": "No slot letter on the label (SKU only)."
+  },
+  {
+   "sku": "75028",
+   "slot_letter": null,
+   "name": "3/8-16 x 1-1/4 coarse thread stainless steel socket set screw",
+   "price_cents": 185,
+   "upc": "738287750287",
+   "upc_source": "read_from_label",
+   "location": "Stainless 62, front row (SKU 75028)",
+   "label_short": "3/8-16 x 1-1/4",
+   "note": "No slot letter on the label (SKU only)."
+  }
+ ]
+}

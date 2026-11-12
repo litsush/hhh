@@ -1,0 +1,367 @@
+{
+  "id": "Rc15bins",
+  "wall": "right",
+  "kind": "bins",
+  "column": 15,
+  "row": 6,
+  "half": null,
+  "title": "Bins under right-wall column 15",
+  "description": "Galvanized 1/2-13 carriage bolts from 1-1/2 to 10 inch, plus galvanized 3/8-16 and 1/2-13 hex nuts and 1/4 and 5/16 USS flat washers.",
+  "front_image": null,
+  "tray_image": "images/bins/Rc15.jpg",
+  "tray_image_px": [
+    500,
+    1500
+  ],
+  "photo": "IMG_7741.jpg",
+  "compartments": [
+    {
+      "item_index": 0,
+      "x0": 0.01,
+      "y0": 0.0,
+      "x1": 0.5,
+      "y1": 0.1067
+    },
+    {
+      "item_index": 1,
+      "x0": 0.5,
+      "y0": 0.0,
+      "x1": 0.968,
+      "y1": 0.1067
+    },
+    {
+      "item_index": 2,
+      "x0": 0.01,
+      "y0": 0.1067,
+      "x1": 0.5,
+      "y1": 0.2133
+    },
+    {
+      "item_index": 3,
+      "x0": 0.5,
+      "y0": 0.1067,
+      "x1": 0.968,
+      "y1": 0.2133
+    },
+    {
+      "item_index": 4,
+      "x0": 0.01,
+      "y0": 0.2133,
+      "x1": 0.5,
+      "y1": 0.3133
+    },
+    {
+      "item_index": 5,
+      "x0": 0.5,
+      "y0": 0.2133,
+      "x1": 0.968,
+      "y1": 0.3133
+    },
+    {
+      "item_index": 6,
+      "x0": 0.01,
+      "y0": 0.3133,
+      "x1": 0.5,
+      "y1": 0.4587
+    },
+    {
+      "item_index": 7,
+      "x0": 0.5,
+      "y0": 0.3133,
+      "x1": 0.968,
+      "y1": 0.4587
+    },
+    {
+      "item_index": 8,
+      "x0": 0.01,
+      "y0": 0.4587,
+      "x1": 0.5,
+      "y1": 0.568
+    },
+    {
+      "item_index": 9,
+      "x0": 0.5,
+      "y0": 0.4587,
+      "x1": 0.968,
+      "y1": 0.568
+    },
+    {
+      "item_index": 10,
+      "x0": 0.01,
+      "y0": 0.568,
+      "x1": 0.5,
+      "y1": 0.67
+    },
+    {
+      "item_index": 11,
+      "x0": 0.5,
+      "y0": 0.568,
+      "x1": 0.968,
+      "y1": 0.67
+    },
+    {
+      "item_index": 12,
+      "x0": 0.01,
+      "y0": 0.67,
+      "x1": 0.5,
+      "y1": 0.8033
+    },
+    {
+      "item_index": 13,
+      "x0": 0.5,
+      "y0": 0.67,
+      "x1": 0.968,
+      "y1": 0.8033
+    },
+    {
+      "item_index": 14,
+      "x0": 0.01,
+      "y0": 0.8033,
+      "x1": 0.5,
+      "y1": 0.9067
+    },
+    {
+      "item_index": 15,
+      "x0": 0.5,
+      "y0": 0.8033,
+      "x1": 0.968,
+      "y1": 0.9067
+    },
+    {
+      "item_index": 16,
+      "x0": 0.01,
+      "y0": 0.9067,
+      "x1": 0.5,
+      "y1": 1.0
+    },
+    {
+      "item_index": 17,
+      "x0": 0.5,
+      "y0": 0.9067,
+      "x1": 0.968,
+      "y1": 1.0
+    }
+  ],
+  "items": [
+    {
+      "sku": "05617",
+      "slot_letter": null,
+      "name": "3/8-16 hex nut, galvanized",
+      "label_short": "3/8-16",
+      "price_cents": 37,
+      "box_price_cents": 1849,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05617"
+    },
+    {
+      "sku": "09140",
+      "slot_letter": null,
+      "name": "1/4 USS flat washer, galvanized",
+      "label_short": "1/4",
+      "price_cents": 28,
+      "box_price_cents": 1159,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 09140",
+      "note": "Box price cents blurred; read as 11.59."
+    },
+    {
+      "sku": "05618",
+      "slot_letter": null,
+      "name": "1/2-13 hex nut, galvanized",
+      "label_short": "1/2-13",
+      "price_cents": 67,
+      "box_price_cents": 1999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05618"
+    },
+    {
+      "sku": "09141",
+      "slot_letter": null,
+      "name": "5/16 USS flat washer, galvanized",
+      "label_short": "5/16",
+      "price_cents": 33,
+      "box_price_cents": 1599,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 09141"
+    },
+    {
+      "sku": "05518",
+      "slot_letter": null,
+      "name": "1/2-13 x 1-1/2 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 1-1/2",
+      "price_cents": 129,
+      "box_price_cents": 4399,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05518"
+    },
+    {
+      "sku": "05525",
+      "slot_letter": null,
+      "name": "1/2-13 x 5 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 5",
+      "price_cents": 279,
+      "box_price_cents": 4999,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05525",
+      "note": "Glare on box price cents; read as 49.99."
+    },
+    {
+      "sku": "05519",
+      "slot_letter": null,
+      "name": "1/2-13 x 2 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 2",
+      "price_cents": 145,
+      "box_price_cents": 4799,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05519"
+    },
+    {
+      "sku": "05526",
+      "slot_letter": null,
+      "name": "1/2-13 x 5-1/2 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 5-1/2",
+      "price_cents": 289,
+      "box_price_cents": 5399,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05526"
+    },
+    {
+      "sku": "51929",
+      "slot_letter": null,
+      "name": "1/2-13 x 2-1/2 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 2-1/2",
+      "price_cents": 175,
+      "box_price_cents": 2999,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 51929",
+      "note": "SKU printed as 51929, out of sequence with neighbouring 055xx bins."
+    },
+    {
+      "sku": "05527",
+      "slot_letter": null,
+      "name": "1/2-13 x 6 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 6",
+      "price_cents": 329,
+      "box_price_cents": 5999,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05527"
+    },
+    {
+      "sku": "51930",
+      "slot_letter": null,
+      "name": "1/2-13 x 3 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 3",
+      "price_cents": 185,
+      "box_price_cents": 3299,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 51930",
+      "note": "SKU printed as 51930, out of sequence with neighbouring 055xx bins."
+    },
+    {
+      "sku": "05528",
+      "slot_letter": null,
+      "name": "1/2-13 x 6-1/2 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 6-1/2",
+      "price_cents": 369,
+      "box_price_cents": 6899,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05528"
+    },
+    {
+      "sku": "05522",
+      "slot_letter": null,
+      "name": "1/2-13 x 3-1/2 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 3-1/2",
+      "price_cents": 199,
+      "box_price_cents": 3599,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05522"
+    },
+    {
+      "sku": "05529",
+      "slot_letter": null,
+      "name": "1/2-13 x 7 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 7",
+      "price_cents": 399,
+      "box_price_cents": 7399,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05529"
+    },
+    {
+      "sku": "05523",
+      "slot_letter": null,
+      "name": "1/2-13 x 4 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 4",
+      "price_cents": 229,
+      "box_price_cents": 4099,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05523"
+    },
+    {
+      "sku": "05530",
+      "slot_letter": null,
+      "name": "1/2-13 x 8 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 8",
+      "price_cents": 439,
+      "box_price_cents": 8099,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05530"
+    },
+    {
+      "sku": "05524",
+      "slot_letter": null,
+      "name": "1/2-13 x 4-1/2 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 4-1/2",
+      "price_cents": 249,
+      "box_price_cents": 4599,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05524"
+    },
+    {
+      "sku": "05532",
+      "slot_letter": null,
+      "name": "1/2-13 x 10 carriage bolt, galvanized",
+      "label_short": "1/2-13 x 10",
+      "price_cents": 499,
+      "box_price_cents": 9299,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05532"
+    }
+  ]
+}

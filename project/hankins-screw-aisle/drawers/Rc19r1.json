@@ -1,0 +1,563 @@
+{
+ "id": "Rc19r1",
+ "wall": "right",
+ "column": 19,
+ "row": 1,
+ "half": null,
+ "title": "Stainless 72.7 and Stainless 72.8",
+ "description": "Stainless steel Phillips truss head machine screws: 6-32 and 8-32 coarse, 1/4 to 2 inch (33880), plus 10-24, 10-32 fine and 1/4-20, 1/2 to 2 inch (33900).",
+ "front_image": "images/fronts/Rc19r1.jpg",
+ "tray_image": "images/trays/Rc19r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.025,
+   "y0": 0.0,
+   "x1": 0.1625,
+   "y1": 0.25
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1625,
+   "y0": 0.0,
+   "x1": 0.2833,
+   "y1": 0.25
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2833,
+   "y0": 0.0,
+   "x1": 0.4042,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.4042,
+   "y0": 0.0,
+   "x1": 0.5208,
+   "y1": 0.25
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5208,
+   "y0": 0.0,
+   "x1": 0.6375,
+   "y1": 0.25
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6375,
+   "y0": 0.0,
+   "x1": 0.7542,
+   "y1": 0.25
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7542,
+   "y0": 0.0,
+   "x1": 0.8708,
+   "y1": 0.25
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8708,
+   "y0": 0.0,
+   "x1": 0.9958,
+   "y1": 0.25
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0167,
+   "y0": 0.25,
+   "x1": 0.1542,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1542,
+   "y0": 0.25,
+   "x1": 0.275,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 10,
+   "x0": 0.275,
+   "y0": 0.25,
+   "x1": 0.3958,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3958,
+   "y0": 0.25,
+   "x1": 0.5125,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5125,
+   "y0": 0.25,
+   "x1": 0.6333,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6333,
+   "y0": 0.25,
+   "x1": 0.7542,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7542,
+   "y0": 0.25,
+   "x1": 0.875,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 15,
+   "x0": 0.875,
+   "y0": 0.25,
+   "x1": 0.9958,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0042,
+   "y0": 0.5062,
+   "x1": 0.1375,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1375,
+   "y0": 0.5062,
+   "x1": 0.2625,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 18,
+   "x0": 0.2625,
+   "y0": 0.5062,
+   "x1": 0.3875,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 19,
+   "x0": 0.3875,
+   "y0": 0.5062,
+   "x1": 0.5083,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 20,
+   "x0": 0.5083,
+   "y0": 0.5062,
+   "x1": 0.6333,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 21,
+   "x0": 0.6333,
+   "y0": 0.5062,
+   "x1": 0.7542,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 22,
+   "x0": 0.7542,
+   "y0": 0.5062,
+   "x1": 0.8792,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 23,
+   "x0": 0.8792,
+   "y0": 0.5062,
+   "x1": 1.0,
+   "y1": 0.7625
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0,
+   "y0": 0.7625,
+   "x1": 0.1292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.1292,
+   "y0": 0.7625,
+   "x1": 0.2542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.2542,
+   "y0": 0.7625,
+   "x1": 0.3833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.3833,
+   "y0": 0.7625,
+   "x1": 0.5083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.5083,
+   "y0": 0.7625,
+   "x1": 0.6333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.6333,
+   "y0": 0.7625,
+   "x1": 0.7583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.7583,
+   "y0": 0.7625,
+   "x1": 0.8833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 31,
+   "x0": 0.8833,
+   "y0": 0.7625,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "33881",
+   "slot_letter": "A",
+   "name": "6-32 x 1/4 Phillips truss head machine screw, stainless steel",
+   "price_cents": 29,
+   "upc": "738287338812",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot A",
+   "label_short": "6-32 x 1/4"
+  },
+  {
+   "sku": "33882",
+   "slot_letter": "B",
+   "name": "6-32 x 3/8 Phillips truss head machine screw, stainless steel",
+   "price_cents": 31,
+   "upc": "738287338829",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot B",
+   "label_short": "6-32 x 3/8"
+  },
+  {
+   "sku": "33883",
+   "slot_letter": "C",
+   "name": "6-32 x 1/2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 32,
+   "upc": "738287338836",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot C",
+   "label_short": "6-32 x 1/2"
+  },
+  {
+   "sku": "33884",
+   "slot_letter": "D",
+   "name": "6-32 x 5/8 Phillips truss head machine screw, stainless steel",
+   "price_cents": 34,
+   "upc": "738287338843",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot D",
+   "label_short": "6-32 x 5/8"
+  },
+  {
+   "sku": "33885",
+   "slot_letter": "E",
+   "name": "6-32 x 3/4 Phillips truss head machine screw, stainless steel",
+   "price_cents": 36,
+   "upc": "738287338850",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot E",
+   "label_short": "6-32 x 3/4"
+  },
+  {
+   "sku": "33886",
+   "slot_letter": "F",
+   "name": "6-32 x 1 Phillips truss head machine screw, stainless steel",
+   "price_cents": 38,
+   "upc": "738287338867",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot F",
+   "label_short": "6-32 x 1"
+  },
+  {
+   "sku": "33887",
+   "slot_letter": "G",
+   "name": "6-32 x 1-1/4 Phillips truss head machine screw, stainless steel",
+   "price_cents": 42,
+   "upc": "738287338874",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot G",
+   "label_short": "6-32 x 1-1/4"
+  },
+  {
+   "sku": "33888",
+   "slot_letter": "H",
+   "name": "6-32 x 1-1/2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 46,
+   "upc": "738287338881",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot H",
+   "label_short": "6-32 x 1-1/2"
+  },
+  {
+   "sku": "33891",
+   "slot_letter": "J",
+   "name": "8-32 x 3/8 Phillips truss head machine screw, stainless steel",
+   "price_cents": 31,
+   "upc": "738287338911",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot J",
+   "label_short": "8-32 x 3/8"
+  },
+  {
+   "sku": "33892",
+   "slot_letter": "K",
+   "name": "8-32 x 1/2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 34,
+   "upc": "738287338928",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot K",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "33893",
+   "slot_letter": "L",
+   "name": "8-32 x 5/8 Phillips truss head machine screw, stainless steel",
+   "price_cents": 36,
+   "upc": "738287338935",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot L",
+   "label_short": "8-32 x 5/8"
+  },
+  {
+   "sku": "33894",
+   "slot_letter": "M",
+   "name": "8-32 x 3/4 Phillips truss head machine screw, stainless steel",
+   "price_cents": 38,
+   "upc": "738287338942",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot M",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "33895",
+   "slot_letter": "N",
+   "name": "8-32 x 1 Phillips truss head machine screw, stainless steel",
+   "price_cents": 48,
+   "upc": "738287338959",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot N",
+   "label_short": "8-32 x 1"
+  },
+  {
+   "sku": "33896",
+   "slot_letter": "P",
+   "name": "8-32 x 1-1/4 Phillips truss head machine screw, stainless steel",
+   "price_cents": 55,
+   "upc": "738287338966",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot P",
+   "label_short": "8-32 x 1-1/4"
+  },
+  {
+   "sku": "33897",
+   "slot_letter": "Q",
+   "name": "8-32 x 1-1/2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 59,
+   "upc": "738287338973",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot Q",
+   "label_short": "8-32 x 1-1/2"
+  },
+  {
+   "sku": "33898",
+   "slot_letter": "R",
+   "name": "8-32 x 2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 75,
+   "upc": "738287338980",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.7, slot R",
+   "label_short": "8-32 x 2"
+  },
+  {
+   "sku": "33901",
+   "slot_letter": "A",
+   "name": "10-24 x 1/2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 42,
+   "upc": "738287339017",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot A",
+   "label_short": "10-24 x 1/2"
+  },
+  {
+   "sku": "33902",
+   "slot_letter": "B",
+   "name": "10-24 x 3/4 Phillips truss head machine screw, stainless steel",
+   "price_cents": 48,
+   "upc": "738287339024",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot B",
+   "label_short": "10-24 x 3/4"
+  },
+  {
+   "sku": "33903",
+   "slot_letter": "C",
+   "name": "10-24 x 1 Phillips truss head machine screw, stainless steel",
+   "price_cents": 55,
+   "upc": "738287339031",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot C",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "33904",
+   "slot_letter": "D",
+   "name": "10-24 x 1-1/2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 65,
+   "upc": "738287339048",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot D",
+   "label_short": "10-24 x 1-1/2"
+  },
+  {
+   "sku": "33905",
+   "slot_letter": "E",
+   "name": "10-24 x 2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 85,
+   "upc": "738287339055",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot E",
+   "label_short": "10-24 x 2"
+  },
+  {
+   "sku": "33906",
+   "slot_letter": "F",
+   "name": "10-32 x 1/2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 45,
+   "upc": "738287339062",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot F",
+   "label_short": "10-32 x 1/2"
+  },
+  {
+   "sku": "33907",
+   "slot_letter": "G",
+   "name": "10-32 x 3/4 Phillips truss head machine screw, stainless steel",
+   "price_cents": 50,
+   "upc": "738287339079",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot G",
+   "label_short": "10-32 x 3/4"
+  },
+  {
+   "sku": "33908",
+   "slot_letter": "H",
+   "name": "10-32 x 1 Phillips truss head machine screw, stainless steel",
+   "price_cents": 59,
+   "upc": "738287339086",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot H",
+   "label_short": "10-32 x 1"
+  },
+  {
+   "sku": "33911",
+   "slot_letter": "J",
+   "name": "10-32 x 1-1/2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 69,
+   "upc": "738287339116",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot J",
+   "label_short": "10-32 x 1-1/2"
+  },
+  {
+   "sku": "33912",
+   "slot_letter": "K",
+   "name": "10-32 x 2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 89,
+   "upc": "738287339123",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot K",
+   "label_short": "10-32 x 2"
+  },
+  {
+   "sku": "33913",
+   "slot_letter": "L",
+   "name": "1/4-20 x 1/2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 62,
+   "upc": "738287339130",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot L",
+   "label_short": "1/4-20 x 1/2"
+  },
+  {
+   "sku": "33914",
+   "slot_letter": "M",
+   "name": "1/4-20 x 5/8 Phillips truss head machine screw, stainless steel",
+   "price_cents": 68,
+   "upc": "738287339147",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot M",
+   "label_short": "1/4-20 x 5/8"
+  },
+  {
+   "sku": "33915",
+   "slot_letter": "N",
+   "name": "1/4-20 x 3/4 Phillips truss head machine screw, stainless steel",
+   "price_cents": 75,
+   "upc": "738287339154",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot N",
+   "label_short": "1/4-20 x 3/4"
+  },
+  {
+   "sku": "33916",
+   "slot_letter": "P",
+   "name": "1/4-20 x 1 Phillips truss head machine screw, stainless steel",
+   "price_cents": 85,
+   "upc": "738287339161",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot P",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "33917",
+   "slot_letter": "Q",
+   "name": "1/4-20 x 1-1/2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 99,
+   "upc": "738287339178",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot Q",
+   "label_short": "1/4-20 x 1-1/2"
+  },
+  {
+   "sku": "33918",
+   "slot_letter": "R",
+   "name": "1/4-20 x 2 Phillips truss head machine screw, stainless steel",
+   "price_cents": 119,
+   "upc": "738287339185",
+   "upc_source": "read_from_label",
+   "location": "Stainless 72.8, slot R",
+   "label_short": "1/4-20 x 2"
+  }
+ ]
+}

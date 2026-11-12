@@ -1,0 +1,553 @@
+{
+  "id": "Rc12bins",
+  "wall": "right",
+  "kind": "bins",
+  "column": 12,
+  "row": 6,
+  "half": null,
+  "title": "Bins under right-wall column 12",
+  "description": "Brass Phillips flat head wood screws from #8 x 3/4 to #12 x 3, plus 1/4-20 galvanized carriage bolts in the top right bins.",
+  "front_image": null,
+  "tray_image": "images/bins/Rc12.jpg",
+  "tray_image_px": [
+    500,
+    1500
+  ],
+  "photo": "IMG_7739.jpg",
+  "compartments": [
+    {
+      "item_index": 0,
+      "x0": 0.04,
+      "y0": 0.01,
+      "x1": 0.27,
+      "y1": 0.0967
+    },
+    {
+      "item_index": 1,
+      "x0": 0.27,
+      "y0": 0.01,
+      "x1": 0.5,
+      "y1": 0.0967
+    },
+    {
+      "item_index": 2,
+      "x0": 0.5,
+      "y0": 0.01,
+      "x1": 0.97,
+      "y1": 0.0967
+    },
+    {
+      "item_index": 3,
+      "x0": 0.04,
+      "y0": 0.11,
+      "x1": 0.27,
+      "y1": 0.2033
+    },
+    {
+      "item_index": 4,
+      "x0": 0.27,
+      "y0": 0.11,
+      "x1": 0.5,
+      "y1": 0.2033
+    },
+    {
+      "item_index": 5,
+      "x0": 0.5,
+      "y0": 0.11,
+      "x1": 0.97,
+      "y1": 0.2033
+    },
+    {
+      "item_index": 6,
+      "x0": 0.04,
+      "y0": 0.2167,
+      "x1": 0.27,
+      "y1": 0.31
+    },
+    {
+      "item_index": 7,
+      "x0": 0.27,
+      "y0": 0.2167,
+      "x1": 0.5,
+      "y1": 0.31
+    },
+    {
+      "item_index": 8,
+      "x0": 0.5,
+      "y0": 0.2167,
+      "x1": 0.97,
+      "y1": 0.31
+    },
+    {
+      "item_index": 9,
+      "x0": 0.04,
+      "y0": 0.35,
+      "x1": 0.27,
+      "y1": 0.4467
+    },
+    {
+      "item_index": 10,
+      "x0": 0.27,
+      "y0": 0.35,
+      "x1": 0.5,
+      "y1": 0.4467
+    },
+    {
+      "item_index": 11,
+      "x0": 0.5,
+      "y0": 0.35,
+      "x1": 0.736,
+      "y1": 0.4467
+    },
+    {
+      "item_index": 12,
+      "x0": 0.736,
+      "y0": 0.35,
+      "x1": 0.97,
+      "y1": 0.4467
+    },
+    {
+      "item_index": 13,
+      "x0": 0.04,
+      "y0": 0.45,
+      "x1": 0.27,
+      "y1": 0.5533
+    },
+    {
+      "item_index": 14,
+      "x0": 0.27,
+      "y0": 0.45,
+      "x1": 0.5,
+      "y1": 0.5533
+    },
+    {
+      "item_index": 15,
+      "x0": 0.5,
+      "y0": 0.45,
+      "x1": 0.97,
+      "y1": 0.5533
+    },
+    {
+      "item_index": 16,
+      "x0": 0.04,
+      "y0": 0.5547,
+      "x1": 0.27,
+      "y1": 0.66
+    },
+    {
+      "item_index": 17,
+      "x0": 0.27,
+      "y0": 0.5547,
+      "x1": 0.5,
+      "y1": 0.66
+    },
+    {
+      "item_index": 18,
+      "x0": 0.5,
+      "y0": 0.5547,
+      "x1": 0.97,
+      "y1": 0.66
+    },
+    {
+      "item_index": 19,
+      "x0": 0.04,
+      "y0": 0.6767,
+      "x1": 0.27,
+      "y1": 0.79
+    },
+    {
+      "item_index": 20,
+      "x0": 0.27,
+      "y0": 0.6767,
+      "x1": 0.5,
+      "y1": 0.79
+    },
+    {
+      "item_index": 21,
+      "x0": 0.5,
+      "y0": 0.6767,
+      "x1": 0.97,
+      "y1": 0.79
+    },
+    {
+      "item_index": 22,
+      "x0": 0.04,
+      "y0": 0.79,
+      "x1": 0.27,
+      "y1": 0.8947
+    },
+    {
+      "item_index": 23,
+      "x0": 0.27,
+      "y0": 0.79,
+      "x1": 0.5,
+      "y1": 0.8947
+    },
+    {
+      "item_index": 24,
+      "x0": 0.5,
+      "y0": 0.79,
+      "x1": 0.97,
+      "y1": 0.8947
+    },
+    {
+      "item_index": 25,
+      "x0": 0.04,
+      "y0": 0.8947,
+      "x1": 0.5,
+      "y1": 0.9987
+    },
+    {
+      "item_index": 26,
+      "x0": 0.5,
+      "y0": 0.8947,
+      "x1": 0.97,
+      "y1": 0.9987
+    }
+  ],
+  "items": [
+    {
+      "sku": "02864",
+      "slot_letter": null,
+      "name": "8 x 3/4 brass Phillips flat head wood screw",
+      "label_short": "8 x 3/4",
+      "price_cents": 48,
+      "box_price_cents": 2599,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02864",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "02865",
+      "slot_letter": null,
+      "name": "8 x 1 brass Phillips flat head wood screw",
+      "label_short": "8 x 1",
+      "price_cents": 51,
+      "box_price_cents": 2799,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02865",
+      "note": "Label half is washed out by glare: price read as ?1c and 27.??, taken as 51c / 27.99 from the neighbouring brass prices; number read as 0286?, taken as 02865 (between 02864 and 02866). Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "05475",
+      "slot_letter": null,
+      "name": "1/4-20 x 1 galvanized carriage bolt",
+      "label_short": "1/4-20 x 1",
+      "price_cents": 39,
+      "box_price_cents": 1999,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05475",
+      "note": "Label is faded by glare: number under the barcode read as 05475 (faint); box price cents unreadable (19.??), 19.99 is a guess; box count assumed 100 like the 05476 label below."
+    },
+    {
+      "sku": "02866",
+      "slot_letter": null,
+      "name": "8 x 1-1/4 brass Phillips flat head wood screw",
+      "label_short": "8 x 1-1/4",
+      "price_cents": 55,
+      "box_price_cents": 3099,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02866",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "02867",
+      "slot_letter": null,
+      "name": "8 x 1-1/2 brass Phillips flat head wood screw",
+      "label_short": "8 x 1-1/2",
+      "price_cents": 75,
+      "box_price_cents": 4199,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02867",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "05476",
+      "slot_letter": null,
+      "name": "1/4-20 x 1-1/2 galvanized carriage bolt",
+      "label_short": "1/4-20 x 1-1/2",
+      "price_cents": 46,
+      "box_price_cents": 2599,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05476"
+    },
+    {
+      "sku": "02868",
+      "slot_letter": null,
+      "name": "8 x 1-3/4 brass Phillips flat head wood screw",
+      "label_short": "8 x 1-3/4",
+      "price_cents": 85,
+      "box_price_cents": 4799,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02868",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "02869",
+      "slot_letter": null,
+      "name": "8 x 2 brass Phillips flat head wood screw",
+      "label_short": "8 x 2",
+      "price_cents": 95,
+      "box_price_cents": 4999,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02869",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "02884",
+      "slot_letter": null,
+      "name": "10 x 3 brass Phillips flat head wood screw",
+      "label_short": "10 x 3",
+      "price_cents": 139,
+      "box_price_cents": 8899,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02884"
+    },
+    {
+      "sku": "02871",
+      "slot_letter": null,
+      "name": "9 x 3/4 brass Phillips flat head wood screw",
+      "label_short": "9 x 3/4",
+      "price_cents": 59,
+      "box_price_cents": 3299,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02871",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "02872",
+      "slot_letter": null,
+      "name": "9 x 1 brass Phillips flat head wood screw",
+      "label_short": "9 x 1",
+      "price_cents": 67,
+      "box_price_cents": 3699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02872",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "02885",
+      "slot_letter": null,
+      "name": "12 x 3/4 brass Phillips flat head wood screw",
+      "label_short": "12 x 3/4",
+      "price_cents": 85,
+      "box_price_cents": 4699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02885",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "02886",
+      "slot_letter": null,
+      "name": "12 x 1 brass Phillips flat head wood screw",
+      "label_short": "12 x 1",
+      "price_cents": 95,
+      "box_price_cents": 5499,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02886",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "02873",
+      "slot_letter": null,
+      "name": "9 x 1-1/4 brass Phillips flat head wood screw",
+      "label_short": "9 x 1-1/4",
+      "price_cents": 75,
+      "box_price_cents": 4199,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02873",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "02874",
+      "slot_letter": null,
+      "name": "9 x 1-1/2 brass Phillips flat head wood screw",
+      "label_short": "9 x 1-1/2",
+      "price_cents": 79,
+      "box_price_cents": 4399,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02874",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "02887",
+      "slot_letter": null,
+      "name": "12 x 1-1/4 brass Phillips flat head wood screw",
+      "label_short": "12 x 1-1/4",
+      "price_cents": 105,
+      "box_price_cents": 5899,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02887"
+    },
+    {
+      "sku": "02877",
+      "slot_letter": null,
+      "name": "10 x 3/4 brass Phillips flat head wood screw",
+      "label_short": "10 x 3/4",
+      "price_cents": 51,
+      "box_price_cents": 2799,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02877",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "02878",
+      "slot_letter": null,
+      "name": "10 x 1 brass Phillips flat head wood screw",
+      "label_short": "10 x 1",
+      "price_cents": 56,
+      "box_price_cents": 3299,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02878",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "02888",
+      "slot_letter": null,
+      "name": "12 x 1-1/2 brass Phillips flat head wood screw",
+      "label_short": "12 x 1-1/2",
+      "price_cents": 109,
+      "box_price_cents": 6199,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02888"
+    },
+    {
+      "sku": "02879",
+      "slot_letter": null,
+      "name": "10 x 1-1/4 brass Phillips flat head wood screw",
+      "label_short": "10 x 1-1/4",
+      "price_cents": 69,
+      "box_price_cents": 3999,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02879",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "02880",
+      "slot_letter": null,
+      "name": "10 x 1-1/2 brass Phillips flat head wood screw",
+      "label_short": "10 x 1-1/2",
+      "price_cents": 85,
+      "box_price_cents": 4699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02880",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "02889",
+      "slot_letter": null,
+      "name": "12 x 2 brass Phillips flat head wood screw",
+      "label_short": "12 x 2",
+      "price_cents": 129,
+      "box_price_cents": 7999,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02889"
+    },
+    {
+      "sku": "02881",
+      "slot_letter": null,
+      "name": "10 x 1-3/4 brass Phillips flat head wood screw",
+      "label_short": "10 x 1-3/4",
+      "price_cents": 95,
+      "box_price_cents": 5699,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02881",
+      "note": "Bin is split in two; this is the left half, sharing one label strip."
+    },
+    {
+      "sku": "02882",
+      "slot_letter": null,
+      "name": "10 x 2 brass Phillips flat head wood screw",
+      "label_short": "10 x 2",
+      "price_cents": 105,
+      "box_price_cents": 5899,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02882",
+      "note": "Bin is split in two; this is the right half, sharing one label strip."
+    },
+    {
+      "sku": "02890",
+      "slot_letter": null,
+      "name": "12 x 2-1/2 brass Phillips flat head wood screw",
+      "label_short": "12 x 2-1/2",
+      "price_cents": 159,
+      "box_price_cents": 10799,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02890"
+    },
+    {
+      "sku": "02883",
+      "slot_letter": null,
+      "name": "10 x 2-1/2 brass Phillips flat head wood screw",
+      "label_short": "10 x 2-1/2",
+      "price_cents": 115,
+      "box_price_cents": 7199,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02883"
+    },
+    {
+      "sku": "02891",
+      "slot_letter": null,
+      "name": "12 x 3 brass Phillips flat head wood screw",
+      "label_short": "12 x 3",
+      "price_cents": 195,
+      "box_price_cents": 13499,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 02891"
+    }
+  ]
+}

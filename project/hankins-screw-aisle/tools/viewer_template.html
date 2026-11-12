@@ -24,8 +24,8 @@ section.open{background:rgba(16,18,24,.6)}section.open .inner{background:var(--p
 <canvas id="c"></canvas>
 <div id="load">Loading the 3D scan…</div>
 <div class="bar"><span class="chip"><a href="index.html">← Flat wall view</a></span>
-<button class="chip" id="tog">Hide photos</button><button class="chip" id="home">Reset view</button>
-<span class="chip">Drag to look around, scroll or pinch to zoom, tap a drawer or bin shelf.</span></div>
+<button class="chip" id="tog">Hide photos</button><button class="chip" id="home">Down the aisle</button><button class="chip" id="vl">Left wall</button><button class="chip" id="vr">Right wall</button>
+<span class="chip">Drag to look around, right-drag or two fingers to slide, scroll or pinch to zoom. Tap a drawer or bin shelf.</span></div>
 <div id="info"><h2 id="it"></h2><p id="is"></p></div>
 <script src="drawer.js"></script>
 <script type="module">
@@ -40,19 +40,31 @@ const scene=new THREE.Scene();scene.background=new THREE.Color(0x1b1d22);
 const camera=new THREE.PerspectiveCamera(55,1,0.02,200);
 const V=a=>new THREE.Vector3(...a);
 const n=V(L.normal),up=V(L.up),right=V(L.right);
-const all=L.slots.flatMap(s=>s.q.map(V));const center=all.reduce((a,b)=>a.add(b),new THREE.Vector3()).multiplyScalar(1/all.length);
-const span=all.reduce((m,p)=>Math.max(m,Math.abs(p.clone().sub(center).dot(right))),0);
+const ctr=a=>a.reduce((s,p)=>s.add(p),new THREE.Vector3()).multiplyScalar(1/a.length);
+const ptsOf=w=>L.slots.filter(s=>(s.w||'left')===w).flatMap(s=>s.q.map(V));
+const cL=ctr(ptsOf('left')),pR=ptsOf('right'),cR=pR.length?ctr(pR):cL.clone().addScaledVector(n,2);
+const mid=cL.clone().add(cR).multiplyScalar(.5);
+const span=ptsOf('left').concat(pR).reduce((m,p)=>Math.max(m,Math.abs(p.clone().sub(mid).dot(right))),0);
 camera.up.copy(up);
 const controls=new OrbitControls(camera,canvas);controls.enableDamping=true;controls.screenSpacePanning=true;
-function home(){const hf=2*Math.atan(Math.tan(camera.fov*Math.PI/360)*camera.aspect);camera.position.copy(center).addScaledVector(n,span*1.08/Math.tan(hf/2));controls.target.copy(center);controls.update()}
+function look(pos,tgt){camera.position.copy(pos);controls.target.copy(tgt);controls.update()}
+function home(){look(mid.clone().addScaledVector(right,span+1.2).addScaledVector(up,.55),mid.clone().addScaledVector(right,-1.5).addScaledVector(up,.15))}
+function wallView(c,toward){const d=cR.clone().sub(cL).length()*.92;look(c.clone().addScaledVector(toward,d).addScaledVector(up,.1),c)}
 const viewer=new GS.DropInViewer({sharedMemoryForWorkers:false,gpuAcceleratedSort:false});
 scene.add(viewer);
-viewer.addSplatScene('aisle.splat',{format:GS.SceneFormat.Splat,showLoadingUI:false,progressiveLoad:true,onProgress:(p)=>{const e=document.getElementById('load');if(e&&p>=0)e.textContent='Loading the 3D scan… '+Math.round(p)+'%'}})
-  .then(()=>{document.getElementById('load').remove()}).catch(e=>{document.getElementById('load').textContent='Could not load the scan: '+e});
+const scans=L.scans||['aisle.splat'];const ld=document.getElementById('load');
+(async()=>{for(let i=0;i<scans.length;i++){
+  const part=scans.length>1?' (part '+(i+1)+' of '+scans.length+')':'';
+  ld.textContent='Loading the 3D scan'+part+'…';
+  try{await viewer.addSplatScene(scans[i],{format:GS.SceneFormat.Splat,showLoadingUI:false,progressiveLoad:i===0,
+     onProgress:p=>{if(p>=0)ld.textContent='Loading the 3D scan'+part+'… '+Math.round(p)+'%'}})}
+  catch(e){ld.textContent='Could not load the scan: '+e;return}
+  while(viewer.viewer&&viewer.viewer.isLoadingOrUnloading&&viewer.viewer.isLoadingOrUnloading())await new Promise(r=>setTimeout(r,200));}
+  ld.remove()})();
 // drawer photos as quads
-const group=new THREE.Group();scene.add(group);const loader=new THREE.TextureLoader();const off=n.clone().multiplyScalar(0.01);const aniso=renderer.capabilities.getMaxAnisotropy();
+const group=new THREE.Group();scene.add(group);const loader=new THREE.TextureLoader();const offOf=w=>n.clone().multiplyScalar(w==='right'?-0.01:0.01);const aniso=renderer.capabilities.getMaxAnisotropy();
 for(const s of L.slots){
-  const [tl,tr,br,bl]=s.q.map(a=>V(a).add(off));
+  const off=offOf(s.w);const [tl,tr,br,bl]=s.q.map(a=>V(a).add(off));
   const parts=s.d.length?s.d:[null];
   parts.forEach((d,k)=>{const f0=k/parts.length,f1=(k+1)/parts.length,lerp=(a,b,t)=>a.clone().lerp(b,t);
     const p=[lerp(tl,tr,f0),lerp(tl,tr,f1),lerp(bl,br,f1),lerp(bl,br,f0)];
@@ -63,14 +75,15 @@ for(const s of L.slots){
     const mesh=new THREE.Mesh(g,m);mesh.renderOrder=-1;mesh.userData={d,s};group.add(mesh)})}
 // red bin shelving under the drawers: one photo per unit
 for(const b of (L.bins||[])){if(!b.f)continue;
-  const p=b.q.map(a=>V(a).add(off));const g=new THREE.BufferGeometry();
+  const off=offOf(b.w);const p=b.q.map(a=>V(a).add(off));const g=new THREE.BufferGeometry();
   g.setAttribute('position',new THREE.Float32BufferAttribute(p.flatMap(v=>[v.x,v.y,v.z]),3));
   g.setAttribute('uv',new THREE.Float32BufferAttribute([0,1,1,1,1,0,0,0],2));g.setIndex([0,2,1,0,3,2]);
   const t=loader.load(b.f);t.colorSpace=THREE.SRGBColorSpace;t.anisotropy=aniso;
   const mesh=new THREE.Mesh(g,new THREE.MeshBasicMaterial({map:t,side:THREE.DoubleSide}));mesh.renderOrder=-1;
-  mesh.userData={d:b.d[0],s:{c:b.c,r:'bins'}};group.add(mesh)}
+  mesh.userData={d:b.d[0],s:{w:b.w,c:b.c,r:'bins'}};group.add(mesh)}
 document.getElementById('tog').onclick=e=>{group.visible=!group.visible;e.target.textContent=group.visible?'Hide photos':'Show photos'};
 document.getElementById('home').onclick=home;
+document.getElementById('vl').onclick=()=>wallView(cL,n);document.getElementById('vr').onclick=()=>wallView(cR,n.clone().negate());
 const ray=new THREE.Raycaster(),ptr=new THREE.Vector2();let down;
 canvas.addEventListener('pointerdown',e=>down=[e.clientX,e.clientY]);
 canvas.addEventListener('pointerup',e=>{if(!down||Math.hypot(e.clientX-down[0],e.clientY-down[1])>6)return;
@@ -79,7 +92,7 @@ canvas.addEventListener('pointerup',e=>{if(!down||Math.hypot(e.clientX-down[0],e
   if(!h)return;
   const {d,s}=h.object.userData;
   if(d&&byId[d.id]){paused=true;DrawerView.open(byId[d.id],canvas,()=>{paused=false});return}
-  box.style.display='block';document.getElementById('it').textContent='Column '+s.c+(s.r==='bins'?', bins':', row '+s.r);
+  box.style.display='block';document.getElementById('it').textContent=(s.w==='right'?'Right wall, column ':'Left wall, column ')+s.c+(s.r==='bins'?', bins':', row '+s.r);
   document.getElementById('is').textContent='Inside not photographed yet.'});
 function size(){renderer.setSize(innerWidth,innerHeight,false);camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix()}
 addEventListener('resize',size);size();home();

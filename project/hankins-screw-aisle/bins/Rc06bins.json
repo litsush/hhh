@@ -1,0 +1,573 @@
+{
+ "id": "Rc06bins",
+ "wall": "right",
+ "kind": "bins",
+ "column": 6,
+ "row": 6,
+ "half": null,
+ "title": "Bins under right-wall column 06",
+ "description": "Slotted hex washer head sheet metal screws #10 to #14 (left bins, plus #14 in the lower right bins) and Phillips flat head sheet metal screws #6 and #8 (upper right bins).",
+ "front_image": null,
+ "tray_image": "images/bins/Rc06.jpg",
+ "tray_image_px": [
+  500,
+  1500
+ ],
+ "photo": "IMG_7736.jpg",
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.038,
+   "y0": 0.01,
+   "x1": 0.268,
+   "y1": 0.106
+  },
+  {
+   "item_index": 1,
+   "x0": 0.268,
+   "y0": 0.01,
+   "x1": 0.496,
+   "y1": 0.106
+  },
+  {
+   "item_index": 2,
+   "x0": 0.496,
+   "y0": 0.01,
+   "x1": 0.728,
+   "y1": 0.106
+  },
+  {
+   "item_index": 3,
+   "x0": 0.728,
+   "y0": 0.01,
+   "x1": 0.96,
+   "y1": 0.106
+  },
+  {
+   "item_index": 4,
+   "x0": 0.038,
+   "y0": 0.11,
+   "x1": 0.268,
+   "y1": 0.2147
+  },
+  {
+   "item_index": 5,
+   "x0": 0.268,
+   "y0": 0.11,
+   "x1": 0.496,
+   "y1": 0.2147
+  },
+  {
+   "item_index": 6,
+   "x0": 0.496,
+   "y0": 0.11,
+   "x1": 0.728,
+   "y1": 0.2147
+  },
+  {
+   "item_index": 7,
+   "x0": 0.728,
+   "y0": 0.11,
+   "x1": 0.96,
+   "y1": 0.2147
+  },
+  {
+   "item_index": 8,
+   "x0": 0.038,
+   "y0": 0.2187,
+   "x1": 0.496,
+   "y1": 0.3133
+  },
+  {
+   "item_index": 9,
+   "x0": 0.496,
+   "y0": 0.2187,
+   "x1": 0.728,
+   "y1": 0.3133
+  },
+  {
+   "item_index": 10,
+   "x0": 0.728,
+   "y0": 0.2187,
+   "x1": 0.96,
+   "y1": 0.3133
+  },
+  {
+   "item_index": 11,
+   "x0": 0.044,
+   "y0": 0.3547,
+   "x1": 0.48,
+   "y1": 0.4527
+  },
+  {
+   "item_index": 12,
+   "x0": 0.496,
+   "y0": 0.3547,
+   "x1": 0.72,
+   "y1": 0.4527
+  },
+  {
+   "item_index": 13,
+   "x0": 0.72,
+   "y0": 0.3547,
+   "x1": 0.946,
+   "y1": 0.4527
+  },
+  {
+   "item_index": 14,
+   "x0": 0.044,
+   "y0": 0.456,
+   "x1": 0.262,
+   "y1": 0.556
+  },
+  {
+   "item_index": 15,
+   "x0": 0.262,
+   "y0": 0.456,
+   "x1": 0.48,
+   "y1": 0.556
+  },
+  {
+   "item_index": 16,
+   "x0": 0.496,
+   "y0": 0.456,
+   "x1": 0.72,
+   "y1": 0.556
+  },
+  {
+   "item_index": 17,
+   "x0": 0.72,
+   "y0": 0.456,
+   "x1": 0.946,
+   "y1": 0.556
+  },
+  {
+   "item_index": 18,
+   "x0": 0.044,
+   "y0": 0.5593,
+   "x1": 0.262,
+   "y1": 0.66
+  },
+  {
+   "item_index": 19,
+   "x0": 0.262,
+   "y0": 0.5593,
+   "x1": 0.48,
+   "y1": 0.66
+  },
+  {
+   "item_index": 20,
+   "x0": 0.496,
+   "y0": 0.5593,
+   "x1": 0.946,
+   "y1": 0.66
+  },
+  {
+   "item_index": 21,
+   "x0": 0.044,
+   "y0": 0.6927,
+   "x1": 0.48,
+   "y1": 0.7927
+  },
+  {
+   "item_index": 22,
+   "x0": 0.496,
+   "y0": 0.6927,
+   "x1": 0.946,
+   "y1": 0.7927
+  },
+  {
+   "item_index": 23,
+   "x0": 0.044,
+   "y0": 0.796,
+   "x1": 0.48,
+   "y1": 0.8973
+  },
+  {
+   "item_index": 24,
+   "x0": 0.496,
+   "y0": 0.796,
+   "x1": 0.946,
+   "y1": 0.8973
+  },
+  {
+   "item_index": 25,
+   "x0": 0.044,
+   "y0": 0.9007,
+   "x1": 0.262,
+   "y1": 0.998
+  },
+  {
+   "item_index": 26,
+   "x0": 0.262,
+   "y0": 0.9007,
+   "x1": 0.48,
+   "y1": 0.998
+  },
+  {
+   "item_index": 27,
+   "x0": 0.496,
+   "y0": 0.9007,
+   "x1": 0.946,
+   "y1": 0.998
+  }
+ ],
+ "items": [
+  {
+   "sku": "02937",
+   "slot_letter": null,
+   "name": "#10 x 1 slotted hex washer head sheet metal screw",
+   "label_short": "10 x 1",
+   "price_cents": 28,
+   "box_price_cents": 1199,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02937",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "02938",
+   "slot_letter": null,
+   "name": "#10 x 1-1/4 slotted hex washer head sheet metal screw",
+   "label_short": "10 x 1-1/4",
+   "price_cents": 31,
+   "box_price_cents": 1389,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02938",
+   "note": "Box price cents blurry, read as 13.89. Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03002",
+   "slot_letter": null,
+   "name": "#6 x 1/2 Phillips flat head sheet metal screw",
+   "label_short": "6 x 1/2",
+   "price_cents": 22,
+   "box_price_cents": 789,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03002",
+   "note": "Box price cents blurry, read as 7.89 (could be 7.39). Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03004",
+   "slot_letter": null,
+   "name": "#6 x 3/4 Phillips flat head sheet metal screw",
+   "label_short": "6 x 3/4",
+   "price_cents": 23,
+   "box_price_cents": 779,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03004",
+   "note": "Blurry: SKU read as 03004 and box price as 7.79. Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "02939",
+   "slot_letter": null,
+   "name": "#10 x 1-1/2 slotted hex washer head sheet metal screw",
+   "label_short": "10 x 1-1/2",
+   "price_cents": 33,
+   "box_price_cents": 1549,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02939",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "02941",
+   "slot_letter": null,
+   "name": "#10 x 2 slotted hex washer head sheet metal screw",
+   "label_short": "10 x 2",
+   "price_cents": 37,
+   "box_price_cents": 1899,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02941",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03005",
+   "slot_letter": null,
+   "name": "#6 x 1 Phillips flat head sheet metal screw",
+   "label_short": "6 x 1",
+   "price_cents": 24,
+   "box_price_cents": 879,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03005",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03006",
+   "slot_letter": null,
+   "name": "#6 x 1-1/4 Phillips flat head sheet metal screw",
+   "label_short": "6 x 1-1/4",
+   "price_cents": 27,
+   "box_price_cents": 1059,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03006",
+   "note": "Box price cents blurry, read as 10.59. Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "02942",
+   "slot_letter": null,
+   "name": "#10 x 2-1/2 slotted hex washer head sheet metal screw",
+   "label_short": "10 x 2-1/2",
+   "price_cents": 44,
+   "box_price_cents": 2399,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02942"
+  },
+  {
+   "sku": "03007",
+   "slot_letter": null,
+   "name": "#6 x 1-1/2 Phillips flat head sheet metal screw",
+   "label_short": "6 x 1-1/2",
+   "price_cents": 28,
+   "box_price_cents": 1159,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03007",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03008",
+   "slot_letter": null,
+   "name": "#6 x 2 Phillips flat head sheet metal screw",
+   "label_short": "6 x 2",
+   "price_cents": 31,
+   "box_price_cents": 1459,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03008",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "02943",
+   "slot_letter": null,
+   "name": "#10 x 3 slotted hex washer head sheet metal screw",
+   "label_short": "10 x 3",
+   "price_cents": 54,
+   "box_price_cents": 2999,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02943"
+  },
+  {
+   "sku": "03010",
+   "slot_letter": null,
+   "name": "#8 x 1/2 Phillips flat head sheet metal screw",
+   "label_short": "8 x 1/2",
+   "price_cents": 23,
+   "box_price_cents": 779,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03010",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03012",
+   "slot_letter": null,
+   "name": "#8 x 3/4 Phillips flat head sheet metal screw",
+   "label_short": "8 x 3/4",
+   "price_cents": 24,
+   "box_price_cents": 859,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03012",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "02944",
+   "slot_letter": null,
+   "name": "#12 x 1/2 slotted hex washer head sheet metal screw",
+   "label_short": "12 x 1/2",
+   "price_cents": 30,
+   "box_price_cents": 1299,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02944",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "02946",
+   "slot_letter": null,
+   "name": "#12 x 3/4 slotted hex washer head sheet metal screw",
+   "label_short": "12 x 3/4",
+   "price_cents": 32,
+   "box_price_cents": 1499,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02946",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03013",
+   "slot_letter": null,
+   "name": "#8 x 1 Phillips flat head sheet metal screw",
+   "label_short": "8 x 1",
+   "price_cents": 25,
+   "box_price_cents": 919,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03013",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03014",
+   "slot_letter": null,
+   "name": "#8 x 1-1/4 Phillips flat head sheet metal screw",
+   "label_short": "8 x 1-1/4",
+   "price_cents": 27,
+   "box_price_cents": 1099,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03014",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "02947",
+   "slot_letter": null,
+   "name": "#12 x 1 slotted hex washer head sheet metal screw",
+   "label_short": "12 x 1",
+   "price_cents": 33,
+   "box_price_cents": 1549,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02947",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "02948",
+   "slot_letter": null,
+   "name": "#12 x 1-1/4 slotted hex washer head sheet metal screw",
+   "label_short": "12 x 1-1/4",
+   "price_cents": 35,
+   "box_price_cents": 1699,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02948",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "02959",
+   "slot_letter": null,
+   "name": "#14 x 1-1/2 slotted hex washer head sheet metal screw",
+   "label_short": "14 x 1-1/2",
+   "price_cents": 43,
+   "box_price_cents": 2299,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02959"
+  },
+  {
+   "sku": "02949",
+   "slot_letter": null,
+   "name": "#12 x 1-1/2 slotted hex washer head sheet metal screw",
+   "label_short": "12 x 1-1/2",
+   "price_cents": 38,
+   "box_price_cents": 1899,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02949"
+  },
+  {
+   "sku": "02960",
+   "slot_letter": null,
+   "name": "#14 x 2 slotted hex washer head sheet metal screw",
+   "label_short": "14 x 2",
+   "price_cents": 51,
+   "box_price_cents": 2899,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02960"
+  },
+  {
+   "sku": "02951",
+   "slot_letter": null,
+   "name": "#12 x 2 slotted hex washer head sheet metal screw",
+   "label_short": "12 x 2",
+   "price_cents": 45,
+   "box_price_cents": 2399,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02951"
+  },
+  {
+   "sku": "02961",
+   "slot_letter": null,
+   "name": "#14 x 2-1/2 slotted hex washer head sheet metal screw",
+   "label_short": "14 x 2-1/2",
+   "price_cents": 75,
+   "box_price_cents": 4099,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02961"
+  },
+  {
+   "sku": "02956",
+   "slot_letter": null,
+   "name": "#14 x 3/4 slotted hex washer head sheet metal screw",
+   "label_short": "14 x 3/4",
+   "price_cents": 35,
+   "box_price_cents": 1649,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02956",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "02957",
+   "slot_letter": null,
+   "name": "#14 x 1 slotted hex washer head sheet metal screw",
+   "label_short": "14 x 1",
+   "price_cents": 37,
+   "box_price_cents": 1899,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02957",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "02962",
+   "slot_letter": null,
+   "name": "#14 x 3 slotted hex washer head sheet metal screw",
+   "label_short": "14 x 3",
+   "price_cents": 99,
+   "box_price_cents": 5599,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 02962"
+  }
+ ]
+}

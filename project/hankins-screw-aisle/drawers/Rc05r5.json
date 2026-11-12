@@ -1,0 +1,446 @@
+{
+ "id": "Rc05r5",
+ "wall": "right",
+ "column": 5,
+ "row": 5,
+ "half": null,
+ "title": "Metric 74 and Metric 75",
+ "description": "Metric Phillips flat head machine screws, 4mm to 6mm x 8mm to 30mm (72440), plus metric combination truss head machine screws, 4mm x 25mm to 60mm (71460).",
+ "front_image": "images/fronts/Rc05r5.jpg",
+ "tray_image": "images/trays/Rc05r5.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1333,
+   "y1": 0.25
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1333,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.25
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.375,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.375,
+   "y0": 0.0,
+   "x1": 0.4958,
+   "y1": 0.25
+  },
+  {
+   "item_index": 4,
+   "x0": 0.4958,
+   "y0": 0.0,
+   "x1": 0.6125,
+   "y1": 0.25
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6125,
+   "y0": 0.0,
+   "x1": 0.725,
+   "y1": 0.25
+  },
+  {
+   "item_index": 6,
+   "x0": 0.725,
+   "y0": 0.0,
+   "x1": 0.8417,
+   "y1": 0.25
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8417,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.25
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.25,
+   "x1": 0.1375,
+   "y1": 0.5
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1375,
+   "y0": 0.25,
+   "x1": 0.2583,
+   "y1": 0.5
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2583,
+   "y0": 0.25,
+   "x1": 0.375,
+   "y1": 0.5
+  },
+  {
+   "item_index": 11,
+   "x0": 0.375,
+   "y0": 0.25,
+   "x1": 0.4958,
+   "y1": 0.5
+  },
+  {
+   "item_index": 12,
+   "x0": 0.4958,
+   "y0": 0.25,
+   "x1": 0.6125,
+   "y1": 0.5
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6125,
+   "y0": 0.25,
+   "x1": 0.725,
+   "y1": 0.5
+  },
+  {
+   "item_index": 14,
+   "x0": 0.725,
+   "y0": 0.25,
+   "x1": 0.8458,
+   "y1": 0.5
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8458,
+   "y0": 0.25,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.175,
+   "y1": 0.75
+  },
+  {
+   "item_index": 17,
+   "x0": 0.175,
+   "y0": 0.5,
+   "x1": 0.3375,
+   "y1": 0.75
+  },
+  {
+   "item_index": 18,
+   "x0": 0.3375,
+   "y0": 0.5,
+   "x1": 0.5,
+   "y1": 0.75
+  },
+  {
+   "item_index": 19,
+   "x0": 0.5,
+   "y0": 0.5,
+   "x1": 0.725,
+   "y1": 0.75
+  },
+  {
+   "item_index": 20,
+   "x0": 0.725,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.75
+  },
+  {
+   "item_index": 21,
+   "x0": 0.0,
+   "y0": 0.75,
+   "x1": 0.2542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.2542,
+   "y0": 0.75,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.5,
+   "y0": 0.75,
+   "x1": 0.7417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.7417,
+   "y0": 0.75,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "72441",
+   "slot_letter": "A",
+   "name": "4mm x 8mm metric Phillips flat head machine screw, 0.70 pitch",
+   "price_cents": 33,
+   "upc": "738287724417",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot A",
+   "label_short": "4mm x 8mm"
+  },
+  {
+   "sku": "72442",
+   "slot_letter": "B",
+   "name": "4mm x 10mm metric Phillips flat head machine screw, 0.70 pitch",
+   "price_cents": 37,
+   "upc": "738287724424",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot B",
+   "label_short": "4mm x 10mm"
+  },
+  {
+   "sku": "72443",
+   "slot_letter": "C",
+   "name": "4mm x 12mm metric Phillips flat head machine screw, 0.70 pitch",
+   "price_cents": 40,
+   "upc": "738287724431",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot C",
+   "label_short": "4mm x 12mm"
+  },
+  {
+   "sku": "72444",
+   "slot_letter": "D",
+   "name": "4mm x 16mm metric Phillips flat head machine screw, 0.70 pitch",
+   "price_cents": 43,
+   "upc": "738287724448",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot D",
+   "label_short": "4mm x 16mm"
+  },
+  {
+   "sku": "72445",
+   "slot_letter": "E",
+   "name": "4mm x 20mm metric Phillips flat head machine screw, 0.70 pitch",
+   "price_cents": 45,
+   "upc": "738287724455",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot E",
+   "label_short": "4mm x 20mm"
+  },
+  {
+   "sku": "72446",
+   "slot_letter": "F",
+   "name": "5mm x 10mm metric Phillips flat head machine screw, 0.80 pitch",
+   "price_cents": 44,
+   "upc": "738287724462",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot F",
+   "label_short": "5mm x 10mm"
+  },
+  {
+   "sku": "72447",
+   "slot_letter": "G",
+   "name": "5mm x 12mm metric Phillips flat head machine screw, 0.80 pitch",
+   "price_cents": 47,
+   "upc": "738287724479",
+   "upc_source": "calculated_from_sku",
+   "location": "Metric 74, slot G",
+   "label_short": "5mm x 12mm",
+   "note": "UPC digits are motion-blurred in the photo; UPC calculated from SKU."
+  },
+  {
+   "sku": "72448",
+   "slot_letter": "H",
+   "name": "5mm x 16mm metric Phillips flat head machine screw, 0.80 pitch",
+   "price_cents": 49,
+   "upc": "738287724486",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot H",
+   "label_short": "5mm x 16mm"
+  },
+  {
+   "sku": "72451",
+   "slot_letter": "J",
+   "name": "5mm x 20mm metric Phillips flat head machine screw, 0.80 pitch",
+   "price_cents": 55,
+   "upc": "738287724516",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot J",
+   "label_short": "5mm x 20mm"
+  },
+  {
+   "sku": "72452",
+   "slot_letter": "K",
+   "name": "5mm x 25mm metric Phillips flat head machine screw, 0.80 pitch",
+   "price_cents": 60,
+   "upc": "738287724523",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot K",
+   "label_short": "5mm x 25mm"
+  },
+  {
+   "sku": "72453",
+   "slot_letter": "L",
+   "name": "6mm x 10mm metric Phillips flat head machine screw, 1.00 pitch",
+   "price_cents": 51,
+   "upc": "738287724530",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot L",
+   "label_short": "6mm x 10mm"
+  },
+  {
+   "sku": "72454",
+   "slot_letter": "M",
+   "name": "6mm x 12mm metric Phillips flat head machine screw, 1.00 pitch",
+   "price_cents": 54,
+   "upc": "738287724547",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot M",
+   "label_short": "6mm x 12mm"
+  },
+  {
+   "sku": "72455",
+   "slot_letter": "N",
+   "name": "6mm x 16mm metric Phillips flat head machine screw, 1.00 pitch",
+   "price_cents": 57,
+   "upc": "738287724554",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot N",
+   "label_short": "6mm x 16mm"
+  },
+  {
+   "sku": "72456",
+   "slot_letter": "P",
+   "name": "6mm x 20mm metric Phillips flat head machine screw, 1.00 pitch",
+   "price_cents": 62,
+   "upc": "738287724561",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot P",
+   "label_short": "6mm x 20mm"
+  },
+  {
+   "sku": "72457",
+   "slot_letter": "Q",
+   "name": "6mm x 25mm metric Phillips flat head machine screw, 1.00 pitch",
+   "price_cents": 67,
+   "upc": "738287724578",
+   "upc_source": "calculated_from_sku",
+   "location": "Metric 74, slot Q",
+   "label_short": "6mm x 25mm",
+   "note": "UPC digits are motion-blurred in the photo; UPC calculated from SKU."
+  },
+  {
+   "sku": "72458",
+   "slot_letter": "R",
+   "name": "6mm x 30mm metric Phillips flat head machine screw, 1.00 pitch",
+   "price_cents": 75,
+   "upc": "738287724585",
+   "upc_source": "read_from_label",
+   "location": "Metric 74, slot R",
+   "label_short": "6mm x 30mm"
+  },
+  {
+   "sku": "71461",
+   "slot_letter": "A",
+   "name": "4mm x 25mm metric combination (slotted/Phillips) truss head machine screw, 0.70 pitch",
+   "price_cents": 53,
+   "upc": "738287714616",
+   "upc_source": "read_from_label",
+   "location": "Metric 75, slot A",
+   "label_short": "4mm x 25mm"
+  },
+  {
+   "sku": "71462",
+   "slot_letter": "B",
+   "name": "4mm x 28mm metric combination (slotted/Phillips) truss head machine screw, 0.70 pitch",
+   "price_cents": 62,
+   "upc": "738287714623",
+   "upc_source": "read_from_label",
+   "location": "Metric 75, slot B",
+   "label_short": "4mm x 28mm"
+  },
+  {
+   "sku": "71463",
+   "slot_letter": "C",
+   "name": "4mm x 30mm metric combination (slotted/Phillips) truss head machine screw, 0.70 pitch",
+   "price_cents": 64,
+   "upc": "738287714630",
+   "upc_source": "read_from_label",
+   "location": "Metric 75, slot C",
+   "label_short": "4mm x 30mm"
+  },
+  {
+   "sku": "71464",
+   "slot_letter": "D",
+   "name": "4mm x 35mm metric combination (slotted/Phillips) truss head machine screw, 0.70 pitch",
+   "price_cents": 66,
+   "upc": "738287714647",
+   "upc_source": "read_from_label",
+   "location": "Metric 75, slot D",
+   "label_short": "4mm x 35mm"
+  },
+  {
+   "sku": "71465",
+   "slot_letter": "E",
+   "name": "4mm x 38mm metric combination (slotted/Phillips) truss head machine screw, 0.70 pitch",
+   "price_cents": 69,
+   "upc": "738287714654",
+   "upc_source": "read_from_label",
+   "location": "Metric 75, slot E",
+   "label_short": "4mm x 38mm"
+  },
+  {
+   "sku": "71466",
+   "slot_letter": "F",
+   "name": "4mm x 40mm metric combination (slotted/Phillips) truss head machine screw, 0.70 pitch",
+   "price_cents": 75,
+   "upc": "738287714661",
+   "upc_source": "read_from_label",
+   "location": "Metric 75, slot F",
+   "label_short": "4mm x 40mm"
+  },
+  {
+   "sku": "71467",
+   "slot_letter": "G",
+   "name": "4mm x 45mm metric combination (slotted/Phillips) truss head machine screw, 0.70 pitch",
+   "price_cents": 75,
+   "upc": "738287714678",
+   "upc_source": "read_from_label",
+   "location": "Metric 75, slot G",
+   "label_short": "4mm x 45mm"
+  },
+  {
+   "sku": "71468",
+   "slot_letter": "H",
+   "name": "4mm x 50mm metric combination (slotted/Phillips) truss head machine screw, 0.70 pitch",
+   "price_cents": 79,
+   "upc": "738287714685",
+   "upc_source": "read_from_label",
+   "location": "Metric 75, slot H",
+   "label_short": "4mm x 50mm"
+  },
+  {
+   "sku": "71471",
+   "slot_letter": "J",
+   "name": "4mm x 60mm metric combination (slotted/Phillips) truss head machine screw, 0.70 pitch",
+   "price_cents": 89,
+   "upc": "738287714715",
+   "upc_source": "read_from_label",
+   "location": "Metric 75, slot J",
+   "label_short": "4mm x 60mm"
+  }
+ ]
+}

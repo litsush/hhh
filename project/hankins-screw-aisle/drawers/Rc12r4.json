@@ -1,0 +1,563 @@
+{
+ "id": "Rc12r4",
+ "wall": "right",
+ "column": 12,
+ "row": 4,
+ "half": null,
+ "title": "Sheet Metal 28 and Sheet Metal 30",
+ "description": "Phillips flat and oval head decorative screws in bronze, black and antique copper, #4 to #8 (63280), and black Phillips pan head sheet metal screws, #6 to #10, 1/2 to 2 long (79400), in one tray",
+ "front_image": "images/fronts/Rc12r4.jpg",
+ "tray_image": "images/trays/Rc12r4.jpg",
+ "tray_image_px": [
+  1200,
+  1000
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1417,
+   "y1": 0.245
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1417,
+   "y0": 0.0,
+   "x1": 0.2667,
+   "y1": 0.245
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2667,
+   "y0": 0.0,
+   "x1": 0.3875,
+   "y1": 0.245
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3875,
+   "y0": 0.0,
+   "x1": 0.5083,
+   "y1": 0.245
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5083,
+   "y0": 0.0,
+   "x1": 0.6292,
+   "y1": 0.245
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6292,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.245
+  },
+  {
+   "item_index": 6,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 0.8708,
+   "y1": 0.245
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8708,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.245
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.245,
+   "x1": 0.1375,
+   "y1": 0.495
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1375,
+   "y0": 0.245,
+   "x1": 0.2625,
+   "y1": 0.495
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2625,
+   "y0": 0.245,
+   "x1": 0.3875,
+   "y1": 0.495
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3875,
+   "y0": 0.245,
+   "x1": 0.5083,
+   "y1": 0.495
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5083,
+   "y0": 0.245,
+   "x1": 0.6292,
+   "y1": 0.495
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6292,
+   "y0": 0.245,
+   "x1": 0.75,
+   "y1": 0.495
+  },
+  {
+   "item_index": 14,
+   "x0": 0.75,
+   "y0": 0.245,
+   "x1": 0.875,
+   "y1": 0.495
+  },
+  {
+   "item_index": 15,
+   "x0": 0.875,
+   "y0": 0.245,
+   "x1": 1.0,
+   "y1": 0.495
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.495,
+   "x1": 0.1292,
+   "y1": 0.745
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1292,
+   "y0": 0.495,
+   "x1": 0.2583,
+   "y1": 0.745
+  },
+  {
+   "item_index": 18,
+   "x0": 0.2583,
+   "y0": 0.495,
+   "x1": 0.3833,
+   "y1": 0.745
+  },
+  {
+   "item_index": 19,
+   "x0": 0.3833,
+   "y0": 0.495,
+   "x1": 0.5042,
+   "y1": 0.745
+  },
+  {
+   "item_index": 20,
+   "x0": 0.5042,
+   "y0": 0.495,
+   "x1": 0.6292,
+   "y1": 0.745
+  },
+  {
+   "item_index": 21,
+   "x0": 0.6292,
+   "y0": 0.495,
+   "x1": 0.7542,
+   "y1": 0.745
+  },
+  {
+   "item_index": 22,
+   "x0": 0.7542,
+   "y0": 0.495,
+   "x1": 0.875,
+   "y1": 0.745
+  },
+  {
+   "item_index": 23,
+   "x0": 0.875,
+   "y0": 0.495,
+   "x1": 1.0,
+   "y1": 0.745
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0,
+   "y0": 0.745,
+   "x1": 0.1292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.1292,
+   "y0": 0.745,
+   "x1": 0.2542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.2542,
+   "y0": 0.745,
+   "x1": 0.3833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.3833,
+   "y0": 0.745,
+   "x1": 0.5083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.5083,
+   "y0": 0.745,
+   "x1": 0.6292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.6292,
+   "y0": 0.745,
+   "x1": 0.7542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.7542,
+   "y0": 0.745,
+   "x1": 0.8792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 31,
+   "x0": 0.8792,
+   "y0": 0.745,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "63281",
+   "slot_letter": "A",
+   "name": "#4 x 1/2 Phillips flat head decorative screw, bronze",
+   "price_cents": 38,
+   "upc": "738287632811",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot A",
+   "label_short": "4 x 1/2 flat bronze"
+  },
+  {
+   "sku": "63282",
+   "slot_letter": "B",
+   "name": "#6 x 1/2 Phillips flat head decorative screw, bronze",
+   "price_cents": 41,
+   "upc": "738287632828",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot B",
+   "label_short": "6 x 1/2 flat bronze"
+  },
+  {
+   "sku": "63283",
+   "slot_letter": "C",
+   "name": "#6 x 3/4 Phillips flat head decorative screw, bronze",
+   "price_cents": 42,
+   "upc": "738287632835",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot C",
+   "label_short": "6 x 3/4 flat bronze"
+  },
+  {
+   "sku": "63284",
+   "slot_letter": "D",
+   "name": "#6 x 1 Phillips flat head decorative screw, bronze",
+   "price_cents": 45,
+   "upc": "738287632842",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot D",
+   "label_short": "6 x 1 flat bronze"
+  },
+  {
+   "sku": "63285",
+   "slot_letter": "E",
+   "name": "#6 x 1/2 Phillips flat head decorative screw, black",
+   "price_cents": 32,
+   "upc": "738287632859",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot E",
+   "label_short": "6 x 1/2 flat black"
+  },
+  {
+   "sku": "63286",
+   "slot_letter": "F",
+   "name": "#6 x 3/4 Phillips flat head decorative screw, black",
+   "price_cents": 35,
+   "upc": "738287632866",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot F",
+   "label_short": "6 x 3/4 flat black"
+  },
+  {
+   "sku": "63287",
+   "slot_letter": "G",
+   "name": "#6 x 1 Phillips flat head decorative screw, black",
+   "price_cents": 37,
+   "upc": "738287632873",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot G",
+   "label_short": "6 x 1 flat black"
+  },
+  {
+   "sku": "63288",
+   "slot_letter": "H",
+   "name": "#6 x 5/8 Phillips flat head decorative screw, antique copper",
+   "price_cents": 35,
+   "upc": "738287632880",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot H",
+   "label_short": "6 x 5/8 flat antique copper"
+  },
+  {
+   "sku": "63291",
+   "slot_letter": "J",
+   "name": "#6 x 5/8 Phillips oval head decorative screw, bronze",
+   "price_cents": 38,
+   "upc": "738287632910",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot J",
+   "label_short": "6 x 5/8 oval bronze"
+  },
+  {
+   "sku": "63292",
+   "slot_letter": "K",
+   "name": "#8 x 3/4 Phillips oval head (No. 6 head) decorative screw, bronze",
+   "price_cents": 50,
+   "upc": "738287632927",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot K",
+   "label_short": "8 x 3/4 oval bronze (No.6 head)"
+  },
+  {
+   "sku": "63293",
+   "slot_letter": "L",
+   "name": "#8 x 1 Phillips oval head (No. 6 head) decorative screw, bronze",
+   "price_cents": 55,
+   "upc": "738287632934",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot L",
+   "label_short": "8 x 1 oval bronze (No.6 head)"
+  },
+  {
+   "sku": "63294",
+   "slot_letter": "M",
+   "name": "#6 x 5/8 Phillips oval head decorative screw, black",
+   "price_cents": 32,
+   "upc": "738287632941",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot M",
+   "label_short": "6 x 5/8 oval black"
+  },
+  {
+   "sku": "63295",
+   "slot_letter": "N",
+   "name": "#8 x 3/4 Phillips oval head (No. 6 head) decorative screw, black",
+   "price_cents": 44,
+   "upc": "738287632958",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot N",
+   "label_short": "8 x 3/4 oval black (No.6 head)"
+  },
+  {
+   "sku": "63296",
+   "slot_letter": "P",
+   "name": "#8 x 1 Phillips oval head (No. 6 head) decorative screw, black",
+   "price_cents": 48,
+   "upc": "738287632965",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot P",
+   "label_short": "8 x 1 oval black (No.6 head)"
+  },
+  {
+   "sku": "63297",
+   "slot_letter": "Q",
+   "name": "#6 x 5/8 Phillips oval head decorative screw, antique copper",
+   "price_cents": 32,
+   "upc": "738287632972",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot Q",
+   "label_short": "6 x 5/8 oval antique copper"
+  },
+  {
+   "sku": "63298",
+   "slot_letter": "R",
+   "name": "#8 x 3/4 Phillips oval head (No. 6 head) decorative screw, antique copper",
+   "price_cents": 45,
+   "upc": "738287632989",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 28, slot R",
+   "label_short": "8 x 3/4 oval antique copper (No.6 head)"
+  },
+  {
+   "sku": "79401",
+   "slot_letter": "A",
+   "name": "#6 x 1/2 Phillips pan head sheet metal screw, black",
+   "price_cents": 32,
+   "upc": "738287794014",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot A",
+   "label_short": "6 x 1/2"
+  },
+  {
+   "sku": "79402",
+   "slot_letter": "B",
+   "name": "#6 x 5/8 Phillips pan head sheet metal screw, black",
+   "price_cents": 34,
+   "upc": "738287794021",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot B",
+   "label_short": "6 x 5/8"
+  },
+  {
+   "sku": "79403",
+   "slot_letter": "C",
+   "name": "#6 x 3/4 Phillips pan head sheet metal screw, black",
+   "price_cents": 34,
+   "upc": "738287794038",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot C",
+   "label_short": "6 x 3/4"
+  },
+  {
+   "sku": "79404",
+   "slot_letter": "D",
+   "name": "#6 x 1 Phillips pan head sheet metal screw, black",
+   "price_cents": 38,
+   "upc": "738287794045",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot D",
+   "label_short": "6 x 1"
+  },
+  {
+   "sku": "79405",
+   "slot_letter": "E",
+   "name": "#8 x 1/2 Phillips pan head sheet metal screw, black",
+   "price_cents": 34,
+   "upc": "738287794052",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot E",
+   "label_short": "8 x 1/2"
+  },
+  {
+   "sku": "79406",
+   "slot_letter": "F",
+   "name": "#8 x 5/8 Phillips pan head sheet metal screw, black",
+   "price_cents": 38,
+   "upc": "738287794069",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot F",
+   "label_short": "8 x 5/8"
+  },
+  {
+   "sku": "79407",
+   "slot_letter": "G",
+   "name": "#8 x 3/4 Phillips pan head sheet metal screw, black",
+   "price_cents": 38,
+   "upc": "738287794076",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot G",
+   "label_short": "8 x 3/4"
+  },
+  {
+   "sku": "79408",
+   "slot_letter": "H",
+   "name": "#8 x 1 Phillips pan head sheet metal screw, black",
+   "price_cents": 42,
+   "upc": "738287794083",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot H",
+   "label_short": "8 x 1"
+  },
+  {
+   "sku": "79411",
+   "slot_letter": "J",
+   "name": "#8 x 1-1/4 Phillips pan head sheet metal screw, black",
+   "price_cents": 46,
+   "upc": "738287794113",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot J",
+   "label_short": "8 x 1-1/4"
+  },
+  {
+   "sku": "79412",
+   "slot_letter": "K",
+   "name": "#8 x 1-1/2 Phillips pan head sheet metal screw, black",
+   "price_cents": 51,
+   "upc": "738287794120",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot K",
+   "label_short": "8 x 1-1/2"
+  },
+  {
+   "sku": "79413",
+   "slot_letter": "L",
+   "name": "#8 x 2 Phillips pan head sheet metal screw, black",
+   "price_cents": 56,
+   "upc": "738287794137",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot L",
+   "label_short": "8 x 2"
+  },
+  {
+   "sku": "79414",
+   "slot_letter": "M",
+   "name": "#10 x 3/4 Phillips pan head sheet metal screw, black",
+   "price_cents": 51,
+   "upc": "738287794144",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot M",
+   "label_short": "10 x 3/4"
+  },
+  {
+   "sku": "79415",
+   "slot_letter": "N",
+   "name": "#10 x 1 Phillips pan head sheet metal screw, black",
+   "price_cents": 55,
+   "upc": "738287794151",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot N",
+   "label_short": "10 x 1"
+  },
+  {
+   "sku": "79416",
+   "slot_letter": "P",
+   "name": "#10 x 1-1/4 Phillips pan head sheet metal screw, black",
+   "price_cents": 64,
+   "upc": "738287794168",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot P",
+   "label_short": "10 x 1-1/4"
+  },
+  {
+   "sku": "79417",
+   "slot_letter": "Q",
+   "name": "#10 x 1-1/2 Phillips pan head sheet metal screw, black",
+   "price_cents": 75,
+   "upc": "738287794175",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot Q",
+   "label_short": "10 x 1-1/2"
+  },
+  {
+   "sku": "79418",
+   "slot_letter": "R",
+   "name": "#10 x 2 Phillips pan head sheet metal screw, black",
+   "price_cents": 79,
+   "upc": "738287794182",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 30, slot R",
+   "label_short": "10 x 2"
+  }
+ ]
+}

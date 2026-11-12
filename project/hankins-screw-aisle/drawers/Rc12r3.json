@@ -1,0 +1,495 @@
+{
+ "id": "Rc12r3",
+ "wall": "right",
+ "column": 12,
+ "row": 3,
+ "half": null,
+ "title": "Sheet Metal 26 and Sheet Metal 27",
+ "description": "Brass plated Phillips pan head (64140) and flat head (64120) sheet metal screws, #6 to #12, 1/2 to 2 long, in one tray",
+ "front_image": "images/fronts/Rc12r3.jpg",
+ "tray_image": "images/trays/Rc12r3.jpg",
+ "tray_image_px": [
+  1200,
+  1000
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1333,
+   "y1": 0.25
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1333,
+   "y0": 0.0,
+   "x1": 0.2583,
+   "y1": 0.25
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2583,
+   "y0": 0.0,
+   "x1": 0.3833,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3833,
+   "y0": 0.0,
+   "x1": 0.5042,
+   "y1": 0.25
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5042,
+   "y0": 0.0,
+   "x1": 0.625,
+   "y1": 0.25
+  },
+  {
+   "item_index": 5,
+   "x0": 0.625,
+   "y0": 0.0,
+   "x1": 0.7458,
+   "y1": 0.25
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7458,
+   "y0": 0.0,
+   "x1": 0.8667,
+   "y1": 0.25
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8667,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.25
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.25,
+   "x1": 0.1708,
+   "y1": 0.495
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1708,
+   "y0": 0.25,
+   "x1": 0.3375,
+   "y1": 0.495
+  },
+  {
+   "item_index": 10,
+   "x0": 0.3375,
+   "y0": 0.25,
+   "x1": 0.5,
+   "y1": 0.495
+  },
+  {
+   "item_index": 11,
+   "x0": 0.5,
+   "y0": 0.25,
+   "x1": 0.6625,
+   "y1": 0.495
+  },
+  {
+   "item_index": 12,
+   "x0": 0.6625,
+   "y0": 0.25,
+   "x1": 0.825,
+   "y1": 0.495
+  },
+  {
+   "item_index": 13,
+   "x0": 0.825,
+   "y0": 0.25,
+   "x1": 1.0,
+   "y1": 0.495
+  },
+  {
+   "item_index": 14,
+   "x0": 0.0,
+   "y0": 0.495,
+   "x1": 0.1208,
+   "y1": 0.745
+  },
+  {
+   "item_index": 15,
+   "x0": 0.1208,
+   "y0": 0.495,
+   "x1": 0.2458,
+   "y1": 0.745
+  },
+  {
+   "item_index": 16,
+   "x0": 0.2458,
+   "y0": 0.495,
+   "x1": 0.375,
+   "y1": 0.745
+  },
+  {
+   "item_index": 17,
+   "x0": 0.375,
+   "y0": 0.495,
+   "x1": 0.5,
+   "y1": 0.745
+  },
+  {
+   "item_index": 18,
+   "x0": 0.5,
+   "y0": 0.495,
+   "x1": 0.625,
+   "y1": 0.745
+  },
+  {
+   "item_index": 19,
+   "x0": 0.625,
+   "y0": 0.495,
+   "x1": 0.7458,
+   "y1": 0.745
+  },
+  {
+   "item_index": 20,
+   "x0": 0.7458,
+   "y0": 0.495,
+   "x1": 0.8667,
+   "y1": 0.745
+  },
+  {
+   "item_index": 21,
+   "x0": 0.8667,
+   "y0": 0.495,
+   "x1": 1.0,
+   "y1": 0.745
+  },
+  {
+   "item_index": 22,
+   "x0": 0.0,
+   "y0": 0.745,
+   "x1": 0.1625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.1625,
+   "y0": 0.745,
+   "x1": 0.3333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.3333,
+   "y0": 0.745,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.5,
+   "y0": 0.745,
+   "x1": 0.6667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.6667,
+   "y0": 0.745,
+   "x1": 0.8333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.8333,
+   "y0": 0.745,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "64141",
+   "slot_letter": "A",
+   "name": "#6 x 1/2 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 24,
+   "upc": "738287641417",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot A",
+   "label_short": "6 x 1/2 pan"
+  },
+  {
+   "sku": "64142",
+   "slot_letter": "B",
+   "name": "#6 x 3/4 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 25,
+   "upc": "738287641424",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot B",
+   "label_short": "6 x 3/4 pan"
+  },
+  {
+   "sku": "64143",
+   "slot_letter": "C",
+   "name": "#6 x 1 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 28,
+   "upc": "738287641431",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot C",
+   "label_short": "6 x 1 pan"
+  },
+  {
+   "sku": "64144",
+   "slot_letter": "D",
+   "name": "#8 x 1/2 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 28,
+   "upc": "738287641448",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot D",
+   "label_short": "8 x 1/2 pan"
+  },
+  {
+   "sku": "64145",
+   "slot_letter": "E",
+   "name": "#8 x 3/4 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 33,
+   "upc": "738287641455",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot E",
+   "label_short": "8 x 3/4 pan"
+  },
+  {
+   "sku": "64146",
+   "slot_letter": "F",
+   "name": "#8 x 1 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 37,
+   "upc": "738287641462",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot F",
+   "label_short": "8 x 1 pan"
+  },
+  {
+   "sku": "64147",
+   "slot_letter": "G",
+   "name": "#8 x 1-1/4 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 42,
+   "upc": "738287641479",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot G",
+   "label_short": "8 x 1-1/4 pan"
+  },
+  {
+   "sku": "64148",
+   "slot_letter": "H",
+   "name": "#10 x 1/2 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 33,
+   "upc": "738287641486",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot H",
+   "label_short": "10 x 1/2 pan"
+  },
+  {
+   "sku": "64151",
+   "slot_letter": "J",
+   "name": "#10 x 3/4 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 41,
+   "upc": "738287641516",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot J",
+   "label_short": "10 x 3/4 pan"
+  },
+  {
+   "sku": "64152",
+   "slot_letter": "K",
+   "name": "#10 x 1 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 48,
+   "upc": "738287641523",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot K",
+   "label_short": "10 x 1 pan"
+  },
+  {
+   "sku": "64153",
+   "slot_letter": "L",
+   "name": "#10 x 1-1/2 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 62,
+   "upc": "738287641530",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot L",
+   "label_short": "10 x 1-1/2 pan"
+  },
+  {
+   "sku": "64154",
+   "slot_letter": "M",
+   "name": "#12 x 1/2 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 42,
+   "upc": "738287641547",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot M",
+   "label_short": "12 x 1/2 pan"
+  },
+  {
+   "sku": "64155",
+   "slot_letter": "N",
+   "name": "#12 x 3/4 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 48,
+   "upc": "738287641554",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot N",
+   "label_short": "12 x 3/4 pan"
+  },
+  {
+   "sku": "64156",
+   "slot_letter": "P",
+   "name": "#12 x 1 Phillips pan head sheet metal screw, brass plated",
+   "price_cents": 54,
+   "upc": "738287641561",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 26, slot P",
+   "label_short": "12 x 1 pan"
+  },
+  {
+   "sku": "64121",
+   "slot_letter": "A",
+   "name": "#6 x 1/2 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 24,
+   "upc": "738287641219",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot A",
+   "label_short": "6 x 1/2 flat"
+  },
+  {
+   "sku": "64122",
+   "slot_letter": "B",
+   "name": "#6 x 3/4 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 25,
+   "upc": "738287641226",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot B",
+   "label_short": "6 x 3/4 flat"
+  },
+  {
+   "sku": "64123",
+   "slot_letter": "C",
+   "name": "#6 x 1 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 28,
+   "upc": "738287641233",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot C",
+   "label_short": "6 x 1 flat"
+  },
+  {
+   "sku": "64124",
+   "slot_letter": "D",
+   "name": "#8 x 1/2 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 28,
+   "upc": "738287641240",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot D",
+   "label_short": "8 x 1/2 flat"
+  },
+  {
+   "sku": "64125",
+   "slot_letter": "E",
+   "name": "#8 x 3/4 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 32,
+   "upc": "738287641257",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot E",
+   "label_short": "8 x 3/4 flat"
+  },
+  {
+   "sku": "64126",
+   "slot_letter": "F",
+   "name": "#8 x 1 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 37,
+   "upc": "738287641264",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot F",
+   "label_short": "8 x 1 flat"
+  },
+  {
+   "sku": "64127",
+   "slot_letter": "G",
+   "name": "#8 x 1-1/4 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 42,
+   "upc": "738287641271",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot G",
+   "label_short": "8 x 1-1/4 flat"
+  },
+  {
+   "sku": "64128",
+   "slot_letter": "H",
+   "name": "#8 x 1-1/2 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 48,
+   "upc": "738287641288",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot H",
+   "label_short": "8 x 1-1/2 flat"
+  },
+  {
+   "sku": "64131",
+   "slot_letter": "J",
+   "name": "#10 x 3/4 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 41,
+   "upc": "738287641318",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot J",
+   "label_short": "10 x 3/4 flat"
+  },
+  {
+   "sku": "64132",
+   "slot_letter": "K",
+   "name": "#10 x 1 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 48,
+   "upc": "738287641325",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot K",
+   "label_short": "10 x 1 flat"
+  },
+  {
+   "sku": "64133",
+   "slot_letter": "L",
+   "name": "#10 x 1-1/2 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 62,
+   "upc": "738287641332",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot L",
+   "label_short": "10 x 1-1/2 flat"
+  },
+  {
+   "sku": "64134",
+   "slot_letter": "M",
+   "name": "#10 x 2 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 75,
+   "upc": "738287641349",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot M",
+   "label_short": "10 x 2 flat"
+  },
+  {
+   "sku": "64135",
+   "slot_letter": "N",
+   "name": "#12 x 3/4 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 48,
+   "upc": "738287641356",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot N",
+   "label_short": "12 x 3/4 flat"
+  },
+  {
+   "sku": "64136",
+   "slot_letter": "P",
+   "name": "#12 x 1 Phillips flat head sheet metal screw, brass plated",
+   "price_cents": 52,
+   "upc": "738287641363",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 27, slot P",
+   "label_short": "12 x 1 flat"
+  }
+ ]
+}

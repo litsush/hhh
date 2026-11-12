@@ -1,0 +1,155 @@
+{
+ "id": "Rc17r1",
+ "wall": "right",
+ "column": 17,
+ "row": 1,
+ "half": null,
+ "title": "Bolts 66.6",
+ "description": "Black coated hex lag screws, 1/4 inch diameter, 1 to 4 inch long (932680).",
+ "front_image": "images/fronts/Rc17r1.jpg",
+ "tray_image": "images/trays/Rc17r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1667,
+   "y1": 0.625
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1667,
+   "y0": 0.0,
+   "x1": 0.3458,
+   "y1": 0.625
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3458,
+   "y0": 0.0,
+   "x1": 0.5167,
+   "y1": 0.625
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5167,
+   "y0": 0.0,
+   "x1": 0.6875,
+   "y1": 0.625
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6875,
+   "y0": 0.0,
+   "x1": 0.85,
+   "y1": 0.625
+  },
+  {
+   "item_index": 5,
+   "x0": 0.85,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.625
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.625,
+   "x1": 0.5417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.5417,
+   "y0": 0.625,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "932681",
+   "slot_letter": "A",
+   "name": "1/4 x 1 hex lag screw, black coated (7/16 wrench)",
+   "price_cents": 43,
+   "upc": "719199326814",
+   "upc_source": "read_from_label",
+   "location": "Bolts 66.6, slot A",
+   "label_short": "1/4 x 1"
+  },
+  {
+   "sku": "932682",
+   "slot_letter": "B",
+   "name": "1/4 x 1-1/4 hex lag screw, black coated (7/16 wrench)",
+   "price_cents": 50,
+   "upc": "719199326821",
+   "upc_source": "read_from_label",
+   "location": "Bolts 66.6, slot B",
+   "label_short": "1/4 x 1-1/4"
+  },
+  {
+   "sku": "932683",
+   "slot_letter": "C",
+   "name": "1/4 x 1-1/2 hex lag screw, black coated (7/16 wrench)",
+   "price_cents": 58,
+   "upc": "719199326838",
+   "upc_source": "read_from_label",
+   "location": "Bolts 66.6, slot C",
+   "label_short": "1/4 x 1-1/2"
+  },
+  {
+   "sku": "932684",
+   "slot_letter": "D",
+   "name": "1/4 x 1-3/4 hex lag screw, black coated (7/16 wrench)",
+   "price_cents": 64,
+   "upc": "719199326845",
+   "upc_source": "read_from_label",
+   "location": "Bolts 66.6, slot D",
+   "label_short": "1/4 x 1-3/4"
+  },
+  {
+   "sku": "932685",
+   "slot_letter": "E",
+   "name": "1/4 x 2 hex lag screw, black coated (7/16 wrench)",
+   "price_cents": 69,
+   "upc": "719199326852",
+   "upc_source": "read_from_label",
+   "location": "Bolts 66.6, slot E",
+   "label_short": "1/4 x 2"
+  },
+  {
+   "sku": "932686",
+   "slot_letter": "F",
+   "name": "1/4 x 2-1/2 hex lag screw, black coated (7/16 wrench)",
+   "price_cents": 75,
+   "upc": "719199326869",
+   "upc_source": "read_from_label",
+   "location": "Bolts 66.6, slot F",
+   "label_short": "1/4 x 2-1/2"
+  },
+  {
+   "sku": "932687",
+   "slot_letter": "G",
+   "name": "1/4 x 3 hex lag screw, black coated (7/16 wrench)",
+   "price_cents": 95,
+   "upc": "719199326876",
+   "upc_source": "read_from_label",
+   "location": "Bolts 66.6, slot G",
+   "label_short": "1/4 x 3"
+  },
+  {
+   "sku": "932688",
+   "slot_letter": "H",
+   "name": "1/4 x 4 hex lag screw, black coated (7/16 wrench)",
+   "price_cents": 109,
+   "upc": "719199326883",
+   "upc_source": "read_from_label",
+   "location": "Bolts 66.6, slot H",
+   "label_short": "1/4 x 4"
+  }
+ ]
+}

@@ -1,0 +1,257 @@
+{
+ "id": "Rc03r1",
+ "wall": "right",
+ "column": 3,
+ "row": 1,
+ "half": null,
+ "title": "Metric 34 and Metric 35",
+ "description": "Metric class 8 hex flange nuts 4mm to 20mm (76120) and metric T-nuts 4mm to 10mm (72520).",
+ "front_image": "images/fronts/Rc03r1.jpg",
+ "tray_image": "images/trays/Rc03r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1667,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1667,
+   "y0": 0.0,
+   "x1": 0.3292,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3292,
+   "y0": 0.0,
+   "x1": 0.4958,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 3,
+   "x0": 0.4958,
+   "y0": 0.0,
+   "x1": 0.7417,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 4,
+   "x0": 0.7417,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0,
+   "y0": 0.2562,
+   "x1": 0.2458,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 6,
+   "x0": 0.2458,
+   "y0": 0.2562,
+   "x1": 0.4875,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 7,
+   "x0": 0.4875,
+   "y0": 0.2562,
+   "x1": 0.7333,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 8,
+   "x0": 0.7333,
+   "y0": 0.2562,
+   "x1": 1.0,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 9,
+   "x0": 0.0,
+   "y0": 0.5062,
+   "x1": 0.325,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 10,
+   "x0": 0.325,
+   "y0": 0.5062,
+   "x1": 0.6542,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 11,
+   "x0": 0.6542,
+   "y0": 0.5062,
+   "x1": 1.0,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.7562,
+   "x1": 0.4833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.4833,
+   "y0": 0.7562,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "76121",
+   "slot_letter": "A",
+   "name": "M4 x 0.70 metric class 8 hex flange nut, zinc",
+   "price_cents": 48,
+   "upc": "738287761214",
+   "upc_source": "read_from_label",
+   "location": "Metric 34, slot A",
+   "label_short": "4mm x 0.70"
+  },
+  {
+   "sku": "76122",
+   "slot_letter": "B",
+   "name": "M5 x 0.80 metric class 8 hex flange nut, zinc",
+   "price_cents": 54,
+   "upc": "738287761221",
+   "upc_source": "read_from_label",
+   "location": "Metric 34, slot B",
+   "label_short": "5mm x 0.80"
+  },
+  {
+   "sku": "76123",
+   "slot_letter": "C",
+   "name": "M6 x 1.00 metric class 8 hex flange nut, zinc",
+   "price_cents": 61,
+   "upc": "738287761238",
+   "upc_source": "read_from_label",
+   "location": "Metric 34, slot C",
+   "label_short": "6mm x 1.00"
+  },
+  {
+   "sku": "76124",
+   "slot_letter": "D",
+   "name": "M8 x 1.25 metric class 8 hex flange nut, zinc",
+   "price_cents": 75,
+   "upc": "738287761245",
+   "upc_source": "read_from_label",
+   "location": "Metric 34, slot D",
+   "label_short": "8mm x 1.25"
+  },
+  {
+   "sku": "76125",
+   "slot_letter": "E",
+   "name": "M10 x 1.50 metric class 8 hex flange nut, zinc",
+   "price_cents": 95,
+   "upc": "738287761252",
+   "upc_source": "read_from_label",
+   "location": "Metric 34, slot E",
+   "label_short": "10mm x 1.50"
+  },
+  {
+   "sku": "76126",
+   "slot_letter": "F",
+   "name": "M12 x 1.75 metric class 8 hex flange nut, zinc",
+   "price_cents": 125,
+   "upc": "738287761269",
+   "upc_source": "read_from_label",
+   "location": "Metric 34, slot F",
+   "label_short": "12mm x 1.75"
+  },
+  {
+   "sku": "76127",
+   "slot_letter": "G",
+   "name": "M14 x 2.00 metric class 8 hex flange nut, zinc",
+   "price_cents": 139,
+   "upc": "738287761276",
+   "upc_source": "read_from_label",
+   "location": "Metric 34, slot G",
+   "label_short": "14mm x 2.00"
+  },
+  {
+   "sku": "76128",
+   "slot_letter": "H",
+   "name": "M16 x 2.00 metric class 8 hex flange nut, zinc",
+   "price_cents": 199,
+   "upc": "738287761283",
+   "upc_source": "read_from_label",
+   "location": "Metric 34, slot H",
+   "label_short": "16mm x 2.00"
+  },
+  {
+   "sku": "76131",
+   "slot_letter": "J",
+   "name": "M20 x 2.50 metric class 8 hex flange nut, zinc",
+   "price_cents": 339,
+   "upc": "738287761313",
+   "upc_source": "read_from_label",
+   "location": "Metric 34, slot J",
+   "label_short": "20mm x 2.50"
+  },
+  {
+   "sku": "72521",
+   "slot_letter": "A",
+   "name": "M4 x 0.70 metric T-nut, 8mm barrel",
+   "price_cents": 69,
+   "upc": "738287725216",
+   "upc_source": "read_from_label",
+   "location": "Metric 35, slot A",
+   "label_short": "4mm x 8mm"
+  },
+  {
+   "sku": "72522",
+   "slot_letter": "B",
+   "name": "M5 x 0.80 metric T-nut, 8mm barrel",
+   "price_cents": 79,
+   "upc": "738287725223",
+   "upc_source": "read_from_label",
+   "location": "Metric 35, slot B",
+   "label_short": "5mm x 8mm"
+  },
+  {
+   "sku": "72523",
+   "slot_letter": "C",
+   "name": "M6 x 1.00 metric T-nut, 12mm barrel",
+   "price_cents": 95,
+   "upc": "738287725230",
+   "upc_source": "read_from_label",
+   "location": "Metric 35, slot C",
+   "label_short": "6mm x 12mm"
+  },
+  {
+   "sku": "72524",
+   "slot_letter": "D",
+   "name": "M8 x 1.25 metric T-nut, 15mm barrel",
+   "price_cents": 115,
+   "upc": "738287725247",
+   "upc_source": "read_from_label",
+   "location": "Metric 35, slot D",
+   "label_short": "8mm x 15mm"
+  },
+  {
+   "sku": "72525",
+   "slot_letter": "E",
+   "name": "M10 x 1.50 metric T-nut, 13mm barrel",
+   "price_cents": 135,
+   "upc": "738287725254",
+   "upc_source": "read_from_label",
+   "location": "Metric 35, slot E",
+   "label_short": "10mm x 13mm"
+  }
+ ]
+}

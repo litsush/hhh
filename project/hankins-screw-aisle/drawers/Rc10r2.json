@@ -1,0 +1,274 @@
+{
+ "id": "Rc10r2",
+ "wall": "right",
+ "column": 10,
+ "row": 2,
+ "half": null,
+ "title": "Metric 108",
+ "description": "Stainless steel metric button head socket cap screws, 3mm and 4mm diameter, 6mm to 35mm long (75540).",
+ "front_image": "images/fronts/Rc10r2.jpg",
+ "tray_image": "images/trays/Rc10r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.125,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 1,
+   "x0": 0.125,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 2,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.375,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 3,
+   "x0": 0.375,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6208,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6208,
+   "y0": 0.0,
+   "x1": 0.7458,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7458,
+   "y0": 0.0,
+   "x1": 0.8667,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8667,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.4688,
+   "x1": 0.1208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1208,
+   "y0": 0.4688,
+   "x1": 0.25,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.25,
+   "y0": 0.4688,
+   "x1": 0.3792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3792,
+   "y0": 0.4688,
+   "x1": 0.5083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5083,
+   "y0": 0.4688,
+   "x1": 0.6833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6833,
+   "y0": 0.4688,
+   "x1": 0.85,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.85,
+   "y0": 0.4688,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "75541",
+   "slot_letter": "A",
+   "name": "M3 x 0.50 x 6mm stainless steel button head socket cap screw",
+   "price_cents": 49,
+   "upc": "738287755411",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot A",
+   "label_short": "3x6"
+  },
+  {
+   "sku": "75542",
+   "slot_letter": "B",
+   "name": "M3 x 0.50 x 8mm stainless steel button head socket cap screw",
+   "price_cents": 52,
+   "upc": "738287755428",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot B",
+   "label_short": "3x8"
+  },
+  {
+   "sku": "75543",
+   "slot_letter": "C",
+   "name": "M3 x 0.50 x 10mm stainless steel button head socket cap screw",
+   "price_cents": 60,
+   "upc": "738287755435",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot C",
+   "label_short": "3x10"
+  },
+  {
+   "sku": "75544",
+   "slot_letter": "D",
+   "name": "M3 x 0.50 x 12mm stainless steel button head socket cap screw",
+   "price_cents": 65,
+   "upc": "738287755442",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot D",
+   "label_short": "3x12"
+  },
+  {
+   "sku": "75545",
+   "slot_letter": "E",
+   "name": "M3 x 0.50 x 16mm stainless steel button head socket cap screw",
+   "price_cents": 75,
+   "upc": "738287755459",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot E",
+   "label_short": "3x16"
+  },
+  {
+   "sku": "75546",
+   "slot_letter": "F",
+   "name": "M3 x 0.50 x 20mm stainless steel button head socket cap screw",
+   "price_cents": 79,
+   "upc": "738287755466",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot F",
+   "label_short": "3x20"
+  },
+  {
+   "sku": "75547",
+   "slot_letter": "G",
+   "name": "M3 x 0.50 x 25mm stainless steel button head socket cap screw",
+   "price_cents": 89,
+   "upc": "738287755473",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot G",
+   "label_short": "3x25"
+  },
+  {
+   "sku": "75548",
+   "slot_letter": "H",
+   "name": "M4 x 0.70 x 8mm stainless steel button head socket cap screw",
+   "price_cents": 58,
+   "upc": "738287755480",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot H",
+   "label_short": "4x8"
+  },
+  {
+   "sku": "75551",
+   "slot_letter": "J",
+   "name": "M4 x 0.70 x 10mm stainless steel button head socket cap screw",
+   "price_cents": 63,
+   "upc": "738287755510",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot J",
+   "label_short": "4x10"
+  },
+  {
+   "sku": "75552",
+   "slot_letter": "K",
+   "name": "M4 x 0.70 x 12mm stainless steel button head socket cap screw",
+   "price_cents": 69,
+   "upc": "738287755527",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot K",
+   "label_short": "4x12"
+  },
+  {
+   "sku": "75553",
+   "slot_letter": "L",
+   "name": "M4 x 0.70 x 16mm stainless steel button head socket cap screw",
+   "price_cents": 89,
+   "upc": "738287755534",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot L",
+   "label_short": "4x16"
+  },
+  {
+   "sku": "75554",
+   "slot_letter": "M",
+   "name": "M4 x 0.70 x 20mm stainless steel button head socket cap screw",
+   "price_cents": 99,
+   "upc": "738287755541",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot M",
+   "label_short": "4x20"
+  },
+  {
+   "sku": "75555",
+   "slot_letter": "N",
+   "name": "M4 x 0.70 x 25mm stainless steel button head socket cap screw",
+   "price_cents": 105,
+   "upc": "738287755558",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot N",
+   "label_short": "4x25"
+  },
+  {
+   "sku": "75556",
+   "slot_letter": "P",
+   "name": "M4 x 0.70 x 30mm stainless steel button head socket cap screw",
+   "price_cents": 125,
+   "upc": "738287755565",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot P",
+   "label_short": "4x30"
+  },
+  {
+   "sku": "75557",
+   "slot_letter": "Q",
+   "name": "M4 x 0.70 x 35mm stainless steel button head socket cap screw",
+   "price_cents": 129,
+   "upc": "738287755572",
+   "upc_source": "read_from_label",
+   "location": "Metric 108, slot Q",
+   "label_short": "4x35"
+  }
+ ]
+}

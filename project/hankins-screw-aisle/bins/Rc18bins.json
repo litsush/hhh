@@ -1,0 +1,365 @@
+{
+  "id": "Rc18bins",
+  "wall": "right",
+  "kind": "bins",
+  "column": 18,
+  "row": 6,
+  "half": null,
+  "title": "Bins under right-wall column 18",
+  "description": "Galvanized hex lag screws, 3/8 x 1-1/2 to 10 and 1/2 x 1-1/2 to 3-1/2.",
+  "front_image": null,
+  "tray_image": "images/bins/Rc18.jpg",
+  "tray_image_px": [
+    500,
+    1500
+  ],
+  "photo": "IMG_7742.jpg",
+  "compartments": [
+    {
+      "item_index": 0,
+      "x0": 0.0,
+      "y0": 0.0,
+      "x1": 0.5,
+      "y1": 0.1
+    },
+    {
+      "item_index": 1,
+      "x0": 0.5,
+      "y0": 0.0,
+      "x1": 1.0,
+      "y1": 0.1
+    },
+    {
+      "item_index": 2,
+      "x0": 0.0,
+      "y0": 0.1,
+      "x1": 0.5,
+      "y1": 0.2033
+    },
+    {
+      "item_index": 3,
+      "x0": 0.5,
+      "y0": 0.1,
+      "x1": 1.0,
+      "y1": 0.2033
+    },
+    {
+      "item_index": 4,
+      "x0": 0.0,
+      "y0": 0.2033,
+      "x1": 0.5,
+      "y1": 0.3267
+    },
+    {
+      "item_index": 5,
+      "x0": 0.5,
+      "y0": 0.2033,
+      "x1": 1.0,
+      "y1": 0.3267
+    },
+    {
+      "item_index": 6,
+      "x0": 0.0,
+      "y0": 0.3267,
+      "x1": 0.5,
+      "y1": 0.44
+    },
+    {
+      "item_index": 7,
+      "x0": 0.5,
+      "y0": 0.3267,
+      "x1": 1.0,
+      "y1": 0.44
+    },
+    {
+      "item_index": 8,
+      "x0": 0.0,
+      "y0": 0.44,
+      "x1": 0.5,
+      "y1": 0.5433
+    },
+    {
+      "item_index": 9,
+      "x0": 0.5,
+      "y0": 0.44,
+      "x1": 1.0,
+      "y1": 0.5433
+    },
+    {
+      "item_index": 10,
+      "x0": 0.0,
+      "y0": 0.5433,
+      "x1": 0.5,
+      "y1": 0.66
+    },
+    {
+      "item_index": 11,
+      "x0": 0.5,
+      "y0": 0.5433,
+      "x1": 1.0,
+      "y1": 0.66
+    },
+    {
+      "item_index": 12,
+      "x0": 0.0,
+      "y0": 0.66,
+      "x1": 0.5,
+      "y1": 0.7767
+    },
+    {
+      "item_index": 13,
+      "x0": 0.5,
+      "y0": 0.66,
+      "x1": 1.0,
+      "y1": 0.7767
+    },
+    {
+      "item_index": 14,
+      "x0": 0.0,
+      "y0": 0.7767,
+      "x1": 0.5,
+      "y1": 0.89
+    },
+    {
+      "item_index": 15,
+      "x0": 0.5,
+      "y0": 0.7767,
+      "x1": 1.0,
+      "y1": 0.89
+    },
+    {
+      "item_index": 16,
+      "x0": 0.0,
+      "y0": 0.89,
+      "x1": 0.5,
+      "y1": 1.0
+    },
+    {
+      "item_index": 17,
+      "x0": 0.5,
+      "y0": 0.89,
+      "x1": 1.0,
+      "y1": 1.0
+    }
+  ],
+  "items": [
+    {
+      "sku": "05578",
+      "slot_letter": null,
+      "name": "3/8 x 1-1/2 hex lag screw, galvanized",
+      "label_short": "3/8 x 1-1/2",
+      "price_cents": 109,
+      "box_price_cents": 5899,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05578"
+    },
+    {
+      "sku": "05587",
+      "slot_letter": null,
+      "name": "3/8 x 6 hex lag screw, galvanized",
+      "label_short": "3/8 x 6",
+      "price_cents": 219,
+      "box_price_cents": 7899,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05587",
+      "note": "Box price and box count are blurry; best reading 78.99 Box/50."
+    },
+    {
+      "sku": "05579",
+      "slot_letter": null,
+      "name": "3/8 x 2 hex lag screw, galvanized",
+      "label_short": "3/8 x 2",
+      "price_cents": 118,
+      "box_price_cents": 6899,
+      "box_qty": 100,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05579",
+      "note": "Each-price cents blurry; best reading 1.18 (could be 1.15)."
+    },
+    {
+      "sku": "05588",
+      "slot_letter": null,
+      "name": "3/8 x 7 hex lag screw, galvanized",
+      "label_short": "3/8 x 7",
+      "price_cents": 289,
+      "box_price_cents": 10699,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05588"
+    },
+    {
+      "sku": "05580",
+      "slot_letter": null,
+      "name": "3/8 x 2-1/2 hex lag screw, galvanized",
+      "label_short": "3/8 x 2-1/2",
+      "price_cents": 125,
+      "box_price_cents": 3999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05580"
+    },
+    {
+      "sku": "05589",
+      "slot_letter": null,
+      "name": "3/8 x 8 hex lag screw, galvanized",
+      "label_short": "3/8 x 8",
+      "price_cents": 329,
+      "box_price_cents": 11999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05589"
+    },
+    {
+      "sku": "05581",
+      "slot_letter": null,
+      "name": "3/8 x 3 hex lag screw, galvanized",
+      "label_short": "3/8 x 3",
+      "price_cents": 135,
+      "box_price_cents": 4499,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05581"
+    },
+    {
+      "sku": "05590",
+      "slot_letter": null,
+      "name": "3/8 x 10 hex lag screw, galvanized",
+      "label_short": "3/8 x 10",
+      "price_cents": 419,
+      "box_price_cents": 15199,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05590"
+    },
+    {
+      "sku": "05582",
+      "slot_letter": null,
+      "name": "3/8 x 3-1/2 hex lag screw, galvanized",
+      "label_short": "3/8 x 3-1/2",
+      "price_cents": 139,
+      "box_price_cents": 4899,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05582"
+    },
+    {
+      "sku": "05591",
+      "slot_letter": null,
+      "name": "1/2 x 1-1/2 hex lag screw, galvanized",
+      "label_short": "1/2 x 1-1/2",
+      "price_cents": 169,
+      "box_price_cents": 5499,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05591"
+    },
+    {
+      "sku": "05583",
+      "slot_letter": null,
+      "name": "3/8 x 4 hex lag screw, galvanized",
+      "label_short": "3/8 x 4",
+      "price_cents": 169,
+      "box_price_cents": 5499,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05583"
+    },
+    {
+      "sku": "05592",
+      "slot_letter": null,
+      "name": "1/2 x 2 hex lag screw, galvanized",
+      "label_short": "1/2 x 2",
+      "price_cents": 179,
+      "box_price_cents": 5999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05592"
+    },
+    {
+      "sku": "05584",
+      "slot_letter": null,
+      "name": "3/8 x 4-1/2 hex lag screw, galvanized",
+      "label_short": "3/8 x 4-1/2",
+      "price_cents": 175,
+      "box_price_cents": 5999,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05584"
+    },
+    {
+      "sku": "05593",
+      "slot_letter": null,
+      "name": "1/2 x 2-1/2 hex lag screw, galvanized",
+      "label_short": "1/2 x 2-1/2",
+      "price_cents": 189,
+      "box_price_cents": 6599,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05593"
+    },
+    {
+      "sku": "05585",
+      "slot_letter": null,
+      "name": "3/8 x 5 hex lag screw, galvanized",
+      "label_short": "3/8 x 5",
+      "price_cents": 189,
+      "box_price_cents": 6599,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05585"
+    },
+    {
+      "sku": "05594",
+      "slot_letter": null,
+      "name": "1/2 x 3 hex lag screw, galvanized",
+      "label_short": "1/2 x 3",
+      "price_cents": 199,
+      "box_price_cents": 7199,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05594"
+    },
+    {
+      "sku": "05586",
+      "slot_letter": null,
+      "name": "3/8 x 5-1/2 hex lag screw, galvanized",
+      "label_short": "3/8 x 5-1/2",
+      "price_cents": 195,
+      "box_price_cents": 6899,
+      "box_qty": 50,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05586"
+    },
+    {
+      "sku": "05595",
+      "slot_letter": null,
+      "name": "1/2 x 3-1/2 hex lag screw, galvanized",
+      "label_short": "1/2 x 3-1/2",
+      "price_cents": 239,
+      "box_price_cents": 3999,
+      "box_qty": 25,
+      "upc": "",
+      "upc_source": null,
+      "location": "Bin 05595"
+    }
+  ]
+}

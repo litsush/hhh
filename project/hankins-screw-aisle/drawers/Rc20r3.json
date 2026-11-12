@@ -1,0 +1,155 @@
+{
+ "id": "Rc20r3",
+ "wall": "right",
+ "column": 20,
+ "row": 3,
+ "half": null,
+ "title": "Stainless 33",
+ "description": "Stainless steel 3/8 inch hex lag screws (9/16 wrench), 1 to 4 inch long (65080).",
+ "front_image": "images/fronts/Rc20r3.jpg",
+ "tray_image": "images/trays/Rc20r3.jpg",
+ "tray_image_px": [
+  1200,
+  540
+ ],
+ "compartments": [
+  {
+   "item_index": 2,
+   "x0": 0.0167,
+   "y0": 0.0,
+   "x1": 0.2683,
+   "y1": 0.2963
+  },
+  {
+   "item_index": 1,
+   "x0": 0.0125,
+   "y0": 0.2963,
+   "x1": 0.2683,
+   "y1": 0.6481
+  },
+  {
+   "item_index": 0,
+   "x0": 0.0042,
+   "y0": 0.6481,
+   "x1": 0.2683,
+   "y1": 1.0
+  },
+  {
+   "item_index": 3,
+   "x0": 0.275,
+   "y0": 0.0,
+   "x1": 0.5233,
+   "y1": 0.2685
+  },
+  {
+   "item_index": 5,
+   "x0": 0.2683,
+   "y0": 0.2685,
+   "x1": 0.5333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5233,
+   "y0": 0.0,
+   "x1": 0.7667,
+   "y1": 0.2685
+  },
+  {
+   "item_index": 6,
+   "x0": 0.5333,
+   "y0": 0.2685,
+   "x1": 0.7792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.7792,
+   "y0": 0.0,
+   "x1": 0.9958,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "65081",
+   "slot_letter": "A",
+   "name": "3/8 x 1 hex lag screw, stainless steel (9/16 wrench)",
+   "price_cents": 239,
+   "upc": "738287650815",
+   "upc_source": "read_from_label",
+   "location": "Stainless 33, slot A",
+   "label_short": "3/8 x 1"
+  },
+  {
+   "sku": "65082",
+   "slot_letter": "B",
+   "name": "3/8 x 1-1/4 hex lag screw, stainless steel (9/16 wrench)",
+   "price_cents": 269,
+   "upc": "738287650822",
+   "upc_source": "read_from_label",
+   "location": "Stainless 33, slot B",
+   "label_short": "3/8 x 1-1/4"
+  },
+  {
+   "sku": "65083",
+   "slot_letter": "C",
+   "name": "3/8 x 1-1/2 hex lag screw, stainless steel (9/16 wrench)",
+   "price_cents": 329,
+   "upc": "738287650839",
+   "upc_source": "read_from_label",
+   "location": "Stainless 33, slot C",
+   "label_short": "3/8 x 1-1/2"
+  },
+  {
+   "sku": "65084",
+   "slot_letter": "D",
+   "name": "3/8 x 1-3/4 hex lag screw, stainless steel (9/16 wrench)",
+   "price_cents": 359,
+   "upc": "738287650846",
+   "upc_source": "read_from_label",
+   "location": "Stainless 33, slot D",
+   "label_short": "3/8 x 1-3/4"
+  },
+  {
+   "sku": "65085",
+   "slot_letter": "E",
+   "name": "3/8 x 2 hex lag screw, stainless steel (9/16 wrench)",
+   "price_cents": 409,
+   "upc": "738287650853",
+   "upc_source": "read_from_label",
+   "location": "Stainless 33, slot E",
+   "label_short": "3/8 x 2"
+  },
+  {
+   "sku": "65086",
+   "slot_letter": "F",
+   "name": "3/8 x 2-1/2 hex lag screw, stainless steel (9/16 wrench)",
+   "price_cents": 519,
+   "upc": "738287650860",
+   "upc_source": "read_from_label",
+   "location": "Stainless 33, slot F",
+   "label_short": "3/8 x 2-1/2"
+  },
+  {
+   "sku": "65087",
+   "slot_letter": "G",
+   "name": "3/8 x 3 hex lag screw, stainless steel (9/16 wrench)",
+   "price_cents": 539,
+   "upc": "738287650877",
+   "upc_source": "read_from_label",
+   "location": "Stainless 33, slot G",
+   "label_short": "3/8 x 3"
+  },
+  {
+   "sku": "65088",
+   "slot_letter": "H",
+   "name": "3/8 x 4 hex lag screw, stainless steel (9/16 wrench)",
+   "price_cents": 659,
+   "upc": "738287650884",
+   "upc_source": "read_from_label",
+   "location": "Stainless 33, slot H",
+   "label_short": "3/8 x 4"
+  }
+ ]
+}

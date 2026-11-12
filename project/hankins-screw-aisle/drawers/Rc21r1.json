@@ -1,0 +1,295 @@
+{
+ "id": "Rc21r1",
+ "wall": "right",
+ "column": 21,
+ "row": 1,
+ "half": null,
+ "title": "Stainless 64",
+ "description": "Stainless steel slotted round head machine screws, coarse thread, 6-32 x 1/2 to 1/4-20 x 2, plus matching hex nuts (61220).",
+ "front_image": "images/fronts/Rc21r1.jpg",
+ "tray_image": "images/trays/Rc21r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.125,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 1,
+   "x0": 0.125,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 2,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.375,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 3,
+   "x0": 0.375,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.625,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 5,
+   "x0": 0.625,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 6,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 0.875,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 7,
+   "x0": 0.875,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.4813,
+   "x1": 0.125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.125,
+   "y0": 0.4813,
+   "x1": 0.25,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.25,
+   "y0": 0.4813,
+   "x1": 0.375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.375,
+   "y0": 0.4813,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5,
+   "y0": 0.4813,
+   "x1": 0.625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 13,
+   "x0": 0.625,
+   "y0": 0.4813,
+   "x1": 0.75,
+   "y1": 1.0
+  },
+  {
+   "item_index": 14,
+   "x0": 0.75,
+   "y0": 0.4813,
+   "x1": 0.875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.875,
+   "y0": 0.4813,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "61221",
+   "slot_letter": "A",
+   "name": "6-32 x 1/2 stainless steel slotted round head machine screw",
+   "price_cents": 41,
+   "upc": "738287612219",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot A",
+   "label_short": "6-32 x 1/2"
+  },
+  {
+   "sku": "61222",
+   "slot_letter": "B",
+   "name": "6-32 x 3/4 stainless steel slotted round head machine screw",
+   "price_cents": 45,
+   "upc": "738287612226",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot B",
+   "label_short": "6-32 x 3/4"
+  },
+  {
+   "sku": "61223",
+   "slot_letter": "C",
+   "name": "8-32 x 1/2 stainless steel slotted round head machine screw",
+   "price_cents": 48,
+   "upc": "738287612233",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot C",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "61224",
+   "slot_letter": "D",
+   "name": "8-32 x 3/4 stainless steel slotted round head machine screw",
+   "price_cents": 57,
+   "upc": "738287612240",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot D",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "61225",
+   "slot_letter": "E",
+   "name": "8-32 x 1 stainless steel slotted round head machine screw",
+   "price_cents": 63,
+   "upc": "738287612257",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot E",
+   "label_short": "8-32 x 1"
+  },
+  {
+   "sku": "61226",
+   "slot_letter": "F",
+   "name": "10-24 x 1/2 stainless steel slotted round head machine screw",
+   "price_cents": 57,
+   "upc": "738287612264",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot F",
+   "label_short": "10-24 x 1/2"
+  },
+  {
+   "sku": "61227",
+   "slot_letter": "G",
+   "name": "10-24 x 1 stainless steel slotted round head machine screw",
+   "price_cents": 69,
+   "upc": "738287612271",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot G",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "61228",
+   "slot_letter": "H",
+   "name": "10-24 x 1-1/2 stainless steel slotted round head machine screw",
+   "price_cents": 79,
+   "upc": "738287612288",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot H",
+   "label_short": "10-24 x 1-1/2"
+  },
+  {
+   "sku": "61231",
+   "slot_letter": "J",
+   "name": "1/4-20 x 3/4 stainless steel slotted round head machine screw",
+   "price_cents": 85,
+   "upc": "738287612318",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot J",
+   "label_short": "1/4-20 x 3/4"
+  },
+  {
+   "sku": "61232",
+   "slot_letter": "K",
+   "name": "1/4-20 x 1 stainless steel slotted round head machine screw",
+   "price_cents": 95,
+   "upc": "738287612325",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot K",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "61233",
+   "slot_letter": "L",
+   "name": "1/4-20 x 1-1/2 stainless steel slotted round head machine screw",
+   "price_cents": 115,
+   "upc": "738287612332",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot L",
+   "label_short": "1/4-20 x 1-1/2"
+  },
+  {
+   "sku": "61234",
+   "slot_letter": "M",
+   "name": "1/4-20 x 2 stainless steel slotted round head machine screw",
+   "price_cents": 135,
+   "upc": "738287612349",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot M",
+   "label_short": "1/4-20 x 2"
+  },
+  {
+   "sku": "61235",
+   "slot_letter": "N",
+   "name": "6-32 stainless steel hex nut",
+   "price_cents": 43,
+   "upc": "738287612356",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot N",
+   "label_short": "6-32 nut",
+   "note": "Compartment is covered by a cardboard sign reading \"Please see drawer #63800\"; the hex nuts are not stocked in this tray."
+  },
+  {
+   "sku": "61236",
+   "slot_letter": "P",
+   "name": "8-32 stainless steel hex nut",
+   "price_cents": 45,
+   "upc": "738287612363",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot P",
+   "label_short": "8-32 nut",
+   "note": "Compartment is covered by a cardboard sign reading \"Please see drawer #63800\"; the hex nuts are not stocked in this tray."
+  },
+  {
+   "sku": "61237",
+   "slot_letter": "Q",
+   "name": "10-24 stainless steel hex nut",
+   "price_cents": 46,
+   "upc": "738287612370",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot Q",
+   "label_short": "10-24 nut",
+   "note": "Compartment is covered by a cardboard sign reading \"Please see drawer #63800\"; the hex nuts are not stocked in this tray."
+  },
+  {
+   "sku": "61238",
+   "slot_letter": "R",
+   "name": "1/4-20 stainless steel hex nut",
+   "price_cents": 57,
+   "upc": "738287612387",
+   "upc_source": "read_from_label",
+   "location": "Stainless 64, slot R",
+   "label_short": "1/4-20 nut",
+   "note": "Compartment is covered by a cardboard sign reading \"Please see drawer #63800\"; the hex nuts are not stocked in this tray."
+  }
+ ]
+}

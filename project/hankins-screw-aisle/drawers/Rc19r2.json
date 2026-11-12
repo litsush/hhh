@@ -1,0 +1,393 @@
+{
+ "id": "Rc19r2",
+ "wall": "right",
+ "column": 19,
+ "row": 2,
+ "half": null,
+ "title": "Stainless 70 and Stainless 70.2",
+ "description": "Stainless steel Phillips flat head machine screws, coarse thread: 316 stainless 6-32 and 8-32, 3/8 to 2 inch (63680), plus longer 6-32 and 8-32, 2-1/2 to 4 inch (39900).",
+ "front_image": "images/fronts/Rc19r2.jpg",
+ "tray_image": "images/trays/Rc19r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0167,
+   "y0": 0.0,
+   "x1": 0.1458,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1458,
+   "y0": 0.0,
+   "x1": 0.2667,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2667,
+   "y0": 0.0,
+   "x1": 0.3833,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3833,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6167,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6167,
+   "y0": 0.0,
+   "x1": 0.7333,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7333,
+   "y0": 0.0,
+   "x1": 0.8458,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8458,
+   "y0": 0.0,
+   "x1": 0.9667,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0167,
+   "y0": 0.2375,
+   "x1": 0.1458,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1458,
+   "y0": 0.2375,
+   "x1": 0.2667,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2667,
+   "y0": 0.2375,
+   "x1": 0.3875,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3875,
+   "y0": 0.2375,
+   "x1": 0.5042,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5042,
+   "y0": 0.2375,
+   "x1": 0.625,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 13,
+   "x0": 0.625,
+   "y0": 0.2375,
+   "x1": 0.7417,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7417,
+   "y0": 0.2375,
+   "x1": 0.85,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 15,
+   "x0": 0.85,
+   "y0": 0.2375,
+   "x1": 0.9708,
+   "y1": 0.4688
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0083,
+   "y0": 0.4688,
+   "x1": 0.1875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1875,
+   "y0": 0.4688,
+   "x1": 0.3458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 18,
+   "x0": 0.3458,
+   "y0": 0.4688,
+   "x1": 0.5083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 19,
+   "x0": 0.5083,
+   "y0": 0.4688,
+   "x1": 0.6708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 20,
+   "x0": 0.6708,
+   "y0": 0.4688,
+   "x1": 0.8292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.8292,
+   "y0": 0.4688,
+   "x1": 0.9667,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "63681",
+   "slot_letter": "A",
+   "name": "6-32 x 3/8 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 32,
+   "upc": "738287636819",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot A",
+   "label_short": "6-32 x 3/8"
+  },
+  {
+   "sku": "63682",
+   "slot_letter": "B",
+   "name": "6-32 x 1/2 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 34,
+   "upc": "738287636826",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot B",
+   "label_short": "6-32 x 1/2"
+  },
+  {
+   "sku": "63683",
+   "slot_letter": "C",
+   "name": "6-32 x 5/8 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 40,
+   "upc": "738287636833",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot C",
+   "label_short": "6-32 x 5/8"
+  },
+  {
+   "sku": "63684",
+   "slot_letter": "D",
+   "name": "6-32 x 3/4 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 43,
+   "upc": "738287636840",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot D",
+   "label_short": "6-32 x 3/4"
+  },
+  {
+   "sku": "63685",
+   "slot_letter": "E",
+   "name": "6-32 x 1 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 47,
+   "upc": "738287636857",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot E",
+   "label_short": "6-32 x 1"
+  },
+  {
+   "sku": "63686",
+   "slot_letter": "F",
+   "name": "6-32 x 1-1/4 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 54,
+   "upc": "738287636864",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot F",
+   "label_short": "6-32 x 1-1/4"
+  },
+  {
+   "sku": "63687",
+   "slot_letter": "G",
+   "name": "6-32 x 1-1/2 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 60,
+   "upc": "738287636871",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot G",
+   "label_short": "6-32 x 1-1/2"
+  },
+  {
+   "sku": "63688",
+   "slot_letter": "H",
+   "name": "6-32 x 2 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 68,
+   "upc": "738287636888",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot H",
+   "label_short": "6-32 x 2"
+  },
+  {
+   "sku": "63691",
+   "slot_letter": "J",
+   "name": "8-32 x 3/8 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 33,
+   "upc": "738287636918",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot J",
+   "label_short": "8-32 x 3/8"
+  },
+  {
+   "sku": "63692",
+   "slot_letter": "K",
+   "name": "8-32 x 1/2 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 38,
+   "upc": "738287636925",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot K",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "63693",
+   "slot_letter": "L",
+   "name": "8-32 x 5/8 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 44,
+   "upc": "738287636932",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot L",
+   "label_short": "8-32 x 5/8"
+  },
+  {
+   "sku": "63694",
+   "slot_letter": "M",
+   "name": "8-32 x 3/4 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 47,
+   "upc": "738287636949",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot M",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "63695",
+   "slot_letter": "N",
+   "name": "8-32 x 1 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 56,
+   "upc": "738287636956",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot N",
+   "label_short": "8-32 x 1"
+  },
+  {
+   "sku": "63696",
+   "slot_letter": "P",
+   "name": "8-32 x 1-1/4 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 64,
+   "upc": "738287636963",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot P",
+   "label_short": "8-32 x 1-1/4"
+  },
+  {
+   "sku": "63697",
+   "slot_letter": "Q",
+   "name": "8-32 x 1-1/2 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 66,
+   "upc": "738287636970",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot Q",
+   "label_short": "8-32 x 1-1/2"
+  },
+  {
+   "sku": "63698",
+   "slot_letter": "R",
+   "name": "8-32 x 2 Phillips flat head machine screw, 316 stainless steel",
+   "price_cents": 69,
+   "upc": "738287636987",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70, slot R",
+   "label_short": "8-32 x 2"
+  },
+  {
+   "sku": "39901",
+   "slot_letter": "A",
+   "name": "6-32 x 2-1/2 Phillips flat head machine screw, stainless steel",
+   "price_cents": 85,
+   "upc": "738287399011",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70.2, slot A",
+   "label_short": "6-32 x 2-1/2"
+  },
+  {
+   "sku": "39902",
+   "slot_letter": "B",
+   "name": "6-32 x 3 Phillips flat head machine screw, stainless steel",
+   "price_cents": 95,
+   "upc": "738287399028",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70.2, slot B",
+   "label_short": "6-32 x 3"
+  },
+  {
+   "sku": "39903",
+   "slot_letter": "C",
+   "name": "8-32 x 2-1/2 Phillips flat head machine screw, stainless steel",
+   "price_cents": 95,
+   "upc": "738287399035",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70.2, slot C",
+   "label_short": "8-32 x 2-1/2"
+  },
+  {
+   "sku": "39904",
+   "slot_letter": "D",
+   "name": "8-32 x 3 Phillips flat head machine screw, stainless steel",
+   "price_cents": 109,
+   "upc": "738287399042",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70.2, slot D",
+   "label_short": "8-32 x 3"
+  },
+  {
+   "sku": "39905",
+   "slot_letter": "E",
+   "name": "8-32 x 3-1/2 Phillips flat head machine screw, stainless steel",
+   "price_cents": 125,
+   "upc": "738287399059",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70.2, slot E",
+   "label_short": "8-32 x 3-1/2"
+  },
+  {
+   "sku": "39906",
+   "slot_letter": "F",
+   "name": "8-32 x 4 Phillips flat head machine screw, stainless steel",
+   "price_cents": 129,
+   "upc": "738287399066",
+   "upc_source": "read_from_label",
+   "location": "Stainless 70.2, slot F",
+   "label_short": "8-32 x 4"
+  }
+ ]
+}

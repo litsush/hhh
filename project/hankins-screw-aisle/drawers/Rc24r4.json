@@ -1,0 +1,293 @@
+{
+ "id": "Rc24r4",
+ "wall": "right",
+ "column": 24,
+ "row": 4,
+ "half": null,
+ "title": "Stainless 114.5 and Stainless 114.6",
+ "description": "Stainless steel threaded rods, 3 in and 6 in lengths: 6-32 to 10-32 (34020) and 1/4-20 to 1/2-13 (34300).",
+ "front_image": "images/fronts/Rc24r4.jpg",
+ "tray_image": "images/trays/Rc24r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.3792,
+   "y1": 0.125
+  },
+  {
+   "item_index": 1,
+   "x0": 0.3792,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.125
+  },
+  {
+   "item_index": 2,
+   "x0": 0.0,
+   "y0": 0.125,
+   "x1": 0.3792,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3792,
+   "y0": 0.125,
+   "x1": 1.0,
+   "y1": 0.25
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.25,
+   "x1": 0.3792,
+   "y1": 0.375
+  },
+  {
+   "item_index": 5,
+   "x0": 0.3792,
+   "y0": 0.25,
+   "x1": 1.0,
+   "y1": 0.375
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.375,
+   "x1": 0.3792,
+   "y1": 0.5
+  },
+  {
+   "item_index": 7,
+   "x0": 0.3792,
+   "y0": 0.375,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.3792,
+   "y1": 0.625
+  },
+  {
+   "item_index": 9,
+   "x0": 0.3792,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.625
+  },
+  {
+   "item_index": 10,
+   "x0": 0.0,
+   "y0": 0.625,
+   "x1": 0.3792,
+   "y1": 0.75
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3792,
+   "y0": 0.625,
+   "x1": 1.0,
+   "y1": 0.75
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.75,
+   "x1": 0.3792,
+   "y1": 0.875
+  },
+  {
+   "item_index": 13,
+   "x0": 0.3792,
+   "y0": 0.75,
+   "x1": 1.0,
+   "y1": 0.875
+  },
+  {
+   "item_index": 14,
+   "x0": 0.0,
+   "y0": 0.875,
+   "x1": 0.3792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.3792,
+   "y0": 0.875,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "34021",
+   "slot_letter": "A",
+   "name": "6-32 x 3 in stainless steel threaded rod, coarse thread",
+   "price_cents": 199,
+   "upc": "738287340211",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.5, slot A",
+   "label_short": "6-32 x 3\"",
+   "note": "This compartment looked empty in the photo."
+  },
+  {
+   "sku": "34022",
+   "slot_letter": "B",
+   "name": "6-32 x 6 in stainless steel threaded rod, coarse thread",
+   "price_cents": 389,
+   "upc": "738287340228",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.5, slot B",
+   "label_short": "6-32 x 6\""
+  },
+  {
+   "sku": "34023",
+   "slot_letter": "C",
+   "name": "8-32 x 3 in stainless steel threaded rod, coarse thread",
+   "price_cents": 209,
+   "upc": "738287340235",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.5, slot C",
+   "label_short": "8-32 x 3\"",
+   "note": "This compartment looked empty in the photo."
+  },
+  {
+   "sku": "34024",
+   "slot_letter": "D",
+   "name": "8-32 x 6 in stainless steel threaded rod, coarse thread",
+   "price_cents": 399,
+   "upc": "738287340242",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.5, slot D",
+   "label_short": "8-32 x 6\""
+  },
+  {
+   "sku": "34025",
+   "slot_letter": "E",
+   "name": "10-24 x 3 in stainless steel threaded rod, coarse thread",
+   "price_cents": 219,
+   "upc": "738287340259",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.5, slot E",
+   "label_short": "10-24 x 3\""
+  },
+  {
+   "sku": "34026",
+   "slot_letter": "F",
+   "name": "10-24 x 6 in stainless steel threaded rod, coarse thread",
+   "price_cents": 409,
+   "upc": "738287340266",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.5, slot F",
+   "label_short": "10-24 x 6\""
+  },
+  {
+   "sku": "34027",
+   "slot_letter": "G",
+   "name": "10-32 x 3 in stainless steel threaded rod, fine thread",
+   "price_cents": 219,
+   "upc": "738287340273",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.5, slot G",
+   "label_short": "10-32 x 3\""
+  },
+  {
+   "sku": "34028",
+   "slot_letter": "H",
+   "name": "10-32 x 6 in stainless steel threaded rod, fine thread",
+   "price_cents": 409,
+   "upc": "738287340280",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.5, slot H",
+   "label_short": "10-32 x 6\""
+  },
+  {
+   "sku": "34301",
+   "slot_letter": "A",
+   "name": "1/4-20 x 3 in stainless steel threaded rod, coarse thread",
+   "price_cents": 319,
+   "upc": "738287343014",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.6, slot A",
+   "label_short": "1/4-20 x 3\""
+  },
+  {
+   "sku": "34302",
+   "slot_letter": "B",
+   "name": "1/4-20 x 6 in stainless steel threaded rod, coarse thread",
+   "price_cents": 459,
+   "upc": "738287343021",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.6, slot B",
+   "label_short": "1/4-20 x 6\""
+  },
+  {
+   "sku": "34303",
+   "slot_letter": "C",
+   "name": "5/16-18 x 3 in stainless steel threaded rod, coarse thread",
+   "price_cents": 389,
+   "upc": "738287343038",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.6, slot C",
+   "label_short": "5/16-18 x 3\""
+  },
+  {
+   "sku": "34304",
+   "slot_letter": "D",
+   "name": "5/16-18 x 6 in stainless steel threaded rod, coarse thread",
+   "price_cents": 599,
+   "upc": "738287343045",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.6, slot D",
+   "label_short": "5/16-18 x 6\""
+  },
+  {
+   "sku": "34305",
+   "slot_letter": "E",
+   "name": "3/8-16 x 3 in stainless steel threaded rod, coarse thread",
+   "price_cents": 389,
+   "upc": "738287343052",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.6, slot E",
+   "label_short": "3/8-16 x 3\""
+  },
+  {
+   "sku": "34306",
+   "slot_letter": "F",
+   "name": "3/8-16 x 6 in stainless steel threaded rod, coarse thread",
+   "price_cents": 739,
+   "upc": "738287343069",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.6, slot F",
+   "label_short": "3/8-16 x 6\""
+  },
+  {
+   "sku": "34307",
+   "slot_letter": "G",
+   "name": "1/2-13 x 3 in stainless steel threaded rod, coarse thread",
+   "price_cents": 699,
+   "upc": "738287343076",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.6, slot G",
+   "label_short": "1/2-13 x 3\""
+  },
+  {
+   "sku": "34308",
+   "slot_letter": "H",
+   "name": "1/2-13 x 6 in stainless steel threaded rod, coarse thread",
+   "price_cents": 1459,
+   "upc": "738287343083",
+   "upc_source": "read_from_label",
+   "location": "Stainless 114.6, slot H",
+   "label_short": "1/2-13 x 6\""
+  }
+ ]
+}

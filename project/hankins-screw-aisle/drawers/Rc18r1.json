@@ -1,0 +1,546 @@
+{
+ "id": "Rc18r1",
+ "wall": "right",
+ "column": 18,
+ "row": 1,
+ "half": null,
+ "title": "Stainless 77 and Stainless 78",
+ "description": "Stainless steel security machine screws, 6-32 to 1/4-20: spanner pan head (70980) and star drive pin-in pan head (77760).",
+ "front_image": "images/fronts/Rc18r1.jpg",
+ "tray_image": "images/trays/Rc18r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1333,
+   "y1": 0.25
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1333,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.25
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.375,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.375,
+   "y0": 0.0,
+   "x1": 0.4958,
+   "y1": 0.25
+  },
+  {
+   "item_index": 4,
+   "x0": 0.4958,
+   "y0": 0.0,
+   "x1": 0.6125,
+   "y1": 0.25
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6125,
+   "y0": 0.0,
+   "x1": 0.7292,
+   "y1": 0.25
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7292,
+   "y0": 0.0,
+   "x1": 0.8458,
+   "y1": 0.25
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8458,
+   "y0": 0.0,
+   "x1": 0.9667,
+   "y1": 0.25
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0125,
+   "y0": 0.25,
+   "x1": 0.1375,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1375,
+   "y0": 0.25,
+   "x1": 0.2625,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2625,
+   "y0": 0.25,
+   "x1": 0.3792,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3792,
+   "y0": 0.25,
+   "x1": 0.5,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5,
+   "y0": 0.25,
+   "x1": 0.6208,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6208,
+   "y0": 0.25,
+   "x1": 0.7333,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7333,
+   "y0": 0.25,
+   "x1": 0.85,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 15,
+   "x0": 0.85,
+   "y0": 0.25,
+   "x1": 0.9708,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0167,
+   "y0": 0.5062,
+   "x1": 0.1458,
+   "y1": 0.7688
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1458,
+   "y0": 0.5062,
+   "x1": 0.2667,
+   "y1": 0.7688
+  },
+  {
+   "item_index": 18,
+   "x0": 0.2667,
+   "y0": 0.5062,
+   "x1": 0.3875,
+   "y1": 0.7688
+  },
+  {
+   "item_index": 19,
+   "x0": 0.3875,
+   "y0": 0.5062,
+   "x1": 0.5042,
+   "y1": 0.7688
+  },
+  {
+   "item_index": 20,
+   "x0": 0.5042,
+   "y0": 0.5062,
+   "x1": 0.625,
+   "y1": 0.7688
+  },
+  {
+   "item_index": 21,
+   "x0": 0.625,
+   "y0": 0.5062,
+   "x1": 0.7417,
+   "y1": 0.7688
+  },
+  {
+   "item_index": 22,
+   "x0": 0.7417,
+   "y0": 0.5062,
+   "x1": 0.8583,
+   "y1": 0.7688
+  },
+  {
+   "item_index": 23,
+   "x0": 0.8583,
+   "y0": 0.5062,
+   "x1": 0.9792,
+   "y1": 0.7688
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0208,
+   "y0": 0.7688,
+   "x1": 0.15,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.15,
+   "y0": 0.7688,
+   "x1": 0.2708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.2708,
+   "y0": 0.7688,
+   "x1": 0.3917,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.3917,
+   "y0": 0.7688,
+   "x1": 0.5125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.5125,
+   "y0": 0.7688,
+   "x1": 0.6708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.6708,
+   "y0": 0.7688,
+   "x1": 0.8208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.8208,
+   "y0": 0.7688,
+   "x1": 0.9833,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "70981",
+   "slot_letter": "A",
+   "name": "6-32 x 1/2 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 149,
+   "upc": "738287709810",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot A",
+   "label_short": "6-32 x 1/2"
+  },
+  {
+   "sku": "70982",
+   "slot_letter": "B",
+   "name": "6-32 x 3/4 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 159,
+   "upc": "738287709827",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot B",
+   "label_short": "6-32 x 3/4"
+  },
+  {
+   "sku": "70983",
+   "slot_letter": "C",
+   "name": "6-32 x 1 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 165,
+   "upc": "738287709834",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot C",
+   "label_short": "6-32 x 1"
+  },
+  {
+   "sku": "70984",
+   "slot_letter": "D",
+   "name": "6-32 x 1-1/2 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 179,
+   "upc": "738287709841",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot D",
+   "label_short": "6-32 x 1-1/2"
+  },
+  {
+   "sku": "70985",
+   "slot_letter": "E",
+   "name": "8-32 x 1/2 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 159,
+   "upc": "738287709858",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot E",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "70986",
+   "slot_letter": "F",
+   "name": "8-32 x 3/4 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 165,
+   "upc": "738287709865",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot F",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "70987",
+   "slot_letter": "G",
+   "name": "8-32 x 1 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 179,
+   "upc": "738287709872",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot G",
+   "label_short": "8-32 x 1"
+  },
+  {
+   "sku": "70988",
+   "slot_letter": "H",
+   "name": "8-32 x 1-1/2 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 185,
+   "upc": "738287709889",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot H",
+   "label_short": "8-32 x 1-1/2"
+  },
+  {
+   "sku": "70991",
+   "slot_letter": "J",
+   "name": "10-24 x 1/2 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 169,
+   "upc": "738287709919",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot J",
+   "label_short": "10-24 x 1/2"
+  },
+  {
+   "sku": "70992",
+   "slot_letter": "K",
+   "name": "10-24 x 3/4 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 179,
+   "upc": "738287709926",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot K",
+   "label_short": "10-24 x 3/4"
+  },
+  {
+   "sku": "70993",
+   "slot_letter": "L",
+   "name": "10-24 x 1 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 185,
+   "upc": "738287709933",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot L",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "70994",
+   "slot_letter": "M",
+   "name": "10-24 x 1-1/2 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 219,
+   "upc": "738287709940",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot M",
+   "label_short": "10-24 x 1-1/2"
+  },
+  {
+   "sku": "70995",
+   "slot_letter": "N",
+   "name": "1/4-20 x 1/2 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 209,
+   "upc": "738287709957",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot N",
+   "label_short": "1/4-20 x 1/2"
+  },
+  {
+   "sku": "70996",
+   "slot_letter": "P",
+   "name": "1/4-20 x 3/4 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 239,
+   "upc": "738287709964",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot P",
+   "label_short": "1/4-20 x 3/4"
+  },
+  {
+   "sku": "70997",
+   "slot_letter": "Q",
+   "name": "1/4-20 x 1 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 279,
+   "upc": "738287709971",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot Q",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "70998",
+   "slot_letter": "R",
+   "name": "1/4-20 x 1-1/2 spanner (snake-eye) security pan head machine screw, stainless steel",
+   "price_cents": 309,
+   "upc": "738287709988",
+   "upc_source": "read_from_label",
+   "location": "Stainless 77, slot R",
+   "label_short": "1/4-20 x 1-1/2"
+  },
+  {
+   "sku": "77761",
+   "slot_letter": "A",
+   "name": "6-32 x 1/2 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-10 bit",
+   "price_cents": 165,
+   "upc": "738287777611",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot A",
+   "label_short": "6-32 x 1/2"
+  },
+  {
+   "sku": "77762",
+   "slot_letter": "B",
+   "name": "6-32 x 3/4 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-10 bit",
+   "price_cents": 179,
+   "upc": "738287777628",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot B",
+   "label_short": "6-32 x 3/4"
+  },
+  {
+   "sku": "77763",
+   "slot_letter": "C",
+   "name": "6-32 x 1 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-10 bit",
+   "price_cents": 179,
+   "upc": "738287777635",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot C",
+   "label_short": "6-32 x 1"
+  },
+  {
+   "sku": "77764",
+   "slot_letter": "D",
+   "name": "8-32 x 1/2 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-15 bit",
+   "price_cents": 189,
+   "upc": "738287777642",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot D",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "77765",
+   "slot_letter": "E",
+   "name": "8-32 x 3/4 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-15 bit",
+   "price_cents": 199,
+   "upc": "738287777659",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot E",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "77766",
+   "slot_letter": "F",
+   "name": "8-32 x 1 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-15 bit",
+   "price_cents": 219,
+   "upc": "738287777666",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot F",
+   "label_short": "8-32 x 1"
+  },
+  {
+   "sku": "77767",
+   "slot_letter": "G",
+   "name": "8-32 x 1-1/2 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-15 bit",
+   "price_cents": 289,
+   "upc": "738287777673",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot G",
+   "label_short": "8-32 x 1-1/2"
+  },
+  {
+   "sku": "77768",
+   "slot_letter": "H",
+   "name": "10-24 x 1/2 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-25 bit",
+   "price_cents": 189,
+   "upc": "738287777680",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot H",
+   "label_short": "10-24 x 1/2"
+  },
+  {
+   "sku": "77771",
+   "slot_letter": "J",
+   "name": "10-24 x 3/4 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-25 bit",
+   "price_cents": 209,
+   "upc": "738287777710",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot J",
+   "label_short": "10-24 x 3/4"
+  },
+  {
+   "sku": "77772",
+   "slot_letter": "K",
+   "name": "10-24 x 1 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-25 bit",
+   "price_cents": 219,
+   "upc": "738287777727",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot K",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "77773",
+   "slot_letter": "L",
+   "name": "10-24 x 1-1/2 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-25 bit",
+   "price_cents": 289,
+   "upc": "738287777734",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot L",
+   "label_short": "10-24 x 1-1/2"
+  },
+  {
+   "sku": "77774",
+   "slot_letter": "M",
+   "name": "1/4-20 x 3/4 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-27 bit",
+   "price_cents": 319,
+   "upc": "738287777741",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot M",
+   "label_short": "1/4-20 x 3/4"
+  },
+  {
+   "sku": "77775",
+   "slot_letter": "N",
+   "name": "1/4-20 x 1 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-27 bit",
+   "price_cents": 359,
+   "upc": "738287777758",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot N",
+   "label_short": "1/4-20 x 1"
+  },
+  {
+   "sku": "77776",
+   "slot_letter": "P",
+   "name": "1/4-20 x 1-1/4 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-27 bit",
+   "price_cents": 389,
+   "upc": "738287777765",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot P",
+   "label_short": "1/4-20 x 1-1/4"
+  },
+  {
+   "sku": "77777",
+   "slot_letter": "Q",
+   "name": "1/4-20 x 1-1/2 star drive (pin-in Torx) security pan head machine screw, stainless steel, uses T-27 bit",
+   "price_cents": 409,
+   "upc": "738287777772",
+   "upc_source": "read_from_label",
+   "location": "Stainless 78, slot Q",
+   "label_short": "1/4-20 x 1-1/2"
+  }
+ ]
+}

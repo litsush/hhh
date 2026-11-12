@@ -1,0 +1,563 @@
+{
+ "id": "Rc12r5",
+ "wall": "right",
+ "column": 12,
+ "row": 5,
+ "half": null,
+ "title": "Sheet Metal 32 and Sheet Metal 34",
+ "description": "Black Phillips flat head (79440) and oval head (79480) sheet metal screws, #6 to #12, 1/2 to 2 long, in one tray",
+ "front_image": "images/fronts/Rc12r5.jpg",
+ "tray_image": "images/trays/Rc12r5.jpg",
+ "tray_image_px": [
+  1200,
+  1000
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1375,
+   "y1": 0.25
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1375,
+   "y0": 0.0,
+   "x1": 0.2667,
+   "y1": 0.25
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2667,
+   "y0": 0.0,
+   "x1": 0.3917,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3917,
+   "y0": 0.0,
+   "x1": 0.5125,
+   "y1": 0.25
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5125,
+   "y0": 0.0,
+   "x1": 0.6333,
+   "y1": 0.25
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6333,
+   "y0": 0.0,
+   "x1": 0.7542,
+   "y1": 0.25
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7542,
+   "y0": 0.0,
+   "x1": 0.875,
+   "y1": 0.25
+  },
+  {
+   "item_index": 7,
+   "x0": 0.875,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.25
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.25,
+   "x1": 0.1375,
+   "y1": 0.5
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1375,
+   "y0": 0.25,
+   "x1": 0.2667,
+   "y1": 0.5
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2667,
+   "y0": 0.25,
+   "x1": 0.3917,
+   "y1": 0.5
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3917,
+   "y0": 0.25,
+   "x1": 0.5125,
+   "y1": 0.5
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5125,
+   "y0": 0.25,
+   "x1": 0.6333,
+   "y1": 0.5
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6333,
+   "y0": 0.25,
+   "x1": 0.7542,
+   "y1": 0.5
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7542,
+   "y0": 0.25,
+   "x1": 0.875,
+   "y1": 0.5
+  },
+  {
+   "item_index": 15,
+   "x0": 0.875,
+   "y0": 0.25,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 0.1333,
+   "y1": 0.755
+  },
+  {
+   "item_index": 17,
+   "x0": 0.1333,
+   "y0": 0.5,
+   "x1": 0.2625,
+   "y1": 0.755
+  },
+  {
+   "item_index": 18,
+   "x0": 0.2625,
+   "y0": 0.5,
+   "x1": 0.3875,
+   "y1": 0.755
+  },
+  {
+   "item_index": 19,
+   "x0": 0.3875,
+   "y0": 0.5,
+   "x1": 0.5125,
+   "y1": 0.755
+  },
+  {
+   "item_index": 20,
+   "x0": 0.5125,
+   "y0": 0.5,
+   "x1": 0.6333,
+   "y1": 0.755
+  },
+  {
+   "item_index": 21,
+   "x0": 0.6333,
+   "y0": 0.5,
+   "x1": 0.7542,
+   "y1": 0.755
+  },
+  {
+   "item_index": 22,
+   "x0": 0.7542,
+   "y0": 0.5,
+   "x1": 0.875,
+   "y1": 0.755
+  },
+  {
+   "item_index": 23,
+   "x0": 0.875,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.755
+  },
+  {
+   "item_index": 24,
+   "x0": 0.0,
+   "y0": 0.755,
+   "x1": 0.1333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.1333,
+   "y0": 0.755,
+   "x1": 0.2625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.2625,
+   "y0": 0.755,
+   "x1": 0.3875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.3875,
+   "y0": 0.755,
+   "x1": 0.5125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 28,
+   "x0": 0.5125,
+   "y0": 0.755,
+   "x1": 0.6333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 29,
+   "x0": 0.6333,
+   "y0": 0.755,
+   "x1": 0.7542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 30,
+   "x0": 0.7542,
+   "y0": 0.755,
+   "x1": 0.875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 31,
+   "x0": 0.875,
+   "y0": 0.755,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "79441",
+   "slot_letter": "A",
+   "name": "#6 x 1/2 Phillips flat head sheet metal screw, black",
+   "price_cents": 32,
+   "upc": "738287794410",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot A",
+   "label_short": "6 x 1/2 flat"
+  },
+  {
+   "sku": "79442",
+   "slot_letter": "B",
+   "name": "#6 x 5/8 Phillips flat head sheet metal screw, black",
+   "price_cents": 34,
+   "upc": "738287794427",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot B",
+   "label_short": "6 x 5/8 flat"
+  },
+  {
+   "sku": "79443",
+   "slot_letter": "C",
+   "name": "#6 x 3/4 Phillips flat head sheet metal screw, black",
+   "price_cents": 34,
+   "upc": "738287794434",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot C",
+   "label_short": "6 x 3/4 flat"
+  },
+  {
+   "sku": "79444",
+   "slot_letter": "D",
+   "name": "#6 x 1 Phillips flat head sheet metal screw, black",
+   "price_cents": 38,
+   "upc": "738287794441",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot D",
+   "label_short": "6 x 1 flat"
+  },
+  {
+   "sku": "79445",
+   "slot_letter": "E",
+   "name": "#8 x 1/2 Phillips flat head sheet metal screw, black",
+   "price_cents": 34,
+   "upc": "738287794458",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot E",
+   "label_short": "8 x 1/2 flat"
+  },
+  {
+   "sku": "79446",
+   "slot_letter": "F",
+   "name": "#8 x 5/8 Phillips flat head sheet metal screw, black",
+   "price_cents": 38,
+   "upc": "738287794465",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot F",
+   "label_short": "8 x 5/8 flat"
+  },
+  {
+   "sku": "79447",
+   "slot_letter": "G",
+   "name": "#8 x 3/4 Phillips flat head sheet metal screw, black",
+   "price_cents": 38,
+   "upc": "738287794472",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot G",
+   "label_short": "8 x 3/4 flat"
+  },
+  {
+   "sku": "79448",
+   "slot_letter": "H",
+   "name": "#8 x 1 Phillips flat head sheet metal screw, black",
+   "price_cents": 42,
+   "upc": "738287794489",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot H",
+   "label_short": "8 x 1 flat"
+  },
+  {
+   "sku": "79451",
+   "slot_letter": "J",
+   "name": "#8 x 1-1/4 Phillips flat head sheet metal screw, black",
+   "price_cents": 46,
+   "upc": "738287794519",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot J",
+   "label_short": "8 x 1-1/4 flat"
+  },
+  {
+   "sku": "79452",
+   "slot_letter": "K",
+   "name": "#8 x 1-1/2 Phillips flat head sheet metal screw, black",
+   "price_cents": 51,
+   "upc": "738287794526",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot K",
+   "label_short": "8 x 1-1/2 flat"
+  },
+  {
+   "sku": "79453",
+   "slot_letter": "L",
+   "name": "#8 x 2 Phillips flat head sheet metal screw, black",
+   "price_cents": 56,
+   "upc": "738287794533",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot L",
+   "label_short": "8 x 2 flat"
+  },
+  {
+   "sku": "79454",
+   "slot_letter": "M",
+   "name": "#10 x 3/4 Phillips flat head sheet metal screw, black",
+   "price_cents": 51,
+   "upc": "738287794540",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot M",
+   "label_short": "10 x 3/4 flat"
+  },
+  {
+   "sku": "79455",
+   "slot_letter": "N",
+   "name": "#10 x 1 Phillips flat head sheet metal screw, black",
+   "price_cents": 55,
+   "upc": "738287794557",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot N",
+   "label_short": "10 x 1 flat"
+  },
+  {
+   "sku": "79456",
+   "slot_letter": "P",
+   "name": "#10 x 1-1/4 Phillips flat head sheet metal screw, black",
+   "price_cents": 64,
+   "upc": "738287794564",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot P",
+   "label_short": "10 x 1-1/4 flat"
+  },
+  {
+   "sku": "79457",
+   "slot_letter": "Q",
+   "name": "#10 x 1-1/2 Phillips flat head sheet metal screw, black",
+   "price_cents": 75,
+   "upc": "738287794571",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot Q",
+   "label_short": "10 x 1-1/2 flat"
+  },
+  {
+   "sku": "79458",
+   "slot_letter": "R",
+   "name": "#10 x 2 Phillips flat head sheet metal screw, black",
+   "price_cents": 79,
+   "upc": "738287794588",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 32, slot R",
+   "label_short": "10 x 2 flat"
+  },
+  {
+   "sku": "79481",
+   "slot_letter": "A",
+   "name": "#6 x 1/2 Phillips oval head sheet metal screw, black",
+   "price_cents": 32,
+   "upc": "738287794816",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot A",
+   "label_short": "6 x 1/2 oval"
+  },
+  {
+   "sku": "79482",
+   "slot_letter": "B",
+   "name": "#6 x 3/4 Phillips oval head sheet metal screw, black",
+   "price_cents": 34,
+   "upc": "738287794823",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot B",
+   "label_short": "6 x 3/4 oval"
+  },
+  {
+   "sku": "79483",
+   "slot_letter": "C",
+   "name": "#6 x 1 Phillips oval head sheet metal screw, black",
+   "price_cents": 38,
+   "upc": "738287794830",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot C",
+   "label_short": "6 x 1 oval"
+  },
+  {
+   "sku": "79484",
+   "slot_letter": "D",
+   "name": "#8 x 1/2 Phillips oval head sheet metal screw, black",
+   "price_cents": 34,
+   "upc": "738287794847",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot D",
+   "label_short": "8 x 1/2 oval"
+  },
+  {
+   "sku": "79485",
+   "slot_letter": "E",
+   "name": "#8 x 3/4 Phillips oval head sheet metal screw, black",
+   "price_cents": 38,
+   "upc": "738287794854",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot E",
+   "label_short": "8 x 3/4 oval"
+  },
+  {
+   "sku": "79486",
+   "slot_letter": "F",
+   "name": "#8 x 1 Phillips oval head sheet metal screw, black",
+   "price_cents": 42,
+   "upc": "738287794861",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot F",
+   "label_short": "8 x 1 oval"
+  },
+  {
+   "sku": "79487",
+   "slot_letter": "G",
+   "name": "#8 x 1-1/2 Phillips oval head sheet metal screw, black",
+   "price_cents": 51,
+   "upc": "738287794878",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot G",
+   "label_short": "8 x 1-1/2 oval"
+  },
+  {
+   "sku": "79488",
+   "slot_letter": "H",
+   "name": "#8 x 2 Phillips oval head sheet metal screw, black",
+   "price_cents": 55,
+   "upc": "738287794885",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot H",
+   "label_short": "8 x 2 oval"
+  },
+  {
+   "sku": "79491",
+   "slot_letter": "J",
+   "name": "#10 x 3/4 Phillips oval head sheet metal screw, black",
+   "price_cents": 51,
+   "upc": "738287794915",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot J",
+   "label_short": "10 x 3/4 oval"
+  },
+  {
+   "sku": "79492",
+   "slot_letter": "K",
+   "name": "#10 x 1 Phillips oval head sheet metal screw, black",
+   "price_cents": 55,
+   "upc": "738287794922",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot K",
+   "label_short": "10 x 1 oval"
+  },
+  {
+   "sku": "79493",
+   "slot_letter": "L",
+   "name": "#10 x 1-1/2 Phillips oval head sheet metal screw, black",
+   "price_cents": 64,
+   "upc": "738287794939",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot L",
+   "label_short": "10 x 1-1/2 oval"
+  },
+  {
+   "sku": "79494",
+   "slot_letter": "M",
+   "name": "#10 x 2 Phillips oval head sheet metal screw, black",
+   "price_cents": 75,
+   "upc": "738287794946",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot M",
+   "label_short": "10 x 2 oval"
+  },
+  {
+   "sku": "79495",
+   "slot_letter": "N",
+   "name": "#12 x 3/4 Phillips oval head sheet metal screw, black",
+   "price_cents": 55,
+   "upc": "738287794953",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot N",
+   "label_short": "12 x 3/4 oval"
+  },
+  {
+   "sku": "79496",
+   "slot_letter": "P",
+   "name": "#12 x 1 Phillips oval head sheet metal screw, black",
+   "price_cents": 64,
+   "upc": "738287794960",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot P",
+   "label_short": "12 x 1 oval"
+  },
+  {
+   "sku": "79497",
+   "slot_letter": "Q",
+   "name": "#12 x 1-1/2 Phillips oval head sheet metal screw, black",
+   "price_cents": 75,
+   "upc": "738287794977",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot Q",
+   "label_short": "12 x 1-1/2 oval"
+  },
+  {
+   "sku": "79498",
+   "slot_letter": "R",
+   "name": "#12 x 2 Phillips oval head sheet metal screw, black",
+   "price_cents": 79,
+   "upc": "738287794984",
+   "upc_source": "read_from_label",
+   "location": "Sheet Metal 34, slot R",
+   "label_short": "12 x 2 oval"
+  }
+ ]
+}

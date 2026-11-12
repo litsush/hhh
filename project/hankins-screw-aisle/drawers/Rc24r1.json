@@ -1,0 +1,257 @@
+{
+ "id": "Rc24r1",
+ "wall": "right",
+ "column": 24,
+ "row": 1,
+ "half": null,
+ "title": "Stainless 98",
+ "description": "Stainless steel Phillips pan head shutter and storm window screws with brown painted heads, #8 and #10, 1/2 to 3 (69520).",
+ "front_image": "images/fronts/Rc24r1.jpg",
+ "tray_image": "images/trays/Rc24r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1208,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1208,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 2,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.375,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 3,
+   "x0": 0.375,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6208,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6208,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.1875
+  },
+  {
+   "item_index": 6,
+   "x0": 0.6208,
+   "y0": 0.1875,
+   "x1": 1.0,
+   "y1": 0.4313
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.4625,
+   "x1": 0.1167,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.1167,
+   "y0": 0.4625,
+   "x1": 0.25,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.25,
+   "y0": 0.4625,
+   "x1": 0.3792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.3792,
+   "y0": 0.4625,
+   "x1": 0.5125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.5125,
+   "y0": 0.4625,
+   "x1": 0.6375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.6375,
+   "y0": 0.4313,
+   "x1": 1.0,
+   "y1": 0.6875
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6375,
+   "y0": 0.6875,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "69521",
+   "slot_letter": "A",
+   "name": "#8 x 1/2 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 45,
+   "upc": "738287695212",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot A",
+   "label_short": "8 x 1/2"
+  },
+  {
+   "sku": "69522",
+   "slot_letter": "B",
+   "name": "#8 x 3/4 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 49,
+   "upc": "738287695229",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot B",
+   "label_short": "8 x 3/4"
+  },
+  {
+   "sku": "69523",
+   "slot_letter": "C",
+   "name": "#8 x 1 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 57,
+   "upc": "738287695236",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot C",
+   "label_short": "8 x 1"
+  },
+  {
+   "sku": "69524",
+   "slot_letter": "D",
+   "name": "#8 x 1-1/2 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 66,
+   "upc": "738287695243",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot D",
+   "label_short": "8 x 1-1/2"
+  },
+  {
+   "sku": "69525",
+   "slot_letter": "E",
+   "name": "#8 x 2 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 79,
+   "upc": "738287695250",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot E",
+   "label_short": "8 x 2"
+  },
+  {
+   "sku": "69526",
+   "slot_letter": "F",
+   "name": "#8 x 2-1/2 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 89,
+   "upc": "738287695267",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot F",
+   "label_short": "8 x 2-1/2"
+  },
+  {
+   "sku": "69527",
+   "slot_letter": "G",
+   "name": "#8 x 3 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 109,
+   "upc": "738287695274",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot G",
+   "label_short": "8 x 3"
+  },
+  {
+   "sku": "69528",
+   "slot_letter": "H",
+   "name": "#10 x 1/2 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 57,
+   "upc": "738287695281",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot H",
+   "label_short": "10 x 1/2"
+  },
+  {
+   "sku": "69531",
+   "slot_letter": "J",
+   "name": "#10 x 3/4 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 60,
+   "upc": "738287695311",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot J",
+   "label_short": "10 x 3/4"
+  },
+  {
+   "sku": "69532",
+   "slot_letter": "K",
+   "name": "#10 x 1 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 69,
+   "upc": "738287695328",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot K",
+   "label_short": "10 x 1"
+  },
+  {
+   "sku": "69533",
+   "slot_letter": "L",
+   "name": "#10 x 1-1/2 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 79,
+   "upc": "738287695335",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot L",
+   "label_short": "10 x 1-1/2"
+  },
+  {
+   "sku": "69534",
+   "slot_letter": "M",
+   "name": "#10 x 2 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 89,
+   "upc": "738287695342",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot M",
+   "label_short": "10 x 2"
+  },
+  {
+   "sku": "69535",
+   "slot_letter": "N",
+   "name": "#10 x 2-1/2 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 105,
+   "upc": "738287695359",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot N",
+   "label_short": "10 x 2-1/2"
+  },
+  {
+   "sku": "69536",
+   "slot_letter": "P",
+   "name": "#10 x 3 stainless steel Phillips pan head shutter and storm window screw, brown painted head",
+   "price_cents": 125,
+   "upc": "738287695366",
+   "upc_source": "read_from_label",
+   "location": "Stainless 98, slot P",
+   "label_short": "10 x 3"
+  }
+ ]
+}

@@ -1,0 +1,500 @@
+{
+ "id": "Rc04r5",
+ "wall": "right",
+ "column": 4,
+ "row": 5,
+ "half": null,
+ "title": "Metric 63 and Metric 64",
+ "description": "Metric class 10 hex nuts, coarse and fine thread, 6mm to 20mm (73960), and metric class 10 flat and split lock washers, 6mm to 20mm, black (73980).",
+ "front_image": "images/fronts/Rc04r5.jpg",
+ "tray_image": "images/trays/Rc04r5.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.125,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 1,
+   "x0": 0.125,
+   "y0": 0.0,
+   "x1": 0.2517,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2517,
+   "y0": 0.0,
+   "x1": 0.3792,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3792,
+   "y0": 0.0,
+   "x1": 0.5917,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5917,
+   "y0": 0.0,
+   "x1": 0.75,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 5,
+   "x0": 0.75,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.2437,
+   "x1": 0.2125,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 7,
+   "x0": 0.2125,
+   "y0": 0.2437,
+   "x1": 0.4292,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 8,
+   "x0": 0.4292,
+   "y0": 0.2437,
+   "x1": 0.6375,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 9,
+   "x0": 0.6375,
+   "y0": 0.2437,
+   "x1": 0.7542,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 10,
+   "x0": 0.7542,
+   "y0": 0.2437,
+   "x1": 0.8792,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 11,
+   "x0": 0.8792,
+   "y0": 0.2437,
+   "x1": 1.0,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.4938,
+   "x1": 0.125,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 13,
+   "x0": 0.125,
+   "y0": 0.4938,
+   "x1": 0.25,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 14,
+   "x0": 0.25,
+   "y0": 0.4938,
+   "x1": 0.375,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 15,
+   "x0": 0.375,
+   "y0": 0.4938,
+   "x1": 0.5,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 16,
+   "x0": 0.5,
+   "y0": 0.4938,
+   "x1": 0.625,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 17,
+   "x0": 0.625,
+   "y0": 0.4938,
+   "x1": 0.75,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 18,
+   "x0": 0.75,
+   "y0": 0.4938,
+   "x1": 0.875,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 19,
+   "x0": 0.875,
+   "y0": 0.4938,
+   "x1": 1.0,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 20,
+   "x0": 0.0,
+   "y0": 0.7475,
+   "x1": 0.125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.125,
+   "y0": 0.7475,
+   "x1": 0.25,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.25,
+   "y0": 0.7475,
+   "x1": 0.375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.375,
+   "y0": 0.7475,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.5,
+   "y0": 0.7475,
+   "x1": 0.625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.625,
+   "y0": 0.7475,
+   "x1": 0.7458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.7458,
+   "y0": 0.7475,
+   "x1": 0.8708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.8708,
+   "y0": 0.7475,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "73972",
+   "slot_letter": "K",
+   "name": "M12 x 1.25 metric class 10 hex nut, extra fine thread, black",
+   "price_cents": 175,
+   "upc": "738287739725",
+   "upc_source": "read_from_label",
+   "location": "Metric 63, slot K",
+   "label_short": "12mm x 1.25"
+  },
+  {
+   "sku": "73964",
+   "slot_letter": "D",
+   "name": "M6 x 1.00 metric class 10 hex nut, coarse thread, black",
+   "price_cents": 48,
+   "upc": "738287739640",
+   "upc_source": "read_from_label",
+   "location": "Metric 63, slot D",
+   "label_short": "6mm x 1.00"
+  },
+  {
+   "sku": "73965",
+   "slot_letter": "E",
+   "name": "M8 x 1.25 metric class 10 hex nut, coarse thread, black",
+   "price_cents": 61,
+   "upc": "738287739657",
+   "upc_source": "read_from_label",
+   "location": "Metric 63, slot E",
+   "label_short": "8mm x 1.25"
+  },
+  {
+   "sku": "73966",
+   "slot_letter": "F",
+   "name": "M10 x 1.50 metric class 10 hex nut, coarse thread, black",
+   "price_cents": 125,
+   "upc": "738287739664",
+   "upc_source": "read_from_label",
+   "location": "Metric 63, slot F",
+   "label_short": "10mm x 1.50"
+  },
+  {
+   "sku": "73967",
+   "slot_letter": "G",
+   "name": "M12 x 1.75 metric class 10 hex nut, coarse thread, black",
+   "price_cents": 159,
+   "upc": "738287739671",
+   "upc_source": "read_from_label",
+   "location": "Metric 63, slot G",
+   "label_short": "12mm x 1.75"
+  },
+  {
+   "sku": "73968",
+   "slot_letter": "H",
+   "name": "M14 x 2.00 metric class 10 hex nut, coarse thread, black",
+   "price_cents": 179,
+   "upc": "738287739688",
+   "upc_source": "read_from_label",
+   "location": "Metric 63, slot H",
+   "label_short": "14mm x 2.00"
+  },
+  {
+   "sku": "73971",
+   "slot_letter": "J",
+   "name": "M16 x 2.00 metric class 10 hex nut, coarse thread, black",
+   "price_cents": 209,
+   "upc": "738287739718",
+   "upc_source": "read_from_label",
+   "location": "Metric 63, slot J",
+   "label_short": "16mm x 2.00"
+  },
+  {
+   "sku": "73973",
+   "slot_letter": "L",
+   "name": "M18 x 2.50 metric class 10 hex nut, coarse thread, black",
+   "price_cents": 259,
+   "upc": "738287739732",
+   "upc_source": "read_from_label",
+   "location": "Metric 63, slot L",
+   "label_short": "18mm x 2.50",
+   "note": "Compartment is covered by a paper box marked with an X in the photo; contents could not be seen (probably out of stock)."
+  },
+  {
+   "sku": "73974",
+   "slot_letter": "M",
+   "name": "M20 x 2.50 metric class 10 hex nut, coarse thread, black",
+   "price_cents": 289,
+   "upc": "738287739749",
+   "upc_source": "read_from_label",
+   "location": "Metric 63, slot M",
+   "label_short": "20mm x 2.50",
+   "note": "Compartment is covered by a paper box marked with an X in the photo; contents could not be seen (probably out of stock)."
+  },
+  {
+   "sku": "73961",
+   "slot_letter": "A",
+   "name": "M8 x 1.00 metric class 10 hex nut, fine thread, black",
+   "price_cents": 67,
+   "upc": "738287739619",
+   "upc_source": "read_from_label",
+   "location": "Metric 63, slot A",
+   "label_short": "8mm x 1.00"
+  },
+  {
+   "sku": "73962",
+   "slot_letter": "B",
+   "name": "M10 x 1.25 metric class 10 hex nut, fine thread, black",
+   "price_cents": 135,
+   "upc": "738287739626",
+   "upc_source": "read_from_label",
+   "location": "Metric 63, slot B",
+   "label_short": "10mm x 1.25"
+  },
+  {
+   "sku": "73963",
+   "slot_letter": "C",
+   "name": "M12 x 1.50 metric class 10 hex nut, fine thread, black",
+   "price_cents": 189,
+   "upc": "738287739633",
+   "upc_source": "read_from_label",
+   "location": "Metric 63, slot C",
+   "label_short": "12mm x 1.50"
+  },
+  {
+   "sku": "73981",
+   "slot_letter": "A",
+   "name": "6mm metric class 10 flat washer, black",
+   "price_cents": 41,
+   "upc": "738287739817",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot A",
+   "label_short": "6mm flat"
+  },
+  {
+   "sku": "73982",
+   "slot_letter": "B",
+   "name": "8mm metric class 10 flat washer, black",
+   "price_cents": 57,
+   "upc": "738287739824",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot B",
+   "label_short": "8mm flat"
+  },
+  {
+   "sku": "73983",
+   "slot_letter": "C",
+   "name": "10mm metric class 10 flat washer, black",
+   "price_cents": 69,
+   "upc": "738287739831",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot C",
+   "label_short": "10mm flat"
+  },
+  {
+   "sku": "73984",
+   "slot_letter": "D",
+   "name": "12mm metric class 10 flat washer, black",
+   "price_cents": 89,
+   "upc": "738287739848",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot D",
+   "label_short": "12mm flat"
+  },
+  {
+   "sku": "73985",
+   "slot_letter": "E",
+   "name": "14mm metric class 10 flat washer, black",
+   "price_cents": 115,
+   "upc": "738287739855",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot E",
+   "label_short": "14mm flat"
+  },
+  {
+   "sku": "73986",
+   "slot_letter": "F",
+   "name": "16mm metric class 10 flat washer, black",
+   "price_cents": 135,
+   "upc": "738287739862",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot F",
+   "label_short": "16mm flat"
+  },
+  {
+   "sku": "73995",
+   "slot_letter": "N",
+   "name": "18mm metric class 10 flat washer, black",
+   "price_cents": 165,
+   "upc": "738287739954",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot N",
+   "label_short": "18mm flat"
+  },
+  {
+   "sku": "73996",
+   "slot_letter": "P",
+   "name": "20mm metric class 10 flat washer, black",
+   "price_cents": 195,
+   "upc": "738287739961",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot P",
+   "label_short": "20mm flat",
+   "note": "Slot letter prints blurry (looks like F); taken as P from the N-P-Q-R sequence on this card, since F is already used."
+  },
+  {
+   "sku": "73987",
+   "slot_letter": "G",
+   "name": "6mm metric class 10 split lock washer, black",
+   "price_cents": 38,
+   "upc": "738287739879",
+   "upc_source": "calculated_from_sku",
+   "location": "Metric 64, slot G",
+   "label_short": "6mm lock",
+   "note": "Printed check digit is blurry (8 or 9); UPC calculated from the SKU."
+  },
+  {
+   "sku": "73988",
+   "slot_letter": "H",
+   "name": "8mm metric class 10 split lock washer, black",
+   "price_cents": 46,
+   "upc": "738287739886",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot H",
+   "label_short": "8mm lock"
+  },
+  {
+   "sku": "73991",
+   "slot_letter": "J",
+   "name": "10mm metric class 10 split lock washer, black",
+   "price_cents": 54,
+   "upc": "738287739916",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot J",
+   "label_short": "10mm lock"
+  },
+  {
+   "sku": "73992",
+   "slot_letter": "K",
+   "name": "12mm metric class 10 split lock washer, black",
+   "price_cents": 66,
+   "upc": "738287739923",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot K",
+   "label_short": "12mm lock"
+  },
+  {
+   "sku": "73993",
+   "slot_letter": "L",
+   "name": "14mm metric class 10 split lock washer, black",
+   "price_cents": 85,
+   "upc": "738287739930",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot L",
+   "label_short": "14mm lock"
+  },
+  {
+   "sku": "73994",
+   "slot_letter": "M",
+   "name": "16mm metric class 10 split lock washer, black",
+   "price_cents": 99,
+   "upc": "738287739947",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot M",
+   "label_short": "16mm lock"
+  },
+  {
+   "sku": "73997",
+   "slot_letter": "Q",
+   "name": "18mm metric class 10 split lock washer, black",
+   "price_cents": 115,
+   "upc": "738287739978",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot Q",
+   "label_short": "18mm lock",
+   "note": "Slot letter prints blurry (looks like G); taken as Q from the N-P-Q-R sequence on this card, since G is already used."
+  },
+  {
+   "sku": "73998",
+   "slot_letter": "R",
+   "name": "20mm metric class 10 split lock washer, black",
+   "price_cents": 145,
+   "upc": "738287739985",
+   "upc_source": "read_from_label",
+   "location": "Metric 64, slot R",
+   "label_short": "20mm lock"
+  }
+ ]
+}

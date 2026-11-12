@@ -1,0 +1,138 @@
+{
+ "id": "Rc16r1",
+ "wall": "right",
+ "column": 16,
+ "row": 1,
+ "half": null,
+ "title": "Bolts 44.191",
+ "description": "Black coated 3/8-16 coarse thread hex bolts (9/16 wrench), 1-1/2 to 6 inches long, SKUs 932841-932847.",
+ "front_image": "images/fronts/Rc16r1.jpg",
+ "tray_image": "images/trays/Rc16r1.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.26,
+   "y1": 0.475
+  },
+  {
+   "item_index": 1,
+   "x0": 0.26,
+   "y0": 0.0,
+   "x1": 0.5183,
+   "y1": 0.475
+  },
+  {
+   "item_index": 2,
+   "x0": 0.5183,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5183,
+   "y0": 0.2437,
+   "x1": 1.0,
+   "y1": 0.4813
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.475,
+   "x1": 0.535,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 5,
+   "x0": 0.535,
+   "y0": 0.4813,
+   "x1": 1.0,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.7375,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "932841",
+   "slot_letter": "A",
+   "name": "3/8-16 x 1-1/2 black coated hex bolt",
+   "price_cents": 119,
+   "upc": "719199328412",
+   "upc_source": "read_from_label",
+   "location": "Bolts 44.191, slot A",
+   "label_short": "3/8-16 x 1-1/2"
+  },
+  {
+   "sku": "932842",
+   "slot_letter": "B",
+   "name": "3/8-16 x 2 black coated hex bolt",
+   "price_cents": 149,
+   "upc": "719199328429",
+   "upc_source": "read_from_label",
+   "location": "Bolts 44.191, slot B",
+   "label_short": "3/8-16 x 2"
+  },
+  {
+   "sku": "932843",
+   "slot_letter": "C",
+   "name": "3/8-16 x 2-1/2 black coated hex bolt",
+   "price_cents": 169,
+   "upc": "719199328436",
+   "upc_source": "read_from_label",
+   "location": "Bolts 44.191, slot C",
+   "label_short": "3/8-16 x 2-1/2"
+  },
+  {
+   "sku": "932844",
+   "slot_letter": "D",
+   "name": "3/8-16 x 3 black coated hex bolt",
+   "price_cents": 195,
+   "upc": "719199328443",
+   "upc_source": "read_from_label",
+   "location": "Bolts 44.191, slot D",
+   "label_short": "3/8-16 x 3"
+  },
+  {
+   "sku": "932845",
+   "slot_letter": "E",
+   "name": "3/8-16 x 4 black coated hex bolt",
+   "price_cents": 249,
+   "upc": "719199328450",
+   "upc_source": "read_from_label",
+   "location": "Bolts 44.191, slot E",
+   "label_short": "3/8-16 x 4"
+  },
+  {
+   "sku": "932846",
+   "slot_letter": "F",
+   "name": "3/8-16 x 5 black coated hex bolt",
+   "price_cents": 309,
+   "upc": "719199328467",
+   "upc_source": "read_from_label",
+   "location": "Bolts 44.191, slot F",
+   "label_short": "3/8-16 x 5"
+  },
+  {
+   "sku": "932847",
+   "slot_letter": "G",
+   "name": "3/8-16 x 6 black coated hex bolt",
+   "price_cents": 359,
+   "upc": "719199328474",
+   "upc_source": "read_from_label",
+   "location": "Bolts 44.191, slot G",
+   "label_short": "3/8-16 x 6"
+  }
+ ]
+}

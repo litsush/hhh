@@ -1,0 +1,156 @@
+{
+ "id": "Rc22r4",
+ "wall": "right",
+ "column": 22,
+ "row": 4,
+ "half": null,
+ "title": "Stainless 13",
+ "description": "Stainless steel hex cap screws, coarse thread, 1/2-13 x 3/4 to 3 (63180).",
+ "front_image": "images/fronts/Rc22r4.jpg",
+ "tray_image": "images/trays/Rc22r4.jpg",
+ "tray_image_px": [
+  1200,
+  560
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2625,
+   "y1": 0.3214
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2625,
+   "y0": 0.0,
+   "x1": 0.5125,
+   "y1": 0.3036
+  },
+  {
+   "item_index": 2,
+   "x0": 0.5125,
+   "y0": 0.0,
+   "x1": 0.775,
+   "y1": 0.3036
+  },
+  {
+   "item_index": 3,
+   "x0": 0.0,
+   "y0": 0.3214,
+   "x1": 0.2625,
+   "y1": 0.6518
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.6518,
+   "x1": 0.2625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 5,
+   "x0": 0.2625,
+   "y0": 0.3036,
+   "x1": 0.5125,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.5125,
+   "y0": 0.3036,
+   "x1": 0.775,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.775,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "63183",
+   "slot_letter": "C",
+   "name": "1/2-13 x 1-1/4 coarse thread stainless steel hex cap screw",
+   "price_cents": 289,
+   "upc": "738287631838",
+   "upc_source": "read_from_label",
+   "location": "Stainless 13, slot C",
+   "label_short": "1/2-13 x 1-1/4"
+  },
+  {
+   "sku": "63184",
+   "slot_letter": "D",
+   "name": "1/2-13 x 1-1/2 coarse thread stainless steel hex cap screw",
+   "price_cents": 379,
+   "upc": "738287631845",
+   "upc_source": "read_from_label",
+   "location": "Stainless 13, slot D",
+   "label_short": "1/2-13 x 1-1/2"
+  },
+  {
+   "sku": "63185",
+   "slot_letter": "E",
+   "name": "1/2-13 x 2 coarse thread stainless steel hex cap screw",
+   "price_cents": 399,
+   "upc": "738287631852",
+   "upc_source": "read_from_label",
+   "location": "Stainless 13, slot E",
+   "label_short": "1/2-13 x 2"
+  },
+  {
+   "sku": "63182",
+   "slot_letter": "B",
+   "name": "1/2-13 x 1 coarse thread stainless steel hex cap screw",
+   "price_cents": 279,
+   "upc": "738287631821",
+   "upc_source": "read_from_label",
+   "location": "Stainless 13, slot B",
+   "label_short": "1/2-13 x 1"
+  },
+  {
+   "sku": "63181",
+   "slot_letter": "A",
+   "name": "1/2-13 x 3/4 coarse thread stainless steel hex cap screw",
+   "price_cents": 259,
+   "upc": "738287631814",
+   "upc_source": "read_from_label",
+   "location": "Stainless 13, slot A",
+   "label_short": "1/2-13 x 3/4"
+  },
+  {
+   "sku": "63186",
+   "slot_letter": "F",
+   "name": "1/2-13 x 2-1/2 coarse thread stainless steel hex cap screw",
+   "price_cents": 499,
+   "upc": "738287631869",
+   "upc_source": "read_from_label",
+   "location": "Stainless 13, slot F",
+   "label_short": "1/2-13 x 2-1/2"
+  },
+  {
+   "sku": "63187",
+   "slot_letter": "G",
+   "name": "1/2-13 x 3 coarse thread stainless steel hex cap screw",
+   "price_cents": 519,
+   "upc": "738287631876",
+   "upc_source": "read_from_label",
+   "location": "Stainless 13, slot G",
+   "label_short": "1/2-13 x 3"
+  },
+  {
+   "sku": "",
+   "slot_letter": null,
+   "name": "1/2-13 x 4 coarse thread stainless steel hex cap screw",
+   "price_cents": null,
+   "upc": "",
+   "upc_source": null,
+   "location": "Stainless 13, right-hand cell (sticker)",
+   "label_short": "1/2-13 x 4",
+   "note": "The right-hand column of the card (originally the nut and washer cells) is covered by a printed sticker \"1/2-13 x 4\" $4.80\" that has been crossed out with marker; SKU, letter and UPC are hidden, so sku and upc are left blank and the price null. The compartment is covered by a white box hand-marked \"Empty\"."
+  }
+ ]
+}

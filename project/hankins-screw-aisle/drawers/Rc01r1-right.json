@@ -1,0 +1,200 @@
+{
+ "id": "Rc01r1-right",
+ "wall": "right",
+ "column": 1,
+ "row": 1,
+ "half": "R",
+ "title": "Metric 10",
+ "description": "Metric hex cap screws, class 8.8 zinc, M7-1.00 x 10 to 50mm, plus M7 hex nuts on the label (73260)",
+ "front_image": "images/fronts/Rc01r1.jpg",
+ "tray_image": "images/trays/Rc01r1-right.jpg",
+ "tray_image_px": [
+  1200,
+  540
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1667,
+   "y1": 0.4537
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1667,
+   "y0": 0.0,
+   "x1": 0.3333,
+   "y1": 0.4537
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3333,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.4537
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6583,
+   "y1": 0.4537
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6583,
+   "y0": 0.0,
+   "x1": 0.8125,
+   "y1": 0.4537
+  },
+  {
+   "item_index": 5,
+   "x0": 0.8125,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4537
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.4537,
+   "x1": 0.2542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.2542,
+   "y0": 0.4537,
+   "x1": 0.5083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.5083,
+   "y0": 0.4537,
+   "x1": 0.7667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.7667,
+   "y0": 0.4537,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "73261",
+   "slot_letter": "A",
+   "name": "M7-1.00 x 10mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 69,
+   "upc": "738287732610",
+   "upc_source": "read_from_label",
+   "location": "Metric 10, slot A",
+   "label_short": "7mm x 10mm"
+  },
+  {
+   "sku": "73262",
+   "slot_letter": "B",
+   "name": "M7-1.00 x 12mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 79,
+   "upc": "738287732627",
+   "upc_source": "read_from_label",
+   "location": "Metric 10, slot B",
+   "label_short": "7mm x 12mm"
+  },
+  {
+   "sku": "73263",
+   "slot_letter": "C",
+   "name": "M7-1.00 x 16mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 85,
+   "upc": "738287732634",
+   "upc_source": "read_from_label",
+   "location": "Metric 10, slot C",
+   "label_short": "7mm x 16mm"
+  },
+  {
+   "sku": "73264",
+   "slot_letter": "D",
+   "name": "M7-1.00 x 20mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 95,
+   "upc": "738287732641",
+   "upc_source": "read_from_label",
+   "location": "Metric 10, slot D",
+   "label_short": "7mm x 20mm"
+  },
+  {
+   "sku": "73265",
+   "slot_letter": "E",
+   "name": "M7-1.00 x 25mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 99,
+   "upc": "738287732658",
+   "upc_source": "read_from_label",
+   "location": "Metric 10, slot E",
+   "label_short": "7mm x 25mm"
+  },
+  {
+   "sku": "73266",
+   "slot_letter": "F",
+   "name": "M7-1.00 x 30mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 115,
+   "upc": "738287732665",
+   "upc_source": "read_from_label",
+   "location": "Metric 10, slot F",
+   "label_short": "7mm x 30mm"
+  },
+  {
+   "sku": "73267",
+   "slot_letter": "G",
+   "name": "M7-1.00 x 35mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 115,
+   "upc": "738287732672",
+   "upc_source": "read_from_label",
+   "location": "Metric 10, slot G",
+   "label_short": "7mm x 35mm"
+  },
+  {
+   "sku": "73268",
+   "slot_letter": "H",
+   "name": "M7-1.00 x 40mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 125,
+   "upc": "738287732689",
+   "upc_source": "read_from_label",
+   "location": "Metric 10, slot H",
+   "label_short": "7mm x 40mm"
+  },
+  {
+   "sku": "73271",
+   "slot_letter": "J",
+   "name": "M7-1.00 x 45mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 129,
+   "upc": "738287732719",
+   "upc_source": "read_from_label",
+   "location": "Metric 10, slot J",
+   "label_short": "7mm x 45mm"
+  },
+  {
+   "sku": "73272",
+   "slot_letter": "K",
+   "name": "M7-1.00 x 50mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 145,
+   "upc": "738287732726",
+   "upc_source": "read_from_label",
+   "location": "Metric 10, slot K",
+   "label_short": "7mm x 50mm"
+  },
+  {
+   "sku": "73273",
+   "slot_letter": "J",
+   "name": "M7-1.00 metric hex nut, zinc",
+   "price_cents": 62,
+   "upc": "738287732733",
+   "upc_source": "read_from_label",
+   "location": "Metric 10, slot J (7mm nut)",
+   "label_short": "7mm nut",
+   "note": "The label prints letter J for this cell too (same as 73271). This tray has only 4 front compartments, all holding cap screws, so the 7mm nuts have no compartment."
+  }
+ ]
+}

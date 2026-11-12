@@ -127,10 +127,11 @@ def check(path):
     for k in REQ_D:
         if k not in d: errs.append(f"missing drawer field {k}")
     if errs: return errs
+    pre = {"left": "", "right": "R"}.get(d.get("wall", "left"), "?")
     if d.get("kind") == "bins":
-        exp = f'c{d["column"]:02d}bins'
+        exp = pre + f'c{d["column"]:02d}bins'
     else:
-        exp = f'c{d["column"]:02d}r{d["row"]}' + {None: "", "L": "-left", "R": "-right"}[d["half"]]
+        exp = pre + f'c{d["column"]:02d}r{d["row"]}' + {None: "", "L": "-left", "R": "-right"}[d["half"]]
     if d["id"] != exp: errs.append(f'id {d["id"]} should be {exp}')
     if os.path.basename(path) != d["id"] + ".json": errs.append("file name must be <id>.json")
     for k in ("front_image", "tray_image"):

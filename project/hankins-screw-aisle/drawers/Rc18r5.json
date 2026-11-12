@@ -1,0 +1,240 @@
+{
+ "id": "Rc18r5",
+ "wall": "right",
+ "column": 18,
+ "row": 5,
+ "half": null,
+ "title": "Stainless 68.7 and Stainless 68.4",
+ "description": "Stainless steel Phillips pan head machine screws, coarse thread: 5/16-18 and 3/8-16 longer lengths, 4 to 6 inch (37760), and 3/8-16 x 3/4 to 3 inch (39700).",
+ "front_image": "images/fronts/Rc18r5.jpg",
+ "tray_image": "images/trays/Rc18r5.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0083,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.1375
+  },
+  {
+   "item_index": 1,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.975,
+   "y1": 0.1375
+  },
+  {
+   "item_index": 2,
+   "x0": 0.0083,
+   "y0": 0.1375,
+   "x1": 0.9833,
+   "y1": 0.25
+  },
+  {
+   "item_index": 3,
+   "x0": 0.0,
+   "y0": 0.25,
+   "x1": 0.5,
+   "y1": 0.3812
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.25,
+   "x1": 0.9833,
+   "y1": 0.3812
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0,
+   "y0": 0.3812,
+   "x1": 0.9917,
+   "y1": 0.5
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0083,
+   "y0": 0.5,
+   "x1": 0.2583,
+   "y1": 0.75
+  },
+  {
+   "item_index": 7,
+   "x0": 0.2583,
+   "y0": 0.5,
+   "x1": 0.5042,
+   "y1": 0.75
+  },
+  {
+   "item_index": 8,
+   "x0": 0.5042,
+   "y0": 0.5,
+   "x1": 0.7542,
+   "y1": 0.75
+  },
+  {
+   "item_index": 9,
+   "x0": 0.7542,
+   "y0": 0.5,
+   "x1": 0.9958,
+   "y1": 0.75
+  },
+  {
+   "item_index": 10,
+   "x0": 0.0,
+   "y0": 0.75,
+   "x1": 0.3375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3375,
+   "y0": 0.75,
+   "x1": 0.6708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.6708,
+   "y0": 0.75,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "37761",
+   "slot_letter": "A",
+   "name": "5/16-18 x 4 Phillips pan head machine screw, stainless steel",
+   "price_cents": 479,
+   "upc": "738287377613",
+   "upc_source": "read_from_label",
+   "location": "Stainless 68.7, slot A",
+   "label_short": "5/16-18 x 4"
+  },
+  {
+   "sku": "37762",
+   "slot_letter": "B",
+   "name": "5/16-18 x 5 Phillips pan head machine screw, stainless steel",
+   "price_cents": 979,
+   "upc": "738287377620",
+   "upc_source": "read_from_label",
+   "location": "Stainless 68.7, slot B",
+   "label_short": "5/16-18 x 5"
+  },
+  {
+   "sku": "37763",
+   "slot_letter": "C",
+   "name": "5/16-18 x 6 Phillips pan head machine screw, stainless steel",
+   "price_cents": 1159,
+   "upc": "738287377637",
+   "upc_source": "read_from_label",
+   "location": "Stainless 68.7, slot C",
+   "label_short": "5/16-18 x 6"
+  },
+  {
+   "sku": "37764",
+   "slot_letter": "D",
+   "name": "3/8-16 x 4 Phillips pan head machine screw, stainless steel",
+   "price_cents": 559,
+   "upc": "738287377644",
+   "upc_source": "read_from_label",
+   "location": "Stainless 68.7, slot D",
+   "label_short": "3/8-16 x 4"
+  },
+  {
+   "sku": "37765",
+   "slot_letter": "E",
+   "name": "3/8-16 x 5 Phillips pan head machine screw, stainless steel",
+   "price_cents": 1159,
+   "upc": "738287377651",
+   "upc_source": "read_from_label",
+   "location": "Stainless 68.7, slot E",
+   "label_short": "3/8-16 x 5"
+  },
+  {
+   "sku": "37766",
+   "slot_letter": "F",
+   "name": "3/8-16 x 6 Phillips pan head machine screw, stainless steel",
+   "price_cents": 1459,
+   "upc": "738287377668",
+   "upc_source": "read_from_label",
+   "location": "Stainless 68.7, slot F",
+   "label_short": "3/8-16 x 6"
+  },
+  {
+   "sku": "39701",
+   "slot_letter": "A",
+   "name": "3/8-16 x 3/4 Phillips pan head machine screw, stainless steel",
+   "price_cents": 135,
+   "upc": "738287397017",
+   "upc_source": "read_from_label",
+   "location": "Stainless 68.4, slot A",
+   "label_short": "3/8-16 x 3/4"
+  },
+  {
+   "sku": "39702",
+   "slot_letter": "B",
+   "name": "3/8-16 x 1 Phillips pan head machine screw, stainless steel",
+   "price_cents": 155,
+   "upc": "738287397024",
+   "upc_source": "read_from_label",
+   "location": "Stainless 68.4, slot B",
+   "label_short": "3/8-16 x 1"
+  },
+  {
+   "sku": "39703",
+   "slot_letter": "C",
+   "name": "3/8-16 x 1-1/4 Phillips pan head machine screw, stainless steel",
+   "price_cents": 179,
+   "upc": "738287397031",
+   "upc_source": "read_from_label",
+   "location": "Stainless 68.4, slot C",
+   "label_short": "3/8-16 x 1-1/4"
+  },
+  {
+   "sku": "39704",
+   "slot_letter": "D",
+   "name": "3/8-16 x 1-1/2 Phillips pan head machine screw, stainless steel",
+   "price_cents": 209,
+   "upc": "738287397048",
+   "upc_source": "read_from_label",
+   "location": "Stainless 68.4, slot D",
+   "label_short": "3/8-16 x 1-1/2"
+  },
+  {
+   "sku": "39705",
+   "slot_letter": "E",
+   "name": "3/8-16 x 2 Phillips pan head machine screw, stainless steel",
+   "price_cents": 259,
+   "upc": "738287397055",
+   "upc_source": "read_from_label",
+   "location": "Stainless 68.4, slot E",
+   "label_short": "3/8-16 x 2"
+  },
+  {
+   "sku": "39706",
+   "slot_letter": "F",
+   "name": "3/8-16 x 2-1/2 Phillips pan head machine screw, stainless steel",
+   "price_cents": 299,
+   "upc": "738287397062",
+   "upc_source": "read_from_label",
+   "location": "Stainless 68.4, slot F",
+   "label_short": "3/8-16 x 2-1/2"
+  },
+  {
+   "sku": "39707",
+   "slot_letter": "G",
+   "name": "3/8-16 x 3 Phillips pan head machine screw, stainless steel",
+   "price_cents": 339,
+   "upc": "738287397079",
+   "upc_source": "read_from_label",
+   "location": "Stainless 68.4, slot G",
+   "label_short": "3/8-16 x 3"
+  }
+ ]
+}

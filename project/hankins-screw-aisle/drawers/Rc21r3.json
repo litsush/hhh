@@ -1,0 +1,495 @@
+{
+ "id": "Rc21r3",
+ "wall": "right",
+ "column": 21,
+ "row": 3,
+ "half": null,
+ "title": "Stainless 50 and Stainless 53",
+ "description": "Stainless steel socket head cap screws, 1/4-20 and 5/16-18 x 1/2 to 3 (67820), and button head socket cap screws, 6-32 to 10-32 x 1/4 to 1 (72040).",
+ "front_image": "images/fronts/Rc21r3.jpg",
+ "tray_image": "images/trays/Rc21r3.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.3767,
+   "y1": 0.125
+  },
+  {
+   "item_index": 1,
+   "x0": 0.0,
+   "y0": 0.125,
+   "x1": 0.3767,
+   "y1": 0.25
+  },
+  {
+   "item_index": 2,
+   "x0": 0.0,
+   "y0": 0.25,
+   "x1": 0.3767,
+   "y1": 0.3775
+  },
+  {
+   "item_index": 3,
+   "x0": 0.0,
+   "y0": 0.3775,
+   "x1": 0.3767,
+   "y1": 0.5025
+  },
+  {
+   "item_index": 4,
+   "x0": 0.3767,
+   "y0": 0.0,
+   "x1": 0.6208,
+   "y1": 0.125
+  },
+  {
+   "item_index": 5,
+   "x0": 0.3767,
+   "y0": 0.125,
+   "x1": 0.6208,
+   "y1": 0.25
+  },
+  {
+   "item_index": 6,
+   "x0": 0.3767,
+   "y0": 0.25,
+   "x1": 0.6208,
+   "y1": 0.3775
+  },
+  {
+   "item_index": 7,
+   "x0": 0.3767,
+   "y0": 0.3775,
+   "x1": 0.6208,
+   "y1": 0.5025
+  },
+  {
+   "item_index": 8,
+   "x0": 0.6208,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.125
+  },
+  {
+   "item_index": 9,
+   "x0": 0.6208,
+   "y0": 0.125,
+   "x1": 1.0,
+   "y1": 0.25
+  },
+  {
+   "item_index": 10,
+   "x0": 0.6208,
+   "y0": 0.25,
+   "x1": 1.0,
+   "y1": 0.3775
+  },
+  {
+   "item_index": 11,
+   "x0": 0.6208,
+   "y0": 0.3775,
+   "x1": 1.0,
+   "y1": 0.5025
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.5025,
+   "x1": 0.1292,
+   "y1": 0.75
+  },
+  {
+   "item_index": 13,
+   "x0": 0.1292,
+   "y0": 0.5025,
+   "x1": 0.2542,
+   "y1": 0.75
+  },
+  {
+   "item_index": 14,
+   "x0": 0.2542,
+   "y0": 0.5025,
+   "x1": 0.3792,
+   "y1": 0.75
+  },
+  {
+   "item_index": 15,
+   "x0": 0.3792,
+   "y0": 0.5025,
+   "x1": 0.5042,
+   "y1": 0.75
+  },
+  {
+   "item_index": 16,
+   "x0": 0.5042,
+   "y0": 0.5025,
+   "x1": 0.6267,
+   "y1": 0.75
+  },
+  {
+   "item_index": 17,
+   "x0": 0.6267,
+   "y0": 0.5025,
+   "x1": 0.7542,
+   "y1": 0.75
+  },
+  {
+   "item_index": 18,
+   "x0": 0.7542,
+   "y0": 0.5025,
+   "x1": 0.8792,
+   "y1": 0.75
+  },
+  {
+   "item_index": 19,
+   "x0": 0.8792,
+   "y0": 0.5025,
+   "x1": 1.0,
+   "y1": 0.75
+  },
+  {
+   "item_index": 20,
+   "x0": 0.0,
+   "y0": 0.75,
+   "x1": 0.1292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.1292,
+   "y0": 0.75,
+   "x1": 0.2542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.2542,
+   "y0": 0.75,
+   "x1": 0.3792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.3792,
+   "y0": 0.75,
+   "x1": 0.5042,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.5042,
+   "y0": 0.75,
+   "x1": 0.6267,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.6267,
+   "y0": 0.75,
+   "x1": 0.7542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 26,
+   "x0": 0.7542,
+   "y0": 0.75,
+   "x1": 0.8792,
+   "y1": 1.0
+  },
+  {
+   "item_index": 27,
+   "x0": 0.8792,
+   "y0": 0.75,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "67821",
+   "slot_letter": "A",
+   "name": "1/4-20 x 1-1/2 coarse thread stainless steel socket head cap screw",
+   "price_cents": 145,
+   "upc": "738287678215",
+   "upc_source": "read_from_label",
+   "location": "Stainless 50, slot A",
+   "label_short": "1/4-20 x 1-1/2"
+  },
+  {
+   "sku": "67822",
+   "slot_letter": "B",
+   "name": "1/4-20 x 2 coarse thread stainless steel socket head cap screw",
+   "price_cents": 165,
+   "upc": "738287678222",
+   "upc_source": "read_from_label",
+   "location": "Stainless 50, slot B",
+   "label_short": "1/4-20 x 2"
+  },
+  {
+   "sku": "67823",
+   "slot_letter": "C",
+   "name": "1/4-20 x 2-1/2 coarse thread stainless steel socket head cap screw",
+   "price_cents": 209,
+   "upc": "738287678239",
+   "upc_source": "read_from_label",
+   "location": "Stainless 50, slot C",
+   "label_short": "1/4-20 x 2-1/2"
+  },
+  {
+   "sku": "67824",
+   "slot_letter": "D",
+   "name": "1/4-20 x 3 coarse thread stainless steel socket head cap screw",
+   "price_cents": 259,
+   "upc": "738287678246",
+   "upc_source": "read_from_label",
+   "location": "Stainless 50, slot D",
+   "label_short": "1/4-20 x 3"
+  },
+  {
+   "sku": "67825",
+   "slot_letter": "E",
+   "name": "5/16-18 x 1/2 coarse thread stainless steel socket head cap screw",
+   "price_cents": 155,
+   "upc": "738287678253",
+   "upc_source": "read_from_label",
+   "location": "Stainless 50, slot E",
+   "label_short": "5/16-18 x 1/2"
+  },
+  {
+   "sku": "67826",
+   "slot_letter": "F",
+   "name": "5/16-18 x 3/4 coarse thread stainless steel socket head cap screw",
+   "price_cents": 165,
+   "upc": "738287678260",
+   "upc_source": "read_from_label",
+   "location": "Stainless 50, slot F",
+   "label_short": "5/16-18 x 3/4"
+  },
+  {
+   "sku": "67827",
+   "slot_letter": "G",
+   "name": "5/16-18 x 1 coarse thread stainless steel socket head cap screw",
+   "price_cents": 175,
+   "upc": "738287678277",
+   "upc_source": "read_from_label",
+   "location": "Stainless 50, slot G",
+   "label_short": "5/16-18 x 1"
+  },
+  {
+   "sku": "67828",
+   "slot_letter": "H",
+   "name": "5/16-18 x 1-1/4 coarse thread stainless steel socket head cap screw",
+   "price_cents": 189,
+   "upc": "738287678284",
+   "upc_source": "read_from_label",
+   "location": "Stainless 50, slot H",
+   "label_short": "5/16-18 x 1-1/4"
+  },
+  {
+   "sku": "67831",
+   "slot_letter": "J",
+   "name": "5/16-18 x 1-1/2 coarse thread stainless steel socket head cap screw",
+   "price_cents": 199,
+   "upc": "738287678314",
+   "upc_source": "read_from_label",
+   "location": "Stainless 50, slot J",
+   "label_short": "5/16-18 x 1-1/2"
+  },
+  {
+   "sku": "67832",
+   "slot_letter": "K",
+   "name": "5/16-18 x 2 coarse thread stainless steel socket head cap screw",
+   "price_cents": 269,
+   "upc": "738287678321",
+   "upc_source": "read_from_label",
+   "location": "Stainless 50, slot K",
+   "label_short": "5/16-18 x 2"
+  },
+  {
+   "sku": "67833",
+   "slot_letter": "L",
+   "name": "5/16-18 x 2-1/2 coarse thread stainless steel socket head cap screw",
+   "price_cents": 329,
+   "upc": "738287678338",
+   "upc_source": "read_from_label",
+   "location": "Stainless 50, slot L",
+   "label_short": "5/16-18 x 2-1/2"
+  },
+  {
+   "sku": "67834",
+   "slot_letter": "M",
+   "name": "5/16-18 x 3 coarse thread stainless steel socket head cap screw",
+   "price_cents": 389,
+   "upc": "738287678345",
+   "upc_source": "read_from_label",
+   "location": "Stainless 50, slot M",
+   "label_short": "5/16-18 x 3"
+  },
+  {
+   "sku": "72041",
+   "slot_letter": "A",
+   "name": "6-32 x 1/4 coarse thread stainless steel button head socket cap screw",
+   "price_cents": 48,
+   "upc": "738287720419",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot A",
+   "label_short": "6-32 x 1/4"
+  },
+  {
+   "sku": "72042",
+   "slot_letter": "B",
+   "name": "6-32 x 3/8 coarse thread stainless steel button head socket cap screw",
+   "price_cents": 50,
+   "upc": "738287720426",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot B",
+   "label_short": "6-32 x 3/8"
+  },
+  {
+   "sku": "72043",
+   "slot_letter": "C",
+   "name": "6-32 x 1/2 coarse thread stainless steel button head socket cap screw",
+   "price_cents": 53,
+   "upc": "738287720433",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot C",
+   "label_short": "6-32 x 1/2"
+  },
+  {
+   "sku": "72044",
+   "slot_letter": "D",
+   "name": "6-32 x 3/4 coarse thread stainless steel button head socket cap screw",
+   "price_cents": 54,
+   "upc": "738287720440",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot D",
+   "label_short": "6-32 x 3/4"
+  },
+  {
+   "sku": "72045",
+   "slot_letter": "E",
+   "name": "8-32 x 3/8 coarse thread stainless steel button head socket cap screw",
+   "price_cents": 56,
+   "upc": "738287720457",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot E",
+   "label_short": "8-32 x 3/8"
+  },
+  {
+   "sku": "72046",
+   "slot_letter": "F",
+   "name": "8-32 x 1/2 coarse thread stainless steel button head socket cap screw",
+   "price_cents": 59,
+   "upc": "738287720464",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot F",
+   "label_short": "8-32 x 1/2"
+  },
+  {
+   "sku": "72047",
+   "slot_letter": "G",
+   "name": "8-32 x 3/4 coarse thread stainless steel button head socket cap screw",
+   "price_cents": 61,
+   "upc": "738287720471",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot G",
+   "label_short": "8-32 x 3/4"
+  },
+  {
+   "sku": "72048",
+   "slot_letter": "H",
+   "name": "8-32 x 1 coarse thread stainless steel button head socket cap screw",
+   "price_cents": 64,
+   "upc": "738287720488",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot H",
+   "label_short": "8-32 x 1"
+  },
+  {
+   "sku": "72051",
+   "slot_letter": "J",
+   "name": "10-24 x 3/8 coarse thread stainless steel button head socket cap screw",
+   "price_cents": 65,
+   "upc": "738287720518",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot J",
+   "label_short": "10-24 x 3/8"
+  },
+  {
+   "sku": "72052",
+   "slot_letter": "K",
+   "name": "10-24 x 1/2 coarse thread stainless steel button head socket cap screw",
+   "price_cents": 66,
+   "upc": "738287720525",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot K",
+   "label_short": "10-24 x 1/2"
+  },
+  {
+   "sku": "72053",
+   "slot_letter": "L",
+   "name": "10-24 x 3/4 coarse thread stainless steel button head socket cap screw",
+   "price_cents": 69,
+   "upc": "738287720532",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot L",
+   "label_short": "10-24 x 3/4"
+  },
+  {
+   "sku": "72054",
+   "slot_letter": "M",
+   "name": "10-24 x 1 coarse thread stainless steel button head socket cap screw",
+   "price_cents": 75,
+   "upc": "738287720549",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot M",
+   "label_short": "10-24 x 1"
+  },
+  {
+   "sku": "72055",
+   "slot_letter": "N",
+   "name": "10-32 x 3/8 fine thread stainless steel button head socket cap screw",
+   "price_cents": 67,
+   "upc": "738287720556",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot N",
+   "label_short": "10-32 x 3/8"
+  },
+  {
+   "sku": "72056",
+   "slot_letter": "P",
+   "name": "10-32 x 1/2 fine thread stainless steel button head socket cap screw",
+   "price_cents": 69,
+   "upc": "738287720563",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot P",
+   "label_short": "10-32 x 1/2"
+  },
+  {
+   "sku": "72057",
+   "slot_letter": "Q",
+   "name": "10-32 x 3/4 fine thread stainless steel button head socket cap screw",
+   "price_cents": 69,
+   "upc": "738287720570",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot Q",
+   "label_short": "10-32 x 3/4"
+  },
+  {
+   "sku": "72058",
+   "slot_letter": "R",
+   "name": "10-32 x 1 fine thread stainless steel button head socket cap screw",
+   "price_cents": 75,
+   "upc": "738287720587",
+   "upc_source": "read_from_label",
+   "location": "Stainless 53, slot R",
+   "label_short": "10-32 x 1"
+  }
+ ]
+}

@@ -1,0 +1,657 @@
+{
+ "id": "Rc22bins",
+ "wall": "right",
+ "kind": "bins",
+ "column": 22,
+ "row": 6,
+ "half": null,
+ "title": "Bins under right-wall column 22",
+ "description": "Stainless steel sheet metal screws: Phillips oval head No. 8 to No. 14 and Phillips flat head No. 6 and No. 8, mostly two sizes to a split bin.",
+ "front_image": null,
+ "tray_image": "images/bins/Rc22.jpg",
+ "tray_image_px": [
+  500,
+  1500
+ ],
+ "photo": "IMG_7744.jpg",
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.038,
+   "y0": 0.01,
+   "x1": 0.267,
+   "y1": 0.1047
+  },
+  {
+   "item_index": 1,
+   "x0": 0.267,
+   "y0": 0.01,
+   "x1": 0.496,
+   "y1": 0.1047
+  },
+  {
+   "item_index": 2,
+   "x0": 0.496,
+   "y0": 0.01,
+   "x1": 0.724,
+   "y1": 0.1047
+  },
+  {
+   "item_index": 3,
+   "x0": 0.724,
+   "y0": 0.01,
+   "x1": 0.952,
+   "y1": 0.1047
+  },
+  {
+   "item_index": 4,
+   "x0": 0.038,
+   "y0": 0.1067,
+   "x1": 0.267,
+   "y1": 0.2173
+  },
+  {
+   "item_index": 5,
+   "x0": 0.267,
+   "y0": 0.1067,
+   "x1": 0.496,
+   "y1": 0.2173
+  },
+  {
+   "item_index": 6,
+   "x0": 0.496,
+   "y0": 0.1067,
+   "x1": 0.724,
+   "y1": 0.2173
+  },
+  {
+   "item_index": 7,
+   "x0": 0.724,
+   "y0": 0.1067,
+   "x1": 0.952,
+   "y1": 0.2173
+  },
+  {
+   "item_index": 8,
+   "x0": 0.038,
+   "y0": 0.22,
+   "x1": 0.267,
+   "y1": 0.32
+  },
+  {
+   "item_index": 9,
+   "x0": 0.267,
+   "y0": 0.22,
+   "x1": 0.496,
+   "y1": 0.32
+  },
+  {
+   "item_index": 10,
+   "x0": 0.496,
+   "y0": 0.22,
+   "x1": 0.724,
+   "y1": 0.32
+  },
+  {
+   "item_index": 11,
+   "x0": 0.724,
+   "y0": 0.22,
+   "x1": 0.952,
+   "y1": 0.32
+  },
+  {
+   "item_index": 12,
+   "x0": 0.038,
+   "y0": 0.364,
+   "x1": 0.267,
+   "y1": 0.4573
+  },
+  {
+   "item_index": 13,
+   "x0": 0.267,
+   "y0": 0.364,
+   "x1": 0.496,
+   "y1": 0.4573
+  },
+  {
+   "item_index": 14,
+   "x0": 0.496,
+   "y0": 0.364,
+   "x1": 0.724,
+   "y1": 0.4573
+  },
+  {
+   "item_index": 15,
+   "x0": 0.724,
+   "y0": 0.364,
+   "x1": 0.952,
+   "y1": 0.4573
+  },
+  {
+   "item_index": 16,
+   "x0": 0.038,
+   "y0": 0.4587,
+   "x1": 0.267,
+   "y1": 0.5573
+  },
+  {
+   "item_index": 17,
+   "x0": 0.267,
+   "y0": 0.4587,
+   "x1": 0.496,
+   "y1": 0.5573
+  },
+  {
+   "item_index": 18,
+   "x0": 0.496,
+   "y0": 0.4587,
+   "x1": 0.724,
+   "y1": 0.5573
+  },
+  {
+   "item_index": 19,
+   "x0": 0.724,
+   "y0": 0.4587,
+   "x1": 0.952,
+   "y1": 0.5573
+  },
+  {
+   "item_index": 20,
+   "x0": 0.038,
+   "y0": 0.5587,
+   "x1": 0.248,
+   "y1": 0.6667
+  },
+  {
+   "item_index": 21,
+   "x0": 0.248,
+   "y0": 0.5587,
+   "x1": 0.458,
+   "y1": 0.6667
+  },
+  {
+   "item_index": 22,
+   "x0": 0.458,
+   "y0": 0.5587,
+   "x1": 0.694,
+   "y1": 0.6667
+  },
+  {
+   "item_index": 23,
+   "x0": 0.694,
+   "y0": 0.5587,
+   "x1": 0.93,
+   "y1": 0.6667
+  },
+  {
+   "item_index": 24,
+   "x0": 0.038,
+   "y0": 0.6933,
+   "x1": 0.458,
+   "y1": 0.7973
+  },
+  {
+   "item_index": 25,
+   "x0": 0.458,
+   "y0": 0.6933,
+   "x1": 0.694,
+   "y1": 0.7973
+  },
+  {
+   "item_index": 26,
+   "x0": 0.694,
+   "y0": 0.6933,
+   "x1": 0.93,
+   "y1": 0.7973
+  },
+  {
+   "item_index": 27,
+   "x0": 0.038,
+   "y0": 0.798,
+   "x1": 0.458,
+   "y1": 0.8967
+  },
+  {
+   "item_index": 28,
+   "x0": 0.458,
+   "y0": 0.798,
+   "x1": 0.93,
+   "y1": 0.8967
+  },
+  {
+   "item_index": 29,
+   "x0": 0.038,
+   "y0": 0.8973,
+   "x1": 0.248,
+   "y1": 0.9967
+  },
+  {
+   "item_index": 30,
+   "x0": 0.248,
+   "y0": 0.8973,
+   "x1": 0.458,
+   "y1": 0.9967
+  },
+  {
+   "item_index": 31,
+   "x0": 0.458,
+   "y0": 0.8973,
+   "x1": 0.93,
+   "y1": 0.9967
+  }
+ ],
+ "items": [
+  {
+   "sku": "05228",
+   "slot_letter": null,
+   "name": "8 x 1-1/2 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "8 x 1-1/2",
+   "price_cents": 38,
+   "box_price_cents": 1999,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05228",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "05229",
+   "slot_letter": null,
+   "name": "8 x 2 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "8 x 2",
+   "price_cents": 49,
+   "box_price_cents": null,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05229",
+   "note": "Box price partly hidden by glare: reads 27.xx, cents unreadable; Box/100 assumed like the neighbours. Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "05154",
+   "slot_letter": null,
+   "name": "6 x 3/8 stainless steel Phillips flat head sheet metal screw",
+   "label_short": "6 x 3/8",
+   "price_cents": 24,
+   "box_price_cents": 839,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05154",
+   "note": "Box price is blurry; read as 8.39. Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "05155",
+   "slot_letter": null,
+   "name": "6 x 1/2 stainless steel Phillips flat head sheet metal screw",
+   "label_short": "6 x 1/2",
+   "price_cents": 25,
+   "box_price_cents": 919,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05155",
+   "note": "Box price is blurry; read as 9.19. Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "05231",
+   "slot_letter": null,
+   "name": "10 x 1/2 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "10 x 1/2",
+   "price_cents": 30,
+   "box_price_cents": 1299,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05231",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "05233",
+   "slot_letter": null,
+   "name": "10 x 3/4 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "10 x 3/4",
+   "price_cents": 34,
+   "box_price_cents": 1699,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05233",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "05156",
+   "slot_letter": null,
+   "name": "6 x 5/8 stainless steel Phillips flat head sheet metal screw",
+   "label_short": "6 x 5/8",
+   "price_cents": 26,
+   "box_price_cents": 999,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05156",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "05157",
+   "slot_letter": null,
+   "name": "6 x 3/4 stainless steel Phillips flat head sheet metal screw",
+   "label_short": "6 x 3/4",
+   "price_cents": 27,
+   "box_price_cents": 1059,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05157",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "05234",
+   "slot_letter": null,
+   "name": "10 x 1 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "10 x 1",
+   "price_cents": 38,
+   "box_price_cents": 1999,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05234",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "05235",
+   "slot_letter": null,
+   "name": "10 x 1-1/4 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "10 x 1-1/4",
+   "price_cents": 40,
+   "box_price_cents": 2099,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05235",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "05158",
+   "slot_letter": null,
+   "name": "6 x 1 stainless steel Phillips flat head sheet metal screw",
+   "label_short": "6 x 1",
+   "price_cents": 28,
+   "box_price_cents": 1199,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05158",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "05159",
+   "slot_letter": null,
+   "name": "6 x 1-1/4 stainless steel Phillips flat head sheet metal screw",
+   "label_short": "6 x 1-1/4",
+   "price_cents": 30,
+   "box_price_cents": 1299,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05159",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "05236",
+   "slot_letter": null,
+   "name": "10 x 1-1/2 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "10 x 1-1/2",
+   "price_cents": 45,
+   "box_price_cents": 2499,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05236",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "05237",
+   "slot_letter": null,
+   "name": "10 x 2 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "10 x 2",
+   "price_cents": 51,
+   "box_price_cents": 2799,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05237",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "05160",
+   "slot_letter": null,
+   "name": "6 x 1-1/2 stainless steel Phillips flat head sheet metal screw",
+   "label_short": "6 x 1-1/2",
+   "price_cents": 33,
+   "box_price_cents": 1549,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05160",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "05161",
+   "slot_letter": null,
+   "name": "6 x 2 stainless steel Phillips flat head sheet metal screw",
+   "label_short": "6 x 2",
+   "price_cents": 38,
+   "box_price_cents": 1849,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05161",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "53596",
+   "slot_letter": null,
+   "name": "12 x 1/2 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "12 x 1/2",
+   "price_cents": 38,
+   "box_price_cents": 1099,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 53596",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "05242",
+   "slot_letter": null,
+   "name": "12 x 3/4 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "12 x 3/4",
+   "price_cents": 27,
+   "box_price_cents": 1549,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05242",
+   "note": "Each price printed as 27c, lower than the 12 x 1/2 next to it; recorded as printed. Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "05162",
+   "slot_letter": null,
+   "name": "8 x 3/8 stainless steel Phillips flat head sheet metal screw",
+   "label_short": "8 x 3/8",
+   "price_cents": 26,
+   "box_price_cents": 999,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05162",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "05163",
+   "slot_letter": null,
+   "name": "8 x 1/2 stainless steel Phillips flat head sheet metal screw",
+   "label_short": "8 x 1/2",
+   "price_cents": 27,
+   "box_price_cents": 1059,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05163",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "53599",
+   "slot_letter": null,
+   "name": "12 x 1 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "12 x 1",
+   "price_cents": 50,
+   "box_price_cents": 1549,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 53599",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "53600",
+   "slot_letter": null,
+   "name": "12 x 1-1/4 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "12 x 1-1/4",
+   "price_cents": 59,
+   "box_price_cents": 1749,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 53600",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "05164",
+   "slot_letter": null,
+   "name": "8 x 5/8 stainless steel Phillips flat head sheet metal screw",
+   "label_short": "8 x 5/8",
+   "price_cents": 28,
+   "box_price_cents": 1199,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05164",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "05165",
+   "slot_letter": null,
+   "name": "8 x 3/4 stainless steel Phillips flat head sheet metal screw",
+   "label_short": "8 x 3/4",
+   "price_cents": 29,
+   "box_price_cents": 1259,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05165",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "53601",
+   "slot_letter": null,
+   "name": "12 x 1-1/2 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "12 x 1-1/2",
+   "price_cents": 64,
+   "box_price_cents": 1849,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 53601"
+  },
+  {
+   "sku": "53608",
+   "slot_letter": null,
+   "name": "14 x 1 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "14 x 1",
+   "price_cents": 60,
+   "box_price_cents": 1749,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 53608",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "05253",
+   "slot_letter": null,
+   "name": "14 x 1-1/4 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "14 x 1-1/4",
+   "price_cents": 43,
+   "box_price_cents": 2499,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05253",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "53602",
+   "slot_letter": null,
+   "name": "12 x 2 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "12 x 2",
+   "price_cents": 69,
+   "box_price_cents": 2099,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 53602"
+  },
+  {
+   "sku": "53610",
+   "slot_letter": null,
+   "name": "14 x 1-1/2 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "14 x 1-1/2",
+   "price_cents": 75,
+   "box_price_cents": 2299,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 53610"
+  },
+  {
+   "sku": "53605",
+   "slot_letter": null,
+   "name": "14 x 1/2 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "14 x 1/2",
+   "price_cents": 53,
+   "box_price_cents": 1549,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 53605",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "05251",
+   "slot_letter": null,
+   "name": "14 x 3/4 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "14 x 3/4",
+   "price_cents": 38,
+   "box_price_cents": 2199,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 05251",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "53611",
+   "slot_letter": null,
+   "name": "14 x 2 stainless steel Phillips oval head sheet metal screw",
+   "label_short": "14 x 2",
+   "price_cents": 95,
+   "box_price_cents": 2599,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 53611"
+  }
+ ]
+}

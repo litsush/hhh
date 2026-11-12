@@ -1,0 +1,155 @@
+{
+ "id": "Rc08r3",
+ "wall": "right",
+ "column": 8,
+ "row": 3,
+ "half": null,
+ "title": "Metric 96.83",
+ "description": "Stainless steel serrated hex flange bolts, M6-1.00 x 12mm to 40mm, with matching serrated flange nuts (935720)",
+ "front_image": "images/fronts/Rc08r3.jpg",
+ "tray_image": "images/trays/Rc08r3.jpg",
+ "tray_image_px": [
+  1200,
+  600
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2667,
+   "y1": 0.4833
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2667,
+   "y0": 0.0,
+   "x1": 0.5167,
+   "y1": 0.4833
+  },
+  {
+   "item_index": 2,
+   "x0": 0.5167,
+   "y0": 0.0,
+   "x1": 0.7542,
+   "y1": 0.4833
+  },
+  {
+   "item_index": 3,
+   "x0": 0.7542,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4833
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.4833,
+   "x1": 0.2708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 5,
+   "x0": 0.2708,
+   "y0": 0.4833,
+   "x1": 0.5208,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.5208,
+   "y0": 0.4833,
+   "x1": 0.7625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 7,
+   "x0": 0.7625,
+   "y0": 0.4833,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "935721",
+   "slot_letter": "A",
+   "name": "M6-1.00 x 12mm serrated hex flange bolt, stainless steel",
+   "price_cents": 119,
+   "upc": "719199357214",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.83, slot A",
+   "label_short": "6mm x 12mm"
+  },
+  {
+   "sku": "935722",
+   "slot_letter": "B",
+   "name": "M6-1.00 x 16mm serrated hex flange bolt, stainless steel",
+   "price_cents": 125,
+   "upc": "719199357221",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.83, slot B",
+   "label_short": "6mm x 16mm"
+  },
+  {
+   "sku": "935723",
+   "slot_letter": "C",
+   "name": "M6-1.00 x 20mm serrated hex flange bolt, stainless steel",
+   "price_cents": 125,
+   "upc": "719199357238",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.83, slot C",
+   "label_short": "6mm x 20mm"
+  },
+  {
+   "sku": "935724",
+   "slot_letter": "D",
+   "name": "M6-1.00 x 25mm serrated hex flange bolt, stainless steel",
+   "price_cents": 139,
+   "upc": "719199357245",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.83, slot D",
+   "label_short": "6mm x 25mm"
+  },
+  {
+   "sku": "935725",
+   "slot_letter": "E",
+   "name": "M6-1.00 x 30mm serrated hex flange bolt, stainless steel",
+   "price_cents": 175,
+   "upc": "719199357252",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.83, slot E",
+   "label_short": "6mm x 30mm"
+  },
+  {
+   "sku": "935726",
+   "slot_letter": "F",
+   "name": "M6-1.00 x 35mm serrated hex flange bolt, stainless steel",
+   "price_cents": 229,
+   "upc": "719199357269",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.83, slot F",
+   "label_short": "6mm x 35mm"
+  },
+  {
+   "sku": "935727",
+   "slot_letter": "G",
+   "name": "M6-1.00 x 40mm serrated hex flange bolt, stainless steel",
+   "price_cents": 259,
+   "upc": "719199357276",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.83, slot G",
+   "label_short": "6mm x 40mm"
+  },
+  {
+   "sku": "935728",
+   "slot_letter": "H",
+   "name": "M6-1.00 serrated flange nut, stainless steel",
+   "price_cents": 45,
+   "upc": "719199357283",
+   "upc_source": "read_from_label",
+   "location": "Metric 96.83, slot H",
+   "label_short": "6mm nut"
+  }
+ ]
+}

@@ -1,0 +1,463 @@
+{
+ "id": "Rc04r4",
+ "wall": "right",
+ "column": 4,
+ "row": 4,
+ "half": null,
+ "title": "Metric 48 and Metric 56",
+ "description": "Metric class 10.9 hex cap screws, 10mm x 1.50 coarse, 30mm to 110mm, black (73800), and JIS class 10.9 hex flange bolts and flange nuts, 6mm and 8mm, zinc (72980).",
+ "front_image": "images/fronts/Rc04r4.jpg",
+ "tray_image": "images/trays/Rc04r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1333,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1333,
+   "y0": 0.0,
+   "x1": 0.2625,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2625,
+   "y0": 0.0,
+   "x1": 0.3917,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3917,
+   "y0": 0.0,
+   "x1": 0.5208,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5208,
+   "y0": 0.0,
+   "x1": 0.6417,
+   "y1": 0.2375
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6417,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.125
+  },
+  {
+   "item_index": 6,
+   "x0": 0.6417,
+   "y0": 0.125,
+   "x1": 1.0,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.2437,
+   "x1": 0.3917,
+   "y1": 0.3625
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.3625,
+   "x1": 0.3917,
+   "y1": 0.49
+  },
+  {
+   "item_index": 9,
+   "x0": 0.3917,
+   "y0": 0.2437,
+   "x1": 1.0,
+   "y1": 0.3688
+  },
+  {
+   "item_index": 10,
+   "x0": 0.3917,
+   "y0": 0.3688,
+   "x1": 1.0,
+   "y1": 0.49
+  },
+  {
+   "item_index": 11,
+   "x0": 0.0,
+   "y0": 0.49,
+   "x1": 0.1333,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 12,
+   "x0": 0.1333,
+   "y0": 0.49,
+   "x1": 0.2625,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 13,
+   "x0": 0.2625,
+   "y0": 0.49,
+   "x1": 0.3917,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 14,
+   "x0": 0.3917,
+   "y0": 0.49,
+   "x1": 0.5167,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 15,
+   "x0": 0.5167,
+   "y0": 0.49,
+   "x1": 0.6375,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 16,
+   "x0": 0.6375,
+   "y0": 0.49,
+   "x1": 0.7625,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 17,
+   "x0": 0.7625,
+   "y0": 0.49,
+   "x1": 0.8833,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 18,
+   "x0": 0.8833,
+   "y0": 0.49,
+   "x1": 1.0,
+   "y1": 0.7475
+  },
+  {
+   "item_index": 19,
+   "x0": 0.0,
+   "y0": 0.7475,
+   "x1": 0.1375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 20,
+   "x0": 0.1375,
+   "y0": 0.7475,
+   "x1": 0.2667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.2667,
+   "y0": 0.7475,
+   "x1": 0.4,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.4,
+   "y0": 0.7475,
+   "x1": 0.5333,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.5333,
+   "y0": 0.7475,
+   "x1": 0.6875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 24,
+   "x0": 0.6875,
+   "y0": 0.7475,
+   "x1": 0.8417,
+   "y1": 1.0
+  },
+  {
+   "item_index": 25,
+   "x0": 0.8417,
+   "y0": 0.7475,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "73801",
+   "slot_letter": "A",
+   "name": "M10 x 30mm x 1.50 metric class 10.9 hex cap screw, black",
+   "price_cents": 155,
+   "upc": "738287738018",
+   "upc_source": "read_from_label",
+   "location": "Metric 48, slot A",
+   "label_short": "10 x 30mm"
+  },
+  {
+   "sku": "73802",
+   "slot_letter": "B",
+   "name": "M10 x 35mm x 1.50 metric class 10.9 hex cap screw, black",
+   "price_cents": 169,
+   "upc": "738287738025",
+   "upc_source": "read_from_label",
+   "location": "Metric 48, slot B",
+   "label_short": "10 x 35mm"
+  },
+  {
+   "sku": "73803",
+   "slot_letter": "C",
+   "name": "M10 x 40mm x 1.50 metric class 10.9 hex cap screw, black",
+   "price_cents": 179,
+   "upc": "738287738032",
+   "upc_source": "read_from_label",
+   "location": "Metric 48, slot C",
+   "label_short": "10 x 40mm"
+  },
+  {
+   "sku": "73804",
+   "slot_letter": "D",
+   "name": "M10 x 45mm x 1.50 metric class 10.9 hex cap screw, black",
+   "price_cents": 189,
+   "upc": "738287738049",
+   "upc_source": "read_from_label",
+   "location": "Metric 48, slot D",
+   "label_short": "10 x 45mm"
+  },
+  {
+   "sku": "73805",
+   "slot_letter": "E",
+   "name": "M10 x 50mm x 1.50 metric class 10.9 hex cap screw, black",
+   "price_cents": 199,
+   "upc": "738287738056",
+   "upc_source": "read_from_label",
+   "location": "Metric 48, slot E",
+   "label_short": "10 x 50mm"
+  },
+  {
+   "sku": "73806",
+   "slot_letter": "F",
+   "name": "M10 x 60mm x 1.50 metric class 10.9 hex cap screw, black",
+   "price_cents": 239,
+   "upc": "738287738063",
+   "upc_source": "read_from_label",
+   "location": "Metric 48, slot F",
+   "label_short": "10 x 60mm"
+  },
+  {
+   "sku": "73807",
+   "slot_letter": "G",
+   "name": "M10 x 70mm x 1.50 metric class 10.9 hex cap screw, black",
+   "price_cents": 259,
+   "upc": "738287738070",
+   "upc_source": "read_from_label",
+   "location": "Metric 48, slot G",
+   "label_short": "10 x 70mm",
+   "note": "A single zinc-plated bolt is mixed in with the black bolts in this compartment."
+  },
+  {
+   "sku": "73808",
+   "slot_letter": "H",
+   "name": "M10 x 75mm x 1.50 metric class 10.9 hex cap screw, black",
+   "price_cents": 289,
+   "upc": "738287738087",
+   "upc_source": "read_from_label",
+   "location": "Metric 48, slot H",
+   "label_short": "10 x 75mm"
+  },
+  {
+   "sku": "73811",
+   "slot_letter": "J",
+   "name": "M10 x 80mm x 1.50 metric class 10.9 hex cap screw, black",
+   "price_cents": 329,
+   "upc": "738287738117",
+   "upc_source": "read_from_label",
+   "location": "Metric 48, slot J",
+   "label_short": "10 x 80mm"
+  },
+  {
+   "sku": "73812",
+   "slot_letter": "K",
+   "name": "M10 x 100mm x 1.50 metric class 10.9 hex cap screw, black",
+   "price_cents": 419,
+   "upc": "738287738124",
+   "upc_source": "read_from_label",
+   "location": "Metric 48, slot K",
+   "label_short": "10 x 100mm"
+  },
+  {
+   "sku": "73813",
+   "slot_letter": "L",
+   "name": "M10 x 110mm x 1.50 metric class 10.9 hex cap screw, black",
+   "price_cents": 439,
+   "upc": "738287738131",
+   "upc_source": "read_from_label",
+   "location": "Metric 48, slot L",
+   "label_short": "10 x 110mm",
+   "note": "A single zinc-plated bolt is mixed in with the black bolts in this compartment."
+  },
+  {
+   "sku": "72981",
+   "slot_letter": "A",
+   "name": "M6 x 1.00 metric JIS hex flange nut, zinc",
+   "price_cents": 66,
+   "upc": "738287729818",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot A",
+   "label_short": "6mm flange nut"
+  },
+  {
+   "sku": "72982",
+   "slot_letter": "B",
+   "name": "M6 x 12mm x 1.00 metric JIS class 10.9 hex flange bolt, zinc",
+   "price_cents": 95,
+   "upc": "738287729825",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot B",
+   "label_short": "6 x 12mm"
+  },
+  {
+   "sku": "72983",
+   "slot_letter": "C",
+   "name": "M6 x 16mm x 1.00 metric JIS class 10.9 hex flange bolt, zinc",
+   "price_cents": 99,
+   "upc": "738287729832",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot C",
+   "label_short": "6 x 16mm"
+  },
+  {
+   "sku": "72984",
+   "slot_letter": "D",
+   "name": "M6 x 20mm x 1.00 metric JIS class 10.9 hex flange bolt, zinc",
+   "price_cents": 115,
+   "upc": "738287729849",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot D",
+   "label_short": "6 x 20mm"
+  },
+  {
+   "sku": "72985",
+   "slot_letter": "E",
+   "name": "M6 x 25mm x 1.00 metric JIS class 10.9 hex flange bolt, zinc",
+   "price_cents": 115,
+   "upc": "738287729856",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot E",
+   "label_short": "6 x 25mm"
+  },
+  {
+   "sku": "72986",
+   "slot_letter": "F",
+   "name": "M6 x 30mm x 1.00 metric JIS class 10.9 hex flange bolt, zinc",
+   "price_cents": 125,
+   "upc": "738287729863",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot F",
+   "label_short": "6 x 30mm"
+  },
+  {
+   "sku": "72987",
+   "slot_letter": "G",
+   "name": "M6 x 35mm x 1.00 metric JIS class 10.9 hex flange bolt, zinc",
+   "price_cents": 135,
+   "upc": "738287729870",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot G",
+   "label_short": "6 x 35mm"
+  },
+  {
+   "sku": "72988",
+   "slot_letter": "H",
+   "name": "M6 x 40mm x 1.00 metric JIS class 10.9 hex flange bolt, zinc",
+   "price_cents": 159,
+   "upc": "738287729887",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot H",
+   "label_short": "6 x 40mm"
+  },
+  {
+   "sku": "72991",
+   "slot_letter": "J",
+   "name": "M8 x 1.25 metric JIS hex flange nut, zinc",
+   "price_cents": 89,
+   "upc": "738287729917",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot J",
+   "label_short": "8mm flange nut"
+  },
+  {
+   "sku": "72992",
+   "slot_letter": "K",
+   "name": "M8 x 16mm x 1.25 metric JIS class 10.9 hex flange bolt, zinc",
+   "price_cents": 135,
+   "upc": "738287729924",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot K",
+   "label_short": "8 x 16mm"
+  },
+  {
+   "sku": "72993",
+   "slot_letter": "L",
+   "name": "M8 x 20mm x 1.25 metric JIS class 10.9 hex flange bolt, zinc",
+   "price_cents": 159,
+   "upc": "738287729931",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot L",
+   "label_short": "8 x 20mm"
+  },
+  {
+   "sku": "72994",
+   "slot_letter": "M",
+   "name": "M8 x 25mm x 1.25 metric JIS class 10.9 hex flange bolt, zinc",
+   "price_cents": 175,
+   "upc": "738287729948",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot M",
+   "label_short": "8 x 25mm"
+  },
+  {
+   "sku": "72995",
+   "slot_letter": "N",
+   "name": "M8 x 30mm x 1.25 metric JIS class 10.9 hex flange bolt, zinc",
+   "price_cents": 175,
+   "upc": "738287729955",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot N",
+   "label_short": "8 x 30mm"
+  },
+  {
+   "sku": "72996",
+   "slot_letter": "P",
+   "name": "M8 x 35mm x 1.25 metric JIS class 10.9 hex flange bolt, zinc",
+   "price_cents": 195,
+   "upc": "738287729962",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot P",
+   "label_short": "8 x 35mm"
+  },
+  {
+   "sku": "72997",
+   "slot_letter": "Q",
+   "name": "M8 x 40mm x 1.25 metric JIS class 10.9 hex flange bolt, zinc",
+   "price_cents": 209,
+   "upc": "738287729979",
+   "upc_source": "read_from_label",
+   "location": "Metric 56, slot Q",
+   "label_short": "8 x 40mm"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "id": "Rc02r5",
+ "wall": "right",
+ "column": 2,
+ "row": 5,
+ "half": null,
+ "title": "Metric 32",
+ "description": "Metric class 8 nylon insert lock nuts, fine thread, M8 to M16 (76100)",
+ "front_image": "images/fronts/Rc02r5.jpg",
+ "tray_image": "images/trays/Rc02r5.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2533,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2533,
+   "y0": 0.0,
+   "x1": 0.4967,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 2,
+   "x0": 0.4967,
+   "y0": 0.0,
+   "x1": 0.7483,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 3,
+   "x0": 0.7483,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.4875,
+   "x1": 0.3433,
+   "y1": 1.0
+  },
+  {
+   "item_index": 5,
+   "x0": 0.3433,
+   "y0": 0.4875,
+   "x1": 0.675,
+   "y1": 1.0
+  },
+  {
+   "item_index": 6,
+   "x0": 0.675,
+   "y0": 0.4875,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "76101",
+   "slot_letter": "A",
+   "name": "M8-1.00 class 8 metric fine thread nylon insert lock nut, zinc",
+   "price_cents": 85,
+   "upc": "738287761016",
+   "upc_source": "read_from_label",
+   "location": "Metric 32, slot A",
+   "label_short": "8mm x 1.00"
+  },
+  {
+   "sku": "76102",
+   "slot_letter": "B",
+   "name": "M10-1.00 class 8 metric fine thread nylon insert lock nut, zinc",
+   "price_cents": 105,
+   "upc": "738287761023",
+   "upc_source": "read_from_label",
+   "location": "Metric 32, slot B",
+   "label_short": "10mm x 1.00"
+  },
+  {
+   "sku": "76103",
+   "slot_letter": "C",
+   "name": "M10-1.25 class 8 metric fine thread nylon insert lock nut, zinc",
+   "price_cents": 115,
+   "upc": "738287761030",
+   "upc_source": "read_from_label",
+   "location": "Metric 32, slot C",
+   "label_short": "10mm x 1.25"
+  },
+  {
+   "sku": "76104",
+   "slot_letter": "D",
+   "name": "M12-1.25 class 8 metric fine thread nylon insert lock nut, zinc",
+   "price_cents": 115,
+   "upc": "738287761047",
+   "upc_source": "read_from_label",
+   "location": "Metric 32, slot D",
+   "label_short": "12mm x 1.25"
+  },
+  {
+   "sku": "76105",
+   "slot_letter": "E",
+   "name": "M12-1.50 class 8 metric fine thread nylon insert lock nut, zinc",
+   "price_cents": 125,
+   "upc": "738287761054",
+   "upc_source": "read_from_label",
+   "location": "Metric 32, slot E",
+   "label_short": "12mm x 1.50"
+  },
+  {
+   "sku": "76106",
+   "slot_letter": "F",
+   "name": "M14-1.50 class 8 metric fine thread nylon insert lock nut, zinc",
+   "price_cents": 159,
+   "upc": "738287761061",
+   "upc_source": "read_from_label",
+   "location": "Metric 32, slot F",
+   "label_short": "14mm x 1.50"
+  },
+  {
+   "sku": "76107",
+   "slot_letter": "G",
+   "name": "M16-1.50 class 8 metric fine thread nylon insert lock nut, zinc",
+   "price_cents": 199,
+   "upc": "738287761078",
+   "upc_source": "read_from_label",
+   "location": "Metric 32, slot G",
+   "label_short": "16mm x 1.50"
+  }
+ ]
+}

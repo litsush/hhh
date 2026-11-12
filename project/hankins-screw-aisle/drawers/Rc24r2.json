@@ -1,0 +1,342 @@
+{
+ "id": "Rc24r2",
+ "wall": "right",
+ "column": 24,
+ "row": 2,
+ "half": null,
+ "title": "Stainless 107 and Stainless 108",
+ "description": "Stainless steel Phillips flat head wood screws: #6 and #8, 1/2 to 2 (79120), and #10, 3/4 to 3 (79140).",
+ "front_image": "images/fronts/Rc24r2.jpg",
+ "tray_image": "images/trays/Rc24r2.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1833,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1833,
+   "y0": 0.0,
+   "x1": 0.3458,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3458,
+   "y0": 0.0,
+   "x1": 0.5042,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 3,
+   "x0": 0.5042,
+   "y0": 0.0,
+   "x1": 0.6625,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 4,
+   "x0": 0.6625,
+   "y0": 0.0,
+   "x1": 0.8167,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 5,
+   "x0": 0.8167,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2437
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.2437,
+   "x1": 0.1667,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 7,
+   "x0": 0.1667,
+   "y0": 0.2437,
+   "x1": 0.3292,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 8,
+   "x0": 0.3292,
+   "y0": 0.2437,
+   "x1": 0.5,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 9,
+   "x0": 0.5,
+   "y0": 0.2437,
+   "x1": 0.6583,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 10,
+   "x0": 0.6583,
+   "y0": 0.2437,
+   "x1": 0.8208,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 11,
+   "x0": 0.8208,
+   "y0": 0.2437,
+   "x1": 1.0,
+   "y1": 0.4875
+  },
+  {
+   "item_index": 12,
+   "x0": 0.0,
+   "y0": 0.4875,
+   "x1": 0.25,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 13,
+   "x0": 0.25,
+   "y0": 0.4875,
+   "x1": 0.5,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 14,
+   "x0": 0.5,
+   "y0": 0.4875,
+   "x1": 0.75,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 15,
+   "x0": 0.75,
+   "y0": 0.4875,
+   "x1": 1.0,
+   "y1": 0.7375
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.7375,
+   "x1": 0.325,
+   "y1": 1.0
+  },
+  {
+   "item_index": 17,
+   "x0": 0.325,
+   "y0": 0.7375,
+   "x1": 0.6667,
+   "y1": 1.0
+  },
+  {
+   "item_index": 18,
+   "x0": 0.6667,
+   "y0": 0.7375,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "79121",
+   "slot_letter": "A",
+   "name": "#6 x 1/2 stainless steel Phillips flat head wood screw",
+   "price_cents": 35,
+   "upc": "738287791211",
+   "upc_source": "read_from_label",
+   "location": "Stainless 107, slot A",
+   "label_short": "6 x 1/2"
+  },
+  {
+   "sku": "79122",
+   "slot_letter": "B",
+   "name": "#6 x 1 stainless steel Phillips flat head wood screw",
+   "price_cents": 47,
+   "upc": "738287791228",
+   "upc_source": "read_from_label",
+   "location": "Stainless 107, slot B",
+   "label_short": "6 x 1"
+  },
+  {
+   "sku": "79123",
+   "slot_letter": "C",
+   "name": "#6 x 1-1/4 stainless steel Phillips flat head wood screw",
+   "price_cents": 61,
+   "upc": "738287791235",
+   "upc_source": "read_from_label",
+   "location": "Stainless 107, slot C",
+   "label_short": "6 x 1-1/4"
+  },
+  {
+   "sku": "79124",
+   "slot_letter": "D",
+   "name": "#6 x 1-1/2 stainless steel Phillips flat head wood screw",
+   "price_cents": 69,
+   "upc": "738287791242",
+   "upc_source": "read_from_label",
+   "location": "Stainless 107, slot D",
+   "label_short": "6 x 1-1/2"
+  },
+  {
+   "sku": "79125",
+   "slot_letter": "E",
+   "name": "#6 x 2 stainless steel Phillips flat head wood screw",
+   "price_cents": 85,
+   "upc": "738287791259",
+   "upc_source": "read_from_label",
+   "location": "Stainless 107, slot E",
+   "label_short": "6 x 2"
+  },
+  {
+   "sku": "79126",
+   "slot_letter": "F",
+   "name": "#8 x 1/2 stainless steel Phillips flat head wood screw",
+   "price_cents": 41,
+   "upc": "738287791266",
+   "upc_source": "read_from_label",
+   "location": "Stainless 107, slot F",
+   "label_short": "8 x 1/2"
+  },
+  {
+   "sku": "79127",
+   "slot_letter": "G",
+   "name": "#8 x 5/8 stainless steel Phillips flat head wood screw",
+   "price_cents": 48,
+   "upc": "738287791273",
+   "upc_source": "read_from_label",
+   "location": "Stainless 107, slot G",
+   "label_short": "8 x 5/8"
+  },
+  {
+   "sku": "79128",
+   "slot_letter": "H",
+   "name": "#8 x 3/4 stainless steel Phillips flat head wood screw",
+   "price_cents": 52,
+   "upc": "738287791280",
+   "upc_source": "read_from_label",
+   "location": "Stainless 107, slot H",
+   "label_short": "8 x 3/4"
+  },
+  {
+   "sku": "79131",
+   "slot_letter": "J",
+   "name": "#8 x 1 stainless steel Phillips flat head wood screw",
+   "price_cents": 56,
+   "upc": "738287791310",
+   "upc_source": "read_from_label",
+   "location": "Stainless 107, slot J",
+   "label_short": "8 x 1"
+  },
+  {
+   "sku": "79132",
+   "slot_letter": "K",
+   "name": "#8 x 1-1/4 stainless steel Phillips flat head wood screw",
+   "price_cents": 59,
+   "upc": "738287791327",
+   "upc_source": "read_from_label",
+   "location": "Stainless 107, slot K",
+   "label_short": "8 x 1-1/4"
+  },
+  {
+   "sku": "79133",
+   "slot_letter": "L",
+   "name": "#8 x 1-1/2 stainless steel Phillips flat head wood screw",
+   "price_cents": 64,
+   "upc": "738287791334",
+   "upc_source": "read_from_label",
+   "location": "Stainless 107, slot L",
+   "label_short": "8 x 1-1/2"
+  },
+  {
+   "sku": "79134",
+   "slot_letter": "M",
+   "name": "#8 x 2 stainless steel Phillips flat head wood screw",
+   "price_cents": 79,
+   "upc": "738287791341",
+   "upc_source": "read_from_label",
+   "location": "Stainless 107, slot M",
+   "label_short": "8 x 2"
+  },
+  {
+   "sku": "79141",
+   "slot_letter": "A",
+   "name": "#10 x 3/4 stainless steel Phillips flat head wood screw",
+   "price_cents": 49,
+   "upc": "738287791419",
+   "upc_source": "read_from_label",
+   "location": "Stainless 108, slot A",
+   "label_short": "10 x 3/4"
+  },
+  {
+   "sku": "79142",
+   "slot_letter": "B",
+   "name": "#10 x 1 stainless steel Phillips flat head wood screw",
+   "price_cents": 57,
+   "upc": "738287791426",
+   "upc_source": "read_from_label",
+   "location": "Stainless 108, slot B",
+   "label_short": "10 x 1"
+  },
+  {
+   "sku": "79143",
+   "slot_letter": "C",
+   "name": "#10 x 1-1/4 stainless steel Phillips flat head wood screw",
+   "price_cents": 61,
+   "upc": "738287791433",
+   "upc_source": "read_from_label",
+   "location": "Stainless 108, slot C",
+   "label_short": "10 x 1-1/4"
+  },
+  {
+   "sku": "79144",
+   "slot_letter": "D",
+   "name": "#10 x 1-1/2 stainless steel Phillips flat head wood screw",
+   "price_cents": 69,
+   "upc": "738287791440",
+   "upc_source": "read_from_label",
+   "location": "Stainless 108, slot D",
+   "label_short": "10 x 1-1/2"
+  },
+  {
+   "sku": "79145",
+   "slot_letter": "E",
+   "name": "#10 x 2 stainless steel Phillips flat head wood screw",
+   "price_cents": 95,
+   "upc": "738287791457",
+   "upc_source": "read_from_label",
+   "location": "Stainless 108, slot E",
+   "label_short": "10 x 2"
+  },
+  {
+   "sku": "79146",
+   "slot_letter": "F",
+   "name": "#10 x 2-1/2 stainless steel Phillips flat head wood screw",
+   "price_cents": 125,
+   "upc": "738287791464",
+   "upc_source": "read_from_label",
+   "location": "Stainless 108, slot F",
+   "label_short": "10 x 2-1/2"
+  },
+  {
+   "sku": "79147",
+   "slot_letter": "G",
+   "name": "#10 x 3 stainless steel Phillips flat head wood screw",
+   "price_cents": 135,
+   "upc": "738287791471",
+   "upc_source": "read_from_label",
+   "location": "Stainless 108, slot G",
+   "label_short": "10 x 3"
+  }
+ ]
+}

@@ -1,0 +1,422 @@
+{
+ "id": "Rc23r4",
+ "wall": "right",
+ "column": 23,
+ "row": 4,
+ "half": null,
+ "title": "Stainless 94 and Stainless 95",
+ "description": "Stainless steel self-drilling screws: Phillips pan head #8 x 1/2 to #12 x 1-1/2 (79100), and 410 stainless Phillips pan and hex washer head #8 x 1/2 to #14 x 1 (65160).",
+ "front_image": "images/fronts/Rc23r4.jpg",
+ "tray_image": "images/trays/Rc23r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1667,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1667,
+   "y0": 0.0,
+   "x1": 0.3333,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 2,
+   "x0": 0.3333,
+   "y0": 0.0,
+   "x1": 0.4958,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 3,
+   "x0": 0.4958,
+   "y0": 0.0,
+   "x1": 0.65,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 4,
+   "x0": 0.65,
+   "y0": 0.0,
+   "x1": 0.8083,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 5,
+   "x0": 0.8083,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2313
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.2313,
+   "x1": 0.2458,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 7,
+   "x0": 0.2458,
+   "y0": 0.2313,
+   "x1": 0.4958,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 8,
+   "x0": 0.4958,
+   "y0": 0.2313,
+   "x1": 0.7375,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 9,
+   "x0": 0.7375,
+   "y0": 0.2313,
+   "x1": 1.0,
+   "y1": 0.4625
+  },
+  {
+   "item_index": 10,
+   "x0": 0.0,
+   "y0": 0.4625,
+   "x1": 0.1083,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 11,
+   "x0": 0.1083,
+   "y0": 0.4625,
+   "x1": 0.2458,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 12,
+   "x0": 0.2458,
+   "y0": 0.4625,
+   "x1": 0.375,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 13,
+   "x0": 0.375,
+   "y0": 0.4625,
+   "x1": 0.5042,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 14,
+   "x0": 0.5042,
+   "y0": 0.4625,
+   "x1": 0.6708,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 15,
+   "x0": 0.6708,
+   "y0": 0.4625,
+   "x1": 0.8375,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 16,
+   "x0": 0.8375,
+   "y0": 0.4625,
+   "x1": 1.0,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 17,
+   "x0": 0.0,
+   "y0": 0.7188,
+   "x1": 0.1875,
+   "y1": 1.0
+  },
+  {
+   "item_index": 18,
+   "x0": 0.1875,
+   "y0": 0.7188,
+   "x1": 0.3708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 20,
+   "x0": 0.3708,
+   "y0": 0.7188,
+   "x1": 0.5083,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.5083,
+   "y0": 0.7188,
+   "x1": 0.6542,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.6542,
+   "y0": 0.7188,
+   "x1": 0.7958,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.7958,
+   "y0": 0.7188,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "79101",
+   "slot_letter": "A",
+   "name": "#8 x 1/2 stainless steel Phillips pan head self-drilling screw",
+   "price_cents": 34,
+   "upc": "738287791013",
+   "upc_source": "read_from_label",
+   "location": "Stainless 94, slot A",
+   "label_short": "8 x 1/2"
+  },
+  {
+   "sku": "79102",
+   "slot_letter": "B",
+   "name": "#8 x 3/4 stainless steel Phillips pan head self-drilling screw",
+   "price_cents": 38,
+   "upc": "738287791020",
+   "upc_source": "read_from_label",
+   "location": "Stainless 94, slot B",
+   "label_short": "8 x 3/4"
+  },
+  {
+   "sku": "79103",
+   "slot_letter": "C",
+   "name": "#8 x 1 stainless steel Phillips pan head self-drilling screw",
+   "price_cents": 44,
+   "upc": "738287791037",
+   "upc_source": "read_from_label",
+   "location": "Stainless 94, slot C",
+   "label_short": "8 x 1"
+  },
+  {
+   "sku": "79104",
+   "slot_letter": "D",
+   "name": "#10 x 1/2 stainless steel Phillips pan head self-drilling screw",
+   "price_cents": 49,
+   "upc": "738287791044",
+   "upc_source": "read_from_label",
+   "location": "Stainless 94, slot D",
+   "label_short": "10 x 1/2"
+  },
+  {
+   "sku": "79105",
+   "slot_letter": "E",
+   "name": "#10 x 3/4 stainless steel Phillips pan head self-drilling screw",
+   "price_cents": 54,
+   "upc": "738287791051",
+   "upc_source": "read_from_label",
+   "location": "Stainless 94, slot E",
+   "label_short": "10 x 3/4"
+  },
+  {
+   "sku": "79106",
+   "slot_letter": "F",
+   "name": "#10 x 1 stainless steel Phillips pan head self-drilling screw",
+   "price_cents": 62,
+   "upc": "738287791068",
+   "upc_source": "read_from_label",
+   "location": "Stainless 94, slot F",
+   "label_short": "10 x 1"
+  },
+  {
+   "sku": "79107",
+   "slot_letter": "G",
+   "name": "#10 x 1-1/2 stainless steel Phillips pan head self-drilling screw",
+   "price_cents": 67,
+   "upc": "738287791075",
+   "upc_source": "read_from_label",
+   "location": "Stainless 94, slot G",
+   "label_short": "10 x 1-1/2"
+  },
+  {
+   "sku": "79108",
+   "slot_letter": "H",
+   "name": "#12 x 3/4 stainless steel Phillips pan head self-drilling screw",
+   "price_cents": 75,
+   "upc": "738287791082",
+   "upc_source": "read_from_label",
+   "location": "Stainless 94, slot H",
+   "label_short": "12 x 3/4"
+  },
+  {
+   "sku": "79111",
+   "slot_letter": "J",
+   "name": "#12 x 1 stainless steel Phillips pan head self-drilling screw",
+   "price_cents": 79,
+   "upc": "738287791112",
+   "upc_source": "read_from_label",
+   "location": "Stainless 94, slot J",
+   "label_short": "12 x 1"
+  },
+  {
+   "sku": "79112",
+   "slot_letter": "K",
+   "name": "#12 x 1-1/2 stainless steel Phillips pan head self-drilling screw",
+   "price_cents": 99,
+   "upc": "738287791129",
+   "upc_source": "read_from_label",
+   "location": "Stainless 94, slot K",
+   "label_short": "12 x 1-1/2"
+  },
+  {
+   "sku": "65161",
+   "slot_letter": "A",
+   "name": "#8 x 1/2 410 stainless steel Phillips pan head self-drilling screw",
+   "price_cents": 55,
+   "upc": "738287651614",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot A",
+   "label_short": "8 x 1/2 pan"
+  },
+  {
+   "sku": "65162",
+   "slot_letter": "B",
+   "name": "#8 x 3/4 410 stainless steel Phillips pan head self-drilling screw",
+   "price_cents": 60,
+   "upc": "738287651621",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot B",
+   "label_short": "8 x 3/4 pan"
+  },
+  {
+   "sku": "65163",
+   "slot_letter": "C",
+   "name": "#8 x 1/2 410 stainless steel hex washer head self-drilling screw",
+   "price_cents": 55,
+   "upc": "738287651638",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot C",
+   "label_short": "8 x 1/2 hex"
+  },
+  {
+   "sku": "65164",
+   "slot_letter": "D",
+   "name": "#8 x 3/4 410 stainless steel hex washer head self-drilling screw",
+   "price_cents": 60,
+   "upc": "738287651645",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot D",
+   "label_short": "8 x 3/4 hex"
+  },
+  {
+   "sku": "65165",
+   "slot_letter": "E",
+   "name": "#8 x 1 410 stainless steel hex washer head self-drilling screw",
+   "price_cents": 68,
+   "upc": "738287651652",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot E",
+   "label_short": "8 x 1 hex"
+  },
+  {
+   "sku": "65166",
+   "slot_letter": "F",
+   "name": "#10 x 1/2 410 stainless steel hex washer head self-drilling screw",
+   "price_cents": 62,
+   "upc": "738287651669",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot F",
+   "label_short": "10 x 1/2 hex"
+  },
+  {
+   "sku": "65167",
+   "slot_letter": "G",
+   "name": "#10 x 3/4 410 stainless steel hex washer head self-drilling screw",
+   "price_cents": 69,
+   "upc": "738287651676",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot G",
+   "label_short": "10 x 3/4 hex"
+  },
+  {
+   "sku": "65168",
+   "slot_letter": "H",
+   "name": "#10 x 1 410 stainless steel hex washer head self-drilling screw",
+   "price_cents": 75,
+   "upc": "738287651683",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot H",
+   "label_short": "10 x 1 hex"
+  },
+  {
+   "sku": "65171",
+   "slot_letter": "J",
+   "name": "#10 x 1-1/2 410 stainless steel hex washer head self-drilling screw",
+   "price_cents": 89,
+   "upc": "738287651713",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot J",
+   "label_short": "10 x 1-1/2 hex"
+  },
+  {
+   "sku": "65172",
+   "slot_letter": "K",
+   "name": "#12 x 3/4 410 stainless steel hex washer head self-drilling screw",
+   "price_cents": 79,
+   "upc": "738287651720",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot K",
+   "label_short": "12 x 3/4 hex",
+   "note": "No compartment of its own: the tray's front row has 6 compartments for the card's 7 cells. The third compartment holds screws about 1 in long, so it was given to 12 x 1 (slot L)."
+  },
+  {
+   "sku": "65173",
+   "slot_letter": "L",
+   "name": "#12 x 1 410 stainless steel hex washer head self-drilling screw",
+   "price_cents": 99,
+   "upc": "738287651737",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot L",
+   "label_short": "12 x 1 hex",
+   "note": "Compartment is a best guess (see slot K); 12 x 3/4 may be mixed in here."
+  },
+  {
+   "sku": "65174",
+   "slot_letter": "M",
+   "name": "#12 x 1-1/2 410 stainless steel hex washer head self-drilling screw",
+   "price_cents": 125,
+   "upc": "738287651744",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot M",
+   "label_short": "12 x 1-1/2 hex"
+  },
+  {
+   "sku": "65175",
+   "slot_letter": "N",
+   "name": "#14 x 3/4 410 stainless steel hex washer head self-drilling screw",
+   "price_cents": 129,
+   "upc": "738287651751",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot N",
+   "label_short": "14 x 3/4 hex"
+  },
+  {
+   "sku": "65176",
+   "slot_letter": "P",
+   "name": "#14 x 1 410 stainless steel hex washer head self-drilling screw",
+   "price_cents": 135,
+   "upc": "738287651768",
+   "upc_source": "read_from_label",
+   "location": "Stainless 95, slot P",
+   "label_short": "14 x 1 hex"
+  }
+ ]
+}

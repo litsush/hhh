@@ -1,0 +1,121 @@
+{
+ "id": "Rc24r3",
+ "wall": "right",
+ "column": 24,
+ "row": 3,
+ "half": null,
+ "title": "Stainless 110.5",
+ "description": "Stainless steel gate hooks with eyes, 1 in to 4 in (32640).",
+ "front_image": "images/fronts/Rc24r3.jpg",
+ "tray_image": "images/trays/Rc24r3.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.4167,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 2,
+   "x0": 0.4167,
+   "y0": 0.0,
+   "x1": 0.7458,
+   "y1": 0.4938
+  },
+  {
+   "item_index": 3,
+   "x0": 0.0,
+   "y0": 0.4938,
+   "x1": 0.3833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 4,
+   "x0": 0.3833,
+   "y0": 0.4938,
+   "x1": 0.7458,
+   "y1": 1.0
+  },
+  {
+   "item_index": 5,
+   "x0": 0.7458,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "32641",
+   "slot_letter": "A",
+   "name": "1 in stainless steel gate hook and eye",
+   "price_cents": 289,
+   "upc": "738287326413",
+   "upc_source": "read_from_label",
+   "location": "Stainless 110.5, slot A",
+   "label_short": "1\""
+  },
+  {
+   "sku": "32642",
+   "slot_letter": "B",
+   "name": "1-1/2 in stainless steel gate hook and eye",
+   "price_cents": 429,
+   "upc": "738287326420",
+   "upc_source": "read_from_label",
+   "location": "Stainless 110.5, slot B",
+   "label_short": "1-1/2"
+  },
+  {
+   "sku": "32643",
+   "slot_letter": "C",
+   "name": "2 in stainless steel gate hook and eye",
+   "price_cents": 469,
+   "upc": "738287326437",
+   "upc_source": "read_from_label",
+   "location": "Stainless 110.5, slot C",
+   "label_short": "2\""
+  },
+  {
+   "sku": "32644",
+   "slot_letter": "D",
+   "name": "2-1/2 in stainless steel gate hook and eye",
+   "price_cents": 539,
+   "upc": "738287326444",
+   "upc_source": "read_from_label",
+   "location": "Stainless 110.5, slot D",
+   "label_short": "2-1/2"
+  },
+  {
+   "sku": "32645",
+   "slot_letter": "E",
+   "name": "3 in stainless steel gate hook and eye",
+   "price_cents": 699,
+   "upc": "738287326451",
+   "upc_source": "read_from_label",
+   "location": "Stainless 110.5, slot E",
+   "label_short": "3\""
+  },
+  {
+   "sku": "32646",
+   "slot_letter": "F",
+   "name": "4 in stainless steel gate hook and eye",
+   "price_cents": 719,
+   "upc": "738287326468",
+   "upc_source": "read_from_label",
+   "location": "Stainless 110.5, slot F",
+   "label_short": "4\""
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "id": "Rc03r4",
+ "wall": "right",
+ "column": 3,
+ "row": 4,
+ "half": null,
+ "title": "Metric 43 and Metric 44",
+ "description": "Metric fender washers 3mm to 14mm (75680) and metric wavy washers 3mm to 20mm (73720).",
+ "front_image": "images/fronts/Rc03r4.jpg",
+ "tray_image": "images/trays/Rc03r4.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 1,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.4958,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 2,
+   "x0": 0.4958,
+   "y0": 0.0,
+   "x1": 0.7417,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 3,
+   "x0": 0.7417,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2562
+  },
+  {
+   "item_index": 4,
+   "x0": 0.0,
+   "y0": 0.2562,
+   "x1": 0.25,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 5,
+   "x0": 0.25,
+   "y0": 0.2562,
+   "x1": 0.4983,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 6,
+   "x0": 0.4983,
+   "y0": 0.2562,
+   "x1": 0.7417,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 7,
+   "x0": 0.7417,
+   "y0": 0.2562,
+   "x1": 1.0,
+   "y1": 0.5062
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.5062,
+   "x1": 0.1667,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1667,
+   "y0": 0.5062,
+   "x1": 0.3333,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 10,
+   "x0": 0.3333,
+   "y0": 0.5062,
+   "x1": 0.5,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 11,
+   "x0": 0.5,
+   "y0": 0.5062,
+   "x1": 0.6625,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 12,
+   "x0": 0.6625,
+   "y0": 0.5062,
+   "x1": 0.825,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 13,
+   "x0": 0.825,
+   "y0": 0.5062,
+   "x1": 1.0,
+   "y1": 0.7562
+  },
+  {
+   "item_index": 14,
+   "x0": 0.0,
+   "y0": 0.7562,
+   "x1": 0.1583,
+   "y1": 1.0
+  },
+  {
+   "item_index": 15,
+   "x0": 0.1583,
+   "y0": 0.7562,
+   "x1": 0.325,
+   "y1": 1.0
+  },
+  {
+   "item_index": 16,
+   "x0": 0.325,
+   "y0": 0.7562,
+   "x1": 0.4958,
+   "y1": 1.0
+  },
+  {
+   "item_index": 17,
+   "x0": 0.4958,
+   "y0": 0.7562,
+   "x1": 0.6625,
+   "y1": 1.0
+  },
+  {
+   "item_index": 18,
+   "x0": 0.6625,
+   "y0": 0.7562,
+   "x1": 0.825,
+   "y1": 1.0
+  },
+  {
+   "item_index": 19,
+   "x0": 0.825,
+   "y0": 0.7562,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "75681",
+   "slot_letter": "A",
+   "name": "3mm x 9mm metric fender washer",
+   "price_cents": 27,
+   "upc": "738287756814",
+   "upc_source": "read_from_label",
+   "location": "Metric 43, slot A",
+   "label_short": "3 x 9mm"
+  },
+  {
+   "sku": "75682",
+   "slot_letter": "B",
+   "name": "4mm x 12mm metric fender washer",
+   "price_cents": 32,
+   "upc": "738287756821",
+   "upc_source": "read_from_label",
+   "location": "Metric 43, slot B",
+   "label_short": "4 x 12mm"
+  },
+  {
+   "sku": "75683",
+   "slot_letter": "C",
+   "name": "5mm x 15mm metric fender washer",
+   "price_cents": 37,
+   "upc": "738287756838",
+   "upc_source": "read_from_label",
+   "location": "Metric 43, slot C",
+   "label_short": "5 x 15mm"
+  },
+  {
+   "sku": "75684",
+   "slot_letter": "D",
+   "name": "6mm x 18mm metric fender washer",
+   "price_cents": 47,
+   "upc": "738287756845",
+   "upc_source": "read_from_label",
+   "location": "Metric 43, slot D",
+   "label_short": "6 x 18mm"
+  },
+  {
+   "sku": "75685",
+   "slot_letter": "E",
+   "name": "8mm x 24mm metric fender washer",
+   "price_cents": 60,
+   "upc": "738287756852",
+   "upc_source": "read_from_label",
+   "location": "Metric 43, slot E",
+   "label_short": "8 x 24mm"
+  },
+  {
+   "sku": "75686",
+   "slot_letter": "F",
+   "name": "10mm x 30mm metric fender washer",
+   "price_cents": 95,
+   "upc": "738287756869",
+   "upc_source": "read_from_label",
+   "location": "Metric 43, slot F",
+   "label_short": "10 x 30mm"
+  },
+  {
+   "sku": "75687",
+   "slot_letter": "G",
+   "name": "12mm x 40mm metric fender washer",
+   "price_cents": 145,
+   "upc": "738287756876",
+   "upc_source": "read_from_label",
+   "location": "Metric 43, slot G",
+   "label_short": "12 x 40mm"
+  },
+  {
+   "sku": "75688",
+   "slot_letter": "H",
+   "name": "14mm x 45mm metric fender washer",
+   "price_cents": 209,
+   "upc": "738287756883",
+   "upc_source": "read_from_label",
+   "location": "Metric 43, slot H",
+   "label_short": "14 x 45mm"
+  },
+  {
+   "sku": "73721",
+   "slot_letter": "A",
+   "name": "3mm metric wavy washer",
+   "price_cents": 24,
+   "upc": "738287737219",
+   "upc_source": "read_from_label",
+   "location": "Metric 44, slot A",
+   "label_short": "3mm",
+   "note": "Compartment holds a closed plastic bag in the photo; the washers are not clearly visible."
+  },
+  {
+   "sku": "73722",
+   "slot_letter": "B",
+   "name": "4mm metric wavy washer",
+   "price_cents": 26,
+   "upc": "738287737226",
+   "upc_source": "read_from_label",
+   "location": "Metric 44, slot B",
+   "label_short": "4mm"
+  },
+  {
+   "sku": "73723",
+   "slot_letter": "C",
+   "name": "5mm metric wavy washer",
+   "price_cents": 29,
+   "upc": "738287737233",
+   "upc_source": "read_from_label",
+   "location": "Metric 44, slot C",
+   "label_short": "5mm"
+  },
+  {
+   "sku": "73724",
+   "slot_letter": "D",
+   "name": "6mm metric wavy washer",
+   "price_cents": 31,
+   "upc": "738287737240",
+   "upc_source": "read_from_label",
+   "location": "Metric 44, slot D",
+   "label_short": "6mm"
+  },
+  {
+   "sku": "73725",
+   "slot_letter": "E",
+   "name": "7mm metric wavy washer",
+   "price_cents": 40,
+   "upc": "738287737257",
+   "upc_source": "read_from_label",
+   "location": "Metric 44, slot E",
+   "label_short": "7mm"
+  },
+  {
+   "sku": "73726",
+   "slot_letter": "F",
+   "name": "8mm metric wavy washer",
+   "price_cents": 47,
+   "upc": "738287737264",
+   "upc_source": "read_from_label",
+   "location": "Metric 44, slot F",
+   "label_short": "8mm"
+  },
+  {
+   "sku": "73727",
+   "slot_letter": "G",
+   "name": "10mm metric wavy washer",
+   "price_cents": 59,
+   "upc": "738287737271",
+   "upc_source": "read_from_label",
+   "location": "Metric 44, slot G",
+   "label_short": "10mm"
+  },
+  {
+   "sku": "73728",
+   "slot_letter": "H",
+   "name": "12mm metric wavy washer",
+   "price_cents": 75,
+   "upc": "738287737288",
+   "upc_source": "read_from_label",
+   "location": "Metric 44, slot H",
+   "label_short": "12mm"
+  },
+  {
+   "sku": "73731",
+   "slot_letter": "J",
+   "name": "14mm metric wavy washer",
+   "price_cents": 99,
+   "upc": "738287737318",
+   "upc_source": "read_from_label",
+   "location": "Metric 44, slot J",
+   "label_short": "14mm"
+  },
+  {
+   "sku": "73732",
+   "slot_letter": "K",
+   "name": "16mm metric wavy washer",
+   "price_cents": 169,
+   "upc": "738287737325",
+   "upc_source": "read_from_label",
+   "location": "Metric 44, slot K",
+   "label_short": "16mm"
+  },
+  {
+   "sku": "73733",
+   "slot_letter": "L",
+   "name": "18mm metric wavy washer",
+   "price_cents": 209,
+   "upc": "738287737332",
+   "upc_source": "read_from_label",
+   "location": "Metric 44, slot L",
+   "label_short": "18mm"
+  },
+  {
+   "sku": "73734",
+   "slot_letter": "M",
+   "name": "20mm metric wavy washer",
+   "price_cents": 279,
+   "upc": "738287737349",
+   "upc_source": "read_from_label",
+   "location": "Metric 44, slot M",
+   "label_short": "20mm"
+  }
+ ]
+}

@@ -5,6 +5,7 @@ plys/
 project/hankins-screw-aisle/.venv/
 project/hankins-screw-aisle/originals/*/IMG_*.jpg
 project/hankins-screw-aisle/scan/*.ply
-project/hankins-screw-aisle/scan/aisle.splat
+project/hankins-screw-aisle/scan/*.splat
 __pycache__/
 *.pyc
+project/hankins-screw-aisle/scan/reg/*.npz

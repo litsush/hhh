@@ -1,0 +1,190 @@
+{
+ "id": "Rc05r3",
+ "wall": "right",
+ "column": 5,
+ "row": 3,
+ "half": null,
+ "title": "Metric 70",
+ "description": "Metric Phillips pan head machine screws, 8mm x 1.25 pitch, 16mm to 80mm long (78560).",
+ "front_image": "images/fronts/Rc05r3.jpg",
+ "tray_image": "images/trays/Rc05r3.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.1375,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1375,
+   "y0": 0.0,
+   "x1": 0.265,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 2,
+   "x0": 0.265,
+   "y0": 0.0,
+   "x1": 0.3983,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3983,
+   "y0": 0.0,
+   "x1": 0.5208,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5208,
+   "y0": 0.0,
+   "x1": 0.6542,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6542,
+   "y0": 0.0,
+   "x1": 0.7792,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7792,
+   "y0": 0.0,
+   "x1": 0.9067,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 7,
+   "x0": 0.9067,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.7188
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.7188,
+   "x1": 0.5292,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.5292,
+   "y0": 0.7188,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "78561",
+   "slot_letter": "A",
+   "name": "8mm x 16mm metric Phillips pan head machine screw, 1.25 pitch",
+   "price_cents": 67,
+   "upc": "738287785616",
+   "upc_source": "read_from_label",
+   "location": "Metric 70, slot A",
+   "label_short": "8mm x 16mm"
+  },
+  {
+   "sku": "78562",
+   "slot_letter": "B",
+   "name": "8mm x 20mm metric Phillips pan head machine screw, 1.25 pitch",
+   "price_cents": 75,
+   "upc": "738287785623",
+   "upc_source": "read_from_label",
+   "location": "Metric 70, slot B",
+   "label_short": "8mm x 20mm"
+  },
+  {
+   "sku": "78563",
+   "slot_letter": "C",
+   "name": "8mm x 30mm metric Phillips pan head machine screw, 1.25 pitch",
+   "price_cents": 89,
+   "upc": "738287785630",
+   "upc_source": "read_from_label",
+   "location": "Metric 70, slot C",
+   "label_short": "8mm x 30mm"
+  },
+  {
+   "sku": "78571",
+   "slot_letter": "J",
+   "name": "8mm x 35mm metric Phillips pan head machine screw, 1.25 pitch",
+   "price_cents": 89,
+   "upc": "738287785715",
+   "upc_source": "read_from_label",
+   "location": "Metric 70, slot J",
+   "label_short": "8mm x 35mm"
+  },
+  {
+   "sku": "78564",
+   "slot_letter": "D",
+   "name": "8mm x 40mm metric Phillips pan head machine screw, 1.25 pitch",
+   "price_cents": 95,
+   "upc": "738287785647",
+   "upc_source": "read_from_label",
+   "location": "Metric 70, slot D",
+   "label_short": "8mm x 40mm"
+  },
+  {
+   "sku": "78572",
+   "slot_letter": "K",
+   "name": "8mm x 45mm metric Phillips pan head machine screw, 1.25 pitch",
+   "price_cents": 125,
+   "upc": "738287785722",
+   "upc_source": "read_from_label",
+   "location": "Metric 70, slot K",
+   "label_short": "8mm x 45mm"
+  },
+  {
+   "sku": "78565",
+   "slot_letter": "E",
+   "name": "8mm x 50mm metric Phillips pan head machine screw, 1.25 pitch",
+   "price_cents": 125,
+   "upc": "738287785654",
+   "upc_source": "read_from_label",
+   "location": "Metric 70, slot E",
+   "label_short": "8mm x 50mm"
+  },
+  {
+   "sku": "78566",
+   "slot_letter": "F",
+   "name": "8mm x 60mm metric Phillips pan head machine screw, 1.25 pitch",
+   "price_cents": 155,
+   "upc": "738287785661",
+   "upc_source": "read_from_label",
+   "location": "Metric 70, slot F",
+   "label_short": "8mm x 60mm"
+  },
+  {
+   "sku": "78567",
+   "slot_letter": "G",
+   "name": "8mm x 70mm metric Phillips pan head machine screw, 1.25 pitch",
+   "price_cents": 249,
+   "upc": "738287785678",
+   "upc_source": "read_from_label",
+   "location": "Metric 70, slot G",
+   "label_short": "8mm x 70mm"
+  },
+  {
+   "sku": "78568",
+   "slot_letter": "H",
+   "name": "8mm x 80mm metric Phillips pan head machine screw, 1.25 pitch",
+   "price_cents": 299,
+   "upc": "738287785685",
+   "upc_source": "read_from_label",
+   "location": "Metric 70, slot H",
+   "label_short": "8mm x 80mm",
+   "note": "A stray flanged nut is also lying in this compartment."
+  }
+ ]
+}

@@ -1,0 +1,387 @@
+{
+ "id": "Rc02r4",
+ "wall": "right",
+ "column": 2,
+ "row": 4,
+ "half": null,
+ "title": "Metric 29 and Metric 30",
+ "description": "Metric class 8 zinc hex nuts: coarse M3 to M22 (73640) and fine M8 to M20 (73660)",
+ "front_image": "images/fronts/Rc02r4.jpg",
+ "tray_image": "images/trays/Rc02r4.jpg",
+ "tray_image_px": [
+  1200,
+  1000
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.13,
+   "y1": 0.234
+  },
+  {
+   "item_index": 1,
+   "x0": 0.13,
+   "y0": 0.0,
+   "x1": 0.2533,
+   "y1": 0.234
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2533,
+   "y0": 0.0,
+   "x1": 0.375,
+   "y1": 0.234
+  },
+  {
+   "item_index": 3,
+   "x0": 0.375,
+   "y0": 0.0,
+   "x1": 0.485,
+   "y1": 0.234
+  },
+  {
+   "item_index": 4,
+   "x0": 0.485,
+   "y0": 0.0,
+   "x1": 0.6,
+   "y1": 0.234
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6,
+   "y0": 0.0,
+   "x1": 0.7117,
+   "y1": 0.234
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7117,
+   "y0": 0.0,
+   "x1": 0.835,
+   "y1": 0.234
+  },
+  {
+   "item_index": 7,
+   "x0": 0.835,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.234
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.234,
+   "x1": 0.175,
+   "y1": 0.48
+  },
+  {
+   "item_index": 9,
+   "x0": 0.175,
+   "y0": 0.234,
+   "x1": 0.335,
+   "y1": 0.48
+  },
+  {
+   "item_index": 10,
+   "x0": 0.335,
+   "y0": 0.234,
+   "x1": 0.54,
+   "y1": 0.48
+  },
+  {
+   "item_index": 11,
+   "x0": 0.54,
+   "y0": 0.234,
+   "x1": 0.7383,
+   "y1": 0.48
+  },
+  {
+   "item_index": 12,
+   "x0": 0.7383,
+   "y0": 0.234,
+   "x1": 1.0,
+   "y1": 0.48
+  },
+  {
+   "item_index": 13,
+   "x0": 0.0,
+   "y0": 0.48,
+   "x1": 0.25,
+   "y1": 0.726
+  },
+  {
+   "item_index": 14,
+   "x0": 0.25,
+   "y0": 0.48,
+   "x1": 0.4967,
+   "y1": 0.726
+  },
+  {
+   "item_index": 15,
+   "x0": 0.4967,
+   "y0": 0.48,
+   "x1": 0.7417,
+   "y1": 0.726
+  },
+  {
+   "item_index": 16,
+   "x0": 0.7417,
+   "y0": 0.48,
+   "x1": 1.0,
+   "y1": 0.726
+  },
+  {
+   "item_index": 17,
+   "x0": 0.0,
+   "y0": 0.726,
+   "x1": 0.25,
+   "y1": 1.0
+  },
+  {
+   "item_index": 18,
+   "x0": 0.25,
+   "y0": 0.726,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 19,
+   "x0": 0.5,
+   "y0": 0.726,
+   "x1": 0.755,
+   "y1": 1.0
+  },
+  {
+   "item_index": 20,
+   "x0": 0.755,
+   "y0": 0.726,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "73641",
+   "slot_letter": "A",
+   "name": "M3-0.50 class 8 metric hex nut, zinc",
+   "price_cents": 35,
+   "upc": "738287736410",
+   "upc_source": "read_from_label",
+   "location": "Metric 29, slot A",
+   "label_short": "3mm x 0.50"
+  },
+  {
+   "sku": "73642",
+   "slot_letter": "B",
+   "name": "M4-0.70 class 8 metric hex nut, zinc",
+   "price_cents": 44,
+   "upc": "738287736427",
+   "upc_source": "read_from_label",
+   "location": "Metric 29, slot B",
+   "label_short": "4mm x 0.70"
+  },
+  {
+   "sku": "73643",
+   "slot_letter": "C",
+   "name": "M5-0.80 class 8 metric hex nut, zinc",
+   "price_cents": 50,
+   "upc": "738287736434",
+   "upc_source": "read_from_label",
+   "location": "Metric 29, slot C",
+   "label_short": "5mm x 0.80"
+  },
+  {
+   "sku": "73644",
+   "slot_letter": "D",
+   "name": "M6-1.00 class 8 metric hex nut, zinc",
+   "price_cents": 56,
+   "upc": "738287736441",
+   "upc_source": "read_from_label",
+   "location": "Metric 29, slot D",
+   "label_short": "6mm x 1.00"
+  },
+  {
+   "sku": "73645",
+   "slot_letter": "E",
+   "name": "M7-1.00 class 8 metric hex nut, zinc",
+   "price_cents": 62,
+   "upc": "738287736458",
+   "upc_source": "read_from_label",
+   "location": "Metric 29, slot E",
+   "label_short": "7mm x 1.00"
+  },
+  {
+   "sku": "73646",
+   "slot_letter": "F",
+   "name": "M8-1.25 class 8 metric hex nut, zinc",
+   "price_cents": 66,
+   "upc": "738287736465",
+   "upc_source": "read_from_label",
+   "location": "Metric 29, slot F",
+   "label_short": "8mm x 1.25"
+  },
+  {
+   "sku": "73647",
+   "slot_letter": "G",
+   "name": "M10-1.50 class 8 metric hex nut, zinc",
+   "price_cents": 75,
+   "upc": "738287736472",
+   "upc_source": "read_from_label",
+   "location": "Metric 29, slot G",
+   "label_short": "10mm x 1.50"
+  },
+  {
+   "sku": "73648",
+   "slot_letter": "H",
+   "name": "M12-1.75 class 8 metric hex nut, zinc",
+   "price_cents": 85,
+   "upc": "738287736489",
+   "upc_source": "read_from_label",
+   "location": "Metric 29, slot H",
+   "label_short": "12mm x 1.75"
+  },
+  {
+   "sku": "73651",
+   "slot_letter": "J",
+   "name": "M14-2.00 class 8 metric hex nut, zinc",
+   "price_cents": 115,
+   "upc": "738287736519",
+   "upc_source": "read_from_label",
+   "location": "Metric 29, slot J",
+   "label_short": "14mm x 2.00"
+  },
+  {
+   "sku": "73652",
+   "slot_letter": "K",
+   "name": "M16-2.00 class 8 metric hex nut, zinc",
+   "price_cents": 135,
+   "upc": "738287736526",
+   "upc_source": "read_from_label",
+   "location": "Metric 29, slot K",
+   "label_short": "16mm x 2.00"
+  },
+  {
+   "sku": "73653",
+   "slot_letter": "L",
+   "name": "M18-2.50 class 8 metric hex nut, zinc",
+   "price_cents": 165,
+   "upc": "738287736533",
+   "upc_source": "read_from_label",
+   "location": "Metric 29, slot L",
+   "label_short": "18mm x 2.50"
+  },
+  {
+   "sku": "73654",
+   "slot_letter": "M",
+   "name": "M20-2.50 class 8 metric hex nut, zinc",
+   "price_cents": 209,
+   "upc": "738287736540",
+   "upc_source": "read_from_label",
+   "location": "Metric 29, slot M",
+   "label_short": "20mm x 2.50"
+  },
+  {
+   "sku": "73655",
+   "slot_letter": "N",
+   "name": "M22-2.50 class 8 metric hex nut, zinc",
+   "price_cents": 269,
+   "upc": "738287736557",
+   "upc_source": "read_from_label",
+   "location": "Metric 29, slot N",
+   "label_short": "22mm x 2.50"
+  },
+  {
+   "sku": "73661",
+   "slot_letter": "A",
+   "name": "M8-1.00 class 8 metric fine thread hex nut, zinc",
+   "price_cents": 69,
+   "upc": "738287736618",
+   "upc_source": "read_from_label",
+   "location": "Metric 30, slot A",
+   "label_short": "8mm x 1.00"
+  },
+  {
+   "sku": "73662",
+   "slot_letter": "B",
+   "name": "M10-1.00 class 8 metric fine thread hex nut, zinc",
+   "price_cents": 125,
+   "upc": "738287736625",
+   "upc_source": "read_from_label",
+   "location": "Metric 30, slot B",
+   "label_short": "10mm x 1.00"
+  },
+  {
+   "sku": "73663",
+   "slot_letter": "C",
+   "name": "M10-1.25 class 8 metric fine thread hex nut, zinc",
+   "price_cents": 125,
+   "upc": "738287736632",
+   "upc_source": "read_from_label",
+   "location": "Metric 30, slot C",
+   "label_short": "10mm x 1.25"
+  },
+  {
+   "sku": "73664",
+   "slot_letter": "D",
+   "name": "M12-1.25 class 8 metric fine thread hex nut, zinc",
+   "price_cents": 145,
+   "upc": "738287736649",
+   "upc_source": "read_from_label",
+   "location": "Metric 30, slot D",
+   "label_short": "12mm x 1.25"
+  },
+  {
+   "sku": "73665",
+   "slot_letter": "E",
+   "name": "M12-1.50 class 8 metric fine thread hex nut, zinc",
+   "price_cents": 149,
+   "upc": "738287736656",
+   "upc_source": "read_from_label",
+   "location": "Metric 30, slot E",
+   "label_short": "12mm x 1.50"
+  },
+  {
+   "sku": "73666",
+   "slot_letter": "F",
+   "name": "M14-1.50 class 8 metric fine thread hex nut, zinc",
+   "price_cents": 195,
+   "upc": "738287736663",
+   "upc_source": "read_from_label",
+   "location": "Metric 30, slot F",
+   "label_short": "14mm x 1.50"
+  },
+  {
+   "sku": "73667",
+   "slot_letter": "G",
+   "name": "M16-1.50 class 8 metric fine thread hex nut, zinc",
+   "price_cents": 239,
+   "upc": "738287736670",
+   "upc_source": "read_from_label",
+   "location": "Metric 30, slot G",
+   "label_short": "16mm x 1.50"
+  },
+  {
+   "sku": "73671",
+   "slot_letter": "H",
+   "name": "M18-1.50 class 8 metric fine thread hex nut, zinc",
+   "price_cents": 239,
+   "upc": "738287736717",
+   "upc_source": "read_from_label",
+   "location": "Metric 30, slot H",
+   "label_short": "18mm x 1.50"
+  },
+  {
+   "sku": "73668",
+   "slot_letter": "J",
+   "name": "M20-1.50 class 8 metric fine thread hex nut, zinc",
+   "price_cents": 269,
+   "upc": "738287736687",
+   "upc_source": "read_from_label",
+   "location": "Metric 30, slot J",
+   "label_short": "20mm x 1.50",
+   "note": "On the label (5 front cells), but the tray's front row has only 4 compartments, so 20mm has no compartment of its own. The right-hand compartment (mapped to 18mm) holds the largest nuts and may hold the 20mm ones too."
+  }
+ ]
+}

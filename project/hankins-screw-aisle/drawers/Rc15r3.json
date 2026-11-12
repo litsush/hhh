@@ -1,0 +1,138 @@
+{
+ "id": "Rc15r3",
+ "wall": "right",
+ "column": 15,
+ "row": 3,
+ "half": null,
+ "title": "Bolts 74",
+ "description": "Galvanized 3/8-16 hex bolts (9/16 wrench), 1-1/2 to 6 inches long, SKUs 35141-35147.",
+ "front_image": "images/fronts/Rc15r3.jpg",
+ "tray_image": "images/trays/Rc15r3.jpg",
+ "tray_image_px": [
+  1200,
+  800
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0042,
+   "y0": 0.0,
+   "x1": 0.2542,
+   "y1": 0.2537
+  },
+  {
+   "item_index": 1,
+   "x0": 0.2542,
+   "y0": 0.0,
+   "x1": 0.625,
+   "y1": 0.2537
+  },
+  {
+   "item_index": 2,
+   "x0": 0.625,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.2537
+  },
+  {
+   "item_index": 3,
+   "x0": 0.0042,
+   "y0": 0.2537,
+   "x1": 0.3792,
+   "y1": 0.5
+  },
+  {
+   "item_index": 4,
+   "x0": 0.3792,
+   "y0": 0.2537,
+   "x1": 1.0,
+   "y1": 0.5
+  },
+  {
+   "item_index": 5,
+   "x0": 0.0,
+   "y0": 0.5,
+   "x1": 1.0,
+   "y1": 0.75
+  },
+  {
+   "item_index": 6,
+   "x0": 0.0,
+   "y0": 0.75,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "35141",
+   "slot_letter": "A",
+   "name": "3/8-16 x 1-1/2 galvanized hex bolt",
+   "price_cents": 89,
+   "upc": "738287351415",
+   "upc_source": "read_from_label",
+   "location": "Bolts 74, slot A",
+   "label_short": "3/8-16 x 1-1/2"
+  },
+  {
+   "sku": "35142",
+   "slot_letter": "B",
+   "name": "3/8-16 x 2 galvanized hex bolt",
+   "price_cents": 109,
+   "upc": "738287351422",
+   "upc_source": "read_from_label",
+   "location": "Bolts 74, slot B",
+   "label_short": "3/8-16 x 2"
+  },
+  {
+   "sku": "35143",
+   "slot_letter": "C",
+   "name": "3/8-16 x 2-1/2 galvanized hex bolt",
+   "price_cents": 129,
+   "upc": "738287351439",
+   "upc_source": "read_from_label",
+   "location": "Bolts 74, slot C",
+   "label_short": "3/8-16 x 2-1/2"
+  },
+  {
+   "sku": "35144",
+   "slot_letter": "D",
+   "name": "3/8-16 x 3 galvanized hex bolt",
+   "price_cents": 139,
+   "upc": "738287351446",
+   "upc_source": "read_from_label",
+   "location": "Bolts 74, slot D",
+   "label_short": "3/8-16 x 3"
+  },
+  {
+   "sku": "35145",
+   "slot_letter": "E",
+   "name": "3/8-16 x 4 galvanized hex bolt",
+   "price_cents": 159,
+   "upc": "738287351453",
+   "upc_source": "read_from_label",
+   "location": "Bolts 74, slot E",
+   "label_short": "3/8-16 x 4"
+  },
+  {
+   "sku": "35146",
+   "slot_letter": "F",
+   "name": "3/8-16 x 5 galvanized hex bolt",
+   "price_cents": 199,
+   "upc": "738287351460",
+   "upc_source": "read_from_label",
+   "location": "Bolts 74, slot F",
+   "label_short": "3/8-16 x 5"
+  },
+  {
+   "sku": "35147",
+   "slot_letter": "G",
+   "name": "3/8-16 x 6 galvanized hex bolt",
+   "price_cents": 219,
+   "upc": "738287351477",
+   "upc_source": "read_from_label",
+   "location": "Bolts 74, slot G",
+   "label_short": "3/8-16 x 6"
+  }
+ ]
+}

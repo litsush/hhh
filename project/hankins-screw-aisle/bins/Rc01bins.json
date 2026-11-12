@@ -1,0 +1,706 @@
+{
+ "id": "Rc01bins",
+ "wall": "right",
+ "kind": "bins",
+ "column": 1,
+ "row": 6,
+ "half": null,
+ "title": "Bins under right-wall column 01",
+ "description": "Metric class 8.8 hex cap screws in 6mm (10mm to 100mm long) and 8mm (12mm to 65mm), with metric hex nuts from 3mm to 10mm in the top bins.",
+ "front_image": null,
+ "tray_image": "images/bins/Rc01.jpg",
+ "tray_image_px": [
+  500,
+  1500
+ ],
+ "photo": "IMG_7734.jpg",
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.03,
+   "y0": 0.0033,
+   "x1": 0.27,
+   "y1": 0.1067
+  },
+  {
+   "item_index": 1,
+   "x0": 0.27,
+   "y0": 0.0033,
+   "x1": 0.51,
+   "y1": 0.1067
+  },
+  {
+   "item_index": 2,
+   "x0": 0.51,
+   "y0": 0.0033,
+   "x1": 0.73,
+   "y1": 0.1067
+  },
+  {
+   "item_index": 3,
+   "x0": 0.73,
+   "y0": 0.0033,
+   "x1": 0.95,
+   "y1": 0.1067
+  },
+  {
+   "item_index": 4,
+   "x0": 0.03,
+   "y0": 0.1067,
+   "x1": 0.27,
+   "y1": 0.2267
+  },
+  {
+   "item_index": 5,
+   "x0": 0.27,
+   "y0": 0.1067,
+   "x1": 0.51,
+   "y1": 0.2267
+  },
+  {
+   "item_index": 6,
+   "x0": 0.51,
+   "y0": 0.1067,
+   "x1": 0.73,
+   "y1": 0.2267
+  },
+  {
+   "item_index": 7,
+   "x0": 0.73,
+   "y0": 0.1067,
+   "x1": 0.95,
+   "y1": 0.2267
+  },
+  {
+   "item_index": 8,
+   "x0": 0.03,
+   "y0": 0.2267,
+   "x1": 0.27,
+   "y1": 0.3333
+  },
+  {
+   "item_index": 9,
+   "x0": 0.27,
+   "y0": 0.2267,
+   "x1": 0.51,
+   "y1": 0.3333
+  },
+  {
+   "item_index": 10,
+   "x0": 0.51,
+   "y0": 0.2267,
+   "x1": 0.73,
+   "y1": 0.3333
+  },
+  {
+   "item_index": 11,
+   "x0": 0.73,
+   "y0": 0.2267,
+   "x1": 0.95,
+   "y1": 0.3333
+  },
+  {
+   "item_index": 12,
+   "x0": 0.11,
+   "y0": 0.36,
+   "x1": 0.325,
+   "y1": 0.48
+  },
+  {
+   "item_index": 13,
+   "x0": 0.325,
+   "y0": 0.36,
+   "x1": 0.54,
+   "y1": 0.48
+  },
+  {
+   "item_index": 14,
+   "x0": 0.54,
+   "y0": 0.36,
+   "x1": 0.745,
+   "y1": 0.48
+  },
+  {
+   "item_index": 15,
+   "x0": 0.745,
+   "y0": 0.36,
+   "x1": 0.95,
+   "y1": 0.48
+  },
+  {
+   "item_index": 16,
+   "x0": 0.11,
+   "y0": 0.48,
+   "x1": 0.325,
+   "y1": 0.5867
+  },
+  {
+   "item_index": 17,
+   "x0": 0.325,
+   "y0": 0.48,
+   "x1": 0.54,
+   "y1": 0.5867
+  },
+  {
+   "item_index": 18,
+   "x0": 0.54,
+   "y0": 0.48,
+   "x1": 0.745,
+   "y1": 0.5867
+  },
+  {
+   "item_index": 19,
+   "x0": 0.745,
+   "y0": 0.48,
+   "x1": 0.95,
+   "y1": 0.5867
+  },
+  {
+   "item_index": 20,
+   "x0": 0.11,
+   "y0": 0.5867,
+   "x1": 0.325,
+   "y1": 0.69
+  },
+  {
+   "item_index": 21,
+   "x0": 0.325,
+   "y0": 0.5867,
+   "x1": 0.54,
+   "y1": 0.69
+  },
+  {
+   "item_index": 22,
+   "x0": 0.54,
+   "y0": 0.5867,
+   "x1": 0.745,
+   "y1": 0.69
+  },
+  {
+   "item_index": 23,
+   "x0": 0.745,
+   "y0": 0.5867,
+   "x1": 0.95,
+   "y1": 0.69
+  },
+  {
+   "item_index": 24,
+   "x0": 0.14,
+   "y0": 0.6933,
+   "x1": 0.345,
+   "y1": 0.82
+  },
+  {
+   "item_index": 25,
+   "x0": 0.345,
+   "y0": 0.6933,
+   "x1": 0.55,
+   "y1": 0.82
+  },
+  {
+   "item_index": 26,
+   "x0": 0.55,
+   "y0": 0.6933,
+   "x1": 0.745,
+   "y1": 0.82
+  },
+  {
+   "item_index": 27,
+   "x0": 0.745,
+   "y0": 0.6933,
+   "x1": 0.94,
+   "y1": 0.82
+  },
+  {
+   "item_index": 28,
+   "x0": 0.14,
+   "y0": 0.82,
+   "x1": 0.345,
+   "y1": 0.9167
+  },
+  {
+   "item_index": 29,
+   "x0": 0.345,
+   "y0": 0.82,
+   "x1": 0.55,
+   "y1": 0.9167
+  },
+  {
+   "item_index": 30,
+   "x0": 0.55,
+   "y0": 0.82,
+   "x1": 0.745,
+   "y1": 0.9167
+  },
+  {
+   "item_index": 31,
+   "x0": 0.745,
+   "y0": 0.82,
+   "x1": 0.94,
+   "y1": 0.9167
+  },
+  {
+   "item_index": 32,
+   "x0": 0.14,
+   "y0": 0.9167,
+   "x1": 0.345,
+   "y1": 1.0
+  },
+  {
+   "item_index": 33,
+   "x0": 0.345,
+   "y0": 0.9167,
+   "x1": 0.55,
+   "y1": 1.0
+  },
+  {
+   "item_index": 34,
+   "x0": 0.55,
+   "y0": 0.9167,
+   "x1": 0.745,
+   "y1": 1.0
+  },
+  {
+   "item_index": 35,
+   "x0": 0.745,
+   "y0": 0.9167,
+   "x1": 0.94,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "50419",
+   "slot_letter": null,
+   "name": "6mm x 10mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 10mm",
+   "price_cents": 36,
+   "box_price_cents": null,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50419",
+   "note": "Box price unreadable: dollars 9, cents too blurred (9.39 or 9.89)."
+  },
+  {
+   "sku": "50420",
+   "slot_letter": null,
+   "name": "6mm x 12mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 12mm",
+   "price_cents": 38,
+   "box_price_cents": 1089,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50420"
+  },
+  {
+   "sku": "06870",
+   "slot_letter": null,
+   "name": "3mm metric hex nut, 0.50 pitch, class 8",
+   "label_short": "3mm",
+   "price_cents": 23,
+   "box_price_cents": 799,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 06870"
+  },
+  {
+   "sku": "06871",
+   "slot_letter": null,
+   "name": "4mm metric hex nut, 0.70 pitch, class 8",
+   "label_short": "4mm",
+   "price_cents": 25,
+   "box_price_cents": 879,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 06871"
+  },
+  {
+   "sku": "50421",
+   "slot_letter": null,
+   "name": "6mm x 16mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 16mm",
+   "price_cents": 39,
+   "box_price_cents": 1059,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50421"
+  },
+  {
+   "sku": "50422",
+   "slot_letter": null,
+   "name": "6mm x 20mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 20mm",
+   "price_cents": 40,
+   "box_price_cents": 1099,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50422"
+  },
+  {
+   "sku": "06872",
+   "slot_letter": null,
+   "name": "5mm metric hex nut, 0.80 pitch, class 8",
+   "label_short": "5mm",
+   "price_cents": 26,
+   "box_price_cents": 999,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 06872"
+  },
+  {
+   "sku": "06873",
+   "slot_letter": null,
+   "name": "6mm metric hex nut, 1.00 pitch, class 8",
+   "label_short": "6mm",
+   "price_cents": 27,
+   "box_price_cents": 1099,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 06873"
+  },
+  {
+   "sku": "50423",
+   "slot_letter": null,
+   "name": "6mm x 25mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 25mm",
+   "price_cents": 41,
+   "box_price_cents": 1159,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50423"
+  },
+  {
+   "sku": "50424",
+   "slot_letter": null,
+   "name": "6mm x 30mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 30mm",
+   "price_cents": 44,
+   "box_price_cents": 1299,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50424"
+  },
+  {
+   "sku": "06875",
+   "slot_letter": null,
+   "name": "8mm metric hex nut, 1.25 pitch, class 8",
+   "label_short": "8mm",
+   "price_cents": 36,
+   "box_price_cents": 1799,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 06875"
+  },
+  {
+   "sku": "06876",
+   "slot_letter": null,
+   "name": "10mm metric hex nut, 1.50 pitch, class 8",
+   "label_short": "10mm",
+   "price_cents": 48,
+   "box_price_cents": 2799,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 06876"
+  },
+  {
+   "sku": "50425",
+   "slot_letter": null,
+   "name": "6mm x 35mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 35mm",
+   "price_cents": 46,
+   "box_price_cents": 1359,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50425"
+  },
+  {
+   "sku": "50426",
+   "slot_letter": null,
+   "name": "6mm x 40mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 40mm",
+   "price_cents": 52,
+   "box_price_cents": 1499,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50426"
+  },
+  {
+   "sku": "50441",
+   "slot_letter": null,
+   "name": "8mm x 12mm metric hex cap screw, 1.25 pitch, class 8.8",
+   "label_short": "8mm x 12mm",
+   "price_cents": 53,
+   "box_price_cents": 1499,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50441"
+  },
+  {
+   "sku": "50442",
+   "slot_letter": null,
+   "name": "8mm x 16mm metric hex cap screw, 1.25 pitch, class 8.8",
+   "label_short": "8mm x 16mm",
+   "price_cents": 55,
+   "box_price_cents": 1549,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50442"
+  },
+  {
+   "sku": "50427",
+   "slot_letter": null,
+   "name": "6mm x 45mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 45mm",
+   "price_cents": 60,
+   "box_price_cents": 1749,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50427"
+  },
+  {
+   "sku": "50428",
+   "slot_letter": null,
+   "name": "6mm x 50mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 50mm",
+   "price_cents": 69,
+   "box_price_cents": 1999,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50428"
+  },
+  {
+   "sku": "50443",
+   "slot_letter": null,
+   "name": "8mm x 20mm metric hex cap screw, 1.25 pitch, class 8.8",
+   "label_short": "8mm x 20mm",
+   "price_cents": 56,
+   "box_price_cents": 1649,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50443"
+  },
+  {
+   "sku": "50444",
+   "slot_letter": null,
+   "name": "8mm x 25mm metric hex cap screw, 1.25 pitch, class 8.8",
+   "label_short": "8mm x 25mm",
+   "price_cents": 57,
+   "box_price_cents": 1749,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50444"
+  },
+  {
+   "sku": "50429",
+   "slot_letter": null,
+   "name": "6mm x 55mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 55mm",
+   "price_cents": 75,
+   "box_price_cents": 2199,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50429"
+  },
+  {
+   "sku": "50430",
+   "slot_letter": null,
+   "name": "6mm x 60mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 60mm",
+   "price_cents": 85,
+   "box_price_cents": 2299,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50430"
+  },
+  {
+   "sku": "50445",
+   "slot_letter": null,
+   "name": "8mm x 30mm metric hex cap screw, 1.25 pitch, class 8.8",
+   "label_short": "8mm x 30mm",
+   "price_cents": 61,
+   "box_price_cents": 1849,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50445"
+  },
+  {
+   "sku": "50446",
+   "slot_letter": null,
+   "name": "8mm x 35mm metric hex cap screw, 1.25 pitch, class 8.8",
+   "label_short": "8mm x 35mm",
+   "price_cents": 66,
+   "box_price_cents": 1899,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50446"
+  },
+  {
+   "sku": "50431",
+   "slot_letter": null,
+   "name": "6mm x 65mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 65mm",
+   "price_cents": 95,
+   "box_price_cents": 2899,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50431"
+  },
+  {
+   "sku": "50432",
+   "slot_letter": null,
+   "name": "6mm x 70mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 70mm",
+   "price_cents": 99,
+   "box_price_cents": 2899,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50432"
+  },
+  {
+   "sku": "50447",
+   "slot_letter": null,
+   "name": "8mm x 40mm metric hex cap screw, 1.25 pitch, class 8.8",
+   "label_short": "8mm x 40mm",
+   "price_cents": 68,
+   "box_price_cents": 1949,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50447"
+  },
+  {
+   "sku": "50448",
+   "slot_letter": null,
+   "name": "8mm x 45mm metric hex cap screw, 1.25 pitch, class 8.8",
+   "label_short": "8mm x 45mm",
+   "price_cents": 85,
+   "box_price_cents": 2199,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50448"
+  },
+  {
+   "sku": "50433",
+   "slot_letter": null,
+   "name": "6mm x 75mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 75mm",
+   "price_cents": 115,
+   "box_price_cents": 3499,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50433"
+  },
+  {
+   "sku": "51286",
+   "slot_letter": null,
+   "name": "6mm x 80mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 80mm",
+   "price_cents": 119,
+   "box_price_cents": 3799,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51286"
+  },
+  {
+   "sku": "50449",
+   "slot_letter": null,
+   "name": "8mm x 50mm metric hex cap screw, 1.25 pitch, class 8.8",
+   "label_short": "8mm x 50mm",
+   "price_cents": 89,
+   "box_price_cents": 2599,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50449"
+  },
+  {
+   "sku": "50450",
+   "slot_letter": null,
+   "name": "8mm x 55mm metric hex cap screw, 1.25 pitch, class 8.8",
+   "label_short": "8mm x 55mm",
+   "price_cents": 105,
+   "box_price_cents": 1549,
+   "box_qty": 25,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50450"
+  },
+  {
+   "sku": "51287",
+   "slot_letter": null,
+   "name": "6mm x 90mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 90mm",
+   "price_cents": 135,
+   "box_price_cents": 2199,
+   "box_qty": 25,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51287"
+  },
+  {
+   "sku": "51288",
+   "slot_letter": null,
+   "name": "6mm x 100mm metric hex cap screw, 1.00 pitch, class 8.8",
+   "label_short": "6mm x 100mm",
+   "price_cents": 155,
+   "box_price_cents": 2499,
+   "box_qty": 25,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 51288"
+  },
+  {
+   "sku": "50451",
+   "slot_letter": null,
+   "name": "8mm x 60mm metric hex cap screw, 1.25 pitch, class 8.8",
+   "label_short": "8mm x 60mm",
+   "price_cents": 115,
+   "box_price_cents": 1649,
+   "box_qty": 25,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50451"
+  },
+  {
+   "sku": "50452",
+   "slot_letter": null,
+   "name": "8mm x 65mm metric hex cap screw, 1.25 pitch, class 8.8",
+   "label_short": "8mm x 65mm",
+   "price_cents": 129,
+   "box_price_cents": 1999,
+   "box_qty": 25,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 50452"
+  }
+ ]
+}

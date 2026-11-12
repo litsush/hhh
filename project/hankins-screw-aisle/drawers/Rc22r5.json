@@ -1,0 +1,241 @@
+{
+ "id": "Rc22r5",
+ "wall": "right",
+ "column": 22,
+ "row": 5,
+ "half": null,
+ "title": "Stainless 35",
+ "description": "Stainless steel hex nuts, coarse and fine thread, 6-32 to 3/4-10 (63800).",
+ "front_image": "images/fronts/Rc22r5.jpg",
+ "tray_image": "images/trays/Rc22r5.jpg",
+ "tray_image_px": [
+  1200,
+  640
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.125,
+   "y1": 0.4922
+  },
+  {
+   "item_index": 1,
+   "x0": 0.125,
+   "y0": 0.0,
+   "x1": 0.25,
+   "y1": 0.4922
+  },
+  {
+   "item_index": 2,
+   "x0": 0.25,
+   "y0": 0.0,
+   "x1": 0.375,
+   "y1": 0.4922
+  },
+  {
+   "item_index": 3,
+   "x0": 0.375,
+   "y0": 0.0,
+   "x1": 0.5333,
+   "y1": 0.4922
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5333,
+   "y0": 0.0,
+   "x1": 0.6542,
+   "y1": 0.4922
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6542,
+   "y0": 0.0,
+   "x1": 0.8167,
+   "y1": 0.4922
+  },
+  {
+   "item_index": 6,
+   "x0": 0.8167,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.4922
+  },
+  {
+   "item_index": 7,
+   "x0": 0.0,
+   "y0": 0.4922,
+   "x1": 0.15,
+   "y1": 1.0
+  },
+  {
+   "item_index": 8,
+   "x0": 0.15,
+   "y0": 0.4922,
+   "x1": 0.3167,
+   "y1": 1.0
+  },
+  {
+   "item_index": 9,
+   "x0": 0.3167,
+   "y0": 0.4922,
+   "x1": 0.4833,
+   "y1": 1.0
+  },
+  {
+   "item_index": 10,
+   "x0": 0.4833,
+   "y0": 0.4922,
+   "x1": 0.65,
+   "y1": 1.0
+  },
+  {
+   "item_index": 11,
+   "x0": 0.65,
+   "y0": 0.4922,
+   "x1": 0.825,
+   "y1": 1.0
+  },
+  {
+   "item_index": 12,
+   "x0": 0.825,
+   "y0": 0.4922,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "63801",
+   "slot_letter": "A",
+   "name": "6-32 coarse thread stainless steel hex nut",
+   "price_cents": 36,
+   "upc": "738287638011",
+   "upc_source": "read_from_label",
+   "location": "Stainless 35, slot A",
+   "label_short": "6-32",
+   "note": "Compartment holds a clear plastic bag; nuts are inside the bag rather than loose."
+  },
+  {
+   "sku": "63802",
+   "slot_letter": "B",
+   "name": "8-32 coarse thread stainless steel hex nut",
+   "price_cents": 39,
+   "upc": "738287638028",
+   "upc_source": "read_from_label",
+   "location": "Stainless 35, slot B",
+   "label_short": "8-32"
+  },
+  {
+   "sku": "63803",
+   "slot_letter": "C",
+   "name": "10-32 fine thread stainless steel hex nut",
+   "price_cents": 40,
+   "upc": "738287638035",
+   "upc_source": "read_from_label",
+   "location": "Stainless 35, slot C",
+   "label_short": "10-32"
+  },
+  {
+   "sku": "63804",
+   "slot_letter": "D",
+   "name": "10-24 coarse thread stainless steel hex nut",
+   "price_cents": 42,
+   "upc": "738287638042",
+   "upc_source": "read_from_label",
+   "location": "Stainless 35, slot D",
+   "label_short": "10-24"
+  },
+  {
+   "sku": "63814",
+   "slot_letter": "M",
+   "name": "12-24 coarse thread stainless steel hex nut",
+   "price_cents": 46,
+   "upc": "738287638141",
+   "upc_source": "read_from_label",
+   "location": "Stainless 35, slot M",
+   "label_short": "12-24"
+  },
+  {
+   "sku": "63805",
+   "slot_letter": "E",
+   "name": "1/4-20 coarse thread stainless steel hex nut",
+   "price_cents": 48,
+   "upc": "738287638059",
+   "upc_source": "read_from_label",
+   "location": "Stainless 35, slot E",
+   "label_short": "1/4-20"
+  },
+  {
+   "sku": "63806",
+   "slot_letter": "F",
+   "name": "5/16-18 coarse thread stainless steel hex nut",
+   "price_cents": 65,
+   "upc": "738287638066",
+   "upc_source": "read_from_label",
+   "location": "Stainless 35, slot F",
+   "label_short": "5/16-18"
+  },
+  {
+   "sku": "63807",
+   "slot_letter": "G",
+   "name": "3/8-16 coarse thread stainless steel hex nut",
+   "price_cents": 69,
+   "upc": "738287638073",
+   "upc_source": "read_from_label",
+   "location": "Stainless 35, slot G",
+   "label_short": "3/8-16"
+  },
+  {
+   "sku": "63808",
+   "slot_letter": "H",
+   "name": "7/16-14 coarse thread stainless steel hex nut",
+   "price_cents": 89,
+   "upc": "738287638080",
+   "upc_source": "read_from_label",
+   "location": "Stainless 35, slot H",
+   "label_short": "7/16-14"
+  },
+  {
+   "sku": "63811",
+   "slot_letter": "J",
+   "name": "1/2-13 coarse thread stainless steel hex nut",
+   "price_cents": 115,
+   "upc": "738287638110",
+   "upc_source": "read_from_label",
+   "location": "Stainless 35, slot J",
+   "label_short": "1/2-13"
+  },
+  {
+   "sku": "63815",
+   "slot_letter": "N",
+   "name": "9/16-12 coarse thread stainless steel hex nut",
+   "price_cents": 219,
+   "upc": "738287638158",
+   "upc_source": "read_from_label",
+   "location": "Stainless 35, slot N",
+   "label_short": "9/16-12"
+  },
+  {
+   "sku": "63812",
+   "slot_letter": "K",
+   "name": "5/8-11 coarse thread stainless steel hex nut",
+   "price_cents": 195,
+   "upc": "738287638127",
+   "upc_source": "read_from_label",
+   "location": "Stainless 35, slot K",
+   "label_short": "5/8-11"
+  },
+  {
+   "sku": "63813",
+   "slot_letter": "L",
+   "name": "3/4-10 coarse thread stainless steel hex nut",
+   "price_cents": 299,
+   "upc": "738287638134",
+   "upc_source": "read_from_label",
+   "location": "Stainless 35, slot L",
+   "label_short": "3/4-10"
+  }
+ ]
+}

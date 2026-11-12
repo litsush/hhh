@@ -1,0 +1,378 @@
+{
+ "id": "Rc02r3",
+ "wall": "right",
+ "column": 2,
+ "row": 3,
+ "half": null,
+ "title": "Metric 26 and Metric 27",
+ "description": "Metric hex cap screws, class 8.8 zinc, M12 fine (1.50 pitch, 20 to 100mm, 73600) and extra fine (1.25 pitch, 25 to 120mm, 73580)",
+ "front_image": "images/fronts/Rc02r3.jpg",
+ "tray_image": "images/trays/Rc02r3.jpg",
+ "tray_image_px": [
+  1200,
+  1000
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0,
+   "y0": 0.0,
+   "x1": 0.135,
+   "y1": 0.198
+  },
+  {
+   "item_index": 1,
+   "x0": 0.135,
+   "y0": 0.0,
+   "x1": 0.255,
+   "y1": 0.198
+  },
+  {
+   "item_index": 2,
+   "x0": 0.255,
+   "y0": 0.0,
+   "x1": 0.37,
+   "y1": 0.198
+  },
+  {
+   "item_index": 3,
+   "x0": 0.37,
+   "y0": 0.0,
+   "x1": 0.47,
+   "y1": 0.324
+  },
+  {
+   "item_index": 4,
+   "x0": 0.47,
+   "y0": 0.0,
+   "x1": 0.59,
+   "y1": 0.324
+  },
+  {
+   "item_index": 5,
+   "x0": 0.59,
+   "y0": 0.0,
+   "x1": 0.69,
+   "y1": 0.324
+  },
+  {
+   "item_index": 6,
+   "x0": 0.69,
+   "y0": 0.0,
+   "x1": 0.82,
+   "y1": 0.324
+  },
+  {
+   "item_index": 7,
+   "x0": 0.82,
+   "y0": 0.0,
+   "x1": 1.0,
+   "y1": 0.324
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0,
+   "y0": 0.198,
+   "x1": 0.37,
+   "y1": 0.306
+  },
+  {
+   "item_index": 9,
+   "x0": 0.0,
+   "y0": 0.306,
+   "x1": 0.37,
+   "y1": 0.432
+  },
+  {
+   "item_index": 10,
+   "x0": 0.37,
+   "y0": 0.324,
+   "x1": 1.0,
+   "y1": 0.432
+  },
+  {
+   "item_index": 11,
+   "x0": 0.0,
+   "y0": 0.432,
+   "x1": 0.265,
+   "y1": 0.564
+  },
+  {
+   "item_index": 12,
+   "x0": 0.265,
+   "y0": 0.432,
+   "x1": 0.505,
+   "y1": 0.564
+  },
+  {
+   "item_index": 13,
+   "x0": 0.505,
+   "y0": 0.432,
+   "x1": 0.75,
+   "y1": 0.564
+  },
+  {
+   "item_index": 14,
+   "x0": 0.75,
+   "y0": 0.432,
+   "x1": 1.0,
+   "y1": 0.564
+  },
+  {
+   "item_index": 15,
+   "x0": 0.0,
+   "y0": 0.564,
+   "x1": 0.39,
+   "y1": 0.702
+  },
+  {
+   "item_index": 18,
+   "x0": 0.39,
+   "y0": 0.564,
+   "x1": 1.0,
+   "y1": 0.702
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0,
+   "y0": 0.702,
+   "x1": 0.405,
+   "y1": 0.84
+  },
+  {
+   "item_index": 19,
+   "x0": 0.405,
+   "y0": 0.702,
+   "x1": 1.0,
+   "y1": 0.84
+  },
+  {
+   "item_index": 17,
+   "x0": 0.0,
+   "y0": 0.84,
+   "x1": 0.415,
+   "y1": 1.0
+  },
+  {
+   "item_index": 20,
+   "x0": 0.415,
+   "y0": 0.84,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "73601",
+   "slot_letter": "A",
+   "name": "M12-1.50 x 20mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 329,
+   "upc": "738287736014",
+   "upc_source": "read_from_label",
+   "location": "Metric 26, slot A",
+   "label_short": "12mm x 20mm"
+  },
+  {
+   "sku": "73602",
+   "slot_letter": "B",
+   "name": "M12-1.50 x 30mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 389,
+   "upc": "738287736021",
+   "upc_source": "read_from_label",
+   "location": "Metric 26, slot B",
+   "label_short": "12mm x 30mm",
+   "note": "Compartment is empty."
+  },
+  {
+   "sku": "73603",
+   "slot_letter": "C",
+   "name": "M12-1.50 x 40mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 429,
+   "upc": "738287736038",
+   "upc_source": "read_from_label",
+   "location": "Metric 26, slot C",
+   "label_short": "12mm x 40mm"
+  },
+  {
+   "sku": "73604",
+   "slot_letter": "D",
+   "name": "M12-1.50 x 50mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 469,
+   "upc": "738287736045",
+   "upc_source": "read_from_label",
+   "location": "Metric 26, slot D",
+   "label_short": "12mm x 50mm"
+  },
+  {
+   "sku": "73605",
+   "slot_letter": "E",
+   "name": "M12-1.50 x 55mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 499,
+   "upc": "738287736052",
+   "upc_source": "read_from_label",
+   "location": "Metric 26, slot E",
+   "label_short": "12mm x 55mm"
+  },
+  {
+   "sku": "73606",
+   "slot_letter": "F",
+   "name": "M12-1.50 x 60mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 579,
+   "upc": "738287736069",
+   "upc_source": "read_from_label",
+   "location": "Metric 26, slot F",
+   "label_short": "12mm x 60mm"
+  },
+  {
+   "sku": "73607",
+   "slot_letter": "G",
+   "name": "M12-1.50 x 65mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 599,
+   "upc": "738287736076",
+   "upc_source": "read_from_label",
+   "location": "Metric 26, slot G",
+   "label_short": "12mm x 65mm"
+  },
+  {
+   "sku": "73608",
+   "slot_letter": "H",
+   "name": "M12-1.50 x 75mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 619,
+   "upc": "738287736083",
+   "upc_source": "read_from_label",
+   "location": "Metric 26, slot H",
+   "label_short": "12mm x 75mm"
+  },
+  {
+   "sku": "73611",
+   "slot_letter": "J",
+   "name": "M12-1.50 x 80mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 639,
+   "upc": "738287736113",
+   "upc_source": "read_from_label",
+   "location": "Metric 26, slot J",
+   "label_short": "12mm x 80mm"
+  },
+  {
+   "sku": "73612",
+   "slot_letter": "K",
+   "name": "M12-1.50 x 90mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 679,
+   "upc": "738287736120",
+   "upc_source": "read_from_label",
+   "location": "Metric 26, slot K",
+   "label_short": "12mm x 90mm"
+  },
+  {
+   "sku": "73613",
+   "slot_letter": "L",
+   "name": "M12-1.50 x 100mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 739,
+   "upc": "738287736137",
+   "upc_source": "read_from_label",
+   "location": "Metric 26, slot L",
+   "label_short": "12mm x 100mm"
+  },
+  {
+   "sku": "73581",
+   "slot_letter": "A",
+   "name": "M12-1.25 x 25mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 349,
+   "upc": "738287735819",
+   "upc_source": "read_from_label",
+   "location": "Metric 27, slot A",
+   "label_short": "12mm x 25mm"
+  },
+  {
+   "sku": "73582",
+   "slot_letter": "B",
+   "name": "M12-1.25 x 30mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 399,
+   "upc": "738287735826",
+   "upc_source": "read_from_label",
+   "location": "Metric 27, slot B",
+   "label_short": "12mm x 30mm"
+  },
+  {
+   "sku": "73583",
+   "slot_letter": "C",
+   "name": "M12-1.25 x 35mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 419,
+   "upc": "738287735833",
+   "upc_source": "read_from_label",
+   "location": "Metric 27, slot C",
+   "label_short": "12mm x 35mm"
+  },
+  {
+   "sku": "73584",
+   "slot_letter": "D",
+   "name": "M12-1.25 x 40mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 449,
+   "upc": "738287735840",
+   "upc_source": "read_from_label",
+   "location": "Metric 27, slot D",
+   "label_short": "12mm x 40mm"
+  },
+  {
+   "sku": "73585",
+   "slot_letter": "E",
+   "name": "M12-1.25 x 50mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 499,
+   "upc": "738287735857",
+   "upc_source": "read_from_label",
+   "location": "Metric 27, slot E",
+   "label_short": "12mm x 50mm"
+  },
+  {
+   "sku": "73586",
+   "slot_letter": "F",
+   "name": "M12-1.25 x 60mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 579,
+   "upc": "738287735864",
+   "upc_source": "read_from_label",
+   "location": "Metric 27, slot F",
+   "label_short": "12mm x 60mm"
+  },
+  {
+   "sku": "73587",
+   "slot_letter": "G",
+   "name": "M12-1.25 x 80mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 639,
+   "upc": "738287735871",
+   "upc_source": "read_from_label",
+   "location": "Metric 27, slot G",
+   "label_short": "12mm x 80mm"
+  },
+  {
+   "sku": "73588",
+   "slot_letter": "H",
+   "name": "M12-1.25 x 100mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 739,
+   "upc": "738287735888",
+   "upc_source": "read_from_label",
+   "location": "Metric 27, slot H",
+   "label_short": "12mm x 100mm"
+  },
+  {
+   "sku": "73591",
+   "slot_letter": "J",
+   "name": "M12-1.25 x 110mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 779,
+   "upc": "738287735918",
+   "upc_source": "read_from_label",
+   "location": "Metric 27, slot J",
+   "label_short": "12mm x 110mm",
+   "note": "First digit of the price is covered by a scuff on the label; read as $7.79 (fits between $7.39 and $8.19). Compartment also holds one yellow-zinc bolt."
+  },
+  {
+   "sku": "73592",
+   "slot_letter": "K",
+   "name": "M12-1.25 x 120mm class 8.8 metric hex cap screw, zinc",
+   "price_cents": 819,
+   "upc": "738287735925",
+   "upc_source": "read_from_label",
+   "location": "Metric 27, slot K",
+   "label_short": "12mm x 120mm"
+  }
+ ]
+}

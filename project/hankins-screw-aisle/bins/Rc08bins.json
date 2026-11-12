@@ -1,0 +1,594 @@
+{
+ "id": "Rc08bins",
+ "wall": "right",
+ "kind": "bins",
+ "column": 8,
+ "row": 6,
+ "half": null,
+ "title": "Bins under right-wall column 08",
+ "description": "Phillips pan head sheet metal screws #8 to #12 (with one combo pan #8 x 2 and a #8 x 1-3/4 with a blank head-type bar).",
+ "front_image": null,
+ "tray_image": "images/bins/Rc08.jpg",
+ "tray_image_px": [
+  500,
+  1500
+ ],
+ "photo": "IMG_7737.jpg",
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.038,
+   "y0": 0.0147,
+   "x1": 0.278,
+   "y1": 0.1027
+  },
+  {
+   "item_index": 1,
+   "x0": 0.278,
+   "y0": 0.0147,
+   "x1": 0.518,
+   "y1": 0.1027
+  },
+  {
+   "item_index": 2,
+   "x0": 0.51,
+   "y0": 0.0147,
+   "x1": 0.744,
+   "y1": 0.1027
+  },
+  {
+   "item_index": 3,
+   "x0": 0.744,
+   "y0": 0.0147,
+   "x1": 0.976,
+   "y1": 0.1027
+  },
+  {
+   "item_index": 4,
+   "x0": 0.038,
+   "y0": 0.1073,
+   "x1": 0.278,
+   "y1": 0.21
+  },
+  {
+   "item_index": 5,
+   "x0": 0.278,
+   "y0": 0.1073,
+   "x1": 0.518,
+   "y1": 0.21
+  },
+  {
+   "item_index": 6,
+   "x0": 0.51,
+   "y0": 0.1073,
+   "x1": 0.976,
+   "y1": 0.21
+  },
+  {
+   "item_index": 7,
+   "x0": 0.038,
+   "y0": 0.2147,
+   "x1": 0.278,
+   "y1": 0.32
+  },
+  {
+   "item_index": 8,
+   "x0": 0.278,
+   "y0": 0.2147,
+   "x1": 0.518,
+   "y1": 0.32
+  },
+  {
+   "item_index": 9,
+   "x0": 0.51,
+   "y0": 0.2147,
+   "x1": 0.976,
+   "y1": 0.32
+  },
+  {
+   "item_index": 10,
+   "x0": 0.044,
+   "y0": 0.35,
+   "x1": 0.272,
+   "y1": 0.45
+  },
+  {
+   "item_index": 11,
+   "x0": 0.272,
+   "y0": 0.35,
+   "x1": 0.502,
+   "y1": 0.45
+  },
+  {
+   "item_index": 12,
+   "x0": 0.502,
+   "y0": 0.35,
+   "x1": 0.732,
+   "y1": 0.45
+  },
+  {
+   "item_index": 13,
+   "x0": 0.732,
+   "y0": 0.35,
+   "x1": 0.96,
+   "y1": 0.45
+  },
+  {
+   "item_index": 14,
+   "x0": 0.044,
+   "y0": 0.4553,
+   "x1": 0.502,
+   "y1": 0.5553
+  },
+  {
+   "item_index": 15,
+   "x0": 0.502,
+   "y0": 0.4553,
+   "x1": 0.732,
+   "y1": 0.5553
+  },
+  {
+   "item_index": 16,
+   "x0": 0.732,
+   "y0": 0.4553,
+   "x1": 0.96,
+   "y1": 0.5553
+  },
+  {
+   "item_index": 17,
+   "x0": 0.044,
+   "y0": 0.56,
+   "x1": 0.502,
+   "y1": 0.6673
+  },
+  {
+   "item_index": 18,
+   "x0": 0.502,
+   "y0": 0.56,
+   "x1": 0.732,
+   "y1": 0.6673
+  },
+  {
+   "item_index": 19,
+   "x0": 0.732,
+   "y0": 0.56,
+   "x1": 0.96,
+   "y1": 0.6673
+  },
+  {
+   "item_index": 20,
+   "x0": 0.044,
+   "y0": 0.6953,
+   "x1": 0.272,
+   "y1": 0.7973
+  },
+  {
+   "item_index": 21,
+   "x0": 0.272,
+   "y0": 0.6953,
+   "x1": 0.502,
+   "y1": 0.7973
+  },
+  {
+   "item_index": 22,
+   "x0": 0.502,
+   "y0": 0.6953,
+   "x1": 0.96,
+   "y1": 0.7973
+  },
+  {
+   "item_index": 23,
+   "x0": 0.044,
+   "y0": 0.8,
+   "x1": 0.272,
+   "y1": 0.9273
+  },
+  {
+   "item_index": 24,
+   "x0": 0.272,
+   "y0": 0.8,
+   "x1": 0.502,
+   "y1": 0.9273
+  },
+  {
+   "item_index": 25,
+   "x0": 0.502,
+   "y0": 0.8,
+   "x1": 0.96,
+   "y1": 0.9053
+  },
+  {
+   "item_index": 26,
+   "x0": 0.044,
+   "y0": 0.93,
+   "x1": 0.272,
+   "y1": 0.9993
+  },
+  {
+   "item_index": 27,
+   "x0": 0.272,
+   "y0": 0.93,
+   "x1": 0.502,
+   "y1": 0.9993
+  },
+  {
+   "item_index": 28,
+   "x0": 0.502,
+   "y0": 0.9073,
+   "x1": 0.96,
+   "y1": 0.9993
+  }
+ ],
+ "items": [
+  {
+   "sku": "03238",
+   "slot_letter": null,
+   "name": "#8 x 1/2 Phillips pan head sheet metal screw",
+   "label_short": "8 x 1/2",
+   "price_cents": 23,
+   "box_price_cents": 779,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03238",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03239",
+   "slot_letter": null,
+   "name": "#8 x 5/8 Phillips pan head sheet metal screw",
+   "label_short": "8 x 5/8",
+   "price_cents": 24,
+   "box_price_cents": 799,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03239",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03274",
+   "slot_letter": null,
+   "name": "#10 x 1-3/4 Phillips pan head sheet metal screw",
+   "label_short": "10 x 1-3/4",
+   "price_cents": 33,
+   "box_price_cents": 1549,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03274",
+   "note": "SKU blurred, read as 03274. Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "",
+   "slot_letter": null,
+   "name": "#10 x 2 Phillips pan head sheet metal screw",
+   "label_short": "10 x 2",
+   "price_cents": 34,
+   "box_price_cents": null,
+   "box_qty": null,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin (SKU unreadable), row 1 right, right label",
+   "note": "SKU unreadable (blurred); box price blurred (15.xx). Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03240",
+   "slot_letter": null,
+   "name": "#8 x 3/4 Phillips pan head sheet metal screw",
+   "label_short": "8 x 3/4",
+   "price_cents": 24,
+   "box_price_cents": 859,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03240",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03242",
+   "slot_letter": null,
+   "name": "#8 x 1 Phillips pan head sheet metal screw",
+   "label_short": "8 x 1",
+   "price_cents": 25,
+   "box_price_cents": 939,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03242",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03276",
+   "slot_letter": null,
+   "name": "#10 x 2-1/2 Phillips pan head sheet metal screw",
+   "label_short": "10 x 2-1/2",
+   "price_cents": 42,
+   "box_price_cents": 2199,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03276"
+  },
+  {
+   "sku": "03243",
+   "slot_letter": null,
+   "name": "#8 x 1-1/4 Phillips pan head sheet metal screw",
+   "label_short": "8 x 1-1/4",
+   "price_cents": 27,
+   "box_price_cents": 1059,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03243",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03244",
+   "slot_letter": null,
+   "name": "#8 x 1-1/2 Phillips pan head sheet metal screw",
+   "label_short": "8 x 1-1/2",
+   "price_cents": 29,
+   "box_price_cents": 1199,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03244",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03277",
+   "slot_letter": null,
+   "name": "#10 x 3 Phillips pan head sheet metal screw",
+   "label_short": "10 x 3",
+   "price_cents": 50,
+   "box_price_cents": 2699,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03277"
+  },
+  {
+   "sku": "03181",
+   "slot_letter": null,
+   "name": "#8 x 1-3/4 pan head sheet metal screw",
+   "label_short": "8 x 1-3/4",
+   "price_cents": 32,
+   "box_price_cents": 1499,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03181",
+   "note": "Head-type bar on this half of the strip is blank; the picture shows pan heads. Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03245",
+   "slot_letter": null,
+   "name": "#8 x 2 combo (Phillips/slotted) pan head sheet metal screw",
+   "label_short": "8 x 2",
+   "price_cents": 33,
+   "box_price_cents": 1549,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03245",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03254",
+   "slot_letter": null,
+   "name": "#12 x 1/2 Phillips pan head sheet metal screw",
+   "label_short": "12 x 1/2",
+   "price_cents": 29,
+   "box_price_cents": 1199,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03254",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03255",
+   "slot_letter": null,
+   "name": "#12 x 5/8 Phillips pan head sheet metal screw",
+   "label_short": "12 x 5/8",
+   "price_cents": 30,
+   "box_price_cents": 1299,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03255",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03273",
+   "slot_letter": null,
+   "name": "#8 x 2-1/2 Phillips pan head sheet metal screw",
+   "label_short": "8 x 2-1/2",
+   "price_cents": 39,
+   "box_price_cents": 2099,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03273"
+  },
+  {
+   "sku": "03256",
+   "slot_letter": null,
+   "name": "#12 x 3/4 Phillips pan head sheet metal screw",
+   "label_short": "12 x 3/4",
+   "price_cents": 31,
+   "box_price_cents": 1359,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03256",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03257",
+   "slot_letter": null,
+   "name": "#12 x 1 Phillips pan head sheet metal screw",
+   "label_short": "12 x 1",
+   "price_cents": 32,
+   "box_price_cents": 1499,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03257",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03275",
+   "slot_letter": null,
+   "name": "#8 x 3 Phillips pan head sheet metal screw",
+   "label_short": "8 x 3",
+   "price_cents": 47,
+   "box_price_cents": 2599,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03275"
+  },
+  {
+   "sku": "03258",
+   "slot_letter": null,
+   "name": "#12 x 1-1/4 Phillips pan head sheet metal screw",
+   "label_short": "12 x 1-1/4",
+   "price_cents": 33,
+   "box_price_cents": 1549,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03258",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03259",
+   "slot_letter": null,
+   "name": "#12 x 1-1/2 Phillips pan head sheet metal screw",
+   "label_short": "12 x 1-1/2",
+   "price_cents": 34,
+   "box_price_cents": 1649,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03259",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03246",
+   "slot_letter": null,
+   "name": "#10 x 3/8 Phillips pan head sheet metal screw",
+   "label_short": "10 x 3/8",
+   "price_cents": 24,
+   "box_price_cents": 839,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03246",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03247",
+   "slot_letter": null,
+   "name": "#10 x 1/2 Phillips pan head sheet metal screw",
+   "label_short": "10 x 1/2",
+   "price_cents": 24,
+   "box_price_cents": 879,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03247",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03260",
+   "slot_letter": null,
+   "name": "#12 x 2 Phillips pan head sheet metal screw",
+   "label_short": "12 x 2",
+   "price_cents": 41,
+   "box_price_cents": 2199,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03260"
+  },
+  {
+   "sku": "03249",
+   "slot_letter": null,
+   "name": "#10 x 3/4 Phillips pan head sheet metal screw",
+   "label_short": "10 x 3/4",
+   "price_cents": 25,
+   "box_price_cents": 939,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03249",
+   "note": "Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03250",
+   "slot_letter": null,
+   "name": "#10 x 1 Phillips pan head sheet metal screw",
+   "label_short": "10 x 1",
+   "price_cents": 27,
+   "box_price_cents": 1059,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03250",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03261",
+   "slot_letter": null,
+   "name": "#12 x 2-1/2 Phillips pan head sheet metal screw",
+   "label_short": "12 x 2-1/2",
+   "price_cents": 53,
+   "box_price_cents": 2999,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03261"
+  },
+  {
+   "sku": "03251",
+   "slot_letter": null,
+   "name": "#10 x 1-1/4 Phillips pan head sheet metal screw",
+   "label_short": "10 x 1-1/4",
+   "price_cents": 29,
+   "box_price_cents": 1199,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03251",
+   "note": "This bin hangs lower than its neighbours; its label runs past the bottom edge of the straightened image. Bin is split in two; this is the left half, sharing one label strip."
+  },
+  {
+   "sku": "03252",
+   "slot_letter": null,
+   "name": "#10 x 1-1/2 Phillips pan head sheet metal screw",
+   "label_short": "10 x 1-1/2",
+   "price_cents": 31,
+   "box_price_cents": 1459,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03252",
+   "note": "Bin is split in two; this is the right half, sharing one label strip."
+  },
+  {
+   "sku": "03262",
+   "slot_letter": null,
+   "name": "#12 x 3 Phillips pan head sheet metal screw",
+   "label_short": "12 x 3",
+   "price_cents": 60,
+   "box_price_cents": 3399,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03262"
+  }
+ ]
+}

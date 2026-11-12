@@ -1,0 +1,445 @@
+{
+ "id": "Rc07r5",
+ "wall": "right",
+ "column": 7,
+ "row": 5,
+ "half": null,
+ "title": "Metric 92 and Metric 93",
+ "description": "Black metric socket set screws, M4 x 5mm to M8 x 12mm (62500), and metric hex keys 1.5mm to 10mm (62420)",
+ "front_image": "images/fronts/Rc07r5.jpg",
+ "tray_image": "images/trays/Rc07r5.jpg",
+ "tray_image_px": [
+  1200,
+  900
+ ],
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.0083,
+   "y0": 0.0,
+   "x1": 0.1375,
+   "y1": 0.2389
+  },
+  {
+   "item_index": 1,
+   "x0": 0.1375,
+   "y0": 0.0,
+   "x1": 0.2583,
+   "y1": 0.2389
+  },
+  {
+   "item_index": 2,
+   "x0": 0.2583,
+   "y0": 0.0,
+   "x1": 0.3792,
+   "y1": 0.2389
+  },
+  {
+   "item_index": 3,
+   "x0": 0.3792,
+   "y0": 0.0,
+   "x1": 0.5,
+   "y1": 0.2389
+  },
+  {
+   "item_index": 4,
+   "x0": 0.5,
+   "y0": 0.0,
+   "x1": 0.6208,
+   "y1": 0.2389
+  },
+  {
+   "item_index": 5,
+   "x0": 0.6208,
+   "y0": 0.0,
+   "x1": 0.7375,
+   "y1": 0.2389
+  },
+  {
+   "item_index": 6,
+   "x0": 0.7375,
+   "y0": 0.0,
+   "x1": 0.8542,
+   "y1": 0.2389
+  },
+  {
+   "item_index": 7,
+   "x0": 0.8542,
+   "y0": 0.0,
+   "x1": 0.9792,
+   "y1": 0.2389
+  },
+  {
+   "item_index": 8,
+   "x0": 0.0042,
+   "y0": 0.2389,
+   "x1": 0.1333,
+   "y1": 0.4833
+  },
+  {
+   "item_index": 9,
+   "x0": 0.1333,
+   "y0": 0.2389,
+   "x1": 0.2542,
+   "y1": 0.4833
+  },
+  {
+   "item_index": 10,
+   "x0": 0.2542,
+   "y0": 0.2389,
+   "x1": 0.3792,
+   "y1": 0.4833
+  },
+  {
+   "item_index": 11,
+   "x0": 0.3792,
+   "y0": 0.2389,
+   "x1": 0.5,
+   "y1": 0.4833
+  },
+  {
+   "item_index": 12,
+   "x0": 0.5,
+   "y0": 0.2389,
+   "x1": 0.6208,
+   "y1": 0.4833
+  },
+  {
+   "item_index": 13,
+   "x0": 0.6208,
+   "y0": 0.2389,
+   "x1": 0.7375,
+   "y1": 0.4833
+  },
+  {
+   "item_index": 14,
+   "x0": 0.7375,
+   "y0": 0.2389,
+   "x1": 0.8542,
+   "y1": 0.4833
+  },
+  {
+   "item_index": 15,
+   "x0": 0.8542,
+   "y0": 0.2389,
+   "x1": 0.9833,
+   "y1": 0.4833
+  },
+  {
+   "item_index": 16,
+   "x0": 0.0042,
+   "y0": 0.4833,
+   "x1": 0.2583,
+   "y1": 0.6111
+  },
+  {
+   "item_index": 17,
+   "x0": 0.2583,
+   "y0": 0.4833,
+   "x1": 0.5,
+   "y1": 0.6111
+  },
+  {
+   "item_index": 18,
+   "x0": 0.5,
+   "y0": 0.4833,
+   "x1": 0.7417,
+   "y1": 0.6111
+  },
+  {
+   "item_index": 19,
+   "x0": 0.7417,
+   "y0": 0.4833,
+   "x1": 0.9917,
+   "y1": 0.6111
+  },
+  {
+   "item_index": 20,
+   "x0": 0.0,
+   "y0": 0.6111,
+   "x1": 0.1708,
+   "y1": 1.0
+  },
+  {
+   "item_index": 21,
+   "x0": 0.1708,
+   "y0": 0.6111,
+   "x1": 0.3375,
+   "y1": 1.0
+  },
+  {
+   "item_index": 22,
+   "x0": 0.3375,
+   "y0": 0.6111,
+   "x1": 0.5,
+   "y1": 1.0
+  },
+  {
+   "item_index": 23,
+   "x0": 0.5,
+   "y0": 0.6111,
+   "x1": 1.0,
+   "y1": 0.7778
+  },
+  {
+   "item_index": 24,
+   "x0": 0.5,
+   "y0": 0.7778,
+   "x1": 1.0,
+   "y1": 1.0
+  }
+ ],
+ "items": [
+  {
+   "sku": "62501",
+   "slot_letter": "A",
+   "name": "M4-0.70 x 5mm socket set screw, black oxide",
+   "price_cents": 40,
+   "upc": "738287625011",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot A",
+   "label_short": "4mm x 5mm"
+  },
+  {
+   "sku": "62502",
+   "slot_letter": "B",
+   "name": "M4-0.70 x 6mm socket set screw, black oxide",
+   "price_cents": 41,
+   "upc": "738287625028",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot B",
+   "label_short": "4mm x 6mm"
+  },
+  {
+   "sku": "62503",
+   "slot_letter": "C",
+   "name": "M4-0.70 x 8mm socket set screw, black oxide",
+   "price_cents": 44,
+   "upc": "738287625035",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot C",
+   "label_short": "4mm x 8mm"
+  },
+  {
+   "sku": "62504",
+   "slot_letter": "D",
+   "name": "M4-0.70 x 10mm socket set screw, black oxide",
+   "price_cents": 45,
+   "upc": "738287625042",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot D",
+   "label_short": "4mm x 10mm"
+  },
+  {
+   "sku": "62505",
+   "slot_letter": "E",
+   "name": "M5-0.80 x 5mm socket set screw, black oxide",
+   "price_cents": 44,
+   "upc": "738287625059",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot E",
+   "label_short": "5mm x 5mm",
+   "note": "Compartment holds a plastic bag; no loose set screws visible."
+  },
+  {
+   "sku": "62506",
+   "slot_letter": "F",
+   "name": "M5-0.80 x 6mm socket set screw, black oxide",
+   "price_cents": 45,
+   "upc": "738287625066",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot F",
+   "label_short": "5mm x 6mm"
+  },
+  {
+   "sku": "62507",
+   "slot_letter": "G",
+   "name": "M5-0.80 x 8mm socket set screw, black oxide",
+   "price_cents": 46,
+   "upc": "738287625073",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot G",
+   "label_short": "5mm x 8mm"
+  },
+  {
+   "sku": "62508",
+   "slot_letter": "H",
+   "name": "M5-0.80 x 10mm socket set screw, black oxide",
+   "price_cents": 49,
+   "upc": "738287625080",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot H",
+   "label_short": "5mm x 10mm"
+  },
+  {
+   "sku": "62511",
+   "slot_letter": "J",
+   "name": "M5-0.80 x 12mm socket set screw, black oxide",
+   "price_cents": 50,
+   "upc": "738287625110",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot J",
+   "label_short": "5mm x 12mm"
+  },
+  {
+   "sku": "62512",
+   "slot_letter": "K",
+   "name": "M6-1.00 x 6mm socket set screw, black oxide",
+   "price_cents": 43,
+   "upc": "738287625127",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot K",
+   "label_short": "6mm x 6mm"
+  },
+  {
+   "sku": "62513",
+   "slot_letter": "L",
+   "name": "M6-1.00 x 8mm socket set screw, black oxide",
+   "price_cents": 46,
+   "upc": "738287625134",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot L",
+   "label_short": "6mm x 8mm"
+  },
+  {
+   "sku": "62514",
+   "slot_letter": "M",
+   "name": "M6-1.00 x 10mm socket set screw, black oxide",
+   "price_cents": 49,
+   "upc": "738287625141",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot M",
+   "label_short": "6mm x 10mm"
+  },
+  {
+   "sku": "62515",
+   "slot_letter": "N",
+   "name": "M6-1.00 x 12mm socket set screw, black oxide",
+   "price_cents": 51,
+   "upc": "738287625158",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot N",
+   "label_short": "6mm x 12mm"
+  },
+  {
+   "sku": "62516",
+   "slot_letter": "P",
+   "name": "M8-1.25 x 8mm socket set screw, black oxide",
+   "price_cents": 57,
+   "upc": "738287625165",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot P",
+   "label_short": "8mm x 8mm"
+  },
+  {
+   "sku": "62517",
+   "slot_letter": "Q",
+   "name": "M8-1.25 x 10mm socket set screw, black oxide",
+   "price_cents": 69,
+   "upc": "738287625172",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot Q",
+   "label_short": "8mm x 10mm"
+  },
+  {
+   "sku": "62518",
+   "slot_letter": "R",
+   "name": "M8-1.25 x 12mm socket set screw, black oxide",
+   "price_cents": 75,
+   "upc": "738287625189",
+   "upc_source": "read_from_label",
+   "location": "Metric 92, slot R",
+   "label_short": "8mm x 12mm"
+  },
+  {
+   "sku": "62421",
+   "slot_letter": "A",
+   "name": "1.5mm metric hex key (L-wrench), fits M3 set screws, 1.6-2mm cap screws",
+   "price_cents": 79,
+   "upc": "738287624212",
+   "upc_source": "read_from_label",
+   "location": "Metric 93, slot A",
+   "label_short": "1.5mm"
+  },
+  {
+   "sku": "62422",
+   "slot_letter": "B",
+   "name": "2mm metric hex key (L-wrench), fits M4 set screws",
+   "price_cents": 85,
+   "upc": "738287624229",
+   "upc_source": "read_from_label",
+   "location": "Metric 93, slot B",
+   "label_short": "2mm"
+  },
+  {
+   "sku": "62423",
+   "slot_letter": "C",
+   "name": "2.5mm metric hex key (L-wrench), fits M5 set screws, 3mm cap screws",
+   "price_cents": 89,
+   "upc": "738287624236",
+   "upc_source": "read_from_label",
+   "location": "Metric 93, slot C",
+   "label_short": "2.5mm"
+  },
+  {
+   "sku": "62424",
+   "slot_letter": "D",
+   "name": "3mm metric hex key (L-wrench), fits M6 set screws, 4mm cap screws",
+   "price_cents": 105,
+   "upc": "738287624243",
+   "upc_source": "read_from_label",
+   "location": "Metric 93, slot D",
+   "label_short": "3mm"
+  },
+  {
+   "sku": "62425",
+   "slot_letter": "E",
+   "name": "4mm metric hex key (L-wrench), fits M8 set screws, 5mm cap screws",
+   "price_cents": 115,
+   "upc": "738287624250",
+   "upc_source": "read_from_label",
+   "location": "Metric 93, slot E",
+   "label_short": "4mm"
+  },
+  {
+   "sku": "62426",
+   "slot_letter": "F",
+   "name": "5mm metric hex key (L-wrench), fits M10 set screws, 6mm cap screws",
+   "price_cents": 125,
+   "upc": "738287624267",
+   "upc_source": "read_from_label",
+   "location": "Metric 93, slot F",
+   "label_short": "5mm"
+  },
+  {
+   "sku": "62427",
+   "slot_letter": "G",
+   "name": "6mm metric hex key (L-wrench), fits 8mm cap screws",
+   "price_cents": 179,
+   "upc": "738287624274",
+   "upc_source": "read_from_label",
+   "location": "Metric 93, slot G",
+   "label_short": "6mm"
+  },
+  {
+   "sku": "62428",
+   "slot_letter": "H",
+   "name": "8mm metric hex key (L-wrench), fits 10mm cap screws",
+   "price_cents": 259,
+   "upc": "738287624281",
+   "upc_source": "read_from_label",
+   "location": "Metric 93, slot H",
+   "label_short": "8mm"
+  },
+  {
+   "sku": "62431",
+   "slot_letter": "J",
+   "name": "10mm metric hex key (L-wrench), fits 12mm cap screws",
+   "price_cents": 409,
+   "upc": "738287624311",
+   "upc_source": "read_from_label",
+   "location": "Metric 93, slot J",
+   "label_short": "10mm"
+  }
+ ]
+}

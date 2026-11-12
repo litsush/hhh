@@ -1,0 +1,483 @@
+{
+ "id": "Rc04bins",
+ "wall": "right",
+ "kind": "bins",
+ "column": 4,
+ "row": 6,
+ "half": null,
+ "title": "Bins under right-wall column 04",
+ "description": "Lath screws (self-piercing and self-drilling) in the left bins and self-drilling Phillips pan and hex washer screws in the right bins, with silver Ruspert and painted white pole barn screws at the bottom.",
+ "front_image": null,
+ "tray_image": "images/bins/Rc04.jpg",
+ "tray_image_px": [
+  500,
+  1500
+ ],
+ "photo": "IMG_7735.jpg",
+ "compartments": [
+  {
+   "item_index": 0,
+   "x0": 0.03,
+   "y0": 0.0033,
+   "x1": 0.48,
+   "y1": 0.1
+  },
+  {
+   "item_index": 1,
+   "x0": 0.48,
+   "y0": 0.0033,
+   "x1": 0.73,
+   "y1": 0.1
+  },
+  {
+   "item_index": 2,
+   "x0": 0.73,
+   "y0": 0.0033,
+   "x1": 0.98,
+   "y1": 0.1
+  },
+  {
+   "item_index": 3,
+   "x0": 0.03,
+   "y0": 0.1,
+   "x1": 0.48,
+   "y1": 0.21
+  },
+  {
+   "item_index": 4,
+   "x0": 0.48,
+   "y0": 0.1,
+   "x1": 0.73,
+   "y1": 0.21
+  },
+  {
+   "item_index": 5,
+   "x0": 0.73,
+   "y0": 0.1,
+   "x1": 0.98,
+   "y1": 0.21
+  },
+  {
+   "item_index": 6,
+   "x0": 0.03,
+   "y0": 0.21,
+   "x1": 0.48,
+   "y1": 0.3133
+  },
+  {
+   "item_index": 7,
+   "x0": 0.48,
+   "y0": 0.21,
+   "x1": 0.73,
+   "y1": 0.3133
+  },
+  {
+   "item_index": 8,
+   "x0": 0.73,
+   "y0": 0.21,
+   "x1": 0.98,
+   "y1": 0.3133
+  },
+  {
+   "item_index": 9,
+   "x0": 0.03,
+   "y0": 0.3467,
+   "x1": 0.47,
+   "y1": 0.4467
+  },
+  {
+   "item_index": 10,
+   "x0": 0.47,
+   "y0": 0.3467,
+   "x1": 0.704,
+   "y1": 0.4467
+  },
+  {
+   "item_index": 11,
+   "x0": 0.704,
+   "y0": 0.3467,
+   "x1": 0.94,
+   "y1": 0.4467
+  },
+  {
+   "item_index": 12,
+   "x0": 0.03,
+   "y0": 0.4467,
+   "x1": 0.47,
+   "y1": 0.55
+  },
+  {
+   "item_index": 13,
+   "x0": 0.47,
+   "y0": 0.4467,
+   "x1": 0.704,
+   "y1": 0.55
+  },
+  {
+   "item_index": 14,
+   "x0": 0.704,
+   "y0": 0.4467,
+   "x1": 0.94,
+   "y1": 0.55
+  },
+  {
+   "item_index": 15,
+   "x0": 0.03,
+   "y0": 0.55,
+   "x1": 0.47,
+   "y1": 0.6567
+  },
+  {
+   "item_index": 16,
+   "x0": 0.47,
+   "y0": 0.55,
+   "x1": 0.704,
+   "y1": 0.6567
+  },
+  {
+   "item_index": 17,
+   "x0": 0.704,
+   "y0": 0.55,
+   "x1": 0.94,
+   "y1": 0.6567
+  },
+  {
+   "item_index": 18,
+   "x0": 0.03,
+   "y0": 0.68,
+   "x1": 0.49,
+   "y1": 0.8067
+  },
+  {
+   "item_index": 19,
+   "x0": 0.49,
+   "y0": 0.68,
+   "x1": 0.98,
+   "y1": 0.8067
+  },
+  {
+   "item_index": 20,
+   "x0": 0.03,
+   "y0": 0.8067,
+   "x1": 0.49,
+   "y1": 0.8967
+  },
+  {
+   "item_index": 21,
+   "x0": 0.49,
+   "y0": 0.8067,
+   "x1": 0.98,
+   "y1": 0.8967
+  },
+  {
+   "item_index": 22,
+   "x0": 0.03,
+   "y0": 0.8967,
+   "x1": 0.49,
+   "y1": 0.9933
+  },
+  {
+   "item_index": 23,
+   "x0": 0.49,
+   "y0": 0.8967,
+   "x1": 0.98,
+   "y1": 0.9933
+  }
+ ],
+ "items": [
+  {
+   "sku": "08817",
+   "slot_letter": null,
+   "name": "#8 x 9/16 lath screw, self-piercing",
+   "label_short": "8 x 9/16",
+   "price_cents": 5,
+   "box_price_cents": 919,
+   "box_qty": 174,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 08817",
+   "note": "Box quantity faint; best reading 174."
+  },
+  {
+   "sku": "",
+   "slot_letter": null,
+   "name": "#8 x 1/2 self-drilling hex washer head screw",
+   "label_short": "8 x 1/2",
+   "price_cents": 29,
+   "box_price_cents": 1199,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin (SKU unreadable), row 1 right, left label",
+   "note": "SKU unreadable (blurred, looks like 03x8x); box quantity faint, read as 100."
+  },
+  {
+   "sku": "",
+   "slot_letter": null,
+   "name": "#8 x 3/4 self-drilling hex washer head screw",
+   "label_short": "8 x 3/4",
+   "price_cents": 31,
+   "box_price_cents": null,
+   "box_qty": null,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin (SKU unreadable), row 1 right, right label",
+   "note": "SKU unreadable (blurred); box price cents and box quantity unreadable (13.xx)."
+  },
+  {
+   "sku": "08820",
+   "slot_letter": null,
+   "name": "#8 x 1-1/4 lath screw, self-piercing",
+   "label_short": "8 x 1-1/4",
+   "price_cents": 7,
+   "box_price_cents": 919,
+   "box_qty": 170,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 08820"
+  },
+  {
+   "sku": "03315",
+   "slot_letter": null,
+   "name": "#6 x 1/2 self-drilling Phillips pan head screw",
+   "label_short": "6 x 1/2",
+   "price_cents": 28,
+   "box_price_cents": 1099,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03315"
+  },
+  {
+   "sku": "03316",
+   "slot_letter": null,
+   "name": "#6 x 3/4 self-drilling Phillips pan head screw",
+   "label_short": "6 x 3/4",
+   "price_cents": 28,
+   "box_price_cents": 1199,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03316"
+  },
+  {
+   "sku": "08822",
+   "slot_letter": null,
+   "name": "#8 x 2 lath screw, self-piercing",
+   "label_short": "8 x 2",
+   "price_cents": 11,
+   "box_price_cents": 919,
+   "box_qty": 115,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 08822"
+  },
+  {
+   "sku": "03317",
+   "slot_letter": null,
+   "name": "#8 x 1/2 self-drilling Phillips pan head screw",
+   "label_short": "8 x 1/2",
+   "price_cents": 29,
+   "box_price_cents": 1259,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03317"
+  },
+  {
+   "sku": "03318",
+   "slot_letter": null,
+   "name": "#8 x 3/4 self-drilling Phillips pan head screw",
+   "label_short": "8 x 3/4",
+   "price_cents": 31,
+   "box_price_cents": 1459,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03318"
+  },
+  {
+   "sku": "08823",
+   "slot_letter": null,
+   "name": "#8 x 1/2 lath screw, self-drilling",
+   "label_short": "8 x 1/2",
+   "price_cents": 6,
+   "box_price_cents": 999,
+   "box_qty": null,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 08823",
+   "note": "Glare on the label: box quantity unreadable (2x9)."
+  },
+  {
+   "sku": "03319",
+   "slot_letter": null,
+   "name": "#8 x 1 self-drilling Phillips pan head screw",
+   "label_short": "8 x 1",
+   "price_cents": 33,
+   "box_price_cents": 1499,
+   "box_qty": 50,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03319",
+   "note": "Box quantity faint; reads Box/50."
+  },
+  {
+   "sku": "03321",
+   "slot_letter": null,
+   "name": "#8 x 1-1/2 self-drilling Phillips pan head screw",
+   "label_short": "8 x 1-1/2",
+   "price_cents": 40,
+   "box_price_cents": 2099,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03321"
+  },
+  {
+   "sku": "08825",
+   "slot_letter": null,
+   "name": "#8 x 1 lath screw, self-drilling",
+   "label_short": "8 x 1",
+   "price_cents": 9,
+   "box_price_cents": 999,
+   "box_qty": 172,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 08825"
+  },
+  {
+   "sku": "03322",
+   "slot_letter": null,
+   "name": "#10 x 1/2 self-drilling Phillips pan head screw",
+   "label_short": "10 x 1/2",
+   "price_cents": 33,
+   "box_price_cents": 1549,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03322"
+  },
+  {
+   "sku": "03323",
+   "slot_letter": null,
+   "name": "#10 x 3/4 self-drilling Phillips pan head screw",
+   "label_short": "10 x 3/4",
+   "price_cents": 35,
+   "box_price_cents": 1649,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03323"
+  },
+  {
+   "sku": "08826",
+   "slot_letter": null,
+   "name": "#8 x 1-1/4 lath screw, self-drilling",
+   "label_short": "8 x 1-1/4",
+   "price_cents": 10,
+   "box_price_cents": 999,
+   "box_qty": 152,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 08826"
+  },
+  {
+   "sku": "03324",
+   "slot_letter": null,
+   "name": "#10 x 1 self-drilling Phillips pan head screw",
+   "label_short": "10 x 1",
+   "price_cents": 37,
+   "box_price_cents": 1949,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03324"
+  },
+  {
+   "sku": "03325",
+   "slot_letter": null,
+   "name": "#10 x 1-1/2 self-drilling Phillips pan head screw",
+   "label_short": "10 x 1-1/2",
+   "price_cents": 42,
+   "box_price_cents": 2299,
+   "box_qty": 100,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 03325"
+  },
+  {
+   "sku": "08828",
+   "slot_letter": null,
+   "name": "#8 x 2 lath screw, self-drilling",
+   "label_short": "8 x 2",
+   "price_cents": 14,
+   "box_price_cents": 999,
+   "box_qty": 115,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 08828"
+  },
+  {
+   "sku": "",
+   "slot_letter": null,
+   "name": "Unlabelled bin",
+   "label_short": "",
+   "price_cents": null,
+   "box_price_cents": null,
+   "box_qty": null,
+   "upc": "",
+   "upc_source": null,
+   "location": "Unlabelled bin, row 7 right",
+   "note": "No label on this bin; it holds long thin light-coloured strips, not identified."
+  },
+  {
+   "sku": "09564",
+   "slot_letter": null,
+   "name": "#10 x 1-1/2 pole barn screw, self-drilling hex washer head, silver Ruspert finish",
+   "label_short": "10 x 1-1/2",
+   "price_cents": 22,
+   "box_price_cents": 1299,
+   "box_qty": 86,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 09564"
+  },
+  {
+   "sku": "09565",
+   "slot_letter": null,
+   "name": "#10 x 2 pole barn screw, self-drilling hex washer head, silver Ruspert finish",
+   "label_short": "10 x 2",
+   "price_cents": 26,
+   "box_price_cents": 1299,
+   "box_qty": 72,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 09565"
+  },
+  {
+   "sku": "09546",
+   "slot_letter": null,
+   "name": "#10 x 1-1/2 pole barn screw, self-drilling hex washer head, painted white",
+   "label_short": "10 x 1-1/2",
+   "price_cents": 22,
+   "box_price_cents": 1299,
+   "box_qty": 86,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 09546"
+  },
+  {
+   "sku": "09547",
+   "slot_letter": null,
+   "name": "#10 x 2 pole barn screw, self-drilling hex washer head, painted white",
+   "label_short": "10 x 2",
+   "price_cents": 26,
+   "box_price_cents": 1299,
+   "box_qty": 72,
+   "upc": "",
+   "upc_source": null,
+   "location": "Bin 09547"
+  }
+ ]
+}
